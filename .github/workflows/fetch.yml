@@ -5,8 +5,9 @@ on:
     # Run daily at 7:45 AM UTC
     - cron: '45 7 * * *'
   workflow_dispatch:
+  pull_request:
   push:
-    branches: [main, master]
+    branches: [main]
     paths:
       - '.github/workflows/fetch.yml'
 
@@ -27,18 +28,11 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-          bundler-cache: false
-
-      - name: Install ammitto gem from GitHub
-        run: |
-          gem install specific_install
-          gem specific_install https://github.com/ammitto/ammitto.git -b main
+          bundler-cache: true
 
       - name: Fetch data
         run: |
-          # TODO: Implement CH source fetcher
-          echo "CH source not yet implemented"
-          ammitto fetch ch --format yaml --output-dir processed --verbose || true
+          bundle exec ammitto fetch ch --format yaml --output-dir processed --verbose
 
       - name: Check for changes
         id: check_changes
