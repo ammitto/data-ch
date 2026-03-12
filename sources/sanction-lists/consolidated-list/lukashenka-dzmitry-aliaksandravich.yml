@@ -1,0 +1,41 @@
+---
+id: ch/lukashenka-dzmitry-aliaksandravich
+announcement:
+  title: "Sanktionsliste SECO - Update"
+  url: "https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionsmassnahmen/sanktionsliste.html"
+  publish_date: "2024-01-15"
+  document_type: ch/announcement
+  authority: ch/seco
+  lang: de
+
+sanction_details:
+  - entity:
+      type: person
+      name:
+        full_name: "Lukashenka Dzmitry Aliaksandravich"
+        script: Cyrl
+        first_name: Dzmitry
+        last_name: Lukashenka
+      birth_info:
+        year: "1980"
+      addresses:
+        - care_of: "President's Sports Club"
+          street: "ул. Старовиленская, 4"
+          postal_code: "220029"
+      remarks: Travel ban according to article 3 paragraph 1 and financial sanctions according to article 1 do not apply until 15 March 2016.
+
+    measures:
+      - type: asset_freeze
+        description:
+          en: "All funds and economic resources are frozen"
+          de: "Alle Gelder und wirtschaftlichen Ressourcen werden eingefroren"
+      - type: travel_ban
+        description:
+          en: "Travel restrictions apply"
+          de: "Reisebeschränkungen gelten"
+
+legal_citations:
+  - legal_instrument_id: ch/embargo-act
+    citation_type: legal_basis
+
+group_id: ch/belarus-sanctions-2024

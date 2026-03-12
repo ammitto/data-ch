@@ -1,0 +1,33 @@
+---
+document_types:
+  - id: ch/ordinance
+    name:
+      en: "Ordinance"
+      de: "Verordnung"
+      fr: "Ordonnance"
+    description:
+      en: "Official ordinance from Swiss government"
+
+  - id: ch/act
+    name:
+      en: "Federal Act"
+      de: "Bundesgesetz"
+      fr: "Loi fédérale"
+    description:
+      en: "Federal legislation passed by Parliament"
+
+  - id: ch/decision
+    name:
+      en: "Decision"
+      de: "Beschluss"
+      fr: "Décision"
+    description:
+      en: "Official decision from authority"
+
+  - id: ch/announcement
+    name:
+      en: "Announcement"
+      de: "Mitteilung"
+      fr: "Annonce"
+    description:
+      en: "Official announcement from SECO"
