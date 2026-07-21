@@ -1,0 +1,71 @@
+---
+$schema: https://json-schema.org/draft/2020-12/schema
+$id: https://www.ammitto.org/schemas/organizations.yml
+title: Organizations
+description: Schema for organization definitions
+type: object
+required:
+  - organizations
+properties:
+  organizations:
+    type: array
+    items:
+      type: object
+      required:
+        - id
+        - name
+        - type
+      properties:
+        id:
+          type: string
+          description: Unique identifier for the organization
+          pattern: "^[a-z]{2}/[a-z]+$"
+
+        name:
+          type: object
+          description: Localized name
+          properties:
+            en:
+              type: string
+              description: English name
+            de:
+              type: string
+              description: German name
+            fr:
+              type: string
+              description: French name
+
+        short_name:
+          type: object
+          description: Localized short name
+          properties:
+            en:
+              type: string
+              description: English short name
+            de:
+              type: string
+              description: German short name
+
+        type:
+          type: string
+          description: Organization type
+          enum:
+            - ministry
+            - agency
+            - department
+            - authority
+            - parliament
+
+        parent_id:
+          type: string
+          description: Parent organization ID
+
+        url:
+          type: string
+          format: uri
+          description: Official website URL
+
+        country_code:
+          type: string
+          pattern: "^[A-Z]{2}$"
+          description: ISO 3166-1 alpha-2 country code

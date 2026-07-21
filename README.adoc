@@ -28,111 +28,348 @@ Swiss neutrality policy.
 * **Update Frequency**: As changes occur in Swiss sanctions regimes
 * **Official Source**: https://www.seco.admin.ch/dam/seco/de/dokumente/Aussenwirtschaft/Wirtschaftsbeziehungen/exportkontrollen-sanktionen/Sanktionsliste/Sanktionsliste%20SECO.xml
 
-== Directory Structure
+== Source Data Structure
+
+The `sources/` directory contains source data organized by type:
 
 ```
-.
-├── downloaded/           # Raw data downloaded from SECO
-│   └── ch_sanctions_list.xml
-├── processed/            # Individual YAML files per sanction entity
-│   └── {name}-{index}.yaml
-├── reference-docs/       # Reference documentation
-├── .github/workflows/    # GitHub Actions for automated updates
-├── README.adoc           # This file
-├── CLAUDE.md             # Guidance for Claude Code
-└── update.log            # Timestamps of data updates
+sources/
+├── sanction-lists/                    # Sanction list announcements
+│   └── consolidated-list/             # SECO Consolidated List
+│       ├── entry-001.yml
+│       └── ...
+├── legal-instruments/                 # Legal instruments
+│   ├── embargo-act.yml
+│   └── ...
+└── supporting/                        # Reference data
+    ├── document-types.yml             # Document type definitions
+    └── organizations.yml              # Organization definitions
 ```
 
-== Directory Descriptions
+=== Schema Types
 
-downloaded/:: Contains raw XML data files as downloaded from SECO.
-The primary file is `ch_sanctions_list.xml` which contains the complete
-sanctions database.
+Each YAML file follows one of the schema types:
 
-processed/:: Contains individual YAML files, one per sanction entity.
-Files are named using the pattern `{primary-name}-{index}.yaml` where
-index ensures uniqueness for entities with similar names.
+. **Announcement Schema** - Standard sanction announcements with `sanction_details`
+. **Legal Instrument Schema** - Laws and regulations with structured content
 
-reference-docs/:: Contains reference documentation about the Swiss
-sanctions schema and data formats.
+Schema files are located in `schemas/`:
 
-update.log:: Log file tracking when data was last updated with timestamps.
+* `schemas/ch-announcement.yml` - For sanction list announcements
+* `schemas/ch-legal-instrument.yml` - For legal instruments
+* `schemas/document-types.yml` - Supporting schema for document types
+* `schemas/organizations.yml` - Supporting schema for organizations
 
-== Updating Data
+=== Supporting Data
 
-Data is automatically updated daily via GitHub Actions.
+The `sources/supporting/` directory contains reference data used across the repository:
 
-To manually update using the ammitto gem:
+==== Document Types (`document-types.yml`)
 
-[source,shell]
-----
-# From the ammitto gem directory
-bundle exec ruby exe/ammitto fetch ch --format yaml --output-dir ./processed
-----
+[cols="1,2,2"]
+|===
+| ID | Name (English) | Name (German)
 
-Or via the adapters repository:
+| `ch/ordinance`
+| Ordinance
+| Verordnung
 
-[source,shell]
-----
-# From the adapters/ directory
-ruby adapter.rb
-----
+| `ch/act`
+| Federal Act
+| Bundesgesetz
 
-== YAML Schema
+| `ch/decision`
+| Decision
+| Beschluss
 
-Each processed YAML file follows the schema defined in
-`ammitto/lib/ammitto/sources/ch/` using Lutaml::Model.
+| `ch/announcement`
+| Announcement
+| Mitteilung
 
-.Example YAML structure
+|===
+
+==== Organizations (`organizations.yml`)
+
+[cols="1,2,2"]
+|===
+| ID | Name | Type
+
+| `ch/seco`
+| State Secretariat for Economic Affairs
+| agency
+
+| `ch/eda`
+| Federal Department of Foreign Affairs
+| ministry
+
+| `ch/ejpd`
+| Federal Department of Justice and Police
+| ministry
+
+| `ch/eparl`
+| The Federal Assembly
+| parliament
+
+|===
+
+== Source Data Format
+
+=== Sanction Announcement Schema
+
 [source,yaml]
 ----
-names:
-  - "PRIMARY NAME"
-  - "ALIAS 1"
-entity_type: person  # or "organization"
-source: ch
-country: Country Name
-birthdate: "YYYY-MM-DD"
-identifications:
-  - type: "Passport"
-    number: "XXX123456"
-addresses:
-  - street: "Street Address"
-    city: "City"
-    country: "Country"
+# yaml-language-server: $schema=../../schemas/ch-announcement.yml
+---
+id: ch/lukashenka-dzmitry
+announcement:
+  title: "Sanktionsliste SECO - Update"
+  url: "https://www.seco.admin.ch/..."
+  publish_date: "2024-01-15"
+  document_type: ch/announcement
+  authority: ch/seco
+  lang: de
+
+sanction_details:
+  - entity:
+      type: person
+      name:
+        full_name: "Lukashenka Dzmitry Aliaksandravich"
+        script: Cyrl
+        first_name: Dzmitry
+        last_name: Lukashenka
+      birth_info:
+        year: "1980"
+      addresses:
+        - care_of: "President's Sports Club"
+          street: "ул. Старовиленская, 4"
+          postal_code: "220029"
+      remarks: Travel ban according to article 3 paragraph 1...
+
+    measures:
+      - type: asset_freeze
+        description:
+          en: "All funds and economic resources are frozen"
+          de: "Alle Gelder und wirtschaftlichen Ressourcen werden eingefroren"
+      - type: travel_ban
+        description:
+          en: "Travel restrictions apply"
+          de: "Reisebeschränkungen gelten"
+
+legal_citations:
+  - legal_instrument_id: ch/embargo-act
+    citation_type: legal_basis
 ----
 
-== Entity Types
+=== CH-Specific Measure Types
+
+[cols="1,3"]
+|===
+| Measure Type | Description
+
+| `asset_freeze`
+| Financial sanctions - freeze of assets
+
+| `travel_ban`
+| Travel restrictions - entry ban
+
+| `arms_embargo`
+| Restrictions on arms trade
+
+| `trade_restriction`
+| General trade restrictions
+
+|===
+
+=== Entity Types
 
 The Swiss sanctions list contains the following entity types:
 
 Person:: Individual persons subject to sanctions
 Organization:: Legal entities, companies, and organizations
 
-== Knowledge Graph Integration
+== Validation and Generation
 
-This repository's processed YAML data feeds into the Ammitto knowledge graph.
+=== Rake Tasks
 
-When the harmonization process runs:
+The repository provides rake tasks for managing the knowledge graph generation:
 
 [source,shell]
 ----
-# Auto-detect all data-* repos and harmonize
-ammitto harmonize --scan --sources-dir /path/to/repos --output-dir ./api/v1
+# Clean all generated API files
+bundle exec rake clean
+
+# Validate source YAML files against schemas
+bundle exec rake validate
+
+# Generate API files from source YAML
+bundle exec rake generate
+
+# Validate and generate in one step
+bundle exec rake build
+
+# Clean and regenerate (recommended for updates)
+bundle exec rake regenerate
 ----
 
-The ch data is transformed into:
+=== Validation
 
-* Individual JSON-LD nodes in `api/v1/node/entity/ch/{id}.jsonld`
-* Sanction entries in `api/v1/node/entry/ch/{id}.jsonld`
-* Lightweight search index entries
-* Facet counts for filtering
+The validation process checks all YAML files against their corresponding schemas:
+
+[source,shell]
+----
+bundle exec rake validate
+----
+
+== Harmonized Data Format
+
+After harmonization, entities are transformed into JSON-LD format using the
+Ammitto gem's harmonized models.
+
+=== Entity (JSON-LD)
+
+[source,json]
+----
+{
+  "@context": "https://www.ammitto.org/schema/v1/context.jsonld",
+  "@id": "https://www.ammitto.org/entity/ch/lukashenka-dzmitry",
+  "@type": "PersonEntity",
+  "entityType": "person",
+  "names": [
+    {
+      "@type": "NameVariant",
+      "fullName": "Lukashenka Dzmitry Aliaksandravich",
+      "script": "Cyrl",
+      "isPrimary": true
+    }
+  ],
+  "birthInfo": [
+    {
+      "@type": "BirthInfo",
+      "year": "1980"
+    }
+  ],
+  "addresses": [
+    {
+      "@type": "Address",
+      "street": "ул. Старовиленская, 4",
+      "careOf": "President's Sports Club",
+      "postalCode": "220029"
+    }
+  ],
+  "sanctionEntryIds": [
+    "https://www.ammitto.org/entry/ch/consolidated-list/lukashenka-dzmitry"
+  ]
+}
+----
+
+=== IRI Structure
+
+All resources use normalized IRIs:
+
+```
+# Entity (list-agnostic)
+https://www.ammitto.org/entity/ch/{local_id}
+
+# Entry (list-specific)
+https://www.ammitto.org/entry/ch/{list_type}/{local_id}
+
+# List
+https://www.ammitto.org/list/ch/{list_type}
+
+# Legal Instrument
+https://www.ammitto.org/legal-instrument/ch/{instrument_id}
+
+# Authority
+https://www.ammitto.org/authority/ch
+```
+
+=== Available List Types
+
+The Switzerland has one list type: `consolidated-list`
+
+== Knowledge Graph Integration
+
+This repository's source YAML data feeds into the Ammitto knowledge graph
+using a normalized structure.
+
+=== Data Flow Architecture
+
+The harmonization process transforms source YAML data into JSON-LD knowledge graph nodes:
+
+....
+┌─────────────────────┐     ┌─────────────────────┐     ┌─────────────────────┐
+│   Source YAML       │     │   Ammitto Gem       │     │   JSON-LD Output    │
+│   (sources/)        │────▶│   Transformer       │────▶│   (api/)            │
+│                     │     │                     │     │                     │
+│ • Announcement      │     │ • ChAnnouncement    │     │ • Entity nodes      │
+│ • Sanction details  │     │ • ChEntity          │     │ • Entry nodes       │
+│ • Legal instruments │     │ • ChMeasure         │     │ • Regime nodes      │
+└─────────────────────┘     └─────────────────────┘     └─────────────────────┘
+....
+
+=== Output Directory Structure
+
+The `api/` directory contains the generated JSON-LD knowledge graph:
+
+....
+api/
+├── node/
+│   ├── entity/
+│   │   └── ch/
+│   │       └── {local_id}.jsonld         # Entity identity data
+│   ├── entry/
+│   │   └── ch/
+│   │       └── consolidated-list/
+│   │           └── {local_id}.jsonld     # Entry data
+│   ├── regime/
+│   │   └── ch_sanctions.jsonld
+│   └── authority/
+│       └── ch.jsonld
+├── search-index.json                      # Search index
+└── stats.json                             # Statistics
+....
+
+== Directory Structure
+
+```
+.
+├── sources/                # Source YAML data
+│   ├── sanction-lists/     # Sanction announcements
+│   ├── legal-instruments/  # Legal instruments
+│   └── supporting/         # Reference data
+├── schemas/                # JSON Schema definitions
+│   ├── ch-announcement.yml
+│   ├── ch-legal-instrument.yml
+│   ├── document-types.yml
+│   └── organizations.yml
+├── lib/                    # Ruby libraries
+│   └── ammitto/
+│       └── data_ch/
+│           └── validator.rb
+├── api/                    # Generated JSON-LD output
+├── Rakefile                # Build tasks
+└── README.adoc             # This file
+```
+
+== Updating Data
+
+Data can be updated using the ammitto gem:
+
+[source,shell]
+----
+# From the ammitto gem directory
+bundle exec ruby exe/ammitto fetch ch --format yaml --output-dir ./sources/sanction-lists/consolidated-list
+----
 
 == Related Repositories
 
 * https://github.com/ammitto/ammitto[ammitto] - Main Ruby gem with harmonization
 * https://github.com/ammitto/data[data] - Harmonized knowledge graph output
 * https://github.com/ammitto/ammitto.github.io[ammitto.github.io] - Website with search
+* https://github.com/ammitto/data-cn[data-cn] - China sanctions data
+* https://github.com/ammitto/data-eu[data-eu] - EU sanctions data
+* https://github.com/ammitto/data-un[data-un] - UN sanctions data
+* https://github.com/ammitto/data-us[data-us] - US OFAC sanctions data
 
 == License
 

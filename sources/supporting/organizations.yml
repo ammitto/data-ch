@@ -1,0 +1,49 @@
+---
+organizations:
+  - id: ch/seco
+    name:
+      en: "State Secretariat for Economic Affairs"
+      de: "Staatssekretariat für Wirtschaft"
+      fr: "Secrétariat d'État à l'économie"
+    short_name:
+      en: "SECO"
+      de: "SECO"
+    type: agency
+    url: "https://www.seco.admin.ch/"
+    country_code: CH
+
+  - id: ch/eda
+    name:
+      en: "Federal Department of Foreign Affairs"
+      de: "Eidgenössisches Departement für auswärtige Angelegenheiten"
+      fr: "Département fédéral des affaires étrangères"
+    short_name:
+      en: "FDFA"
+      de: "EDA"
+    type: ministry
+    url: "https://www.eda.admin.ch/"
+    country_code: CH
+
+  - id: ch/ejpd
+    name:
+      en: "Federal Department of Justice and Police"
+      de: "Eidgenössisches Justiz- und Polizeidepartement"
+      fr: "Département fédéral de justice et police"
+    short_name:
+      en: "FDJP"
+      de: "EJPD"
+    type: ministry
+    url: "https://www.ejpd.admin.ch/"
+    country_code: CH
+
+  - id: ch/eparl
+    name:
+      en: "The Federal Assembly"
+      de: "Die Bundesversammlung"
+      fr: "L'Assemblée fédérale"
+    short_name:
+      en: "Parliament"
+      de: "Parlament"
+    type: parliament
+    url: "https://www.parlament.ch/"
+    country_code: CH

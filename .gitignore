@@ -29,3 +29,10 @@ downloaded/*
 # Processed data (keep directory)
 processed/*
 !processed/.gitkeep
+
+# Generated API output (api/)
+api/node/**/*.jsonld
+api/*.jsonld
+api/*.json
+api/*.ttl
+!api/.gitkeep

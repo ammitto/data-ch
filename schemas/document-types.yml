@@ -1,0 +1,43 @@
+---
+$schema: https://json-schema.org/draft/2020-12/schema
+$id: https://www.ammitto.org/schemas/document-types.yml
+title: Document Types
+description: Schema for document type definitions
+type: object
+required:
+  - document_types
+properties:
+  document_types:
+    type: array
+    items:
+      type: object
+      required:
+        - id
+        - name
+      properties:
+        id:
+          type: string
+          description: Unique identifier for the document type
+          pattern: "^[a-z]{2}/[a-z-]+$"
+
+        name:
+          type: object
+          description: Localized name
+          properties:
+            en:
+              type: string
+              description: English name
+            de:
+              type: string
+              description: German name
+            fr:
+              type: string
+              description: French name
+
+        description:
+          type: object
+          description: Localized description
+          properties:
+            en:
+              type: string
+              description: English description
