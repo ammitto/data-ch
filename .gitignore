@@ -26,10 +26,6 @@ CLAUDE.md
 downloaded/*
 !downloaded/.gitkeep
 
-# Processed data (keep directory)
-processed/*
-!processed/.gitkeep
-
 # Generated API output (api/)
 api/node/**/*.jsonld
 api/*.jsonld
