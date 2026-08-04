@@ -9,7 +9,7 @@ gem 'ammitto', github: 'ammitto/ammitto', branch: 'main'
 gem 'nokogiri', '~> 1.18.0'
 
 # Schema validation
-gem 'json-schema', '~> 4.0'
+gem 'json-schema', '~> 5.0'
 
 group :development do
   gem 'rake'
