@@ -1,0 +1,24 @@
+---
+ssid: '101763'
+sanctions_set_id: '68945'
+entity:
+  identity:
+    ssid: '101769'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Fanavaran Sanat Ertebatat Company (FSE)
+    addresses:
+    - address_details: Yousef Abad Neighbourhood, Kordestan Express Way, Seyyed Sohrab
+        Akhlaqi street 37
+  justification: Fanavaran Sanat Ertebatat Company (FSE) is a private company supplying
+    critical electronic components and jam-resistant guidance systems to the Islamic
+    Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC
+    SSJO). It is also a member of the Iranian Aviation and Space Industries Association
+    (IASIA), which procures components on behalf of the IRGC for the manufacturing
+    of unmanned aerial vehicles (UAVs).

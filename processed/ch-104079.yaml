@@ -1,0 +1,26 @@
+---
+ssid: '104079'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '104082'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: CoYuan Century Development Co. Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Hong Kong Keyuan Century Development Co. Ltd.
+    addresses:
+    - address_details: Room 701, Unit 108, 7/f, Tower b, New Mandarin Plaza, 14 Science
+        Museum Road, Tsim Sha Tsui
+    - address_details: Shop 185 G/F, 11111 Tuen Mun, Hang

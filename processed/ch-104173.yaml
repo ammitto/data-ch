@@ -1,0 +1,32 @@
+---
+ssid: '104173'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '104177'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Radiozavod Zao
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Paket
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Package
+    addresses:
+    - address_details: 19 Bazisnaya St.
+      zip_code: '426034'

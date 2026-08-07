@@ -1,0 +1,49 @@
+---
+ssid: '105712'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105715'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Moscow Institute of Physics and Technology
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: MIPT, PHYSTECH
+      - order: 2
+        name_part_type: whole-name
+        value: Федеральное Государственное Автономное Образовательное Учреждение Высшего
+          Образования “Московский Физико-Технический Институт (Национальный Исследовательский
+          Университет)”
+      - order: 3
+        name_part_type: whole-name
+        value: МФТИ
+      - order: 4
+        name_part_type: whole-name
+        value: ФИЗТЕХ
+    day_month_year:
+      year: 1946
+    addresses:
+    - address_details: 141701, Moscow Region, Dolgoprudny, Institutsky Lane, 9, Russian
+        Federation; 117303, Moscow, Kerchenskaya Street, 1 A, bldg. 1
+  justification: Moscow Institute of Physics and Technology (MIPT) is one of a Russian
+    institutions that trains professionals for the Russian military and industrial
+    complex. The institute has launched dedicated programs in drone technologies and
+    conducts state-funded drone research. MIPT has a military training centre whose
+    focus is training in the military specialties established for MIPT, corresponding
+    to the main civilian areas of training of the institute. MIPT has several partners
+    that manufacture drones, including the “Almaz-Antey”, the “Kronstadt” design bureau
+    and the “Geoscan”. MIPT is therefore materially supporting Russia’s military and
+    industrial complex and is supporting and benefitting from the Government of the
+    Russian Federation, which is responsible for the annexation of Crimea and the
+    destabilisation of Ukraine.

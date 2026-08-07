@@ -1,0 +1,37 @@
+---
+ssid: '104763'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '104769'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Avetisyan
+      - order: 2
+        name_part_type: given-name
+        value: Vladimir
+      - order: 3
+        name_part_type: father-name
+        value: Evgenievych
+    day_month_year:
+      day: 2
+      month: 4
+      year: 1958
+  justification: Vladimir Evgenievych Avetisyan is a majority shareholder in and beneficial
+    owner of several companies with business interests in various sectors of the Russian
+    economy such as banking and, in particular, the energy sector. He is a majority
+    shareholder in and the ultimate owner of “Srednevolzhskaya gazovaya kompaniya”,
+    a provider of gas distribution through mains, which ranks 12th by revenue in this
+    sector on the Russian market, and a majority shareholder and ultimate owner of
+    Public Joint Stock Company “Samaraenergo”, a major electric energy producer and
+    distributor. He is also a majority shareholder in and the ultimate owner of another
+    company active in gas distribution “Samaragaz” and a minority shareholder in electricity
+    transmission company “Samarskaya elektrosetevaya kompaniya”. Finally, he is a
+    minority shareholder in and a member of the Board of Directors of Joint Stock
+    Company “Gazbank”, which is active in the banking sector.

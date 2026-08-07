@@ -1,0 +1,45 @@
+---
+ssid: '101748'
+sanctions_set_id: '68945'
+entity:
+  identity:
+    ssid: '101756'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Sahara Thunder
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Tondar Sahara Co.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Tondar Sahra Private Limited Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Desert Thunder Company
+    addresses:
+    - address_details: No. 2, Moghadas Alley, Ghasir St., Beheshti St.
+    - address_details: Fifth Floor, No. 2, Shahid Hassan Moghadam Alley, Shahid Ahmad
+        Ghsir Str. Argentine, Saei St.
+  justification: Sahara Thunder is an Iranian import-export trading company which
+    acts as a front company for the Iranian Ministry of Defence and Armed Forces Logistics
+    (MODAFL). In this capacity, it supplies unmanned aerial vehicles (UAVs), individual
+    components, and related technology to Russia and receives payment from Russia
+    for delivery of those goods and services.

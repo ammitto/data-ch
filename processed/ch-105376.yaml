@@ -1,0 +1,35 @@
+---
+ssid: '105376'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105384'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Soglasie Insurance Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Soglasie Insurance Company
+      - order: 2
+        name_part_type: whole-name
+        value: Soglasie Insurance CO. LTD
+      - order: 3
+        name_part_type: whole-name
+        value: Soglasie Insurance
+    addresses:
+    - address_details: 42 Gilyarovskogo Str.
+      zip_code: '129110'
+  justification: LLC Soglasie Insurance Company is a Russian insurance company. It
+    is an important insurer of vessels shipping Russian crude oil, thereby facilitating
+    and enabling exports to third countries. The energy sector provides a substantial
+    source of revenue to the Russian Government.

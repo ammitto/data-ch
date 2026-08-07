@@ -1,0 +1,34 @@
+---
+ssid: '44993'
+sanctions_set_id: '39362'
+individual:
+  identity:
+    ssid: '44995'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Mahn Nyein Maung
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: P’do
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Phado Man Nyein Maung
+    day_month_year:
+      year: 1947
+  justification: Mahn Nyein Maung is a member of the National Defence and Security
+    Council (NDSC) and its Central Advisory Body, as well as a former member of the
+    State Administrative Council (SAC).

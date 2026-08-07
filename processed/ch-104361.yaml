@@ -1,0 +1,25 @@
+---
+ssid: '104361'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '104364'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Advanced Planet
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Edvansd Planet
+    addresses:
+    - address_details: Office 901-2, Section 2, Building 1, Pokhodny Ave. 4
+      zip_code: '125373'

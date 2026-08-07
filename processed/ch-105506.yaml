@@ -1,0 +1,29 @@
+---
+ssid: '105506'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105515'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “KLEVERCOPTER”
+    addresses:
+    - address_details: Volzhskaya embankment, bldg. 26, apt. 26
+      zip_code: '603159'
+  justification: LLC “Klevercopter” develops drones for various purposes. In 2023
+    the company took part in the exhibition by the Ministry of Defence of the Russian
+    Federation “Army 2023”. The company participates in the government procurement
+    process under the Unmanned Aviation Systems national project. One of the drones
+    developed by the company, Kurier-30, received the state certification issued by
+    Chamber of Commerce and Industry and the Ministry of Industry and Trade. Being
+    on the list of certified Russian products allows it to participate in government
+    procurement under the Unmanned Aviation Systems national project, participate
+    in import substitution programs, receive state support to compete with foreign
+    products. Moreover, LLC Klevercopter cooperates with and receives support from
+    the local government of the Nizhny Novgorod region in testing its drones.

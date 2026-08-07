@@ -1,0 +1,37 @@
+---
+ssid: '109291'
+sanctions_set_id: '3976'
+individual:
+  identity:
+    ssid: '109294'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: given-name
+        value: Sebastien
+      - order: 2
+        name_part_type: family-name
+        value: Uwimbabazi
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Nyembo Kimenyi
+    - name_type: alias
+      quality: low
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Gilbert Kimenyi
+    day_month_year:
+      year: 1968
+    addresses:
+  justification: Brigadier General and Leader of the Democratic Forces for the Liberation
+    of Rwanda (FDLR) (CDe.005)

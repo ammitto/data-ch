@@ -1,0 +1,28 @@
+---
+ssid: '72750'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '72753'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Fedorko
+      - order: 2
+        name_part_type: given-name
+        value: Oleksandr
+      - order: 3
+        name_part_type: father-name
+        value: Yurievich
+    day_month_year:
+      day: 18
+      month: 12
+      year: 1968
+  justification: Colonel Oleksandr Fedorko is the former Head of the 924th Unmanned
+    Aerial Vehicle Center (Military Unit 20924), which is part of the Russian Ministry
+    of Defence.

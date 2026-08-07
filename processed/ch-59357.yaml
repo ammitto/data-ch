@@ -1,0 +1,32 @@
+---
+ssid: '59357'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '59358'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Petrov
+      - order: 2
+        name_part_type: given-name
+        value: Aleksey
+      - order: 3
+        name_part_type: father-name
+        value: Aleksandrovich
+    day_month_year:
+      day: 29
+      month: 9
+      year: 1995
+  justification: Aleksey Petrov is the Advisor to the Office of the Commissioner for
+    Childrens’ Rights of the Russian Federation. In this role, he is involved in the
+    illegal transportation of Ukrainian children to Russia and their adoption by Russian
+    families. Aleksey Aleksandrovich Petrov’s actions violate the rights of Ukrainian
+    children and infringe Ukrainian law and administrative order, he is therefore
+    responsible for, supporting and implementing actions and policies which undermine
+    the sovereignty and independence of Ukraine and stability and security in Ukraine.

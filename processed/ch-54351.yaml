@@ -1,0 +1,50 @@
+---
+ssid: '54351'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '54361'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “State Transport Leasing Company”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC GTLK
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: State Transport Leasing Company
+    day_month_year:
+      day: 19
+      month: 11
+      year: 2001
+    addresses:
+    - address_details: '31a Leningradsky Avenue, bldg. #1'
+      zip_code: '125284'
+  justification: JSC GTLK is a Russian state-owned enterprise overseen by the Russian
+    Ministry of Transportation. GTLK operates in air, sea and rail transport, passenger
+    transport, automotive and special equipment for domestic companies in the transport
+    industry and carries out investment activities to develop Russia’s transport infrastructure.
+    It is the largest transportation leasing company in Russia. In 2025, GTLK’s lease
+    portfolio was valued at RUB 2,9 trillion, and it has subsidiary companies in the
+    Middle East, Asia and Europe. GTLK has set itself the goal of creating a fleet
+    of drones, imported from China, to carry out aerial surveillance missions. GTLK
+    has launched a national program for leasing of drones and delivered the first
+    drones in 2024. The planned volume of investments in the production of drones
+    is 2024-2026 is RUB 34 billion. In April 2025 GTLK launched a marketplace for
+    drones titled “Naletay.RF”. GTLK is a legal entity, financially supporting and
+    benefitting from the Government of the Russian Federation, which is responsible
+    for the annexation of Crimea and the destabilisation of Ukraine.

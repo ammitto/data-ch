@@ -1,0 +1,19 @@
+---
+ssid: '106110'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '106112'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Abem Global Ithalat Ihracat Anonim Sirketi
+    addresses:
+    - address_details: No. 20, Block H, Corapcilar, Ikitelli Industrial Zone, Basaksehir
+        District,
+      zip_code: '34490'

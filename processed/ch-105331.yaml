@@ -1,0 +1,36 @@
+---
+ssid: '105331'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105336'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Altrum Group FZCO
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Novus Middle East DMCC
+    addresses:
+    - address_details: 'Unit No: R30-D2 Reef Tower Plot No: JLT-PH2-O1A Jumeirah Lakes
+        Towers Dubai'
+  justification: Altrum Group FZCOis an oil trading company based in the UAE. Through
+    Vetus Investments, it controls the 2Rivers Group, previously known as Coral Energy
+    and formed by 2Rivers DMCC and 2Rivers PTE. The 2Rivers Group enables shipments
+    and export of Russian oil, in particular from Rosneft, by concealing the actual
+    origin of the oil. In particular, the 2Rivers Group controls a large proportion
+    of the vessels in Russia’s so-called “shadow fleet”. The 2Rivers Group continues
+    to operate the same network as Coral Energy, which includes associated entities
+    such as Nord Axis and Bellatrix Energy, regardless of its change in name and ownership.
+    Additionally, Altrum Group FZCOalso owns a company operating an important oil
+    terminal in a third country, whose volume of Russian oil imports has considerably
+    increased in 2025.

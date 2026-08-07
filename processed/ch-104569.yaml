@@ -1,0 +1,32 @@
+---
+ssid: '104569'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104577'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LUKOIL-Ukhtaneftepererabotka LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LUKOIL-Ukhtaniefierierierobateka
+    addresses:
+    - address_details: st. Factory, bud. 11 UL ZAVODSKAYA D. 11, G SHM
+      zip_code: '169300'
+  justification: LUKOIL-Ukhtaneftepererabotka LLC is a large oil refinery located
+    in Russia’s Northwestern Federal District. It processes a blend of low-sulphur
+    crude oil from the Usinsk region. The energy sector, especially oil and gas sectors,
+    provides substantial revenues to the Government of the Russian Federation. Therefore,
+    Lukoil-Ukhtaneftepererabotka is involved in an economic sector providing a substantial
+    source of revenue to the Government of the Russian Federation, which is responsible
+    for the annexation of Crimea and the destabilisation of Ukraine.

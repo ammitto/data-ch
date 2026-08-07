@@ -1,0 +1,24 @@
+---
+ssid: '106804'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '106808'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Shevchuck
+      - order: 2
+        name_part_type: given-name
+        value: Natalya
+      - order: 3
+        name_part_type: father-name
+        value: Dadadzhonovna
+  justification: Natalya Shevchuk is the head of several military-patriotic clubs
+    and organisations operating in the temporarily occupied territory of Crimea under
+    Russian occupation authorities.

@@ -1,0 +1,31 @@
+---
+ssid: '105112'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105125'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Nizhny Novgorod research and production association
+          named after M.V. Frunze”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Nizhny Novgorod research and production association named after
+          M.V. Frunze”
+    addresses:
+    - address_details: Gagarin avenue, 174
+      zip_code: '603950'
+  justification: JSC “Nizhny Novgorod research and production association named after
+    M.V. Frunze” is a Russian developer and manufacturer of radio-electronic devices
+    for military and civilian use. The company designs, manufactures, tests and delivers
+    products, as well as providing servicing.

@@ -1,0 +1,26 @@
+---
+ssid: '104343'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '104345'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AI Electronic Componets PTE Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Intelligent Electronic Components Co. Ltd.
+    addresses:
+    - address_details: Flat E19, 10/F, No 52, Hung To Road
+    - address_details: "Room 516 5/F Kam Teem \nIndustria Building 135 Connaught Road
+        West, Sai Wan, Sai Ying Pun"

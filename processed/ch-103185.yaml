@@ -1,0 +1,29 @@
+---
+ssid: '103185'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '103190'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Kondrov
+      - order: 2
+        name_part_type: given-name
+        value: Andrey
+      - order: 3
+        name_part_type: father-name
+        value: Viktorovich
+    day_month_year:
+      day: 12
+      month: 8
+      year: 1976
+  justification: Colonel Andrey Kondrov is the Commander of the 5th Separate Tank
+    Brigade of the 36th Combined Arms Army. That brigade, led by Andrey Kondrov, is
+    accused of looting and murdering residents in Bucha. Those atrocities in Bucha
+    constitute crimes against humanity and war crimes.

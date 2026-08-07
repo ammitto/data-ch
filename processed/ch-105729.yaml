@@ -1,0 +1,31 @@
+---
+ssid: '105729'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105734'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Moran Security Group Ltd
+    day_month_year:
+      day: 18
+      month: 1
+      year: 2011
+    addresses:
+    - address_details: 35, Barrack Road, Third Floor
+    - address_details: 52 Sokolnichesky Val Street
+    - address_details: Novinskiy Bulvar 31
+      zip_code: '123242'
+  justification: Moran Security Group Ltd, registered in both Belize and the Russian
+    Federation, is a private maritime security company employing highly trained ex-Russian
+    military personnel. Headquartered in Moscow, the firm specialises in protecting
+    cargo vessels, primarily oil tankers, from piracy. The company runs a training
+    centre in St. Petersburg and functions as a semi-official private military contractor
+    tied to Russian government interests, playing a key role in Russia’s privatised
+    military activities abroad.

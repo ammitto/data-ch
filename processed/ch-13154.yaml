@@ -1,0 +1,31 @@
+---
+ssid: '13154'
+sanctions_set_id: '13065'
+individual:
+  identity:
+    ssid: '13156'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Jafari-Dolatabadi
+      - order: 2
+        name_part_type: given-name
+        value: Abbas
+    day_month_year:
+      year: 1953
+  justification: Jafari-Dolatabadi is a licensed lawyer at the Bar of Tehran. He is
+    the former advisor to the Supreme Disciplinary Court of judges (29 April 2019-at
+    least 2020). Former Prosecutor General of Tehran (August 2009-April 2019). Abbas
+    Jafari-Dolatabadi’s office indicted a large number of protesters, including individuals
+    who took part in the December 2009 Ashura Day protests. He ordered the closure
+    of Karroubi’s office in September 2009 and the arrest of several reformist politicians,
+    and he banned two reformist political parties in June 2010. His office charged
+    protesters with “Muharebeh”, or “enmity against God”, which carries the death
+    penalty, and denied due process to those facing the death penalty. His office
+    also targeted and arrested reformists, human rights activists and members of the
+    media, as part of a broad crackdown on the political opposition.

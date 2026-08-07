@@ -1,0 +1,26 @@
+---
+ssid: '101981'
+sanctions_set_id: '13065'
+individual:
+  identity:
+    ssid: '101984'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Faizullahi
+      - order: 2
+        name_part_type: given-name
+        value: Ahmad Ali
+    day_month_year:
+      year: 1966
+  justification: Ahmad Ali Faizullahi is the Commander of the Islamic Revolutionary
+    Guard Corps (IRGC) Saberin Takavar Special Forces Brigade, an elite special operations
+    force within the Ground Forces of the IRGC. The Saberin Takavar Special Forces
+    Brigade has been directly involved in the violent suppression of protests in Iran
+    and in committing serious human rights violations, including in relation to the
+    nationwide protests in Iran that began in December 2025.

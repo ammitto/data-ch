@@ -1,0 +1,21 @@
+---
+ssid: '105494'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105503'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SCIENTIFIC-TECHNICAL CENTER FOR ELECTRONIC WARFARE JSC NTC REB
+    addresses:
+    - address_details: Vereyskaya str. 29, pg. 135
+      zip_code: '121357'
+  justification: The Scientific-Technical Center for Electronic Warfare (JSC NTC REB)
+    produces electronic warfare equipment for the Russian military, used on the battlefield
+    against Ukraine. This includes the “Pole-21” and the “Repellent-1” systems.

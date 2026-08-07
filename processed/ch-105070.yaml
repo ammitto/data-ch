@@ -1,0 +1,41 @@
+---
+ssid: '105070'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '105076'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Ovcharenko
+      - order: 2
+        name_part_type: given-name
+        value: Oleg
+      - order: 3
+        name_part_type: father-name
+        value: Igorevich
+    day_month_year:
+      day: 20
+      month: 8
+      year: 1969
+    addresses:
+    - address_details: Baryshikha Street, Building 30, Apt. 182
+  justification: Oleg Ovcharenko leads the military-patriotic sports programme “Young
+    Vityaz”, which is based on the requirements of the Russian State Programme “Patriotic
+    Education of Citizens of the Russian Federation for 2016–2020.” Under his leadership,
+    children from the occupied Luhansk region also take part in the programme, which
+    now takes place in the “Krasny Desant” camp in the Rostov Region of Russia. In
+    the past it also took place in Crimea. As part of the programme, minors are provided
+    with structured military training, including weapons handling, shooting skills,
+    tactical instruction, hand-to-hand combat, survival tasks, and drone operation.
+    They also participate in tactical games involving reconnaissance missions and
+    the execution of “combat tasks” inspired by Russia’s experience in the so-called
+    “Special Military Operation”. The programme is conducted in a strict militarised
+    environment, reinforced by propaganda film discussions and daily interaction with
+    instructors with military experience, with the aim of instilling loyalty to the
+    Russian Federation and preparing minors for potential future military service.

@@ -1,0 +1,28 @@
+---
+ssid: '101782'
+sanctions_set_id: '68945'
+entity:
+  identity:
+    ssid: '101789'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Arsang Safe Trading Co.
+    day_month_year:
+      day: 3
+      month: 3
+      year: 2014
+    addresses:
+    - address_details: 901, Negin Saii Tower, Vali-asr St.
+      zip_code: '14338'
+  justification: Arsang Safe Trading Co. is instrumental in aiding Russia’s acquisition
+    of Close Range Ballistic Missiles (CRBMs) and unmanned aerial vehicles (UAVs)
+    from Iran through its collaboration with Sahara Thunder. The Supply, Research,
+    and Industry Affairs Section of Iran’s Ministry of Defence and Armed Forces Logistics
+    (MODAFL) oversees these military deals, playing a leading role in Iran’s military
+    research and development efforts.

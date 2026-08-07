@@ -1,0 +1,29 @@
+---
+ssid: '104590'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104600'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “LUKOIL-Volgogradneftepererabotka”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC LUKOIL-Volgogradneftepererabotka
+    addresses:
+    - address_details: 40 years of the Komsomol street, 5
+      zip_code: '400029'
+  justification: Limited Liability Company LUKOIL-Volgogradneftepererabotka is a Russian
+    entity operating an oil refinery in the Volgograd region. The energy sector, in
+    particular the oil sector, is a sector providing a substantial source of revenue
+    to the Government of the Russian Federation.

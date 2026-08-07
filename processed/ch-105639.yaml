@@ -1,0 +1,30 @@
+---
+ssid: '105639'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105644'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SCT Chemicals FZE
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SCT CHEMICALS TRADING FZE
+    day_month_year:
+      year: 1994
+    addresses:
+    - address_details: S1500, Jebel Ali Freezone, Dubai, United Arab Emirates; Jebel
+        Ali Free Zone South, Dubai, Jebel Ali 61354, AE, United Arab Emirates
+  justification: SCT Chemicals FZE is a UAE-based company exporting worldwide. SCT
+    Chemicals FZE have also supplied its products to Russia, with its most recent
+    shipment recorded in 2024. The company produces engine oils.

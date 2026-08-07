@@ -1,0 +1,66 @@
+---
+ssid: '109305'
+sanctions_set_id: '3976'
+individual:
+  identity:
+    ssid: '109307'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: given-name
+        value: Muhammed
+      - order: 2
+        name_part_type: family-name
+        value: Lumisa
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Lumisa Muhamad
+    - name_type: alias
+      quality: low
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: L. Kato
+    - name_type: alias
+      quality: low
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Luminsa
+    - name_type: alias
+      quality: low
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Lumwinsa
+    - name_type: alias
+      quality: low
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Mukade
+    - name_type: alias
+      quality: low
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Mukake
+    day_month_year:
+      year: 1959
+    addresses:
+  justification: As one of the commanders of the Allied Democratic Forces (ADF), MUHAMMED
+    LUMISA is involved in planning, promulgating, and supporting the militia’s activities.
+    He also oversees the group’s external logistics.

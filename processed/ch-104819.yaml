@@ -1,0 +1,38 @@
+---
+ssid: '104819'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104833'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Vremya-Ch”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Vremya-Ch”
+      - order: 2
+        name_part_type: whole-name
+        value: LLC “Vremya-Ch Military Training Center”
+      - order: 3
+        name_part_type: whole-name
+        value: "“Vremya-Ch” Training Center"
+    addresses:
+    - address_details: Khlebozavodsky passage, 7, building 9, floor 5, room /office
+        XXII/8/44
+      zip_code: '115230'
+    - address_details: Leningradsky Prospekt, 26, building 1
+    - address_details: Kashirskoye Highway, 12
+  justification: Vremya-Ch is a military training centre in Moscow that provides military-style
+    education and preparedness programs for law enforcement and military personnel.
+    Its courses cover Unmanned Air Vehicle (UAV) operation, military radio communications,
+    survival skills.

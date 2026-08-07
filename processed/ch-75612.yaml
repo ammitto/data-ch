@@ -1,0 +1,39 @@
+---
+ssid: '75612'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '75617'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Trotsenko
+      - order: 2
+        name_part_type: given-name
+        value: Roman
+      - order: 3
+        name_part_type: father-name
+        value: Viktorovich
+    day_month_year:
+      day: 9
+      month: 12
+      year: 1970
+  justification: Roman Trotsenko is a leading businessperson operating in Russia,
+    with business interests in iron ore and steel, coal, infrastructure and energy
+    companies, considered as one of the richest persons in Russia. He is a prominent
+    shareholder in AEON Corporation and Vorkutagol JSC, which operate in economic
+    sectors providing a substantial source of revenue to the Government of the Russian
+    Federation. In June 2025, he participated in the St. Petersburg International
+    Economic Forum (SPIEF) as Chairman of the Board of Directors of AEON Corporation.
+    Furthermore, he is an important indirect shareholder of Group Russian Energy LLC,
+    through his shareholding in other companies. Roman Trotsenko e is also an indirect
+    shareholder and is involved in the management of Novaport Holding. Novaport Holding
+    is a holding company which manages, among other things, controlling stakes in
+    several regional airports. It is owned by TES Trans Syberia, in which Roman Trotsenko
+    is a beneficial owner and an indirect shareholder, through his shareholding in
+    AEON AERO LLC, which is part of the ownership structure of Novaport Holding.

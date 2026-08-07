@@ -1,0 +1,46 @@
+---
+ssid: '105528'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105535'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Budgetary Institution OK “Snegiri” of the Office of the
+          President of the Russian Federation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Budgetary Institution OK “Snegiri”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FSBI OK “Snegiri”
+    day_month_year:
+      day: 12
+      month: 1
+      year: 1994
+    addresses:
+    - address_details: Istra municipal district, Territory of the Snegiri Wellness
+        Complex, building 1
+      zip_code: '143591'
+  justification: Federal State Budgetary Institution OK “Snegiri” is a Russian entity
+    that runs a wellness and health centre in the Moscow Region and is owned by the
+    Office of the President of the Russian Federation. In cooperation with the Communist
+    Party of the Russian Federation, it organises trips where children from illegally
+    occupied territories of Ukraine undergo Russian patriotic education and military
+    training. Therefore, Federal State Budgetary Institution OK “Snegiri” is supporting
+    and implementing policies contributing to the forced assimilation and militarised
+    education of Ukrainian minors.

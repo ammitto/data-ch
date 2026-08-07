@@ -1,0 +1,44 @@
+---
+ssid: '109267'
+sanctions_set_id: '3976'
+individual:
+  identity:
+    ssid: '109268'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: given-name
+        value: Corneille
+      - order: 2
+        name_part_type: family-name
+        value: Nangaa
+      - order: 3
+        name_part_type: family-name
+        value: Yobeluo
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Corneille Nangaa
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Corneilleyobeluo
+    day_month_year:
+      day: 9
+      month: 7
+      year: 1970
+    addresses:
+    - address_details: Boulevard Biangala, No. 36 Q, Salongo Sud C
+  justification: Corneille Nangaa Yobeluo is the leader of the Alliance Fleuve Congo
+    (AFC) (CDe.010), a politico-military movement allied with the United Nations-sanctioned
+    March 23 Movement/Congolese Revolutionary Army (M23/ARC) (CDe.006).

@@ -1,0 +1,17 @@
+---
+ssid: '105684'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '105688'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Al Baraka Group for Investment and Trading LLC FZ
+    addresses:
+    - address_details: Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba

@@ -1,0 +1,22 @@
+---
+ssid: '101050'
+sanctions_set_id: '8174'
+entity:
+  identity:
+    ssid: '101052'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Good Luck Shipping Company
+    addresses:
+    - address_details: Office 206/207 Malik Saeed, Ahmad Ghabbash, Bur Dubai
+    - address_details: Office 206/207, Ahmad Ghubash Building, Oud Mehta
+  justification: Good Luck Shipping provides shipping and logistical services to Hafiz
+    Darya Shipping Lines (HDSL), a designated entity affiliated with the Islamic Republic
+    of Iran Shipping Lines (IRISL), as well as to Petrochemical Commercial Company
+    (PCC), a company owned by Iran’s Ministry of Petroleum.

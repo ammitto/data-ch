@@ -1,0 +1,31 @@
+---
+ssid: '106833'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '106839'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Zinchenko
+      - order: 2
+        name_part_type: given-name
+        value: Aleksey
+      - order: 3
+        name_part_type: father-name
+        value: Sergeevich
+    day_month_year:
+      day: 24
+      month: 2
+      year: 1995
+  justification: Aleksey Zinchenko is since July 2022 the Chairman of the State Committee
+    for Youth Policy of the Republic of Crimea. By virtue of his function he plays
+    an important role in indoctrination and militarisation of education in Crimea.
+    He is one of the key figures forming the Russian policy towards young Crimeans.
+    He is also a head of regional projects “We are together” and “Russia – country
+    of opportunities”.

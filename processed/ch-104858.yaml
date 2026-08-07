@@ -1,0 +1,25 @@
+---
+ssid: '104858'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104860'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Levant Fleet
+  justification: 'Levant Fleet is the registered owner of the Monte Biance (IMO: 9385233)
+    (formerly known as Finikia and San Severus), which is listed by the Union and
+    used to transport stolen Ukrainian grain. The Monte Biance, while under the ownership
+    of Levant Fleet, made a call at the occupied grain port of Komysh-Burun as recently
+    as August 2025 and continues to carry false flags and practice irregular and high-risk
+    shipping practices. The systematic plunder of Ukrainian grain on Russian-occupied
+    territories is a Russian state policy to strip Ukraine of essential agricultural
+    produce and income. Therefore, Levant Fleet is responsible for and supporting
+    actions or policies which undermine or threaten the territorial integrity, sovereignty
+    and independence of Ukraine, and stability and security in Ukraine.'

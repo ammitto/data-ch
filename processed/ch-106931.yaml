@@ -1,0 +1,23 @@
+---
+ssid: '106931'
+sanctions_set_id: '71360'
+individual:
+  identity:
+    ssid: '106935'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Al-Hayya
+      - order: 2
+        name_part_type: given-name
+        value: Khalil
+    day_month_year:
+      year: 1960
+  justification: Khalil Al-Hayya has been a member of the Politburo since 2016. As
+    a member of that decision-making body, he is responsible for violent actions by
+    Hamas.

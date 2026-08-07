@@ -1,0 +1,32 @@
+---
+ssid: '104654'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '104659'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Makarov
+      - order: 2
+        name_part_type: given-name
+        value: Nikolay
+      - order: 3
+        name_part_type: father-name
+        value: Andreevich
+    day_month_year:
+      day: 22
+      month: 12
+      year: 1955
+  justification: Nikolai Makarov is the Director of the state-funded Federal State
+    Budgetary Institution of Science “Institute of Archaeology of the Russian Academy
+    of Sciences” (IA RAS) and Vice-President of the Russian Academy of Sciences. He
+    is responsible for IA RAS’s scientific, technical, and economic operations, including
+    its development strategy and fieldwork policy. Under his leadership, IA RAS has
+    become a central actor in Russia’s state-directed archaeological exploitation
+    of the occupied Crimean Peninsula.

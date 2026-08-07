@@ -1,0 +1,40 @@
+---
+ssid: '106574'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '106587'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Public Educational Institution “Nakhimov Naval School
+          of the Order of Honor of the Ministry of Defense of the Russian Federation”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Nakhimov Naval School
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NVMU
+    day_month_year:
+      day: 11
+      month: 6
+      year: 1996
+    addresses:
+    - address_details: Petrogradskaya Embankment, 2-4
+      zip_code: '197046'
+  justification: The Nakhimov Naval School (NVMU), founded and operated by the Russian
+    Federation through its Ministry of Defense, is a military-educational school that
+    prepares minors for military service.

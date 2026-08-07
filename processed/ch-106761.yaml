@@ -1,0 +1,27 @@
+---
+ssid: '106761'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '106764'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Vorobyov
+      - order: 2
+        name_part_type: given-name
+        value: Igor
+  justification: Igor Vorobyov is Head of the Volgograd local branch of the Centre
+    for Military and Patriotic Training and Education of Youth “Warrior”. The Warrior
+    Centre is a Russian state-led youth organisation established in the Russian Federation
+    to foster patriotic and military education among young people. It involves cadet-style
+    military instruction, weapons and tactical training. It operates with the support
+    of the President of the Russian Federation who instructed the Warrior Centre to
+    work in close cooperation with participants in Russia’s war of aggression against
+    Ukraine. The Warrior Centre also conducts activities in the illegally occupied
+    territories of Ukraine, through local branches.

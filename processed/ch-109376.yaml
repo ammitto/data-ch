@@ -1,0 +1,47 @@
+---
+ssid: '109376'
+sanctions_set_id: '3976'
+individual:
+  identity:
+    ssid: '109379'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: given-name
+        value: Gustave
+      - order: 2
+        name_part_type: family-name
+        value: Kubwayo
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Sirkoof
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Surcouf
+    - name_type: alias
+      quality: low
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Surkof
+    day_month_year:
+      year: 1969
+  justification: As one of the main Democratic Forces for the Liberation of Rwanda
+    Forces Combattantes Abacunguzi (FDLR-FOCA) (CDe.005) commanders and the new commander
+    of the Commando de Recherche et d'Action en Profondeur (CRAP), GUSTAVE KUBWAYO
+    alias SIRKOOF is involved in planning, promulgating and supporting the armed group’s
+    activities, such as targeting civilians, kidnapping for ransom and illegally exploiting
+    natural resources.

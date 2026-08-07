@@ -1,0 +1,30 @@
+---
+ssid: '105290'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105298'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Aero-HIT
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “AERO-HIT”
+    addresses:
+    - address_details: Sh. Mateveevskoe, D. 28a, Pomeshch. 26
+      zip_code: '680031'
+  justification: LLC Aero-HIT is Russia-based company which was founded as an innovative
+    project aimed at developing, producing and maintaining of UAV’s. LLC Aero-HIT
+    assembles UAV “Veles”, a multi-rotor first person view strike drone, which can
+    be used as an attack drone, optical reconnaissance device, or as part of an electronic
+    reconnaissance system.

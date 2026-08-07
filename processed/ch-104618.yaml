@@ -1,0 +1,29 @@
+---
+ssid: '104618'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104628'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company LUKOIL-Permnefteorgsintez
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC LUKOIL-Permnefteorgsintez
+    addresses:
+    - address_details: Industrial street, 84
+      zip_code: '614055'
+  justification: Limited Liability Company LUKOIL-Permnefteorgsintez is a Russian
+    entity operating an oil refinery in Perm Krai. The energy sector, in particular
+    the oil sector, is a sector providing a substantial source of revenue to the Government
+    of the Russian Federation.

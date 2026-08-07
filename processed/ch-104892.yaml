@@ -1,0 +1,37 @@
+---
+ssid: '104892'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '104896'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Solonin
+      - order: 2
+        name_part_type: given-name
+        value: Igor
+      - order: 3
+        name_part_type: father-name
+        value: Petrovich
+    day_month_year:
+      day: 21
+      month: 6
+      year: 1978
+  justification: Igor Solonin is the General Director of the Mariupol Republican Order
+    of the Badge of Honour Russian Drama Theatre (MRDT). In 2022, the Mariupol Drama
+    Theatre was bombed by the Russian forces, and later was restored, renamed, reorganised
+    and financed with the help of the Russian institutions. This theatre is not only
+    used to spread Russian culture in the occupied regions of Ukraine under Russian
+    control, but also to establish the propaganda narrative that this theatre was
+    destroyed by the Ukrainian Nazis. As the General Director, Igor Solonin actively
+    participates in the activities of the theatre and in attracting funding from Russian-appointed
+    government representatives in the occupied Donetsk region. Therefore, in his role
+    Igor Solonin is supporting and benefitting from the Government of the Russian
+    Federation, which is responsible for the annexation of Crimea and the destabilisation
+    of Ukraine.

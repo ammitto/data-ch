@@ -1,0 +1,34 @@
+---
+ssid: '105012'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105023'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint Stock Company “Scientific and production enterprise ‘Impuls’”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC “Research and Production Enterprise ‘Impuls’”
+    addresses:
+    - address_details: Mira Avenue, 102
+      zip_code: '129626'
+  justification: PJSC “Research and Production Enterprise ‘Impuls’” is a Russian state-owned
+    enterprise that manufactures military electronic equipment as a subsidiary to
+    the Joint Stock Company “Aerospace Defence Concern ‘Almaz-Antey’”. The company
+    specialises in the development and production of automated control systems, electronic
+    components, and critical infrastructure used in the command and control of armed
+    forces. PJSC “Research and Production Enterprise ‘Impuls’” is involved in state
+    defence procurement programs. Its technologies are used in systems that enhance
+    the operational effectiveness of the Russian Armed Forces such as the air-to-surface-missiles
+    Kh-29T, which are being used against Ukraine.

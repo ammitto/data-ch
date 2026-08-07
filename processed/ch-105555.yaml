@@ -1,0 +1,25 @@
+---
+ssid: '105555'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '105561'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Epic Shipping & Shipbuilding JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: EPIC Denizcilik ve Gemi Insaat A.S.
+    addresses:
+    - address_details: Room 15, Floor 2, Lantana Plaza, Zinnur Str. 3, İçmeler
+      zip_code: '34947'

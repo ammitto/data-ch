@@ -1,0 +1,17 @@
+---
+ssid: '109393'
+sanctions_set_id: '3976'
+entity:
+  identity:
+    ssid: '109397'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Alliance Fleuve Congo (AFC)
+    addresses:
+  justification: Established in 2023.

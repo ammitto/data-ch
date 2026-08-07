@@ -1,0 +1,39 @@
+---
+ssid: '104196'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '104201'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Izhevskii Radiozavod
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Izhevskiy Radiozavod
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Izhevsk Radio Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Branch of the LLC Izhevsk Radio Plant in Moscow KB Robotics
+    addresses:
+    - address_details: 19 Bazisnaya St.
+      zip_code: '426034'

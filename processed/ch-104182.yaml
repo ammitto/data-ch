@@ -1,0 +1,36 @@
+---
+ssid: '104182'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104191'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Angarsk Petrochemical Company”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Angarsk Petrochemical Company”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “ANKhK”
+    addresses:
+    - address_details: kv-l 63 (First Industrial Array of Ter.), building 2
+      zip_code: '665809'
+  justification: JSC “Angarsk Petrochemical Company” is a Russian entity operating
+    an oil refinery in the Irkutsk Region. The energy sector, in particular the oil
+    sector, is a sector providing a substantial source of revenue to Government of
+    the Russian Federation.

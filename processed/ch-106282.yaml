@@ -1,0 +1,34 @@
+---
+ssid: '106282'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '106295'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint-Stock Company “Promsintez”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное общество “Промсинтез”
+    day_month_year:
+      day: 26
+      month: 11
+      year: 2002
+    addresses:
+    - address_details: Kuibysheva st., 1
+      zip_code: '446100'
+  justification: JSC “Promsintez” is an enterprise of the military and industrial
+    complex of the Russian Federation engaged in the production of explosives. The
+    JSC “Promsintez” plant produces a wide range of explosives, including TNT, which
+    is directly used in the production of ammunition. JSC “Promsintez” therefore forms
+    part of Russia’s military and industrial complex.

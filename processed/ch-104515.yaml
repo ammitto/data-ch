@@ -1,0 +1,24 @@
+---
+ssid: '104515'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104522'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Gazstroyprom
+    addresses:
+    - address_details: ulitsa Tashkentskaya, d. 3, k. 3 b 22/22
+      zip_code: '196006'
+  justification: JSC Gazstroyprom is a leading company in the Russian energy sector.
+    The company carries out different projects for the extraction, processing and
+    transportation of natural gas. The company employs 95 thousand people and is active
+    in all federal districts of the Russian Federation. The energy sector, especially
+    the oil and gas sectors, provides a substantial source of revenue to the Government
+    of the Russian Federation.

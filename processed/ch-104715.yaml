@@ -1,0 +1,31 @@
+---
+ssid: '104715'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '104718'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Malyuta
+      - order: 2
+        name_part_type: given-name
+        value: Dmitry
+      - order: 3
+        name_part_type: father-name
+        value: Alexandrovich
+    day_month_year:
+      day: 16
+      month: 3
+      year: 1979
+  justification: Dmitry Alexandrovich Malyuta is a Russian businessperson who owns
+    shares in LLC Bina Invest and through this ownership controls several companies,
+    which are involved in importing cotton pulp from Kazakhstan and Uzbekistan for
+    Russian gunpowder factories. The imported materials are used in a wide range of
+    military products, including ammunition. Malyuta owns shares in LLC Aleksinskiye
+    Kraski – Ural which delivers goods to Russian gunpowder factories.

@@ -1,0 +1,39 @@
+---
+ssid: '105178'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105189'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Simbirsk Design Bureau “Piranya”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC SDB “Piranya”
+      - order: 2
+        name_part_type: whole-name
+        value: Limited Liability Company Simbirskoe Konstruktrskoe Byuro “Piranya”
+      - order: 3
+        name_part_type: whole-name
+        value: LLC SKB “Piranya”
+      - order: 4
+        name_part_type: whole-name
+        value: ООО СКБ “Пиранья”
+    addresses:
+    - address_details: Gagarin Street, 7/15, office 1
+      zip_code: '432071'
+  justification: LLC SDB “Piranya” is a Russia-based company that manufactures drones
+    used by Russia in its war of aggression against Ukraine. LLC SDB “Piranya” manufactures
+    First Person View (FPV) drones and specifically the models “Piranya-7”, “Piranya-10”
+    and “Piranya-13”. The company manufactures up to 10 000 drones per month and the
+    Russian Army views its products as being extremely valuable in its military operations.

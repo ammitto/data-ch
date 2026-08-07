@@ -1,0 +1,42 @@
+---
+ssid: '104283'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104295'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint-Stock Company Syzran Oil Refinery
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Syzran Refinery
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OJSC Syzran Refinery
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Open Joint-Stock Oil And Gas Company Syzran
+    addresses:
+    - address_details: St. Astrakhanskaya, 1
+      zip_code: '446009'
+  justification: JSC Syzran Oil Refinery is a Russian entity operating an oil refinery
+    in the Samara region. The energy sector, in particular the oil sector, is a sector
+    providing a substantial source of revenue to the Government of the Russian Federation.

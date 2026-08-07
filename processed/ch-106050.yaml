@@ -1,0 +1,25 @@
+---
+ssid: '106050'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '106053'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Avtokom Motor LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Avtocom Motor LCC
+    addresses:
+    - address_details: Office 17/18, Unit 8, 18 Azarovskaya Str.
+      zip_code: '248017'

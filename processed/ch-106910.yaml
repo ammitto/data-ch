@@ -1,0 +1,65 @@
+---
+ssid: '106910'
+sanctions_set_id: '71360'
+individual:
+  identity:
+    ssid: '106914'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Badran
+      - order: 2
+        name_part_type: given-name
+        value: Husam
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Badran
+      - order: 2
+        name_part_type: given-name
+        value: Hossam
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Badran
+      - order: 2
+        name_part_type: given-name
+        value: Husam Ataf Ali
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Badran
+      - order: 2
+        name_part_type: given-name
+        value: Husam Atif All
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Badran
+      - order: 2
+        name_part_type: given-name
+        value: Hussam
+    day_month_year:
+      day: 11
+      month: 1
+      year: 1966
+  justification: Husam Badran has been a member of the Politburo since 2017. As a
+    member of that decision-making body, he is responsible for violent actions by
+    Hamas.

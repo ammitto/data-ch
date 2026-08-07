@@ -1,0 +1,33 @@
+---
+ssid: '103148'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '103153'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Pankov
+      - order: 2
+        name_part_type: given-name
+        value: Vadim
+      - order: 3
+        name_part_type: father-name
+        value: Ivanovych
+    day_month_year:
+      day: 2
+      month: 1
+      year: 1968
+  justification: Major General Vadim Pankov is the Commander of the 45th Separate
+    Guards Special Purpose Brigade (Spetsnaz), which is part of Russia’s elite airborne
+    forces. He participated in the annexation of Crimea in 2014, leading special forces
+    operations. Vadim Pankov commanded units during Russia’s invasion of Ukraine.
+    His brigade was involved in the occupation of Bucha. He is accused of ordering
+    the execution of 30 local residents and forcing civilians to remove the bodies
+    of dead Russian soldiers. Those atrocities constitute crimes against humanity
+    and war crimes.

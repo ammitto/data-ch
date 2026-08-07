@@ -1,0 +1,27 @@
+---
+ssid: '105098'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '105107'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Shagivaleev
+      - order: 2
+        name_part_type: given-name
+        value: Timur
+      - order: 3
+        name_part_type: father-name
+        value: Nailevich
+    day_month_year:
+      day: 28
+      month: 1
+      year: 1978
+  justification: Timur Shagivaleev is the General Director of the Joint Stock Company
+    “Alabuga Special Economic Zone of Industrial and Production Type” (“JSC Alabuga”).

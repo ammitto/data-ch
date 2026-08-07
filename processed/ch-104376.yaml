@@ -1,0 +1,18 @@
+---
+ssid: '104376'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '104378'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SoVa Distribution Ltd.
+    addresses:
+    - address_details: Unit 617, 6/F, 131-132 Connaught Road West, Solo Workshops
+    - address_details: Office 77, 7/F, Woon Lee Commercial Building, 7 Austin Ave.

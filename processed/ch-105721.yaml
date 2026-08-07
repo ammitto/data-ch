@@ -1,0 +1,32 @@
+---
+ssid: '105721'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '105724'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Jiangxi Xintuo Enterprise
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Jiangxi Xintuo Industrial Co.Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: T-Motor
+    addresses:
+    - address_details: 24th floor, Building B, 3399 Ziyang Avenue
+      zip_code: '330096'

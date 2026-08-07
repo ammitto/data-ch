@@ -1,0 +1,27 @@
+---
+ssid: '13446'
+sanctions_set_id: '13065'
+individual:
+  identity:
+    ssid: '13448'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Reshte-Ahmadi
+      - order: 2
+        name_part_type: given-name
+        value: Bahram
+  justification: Bahram Reshte-Ahmadi is Head of the General Directorate for Public
+    Participation and Social Capital of Iran’s Judiciary. Throughout his career in
+    Iran’s judiciary, he has held positions such as Deputy Prosecutor in Tehran, Deputy
+    Head of the Office of Prison Affairs of Tehran Province and Supervisor of the
+    Public Prosecution Office in Tehran. In those roles, he was directly involved
+    in human rights violations, denying defendants access to legal counsel and contact
+    with their families. In all the positions he has held, including the current one,
+    he has supported Iran’s judicial system, that systematically ignores and violates
+    the fundamental rights of the defendants.

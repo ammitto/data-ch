@@ -1,0 +1,27 @@
+---
+ssid: '105608'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '105613'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Promoil
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Promol
+    addresses:
+    - address_details: 9 Khokhryakova Street
+      zip_code: '614068'
+    - address_details: Room 7, 115B Promyshlennaya Street
+      zip_code: '614065'

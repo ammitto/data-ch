@@ -1,0 +1,43 @@
+---
+ssid: '104972'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '104979'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Yunusov
+      - order: 2
+        name_part_type: given-name
+        value: Timur
+      - order: 3
+        name_part_type: father-name
+        value: Ildarovich
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Timati
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Timati Ildarovich YUNUSOV
+    day_month_year:
+      day: 15
+      month: 8
+      year: 1983
+  justification: Timur Yunusov is a Russian singer and entrepreneur. He supports Russia’s
+    war of aggression against Ukraine by spreading Kremlin propaganda narratives and
+    symbols of the so-called “special military operation” and declaring his readiness
+    to personally fight against Ukraine.

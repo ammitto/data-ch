@@ -1,0 +1,19 @@
+---
+ssid: '13197'
+sanctions_set_id: '13065'
+individual:
+  identity:
+    ssid: '13199'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Yasaghi
+      - order: 2
+        name_part_type: given-name
+        value: Ali-Akbar
+  justification: Ali-Akbar Yasaghi is the Head of Branch 26 of Iran’s Supreme Court.

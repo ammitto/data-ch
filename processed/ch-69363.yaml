@@ -1,0 +1,28 @@
+---
+ssid: '69363'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '69365'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Trokai
+      - order: 2
+        name_part_type: given-name
+        value: Alyona
+      - order: 3
+        name_part_type: father-name
+        value: Andriivna
+    day_month_year:
+      day: 2
+      month: 4
+      year: 1986
+  justification: Alyona Trokai is the Deputy of the Legislative Assembly of the Zaporizhzhia
+    region, and the Head of the Department of Agitation and Propaganda Work of the
+    Zaporizhzhia Regional Branch of the “United Russia” Party.

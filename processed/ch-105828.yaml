@@ -1,0 +1,49 @@
+---
+ssid: '105828'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105833'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Archangel Center”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Archangel Center”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Archangel Military Tactical Center
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Archangel Combat and Special Training Center
+    day_month_year:
+      day: 17
+      month: 5
+      year: 2024
+    addresses:
+    - address_details: Urban District, Odintsovo, Marshal Zhukova Street, Building
+        32, Office 1, Office 502-510
+      zip_code: '143003'
+  justification: The Archangel Center is a Russian military training organisation
+    that provides a wide range of tactical and combat preparation programs for military
+    personnel. It offers courses in general military training, tactical training,
+    sniper instruction, UAV operation, self-defense, knife combat, artillery, and
+    reconnaissance.

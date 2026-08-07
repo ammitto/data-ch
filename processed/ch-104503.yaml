@@ -1,0 +1,21 @@
+---
+ssid: '104503'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104512'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Gazprom LNG Technologies
+    addresses:
+    - address_details: Naberezhnaya Aptekarskaya d. 20 a, 16-H/320
+      zip_code: '197022'
+  justification: LLC Gazprom LNG Technologies is a leading company in the Russian
+    energy sector. It is involved in liquefaction and enrichment of natural gas, as
+    well as construction of cryogenic filling stations.

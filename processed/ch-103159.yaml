@@ -1,0 +1,32 @@
+---
+ssid: '103159'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '103164'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Suvorov
+      - order: 2
+        name_part_type: given-name
+        value: Denis
+      - order: 3
+        name_part_type: father-name
+        value: Aleksandrovich
+    day_month_year:
+      day: 6
+      month: 11
+      year: 1984
+  justification: Lieutenant Colonel Denis Suvorov is the Commander of the 175th Separate
+    Reconnaissance Battalion of the 76th Guards Air Assault Division. At the beginning
+    of Russia’s full-scale invasion of Ukraine, his battalion was deployed as part
+    of the division’s operations in Kyiv Oblast, including Bucha. His battalion’s
+    reconnaissance activities supported the broader “cleansing operations” that led
+    to documented war crimes. He personally participated in torturing civilians during
+    the Russian occupation of Bucha in March 2022.

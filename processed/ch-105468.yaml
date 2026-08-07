@@ -1,0 +1,33 @@
+---
+ssid: '105468'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '105472'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Khomenko
+      - order: 2
+        name_part_type: given-name
+        value: Tatyana
+      - order: 3
+        name_part_type: father-name
+        value: Valentinovna
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Tatyana Valentinovna Khamenko
+  justification: Tatyana Khomenko is a co-founder and 33,3  % shareholder of LLC T.R.O.S.,
+    listed by the Union, the UK &US, which manufactures metalworking equipment and
+    wholesales machine tools. LLCS T.R.O.S. advertises machining centres with dual-use
+    capabilities and is part of a procurement network aimed at circumventing restrictive
+    measures to supply Union metalworking equipment and machine tools into Russia.

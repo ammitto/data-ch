@@ -1,0 +1,19 @@
+---
+ssid: '104116'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '104120'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Global Link Logistics
+    addresses:
+    - address_details: Unit 33D, Block B, Honglong Century Plaza, Heping Road, Luohu
+        District
+      zip_code: '518021'

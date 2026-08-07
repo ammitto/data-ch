@@ -1,0 +1,31 @@
+---
+ssid: '104705'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '104709'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Sokolova
+      - order: 2
+        name_part_type: given-name
+        value: Olga
+      - order: 3
+        name_part_type: father-name
+        value: Mikhailovna
+    day_month_year:
+      day: 3
+      month: 1
+      year: 1976
+  justification: Olga Sokolova is the general manager of the LLC “UAMOC” a Russia-based
+    company which produces First Person View (FPV) drones for the Russian Armed Forces.
+    The company was founded after the start of Russia’s full-scale war against Ukraine
+    and rapidly expanded its production. LLC “UAMOC” produces FPV drones “Kort”, “Brus-1”,
+    “Osa” and “Boomerang”, which are used in the war against Ukraine. It also launched
+    a production and testing facility in the illegally occupied Luhansk and Sevastopol.

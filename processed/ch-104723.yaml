@@ -1,0 +1,30 @@
+---
+ssid: '104723'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104734'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Atlant Aero”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “ATLANT AERO”
+    addresses:
+    - address_details: Instrumentalnaya street, building. 2-7, p. 1
+  justification: LLC “Atlant Aero” is a Russian aerospace manufacturer. The company
+    is known for its development of “Orion”, “Lightning-1” and “Lightning-1 II” (Molniya)
+    first-person view (FPV) drones, which are manually guided for precision strikes.
+    LLC “Atlant Aero” contributes to the production of components for advanced combat
+    drones “Orion” and is engaged in creating electronic warfare systems and digital
+    integration systems for loitering munitions.

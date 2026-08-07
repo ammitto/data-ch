@@ -1,0 +1,36 @@
+---
+ssid: '102120'
+sanctions_set_id: '13065'
+entity:
+  identity:
+    ssid: '102128'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Yaftar Pazhohan Pishtaz Rayanesh Limited Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Yaftar
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Yaftar Company
+    addresses:
+    - address_details: No.37, Unit 13, Qasemi Street, Habibollah Street, Azadi Avenue
+      zip_code: '1576984418'
+    - address_details: No. 56, 4th and 5th floors, Ghasemi Alley, Shahid Akbari Boulevard,
+        Azadi St
+  justification: Yaftar is a company in Iran that collaborates with the Working Group
+    for Determining Instances of Criminal Content (WGDICC).

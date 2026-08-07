@@ -1,0 +1,18 @@
+---
+ssid: '105600'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '105605'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Mossklad
+    addresses:
+    - address_details: Office 3107, Kronstadstky Boulevard 35B
+      zip_code: '125499'

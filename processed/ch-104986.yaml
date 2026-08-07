@@ -1,0 +1,27 @@
+---
+ssid: '104986'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '104990'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Kosolapov
+      - order: 2
+        name_part_type: given-name
+        value: Oleg
+      - order: 3
+        name_part_type: father-name
+        value: Yuryevich
+  justification: Oleg Kosolapov is the General Director of Complex Unmanned Solutions
+    Center Ltd (USC). USC is active throughout the full production and adaptation
+    cycle of first-person view (FPV) systems for combat use. It produces end devices
+    and ground equipment and trains personnel to pilot and effectively use FPV systems.
+    USC supplies Unmanned Air Vehicles (UAVs) to the Russian Armed Forces which use
+    them in Russia’s war of aggression against Ukraine.

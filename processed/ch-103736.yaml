@@ -1,0 +1,43 @@
+---
+ssid: '103736'
+sanctions_set_id: '47224'
+individual:
+  identity:
+    ssid: '103738'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: given-name
+        value: Sami
+      - order: 2
+        name_part_type: father-name
+        value: Jasim
+      - order: 3
+        name_part_type: grand-father-name
+        value: Muhammad Jaata
+      - order: 4
+        name_part_type: family-name
+        value: Al-Jaburi
+    - name_type: alias
+      quality: low
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Sami al-Ajuz
+    - name_type: alias
+      quality: low
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Hajji Hamid
+    day_month_year:
+      day: 1
+      month: 7
+      year: 1974
+    addresses:

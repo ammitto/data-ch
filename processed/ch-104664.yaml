@@ -1,0 +1,38 @@
+---
+ssid: '104664'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '104666'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Obryvalin
+      - order: 2
+        name_part_type: given-name
+        value: Sergey
+      - order: 3
+        name_part_type: father-name
+        value: Gennadievich
+    day_month_year:
+      day: 9
+      month: 10
+      year: 1975
+  justification: Sergei Obryvalin is the First Deputy Minister of Culture of the Russian
+    Federation. He oversees key departments within the Ministry of Culture, including
+    the Department of State Protection of Cultural Heritage, museum oversight, and
+    the Russian Military Historical Society. These departments are directly involved
+    in the seizure Ukrainian cultural property and its reclassification as Russian.
+    Sergei Obryvalin has signed permits, known as “open letters”, authorising Russian
+    scientists to conduct archaeological excavations in Crimea. In addition, the Ministry
+    of Culture of the Russian Federation, together with the illegitimate governing
+    bodies of the occupied territories of Ukraine, is promoting cultural initiatives
+    in the occupied territories and Sergei Gennadievich Obryvalin is actively participating
+    in this process. Therefore, Sergei Obryvalin is supporting and implementing policies
+    which undermine or threaten the territorial integrity, sovereignty and independence
+    of Ukraine.

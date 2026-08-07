@@ -1,0 +1,42 @@
+---
+ssid: '104207'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104216'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Achinsk Refinery of the Eastern Oil Company”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Achinsk Refinery of the Eastern Oil Company”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Achinsk Oil Refinery
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “ANPZ VNK”
+    addresses:
+    - address_details: Bolsheuluisky District, Promzona Npz, p. 1
+  justification: JSC “Achinsk Refinery of the Eastern Oil Company” is a Russian entity
+    operating an oil refinery in the Krasnoyarsk Territory. The energy sector, in
+    particular the oil sector, is a sector providing a substantial source of revenue
+    to the Government of the Russian Federation.

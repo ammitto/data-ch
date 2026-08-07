@@ -1,0 +1,42 @@
+---
+ssid: '105789'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105794'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Sky Vortex”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Sky Vortex”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Sky Vortex
+    day_month_year:
+      day: 20
+      month: 10
+      year: 2014
+    addresses:
+    - address_details: Ugreshskaya st., 2, building 33 IQ-Park Business Center, office
+        401
+  justification: LLC “Sky Vortex” is Russia-based distributor of a wide range of certified
+    materials from foreign manufacturers for the repair and maintenance of foreign
+    aircraft. Its client portfolio includes major aviation and aerospace organisations
+    such as Russia’s national carrier Aeroflot, Aeroflot Technics, S7 Airlines, Russian
+    Helicopters, Composite-Products Company which produces auxiliary materials and
+    resins, and A-Technics.

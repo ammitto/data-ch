@@ -1,0 +1,51 @@
+---
+ssid: '101793'
+sanctions_set_id: '68945'
+entity:
+  identity:
+    ssid: '101799'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Asia Marine Crown Agency
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Asia Marine Crown Shipping Agency
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Asia Marine Crown Shipping Agency Services Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Taj Daryaye Asia
+    day_month_year:
+      day: 9
+      month: 1
+      year: 2019
+    addresses:
+    - address_details: Unit. 7, 1st Floor, BLDG No. 21, Kar Va Tejarat Av., Vanak
+        St., Vanak Sq
+  justification: Asia Marine Crown Agency is a front company for Iran’s Ministry of
+    Defence and Armed Forces Logistics (MODAFL). This agency has served as the port
+    agent in Bandar Abbas, Iran, facilitating several shipments of unmanned aerial
+    vehicle (UAV) parts and dual use goods for Sahara Thunder projects which provide
+    UAVs to Russia. Sahara Thunder, another MODAFL front company, oversees Iran’s
+    commercial activities related to the design, development, manufacture, and sale
+    of UAVs, many of which are transferred to Russia for use in its war of aggression
+    against Ukraine.

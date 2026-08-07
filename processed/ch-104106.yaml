@@ -1,0 +1,32 @@
+---
+ssid: '104106'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '104111'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Beijing Timingtron Corporation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Beijing Tianmei Technology Co. Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Beijing Tianmei Chuang Technology Co. Ltd.
+    addresses:
+    - address_details: Room 211, 2nd Floor, Building 1, Shuangyuan Road 9
+      zip_code: '100040'

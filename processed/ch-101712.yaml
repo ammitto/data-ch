@@ -1,0 +1,28 @@
+---
+ssid: '101712'
+sanctions_set_id: '68945'
+individual:
+  identity:
+    ssid: '101715'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Bakshayesh
+      - order: 2
+        name_part_type: given-name
+        value: Hossein
+    day_month_year:
+      day: 22
+      month: 5
+      year: 1964
+  justification: Hossein Bakshayesh is the CEO and managing director of Sahara Thunder.
+    Sahara Thunder is an Iranian import-export trading company which acts as a front
+    company for the Iranian Ministry of Defence and Armed Forces Logistics (MODAFL).
+    In this capacity, it supplies unmanned aerial vehicles (UAVs), individual components,
+    and related technology to Russia and receives payment from Russia for delivery
+    of those goods and services.

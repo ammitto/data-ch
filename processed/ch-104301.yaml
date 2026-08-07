@@ -1,0 +1,31 @@
+---
+ssid: '104301'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '104303'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Abingo Distributor Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Bingou Technology (Hong Kong) International Trade Co. Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Abinho Dystrybiutor Limited
+    addresses:
+    - address_details: Room 803, 8/F Easey Comm Building, 253-261 Hennessy Rd, Wanchai

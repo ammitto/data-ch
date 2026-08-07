@@ -1,0 +1,28 @@
+---
+ssid: '62769'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '62773'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Sadykov
+      - order: 2
+        name_part_type: given-name
+        value: Rinat
+      - order: 3
+        name_part_type: father-name
+        value: Nailevich
+    day_month_year:
+      day: 18
+      month: 3
+      year: 1986
+  justification: Since September 2025, Rinat Sadykov is Deputy Prime Minister of the
+    Republic of Tatarstan. In this capacity, Rinat Sadykov is also responsible for
+    the restoration of Lysychansk and Rubizhne, two towns that are in occupied Ukraine.

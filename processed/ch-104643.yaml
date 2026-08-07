@@ -1,0 +1,31 @@
+---
+ssid: '104643'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '104649'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Zhdanov
+      - order: 2
+        name_part_type: given-name
+        value: Aleksandr
+      - order: 3
+        name_part_type: father-name
+        value: Andreyevich
+    day_month_year:
+      day: 24
+      month: 11
+      year: 1958
+  justification: Aleksandr Andreyevich Zhdanov is a limited partner in UrSeCo Handels
+    GmbH & Co. KG, a German company that supplies high-purity hydrogen chloride (HCl)
+    produced by Wacker Chemie AG, a critical chemical for semiconductor wafer processing,
+    to LLP “United Trading Group” (Kazakhstan). The founder of LLP “United Trading
+    Group”, Alimzhan Bekov, is also a representative of UrSeCo Handels GmbH & Co.
+    KG.

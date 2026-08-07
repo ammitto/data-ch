@@ -1,0 +1,29 @@
+---
+ssid: '102374'
+sanctions_set_id: '3975'
+individual:
+  identity:
+    ssid: '102376'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Gedo
+      - order: 2
+        name_part_type: given-name
+        value: Hamdan
+      - order: 3
+        name_part_type: further-given-name
+        value: Ahmed
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Abu Nashuk
+  justification: Commander for the North Darfur section of the Rapid Support Forces

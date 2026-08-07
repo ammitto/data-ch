@@ -1,0 +1,49 @@
+---
+ssid: '78991'
+sanctions_set_id: '47225'
+individual:
+  identity:
+    ssid: '78997'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: given-name
+        value: Abdul Baqi
+      - order: 2
+        name_part_type: father-name
+        value: Basir
+      - order: 3
+        name_part_type: family-name
+        value: Awal Shah
+      - order: 4
+        name_part_type: title
+        value: Maulavi
+      - order: 5
+        name_part_type: title
+        value: Mullah
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Abdul Baqi
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Abdul Baqi Haqqani
+    day_month_year:
+      day: 1
+      month: 1
+      year: 1967
+    addresses:
+    - address_details: Afshar Main road Police District 5 near Kabul Education University
+  justification: Governor of Khost and Paktika provinces under the Taliban regime
+    (1996-2001).

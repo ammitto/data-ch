@@ -1,0 +1,33 @@
+---
+ssid: '44283'
+sanctions_set_id: '4387'
+individual:
+  identity:
+    ssid: '44287'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Shakutsin
+      - order: 2
+        name_part_type: given-name
+        value: Aliaksandr
+      - order: 3
+        name_part_type: father-name
+        value: Vasilevich
+    day_month_year:
+      day: 12
+      month: 1
+      year: 1959
+  justification: Aliaksandr Shakutsin is a Belarusian businessman with considerable
+    business interests in Belarus, Russia and other countries. He reaped significant
+    benefits from the Lukashenka regime as the owner and beneficiary of Amkodor Holding.
+    Since the state’s takeover of Amkodor Holding, Aliaksandr Shakutsin continues
+    to benefit from the economic and political capital gained from the Lukashenka
+    regime during his years in Amkodor Holding. Furthermore, he continues to benefit
+    from the regime through his remaining ties to Amkodor Holding and other business
+    interests in Belarus and abroad.

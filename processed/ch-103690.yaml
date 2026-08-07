@@ -1,0 +1,28 @@
+---
+ssid: '103690'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '103695'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Filonov
+      - order: 2
+        name_part_type: given-name
+        value: Viktor
+      - order: 3
+        name_part_type: father-name
+        value: Viktorovich
+    day_month_year:
+      day: 9
+      month: 4
+      year: 1991
+  justification: Viktor Filonov, while serving in the 234th Guards Air Assault Regiment
+    of the 76th Guards Air Assault Division, was involved in Russia’s war crimes against
+    civilians in Bucha and Borodianka, Kyiv Oblast, in February to March 2022.

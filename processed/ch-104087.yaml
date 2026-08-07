@@ -1,0 +1,39 @@
+---
+ssid: '104087'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '104092'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shenzhen Youbang Shida Freight Forwarding Co. Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shen Zhen You Bang Shi Da Freight Forwarding Co. Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shenzhen Youbang Star Freight Forwarding Co. Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Amigo Cargo Services Ltd.
+    addresses:
+    - address_details: Office 711, Building 4, Tongtai Times Centre, Fuhai Str.
+      zip_code: '518100'

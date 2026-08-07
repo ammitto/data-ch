@@ -1,0 +1,25 @@
+---
+ssid: '102070'
+sanctions_set_id: '13065'
+individual:
+  identity:
+    ssid: '102073'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Ebrahimi
+      - order: 2
+        name_part_type: given-name
+        value: Mohsen
+  justification: Mohsen Ebrahimi is the Commander of Iran’s Counter-Terrorism Special
+    Force (NOPO), an entity listed by the Union. NOPO is a subdivision of the Special
+    Units of Iran’s Law Enforcement Forces (LEF). NOPO is a highly trained specialised
+    unit often deployed to dissolve protests. NOPO has used excessive violence and
+    lethal force against unarmed protestors, including women and children. Its human
+    rights violations have been documented throughout various protests, including
+    the nationwide protests in Iran that began in December 2025.

@@ -1,0 +1,29 @@
+---
+ssid: '103209'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '103214'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Chubarykin
+      - order: 2
+        name_part_type: given-name
+        value: Sergey
+      - order: 3
+        name_part_type: father-name
+        value: Viktorovich
+    day_month_year:
+      day: 25
+      month: 8
+      year: 1980
+  justification: Major General Sergey Chubarykin is the Commander of the 76th Guards
+    Air Assault Division, whose troops committed most of the documented atrocities
+    in Bucha, including executions, torture and looting. Those atrocities in Bucha
+    constitute crimes against humanity and war crimes.

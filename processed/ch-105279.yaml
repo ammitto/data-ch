@@ -1,0 +1,30 @@
+---
+ssid: '105279'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105285'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint-Stock Company “Optical-Mechanical Design Bureau ‘Astron’”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC OKB “ASTRON”
+    addresses:
+    - address_details: st. Maryinskaya, 1, room 2
+  justification: JSC OKB “ASTRON” is a Russian company which developed and now manufactures
+    reconnaissance systems with intelligent analytics “Blockpost-4T”, reconnaissance
+    drone UAV400T, capable of ammunition drop and reconnaissance-attack UAV “Kurs-800
+    TB” and FPV attack drones “Granat-KOBE” and “Granat PG”, all of which are used
+    in Russia’s war of aggression against Ukraine. JSC OKB “ASTRON” is part of the
+    Shvabe holding of Rostec State Corporation.

@@ -1,0 +1,29 @@
+---
+ssid: '61315'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '61318'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Osmakov
+      - order: 2
+        name_part_type: given-name
+        value: Vasiliy
+      - order: 3
+        name_part_type: father-name
+        value: Sergeevich
+    day_month_year:
+      day: 8
+      month: 6
+      year: 1983
+  justification: Vasiliy Osmakov is the Deputy Minister of Defence of the Russian
+    Federation. He was Deputy Minister of Industry and Trade of the Russian Federation
+    from 2016 to 2021, and First Deputy Minister of the Ministry of Industry and Trade
+    from 2021 to 2025.

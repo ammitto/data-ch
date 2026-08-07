@@ -1,0 +1,36 @@
+---
+ssid: '105317'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105326'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Volgaburmash Joint Stock Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Volgaburmash AO
+      - order: 2
+        name_part_type: whole-name
+        value: Volgaburmash JSC
+    addresses:
+    - address_details: Ul. Groznenskaya D. 1
+      zip_code: '443004'
+  justification: Volgaburmash AO, company based in Samara in the Samara Oblast, is
+    an integral part of the Russian oil and gas drilling industry, a sector of strategic
+    importance for the Russian Federation and a substantial source of revenue for
+    the Government of the Russian Federation. Volgaburmash AO is a leading manufacturer
+    of drill bits and machinery for the Russian oil and gas drilling sector and currently
+    holds the position of market leader and key supplier within the sector in the
+    Russian Federation. Volgaburmash AO also manufactures drill bits for mineral mining
+    (including coal) and the construction industry.

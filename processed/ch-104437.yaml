@@ -1,0 +1,46 @@
+---
+ssid: '104437'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104443'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint Stock Company Oil and Gas Company “Slavneft”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Slavneft
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC NGK Slavneft
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Oil and Gas Company “Slavneft”
+    addresses:
+    - address_details: 4th Lesnoy Lane, Building 4
+      zip_code: '125047'
+  justification: PJSC Slavneft is a Russian company active in the energy sector. PJSC
+    Slavneft engages in oil and gas extraction and refining. The energy sector, especially
+    the oil and gas sectors, provides a substantial source of revenue to the Government
+    of the Russian Federation. Therefore, PJSC Slavneft is involved in an economic
+    sector providing a substantial source of revenue to the Government of the Russian
+    Federation, which is responsible for the annexation of Crimea and the destabilisation
+    of Ukraine.

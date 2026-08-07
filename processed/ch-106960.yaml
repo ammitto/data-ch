@@ -1,0 +1,42 @@
+---
+ssid: '106960'
+sanctions_set_id: '71360'
+individual:
+  identity:
+    ssid: '106964'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Hamad
+      - order: 2
+        name_part_type: given-name
+        value: Fathi
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Hammad
+      - order: 2
+        name_part_type: given-name
+        value: Fathi Ahmad
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Hamad
+      - order: 2
+        name_part_type: given-name
+        value: Fathy Ahmed
+    day_month_year:
+      year: 1961
+  justification: Fathi Hamad has been a member of the Politburo since 2017. As a member
+    of that decision-making body, he is responsible for violent actions by Hamas.

@@ -1,0 +1,27 @@
+---
+ssid: '101681'
+sanctions_set_id: '68945'
+individual:
+  identity:
+    ssid: '101683'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Radfar
+      - order: 2
+        name_part_type: given-name
+        value: Amir
+    day_month_year:
+      day: 22
+      month: 12
+      year: 1971
+  justification: Amir Radfar is the director of Shahid Bagheri Industrial Group (SBIG).
+    SBIG manufactures solid-fuel ballistic missiles and is a subsidiary of the EU-listed
+    Aerospace Industries Organization (AIO), which oversees the development and production
+    of Iran’s ballistic missiles. Amir Radfar is therefore involved in Iran’s missile
+    programme.

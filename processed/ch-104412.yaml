@@ -1,0 +1,20 @@
+---
+ssid: '104412'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '104417'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Tellur Elektroniks LLC
+    addresses:
+    - address_details: Building 1, Profsoyuznaya Str. 65, Konkovo District
+      zip_code: '117342'
+    - address_details: Room 49, Floor 4, Butlerova Str. 17
+      zip_code: '117342'

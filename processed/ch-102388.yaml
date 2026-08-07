@@ -1,0 +1,29 @@
+---
+ssid: '102388'
+sanctions_set_id: '3975'
+individual:
+  identity:
+    ssid: '102390'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Al-Fateh
+      - order: 2
+        name_part_type: given-name
+        value: Abdullah
+      - order: 3
+        name_part_type: further-given-name
+        value: Idris
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Abu Lulu
+  justification: Brigadier General of Rapid Support Forces

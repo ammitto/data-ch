@@ -1,0 +1,31 @@
+---
+ssid: '105821'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105824'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Technodron
+    day_month_year:
+      day: 3
+      month: 5
+      year: 2024
+    addresses:
+    - address_details: municipal district Arbat, Novy Arbat str. 30/9, premises. 2Н
+      zip_code: '121099'
+  justification: JSC “Technodron” develops and manufactures first-person view (FPV)
+    drones of the Skvorec (a.k.a. Skvorets, Starling) family. With the support of
+    the Center for Unmanned Systems and Technologies, this product is constantly being
+    developed to expand the range of tasks to be solved. Since 2024, drones Skvorec-7,
+    Skvorec-10, Skvorec-Z and Skvorec-PRO have been used by the Russian forces in
+    the Russia’s war of aggression against Ukraine. By order of the Russian Navy,
+    the company developed the “Starling of the Navy” (Skvorec Navy) for water area
+    related tasks. JSC “Technodron” is therefore materially supporting Russia’s military
+    and industrial complex.

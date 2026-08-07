@@ -1,0 +1,35 @@
+---
+ssid: '106946'
+sanctions_set_id: '71360'
+individual:
+  identity:
+    ssid: '106950'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Jabarin
+      - order: 2
+        name_part_type: given-name
+        value: Zaher
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Jabareen
+      - order: 2
+        name_part_type: given-name
+        value: Zaher
+    day_month_year:
+      day: 18
+      month: 9
+      year: 1968
+  justification: Zaher Jabarin has been a member of the Politburo since 2021. As a
+    member of that decision-making body, he is responsible for violent actions by
+    Hamas.

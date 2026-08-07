@@ -1,0 +1,26 @@
+---
+ssid: '103480'
+sanctions_set_id: '13065'
+individual:
+  identity:
+    ssid: '103484'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Yekta
+      - order: 2
+        name_part_type: given-name
+        value: Hossein
+    day_month_year:
+      day: 27
+      month: 11
+      year: 1967
+  justification: Hossein Yekta is a senior Commander of the Islamic Revolutionary
+    Guard Corps (IRGC) who acts as a recruiter and indoctrinator for the IRGC. During
+    the protests that started in December 2025, he publicly supported the shooting
+    of peaceful demonstrators.

@@ -1,0 +1,30 @@
+---
+ssid: '104491'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104499'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Gazprom Flot”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Gazprom Flot LLC
+    addresses:
+    - address_details: Prospekt Vernadskogo d. 41 str. 1
+  justification: LLC Gazprom Flot is a leading company in the Russian energy sector.
+    The company is involved in drilling services related to the production of oil
+    and gas, as well as transportation and regasification of LNG, construction and
+    operation of floating drilling rigs and specialised vessels. The energy sector,
+    especially the oil and gas sectors, provides a substantial source of revenue to
+    the Government of the Russian Federation.

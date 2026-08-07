@@ -1,0 +1,32 @@
+---
+ssid: '104470'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104476'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Slavneft-Yanos
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Slavneft-Yaroslavnefteorgsintez
+    addresses:
+    - address_details: Moskovsky prospect, b. 130
+      zip_code: '150023'
+  justification: PJSC Slavneft-Yanos is a Russian company active in the energy sector.
+    PJSC Slavneft-Yanos engages in oil refining and controls a processing plant owned
+    by PJSC Slavneft. The energy sector, especially the oil and gas sectors, provides
+    a substantial source of revenue to the Government of the Russian Federation. Therefore,
+    PJSC Slavneft-Yanos is involved in an economic sector providing a substantial
+    source of revenue to the Government of the Russian Federation, which is responsible
+    for the annexation of Crimea and the destabilisation of Ukraine.

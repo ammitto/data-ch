@@ -1,0 +1,33 @@
+---
+ssid: '51272'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '51277'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Pumpyansky
+      - order: 2
+        name_part_type: given-name
+        value: Alexander
+      - order: 3
+        name_part_type: father-name
+        value: Dmitrievich
+    day_month_year:
+      day: 16
+      month: 5
+      year: 1987
+  justification: Alexander Pumpyansky is the son of Dmitry Pumpyansky. Dmitry Pumpyansky
+    is the former Chairman of the board of directors of TMK PAO and the former President
+    and a former board member of Group Sinara. In those capacities, he supported and
+    benefitted from cooperation with authorities of the Russian Federation and state-owned
+    enterprises, including Russian railways, Gazprom and Rosneft. Irrespective of
+    the purported sale of TMK and Group Sinara, he still has ongoing links with those
+    companies and has seen his financial worth increase considerably in the last two
+    years.

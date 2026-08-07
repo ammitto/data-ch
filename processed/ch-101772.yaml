@@ -1,0 +1,28 @@
+---
+ssid: '101772'
+sanctions_set_id: '68945'
+entity:
+  identity:
+    ssid: '101778'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Pishgaman Tejarat Rafi Novin Co.
+    day_month_year:
+      day: 10
+      month: 12
+      year: 2007
+    addresses:
+    - address_details: Leyzan Hossein Abad Javanshir Street, Corner of Ordibehesht
+        St., No. 10
+      zip_code: '166993356'
+  justification: Pishgaman Tejarat Rafi Novin Co. is a private company with links
+    to entities involved in Iran’s missile programme. Pishgaman Tejarat Rafi Novin
+    Co. has procured significant amounts of ammonium perchlorate, a key propellant
+    for solid-fuel missiles, from foreign suppliers for Iran’s missile programme.
+    Pishgaman Tejarat Rafi Novin Co. is therefore involved in Iran’s missile programme.

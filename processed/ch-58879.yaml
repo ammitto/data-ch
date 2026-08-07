@@ -1,0 +1,34 @@
+---
+ssid: '58879'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '58887'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC VOSTOCHNAIA VERF
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: VOSTOCHNAYA VERF JSC
+    day_month_year:
+      day: 6
+      month: 8
+      year: 1994
+    addresses:
+    - address_details: st. Heroes of the Pacific 1
+  justification: JSC VOSTOCHNAIA VERF is a Russian shipbuilding company. It is also
+    known to be co-manufacturer of specific types of mine-sweeping boats, a variety
+    of landing craft (such as Project 11770). Public sources indicate that some landing
+    craft produced by JSC VOSTOCHNAIA VERF were used during Russia’s war of aggression
+    against Ukraine. JSC VOSTOCHNAIA VERF provides manufactured landing craft to the
+    Russian Armed Forces which are used in the war of aggression against Ukraine.

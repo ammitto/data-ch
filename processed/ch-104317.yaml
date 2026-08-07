@@ -1,0 +1,42 @@
+---
+ssid: '104317'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104327'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Ryazan Oil Refinery
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RNPK
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RORC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Ryazan Oil Refinery
+    addresses:
+    - address_details: Yuzhny Promuzel street, 8
+      zip_code: '390011'
+  justification: JSC Ryazan Oil Refinery is a Russian entity operating an oil refinery
+    in the city of Ryazan. The energy sector, in particular the oil sector, is a sector
+    providing a substantial source of revenue to the Government of the Russian Federation.

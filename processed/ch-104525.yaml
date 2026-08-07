@@ -1,0 +1,30 @@
+---
+ssid: '104525'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104534'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Gazpromneft Marine Bunker Limited
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Gazpromneft Marine Bunker Limited
+    addresses:
+    - address_details: Block R, 80 Bolshoi prospect, Vasilyevski island
+      zip_code: '199106'
+  justification: LLC Gazpromneft Marine Bunker Limited is a Russian shipping company
+    based in the Russian Federation. It manages tankers that transport crude oil or
+    petroleum products, originating in Russia or exported from Russia, while practicing
+    irregular and high-risk shipping practices as set out in the International Maritime
+    Organization General Assembly resolution A.1192(33).

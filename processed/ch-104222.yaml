@@ -1,0 +1,19 @@
+---
+ssid: '104222'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '104228'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Finder Technology Ltd.
+    addresses:
+    - address_details: Camel Paint Building Block 3, 60 Hoi Yuen Rd, Kwun Tong
+    - address_details: "Unit A, \n7/F, Yeung Yiu Chung, No. 7 Industrial Building,
+        2 Fung Yip Street, Chai Wan"

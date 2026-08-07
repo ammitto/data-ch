@@ -1,0 +1,51 @@
+---
+ssid: '103769'
+sanctions_set_id: '47224'
+individual:
+  identity:
+    ssid: '103771'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: given-name
+        value: Hamida
+      - order: 2
+        name_part_type: family-name
+        value: Nabaggala
+    - name_type: alias
+      quality: low
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Nabaggala
+    - name_type: alias
+      quality: low
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Nabaggaka
+    - name_type: alias
+      quality: low
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Hamida
+    - name_type: alias
+      quality: low
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Hamidah
+    day_month_year:
+      day: 23
+      month: 2
+      year: 1989
+    addresses:

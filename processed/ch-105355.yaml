@@ -1,0 +1,24 @@
+---
+ssid: '105355'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105363'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: CJSC TengriCoin
+    addresses:
+    - address_details: 77/1, Tunguch Microdistrict
+      zip_code: '720000'
+  justification: CJSC TengriCoin is a Kyrgyzstani company operating the Meer platform.
+    Meer is a major platform for trading the stablecoin A7A5, which is collateralised
+    by Promsvyazbank, a Russian state-owned institution. For every ruble spent on
+    A7A5, an equivalent sum is deposited into Promsvyazbank, thereby increasing the
+    state-owned institution’s capital. A7A5 was developed by Limited Liability Company
+    A7 and Limited Liability Company Old Vector.

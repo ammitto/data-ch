@@ -1,0 +1,25 @@
+---
+ssid: '102088'
+sanctions_set_id: '13065'
+entity:
+  identity:
+    ssid: '102093'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Iranian Audio-Visual Media Regulatory Authority (SATRA)
+    day_month_year:
+      year: 2016
+    addresses:
+    - address_details: No. 234, Motahari St.
+  justification: The Audio-Visual Media Regulatory Authority (SATRA) is a government
+    body that is responsible for monitoring online and video content published in
+    Iran, including entertainment products shown on privately owned streaming platforms.
+    SATRA operates under the supervision of the state broadcaster Islamic Republic
+    of Iran Broadcasting (IRIB) and is therefore associated with IRIB, an entity listed
+    by the Union.

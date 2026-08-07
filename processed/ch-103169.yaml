@@ -1,0 +1,31 @@
+---
+ssid: '103169'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '103173'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Tolmachev
+      - order: 2
+        name_part_type: given-name
+        value: Aleksey
+      - order: 3
+        name_part_type: father-name
+        value: Nikolaevich
+    day_month_year:
+      day: 23
+      month: 4
+      year: 1980
+  justification: Colonel Aleksey Tolmachev, the Commander of the 104th Airborne Assault
+    Regiment of the 76th Guards Air Assault Division, participated in Russia’s invasion
+    of Ukraine. From February to April 2022, he commanded the 104th Airborne Assault
+    Regiment as part of the “Vostok” group of forces. His area of operations was the
+    western part of Kyiv Oblast. Units subordinate to Aleksey Tolmachev were involved
+    in committing war crimes against civilians in the cities of Bucha and Irpen.

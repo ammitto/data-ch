@@ -1,0 +1,29 @@
+---
+ssid: '104876'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104887'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Special Design Technology Bureau Kurganpribor”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “STDB ‘Kurganpribor’”
+    addresses:
+    - address_details: Yastrzhembsky Street, 41a
+      zip_code: '640007'
+  justification: Joint Stock Company “Special Design Technology Bureau Kurganpribor”
+    is part of JSC “NPO ‘Kurganpribor’” as a separate design and research division
+    that produces a wide range of products for the defence industry. It develops products
+    such as sensors for air-to-air and air-to-surface missiles.

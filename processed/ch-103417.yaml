@@ -1,0 +1,22 @@
+---
+ssid: '103417'
+sanctions_set_id: '13065'
+entity:
+  identity:
+    ssid: '103420'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Mohammad Rasulullah Corps
+    addresses:
+    - address_details: Niayesh Highway
+  justification: The Mohammad Rasulullah Corps is responsible for coordinating Islamic
+    Revolutionary Guard Corps (IRGC) and Basij forces in Tehran. Those forces have
+    been involved in the violent repression of demonstrations, including during the
+    nationwide protests in Iran that began in December 2025 where IRGC and Basij forces
+    opened fire on protesters, resulting in deaths and injuries.

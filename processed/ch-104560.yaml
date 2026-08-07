@@ -1,0 +1,26 @@
+---
+ssid: '104560'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104566'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LUKOIL–NIZHNEVOLZHSKNEFT
+    addresses:
+    - address_details: Ul. admiralteiskaya d. 1, korp. 2
+      zip_code: '414000'
+  justification: Lukoil Nizhnevolzhskneft is an entity operating two oil platforms
+    in the Caspian Sea. It extracts oil from the Korchagin and Filanovsky oil fields.
+    Filanovsky oil field is one of the biggest oil fields in Russia. The energy sector,
+    especially the oil and gas sectors, provides a substantial source of revenue to
+    the Government of the Russian Federation. Therefore, Lukoil Nizhnevolzhskneft
+    is involved in an economic sector providing a substantial source of revenue to
+    the Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

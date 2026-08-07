@@ -1,0 +1,38 @@
+---
+ssid: '103574'
+sanctions_set_id: '13065'
+individual:
+  identity:
+    ssid: '103578'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Shirazi
+      - order: 2
+        name_part_type: given-name
+        value: Ali
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Hojjatoleslam Ali Shirazi
+    day_month_year:
+      year: 1962
+  justification: Ali Shirazi is the Head of the Political Ideology Organization of
+    the Law Enforcement Forces of the Islamic Republic of Iran (FARAJA) and former
+    Representative of the Supreme Leader in the Sarallah headquarters of the Islamic
+    Revolutionary Guard Corps (IRGC). Within the organisational structure of the FARAJA,
+    the Political Ideology Organization plays a central role by promoting the ideological
+    indoctrination of the security forces. The FARAJA has repeatedly played a key
+    role in violently suppressing peaceful protests, and is therefore responsible
+    for widespread human rights violations. In addition, during Ali Shirazi’s tenure
+    in the IRGC’s Sarallah headquarters, a plan was established granting security
+    forces the authority to kill and to rapidly escalate to lethal force in the event
+    of protest.

@@ -1,0 +1,34 @@
+---
+ssid: '105780'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105784'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company SKB Stankostroenie
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC SKB Stankostroenie
+    day_month_year:
+      day: 28
+      month: 8
+      year: 2012
+    addresses:
+    - address_details: 453130, Gogol St., 124.
+  justification: 'LLC SKB STANKOSTROENIE produces metalworking equipment, including
+    CNC lathes and milling machines, multifunctional machining centres, such as 400V
+    metalworking and cutting tools. The entity sells its products to various Russian
+    enterprises, including ODK-UMPO (PJSC UEC-UMPO), the main producers of turbojet
+    aircraft engines: Su-27 family aircraft (AL-31F engine), Su-30 (engines AL-31F
+    and AL-31FP), Su-25 (R-95Sh and R-195), Su-35S (AL-41F-1S), Su-57 (AL-41F-1).'

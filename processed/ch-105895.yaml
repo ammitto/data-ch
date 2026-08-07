@@ -1,0 +1,30 @@
+---
+ssid: '105895'
+sanctions_set_id: '3975'
+individual:
+  identity:
+    ssid: '105897'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Botero
+      - order: 2
+        name_part_type: family-name
+        value: Duque
+      - order: 3
+        name_part_type: given-name
+        value: Andres
+      - order: 4
+        name_part_type: further-given-name
+        value: Mateo
+    day_month_year:
+      day: 7
+      month: 4
+      year: 1975
+    addresses:
+    - address_details: Calle 77 9 76 APT 302

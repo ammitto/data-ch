@@ -1,0 +1,28 @@
+---
+ssid: '106156'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '106160'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Jinmingsheng Technology HK Co. Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Jinmingsheng Technology (HK) Co. Ltd.
+    addresses:
+    - address_details: Room 803B, Floor 8, West Coast International Building, 290-296
+        Yuen Chau Str., Cheung Sha Wan, Kowloon
+    - address_details: Room 1838, Guoli Building, Zhonghang Road, Futian District
+    - address_details: Room 61868 6/F, Golconda Trade Center, 163 Zhenhua Rd, Futian
+        District

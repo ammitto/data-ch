@@ -1,0 +1,33 @@
+---
+ssid: '79666'
+sanctions_set_id: '47225'
+individual:
+  identity:
+    ssid: '79669'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: given-name
+        value: Azizirahman
+      - order: 2
+        name_part_type: family-name
+        value: Abdul Ahad
+      - order: 3
+        name_part_type: title
+        value: Mr
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Azizurahman Abdul Ahad
+    day_month_year:
+      year: 1972
+    addresses:
+  justification: Third Secretary, Taliban Embassy, Abu Dhabi, United Arab Emirates
+    (1996-2001).

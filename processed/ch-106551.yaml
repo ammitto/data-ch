@@ -1,0 +1,22 @@
+---
+ssid: '106551'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '106559'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Regional Branch of DOSAAF Russia in the City of Sevastopol
+    addresses:
+    - address_details: 15 General Ostryakov Avenue
+      zip_code: '299029'
+  justification: The DOSAAF Centre in Sevastopol operates several military-patriotic
+    clubs, educational initiatives, and youth organisations in the temporarily occupied
+    territory of Ukraine. The centre was directly created and is supported by the
+    President of the Russian Federation.

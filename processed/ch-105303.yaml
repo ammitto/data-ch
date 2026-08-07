@@ -1,0 +1,30 @@
+---
+ssid: '105303'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105312'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Ecoprom”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “ECOPROM”
+    addresses:
+    - address_details: st. Bazarnaya, 126, office 5
+      zip_code: '392000'
+  justification: LLC “Ecoprom” is a Russian company which manufactures first person
+    view (FPV) unmanned aerial vehicles (UAVs) of Bekas series, including models Bekas-700,
+    Bekas-2500, Bekas-3500, Bekas-4500. All these UAVs are used in Russia’s war of
+    aggression against Ukraine. LLC “Ecoprom” also manufactures special kits for its
+    UAVs of Bekas series.

@@ -1,0 +1,41 @@
+---
+ssid: '103602'
+sanctions_set_id: '13065'
+individual:
+  identity:
+    ssid: '103605'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Ghiasi
+      - order: 2
+        name_part_type: given-name
+        value: Seyed
+      - order: 3
+        name_part_type: further-given-name
+        value: Hashem
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Hashem Ghiasi
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Hashem Ghiyasi
+  justification: Seyed Hashem Ghiasi is the Commander of the Imam Reza Islamic Revolutionary
+    Guard Corps, the local branch of the Islamic Revolutionary Guard Corps (IRGC)
+    in Khorasan Razavi Province. Under his command, IRGC and Basij forces in Khorasan
+    Razavi Province have been involved in the violent repression of demonstrations,
+    including during the nationwide protests in Iran that began in December 2025 where
+    IRGC forces opened fire on protesters, resulting in deaths and injuries.

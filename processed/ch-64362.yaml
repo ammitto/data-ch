@@ -1,0 +1,32 @@
+---
+ssid: '64362'
+sanctions_set_id: '39362'
+individual:
+  identity:
+    ssid: '64367'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Myint Kyaing
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: U Myint Kyaing
+    day_month_year:
+      day: 17
+      month: 4
+      year: 1957
+  justification: Myint Kyaing has been the Union Minister for Immigration and Population
+    since 19 August 2021. Before that, he was Union Minister of Labour following the
+    coup of 1 February 2021. He was a member of the State Administration Council (SAC)
+    until its dissolution on 31 July 2025, led by Commander-in-Chief Min Aung Hlaing,
+    which took over the legislative, executive and judicial powers of the State in
+    a military coup on 1 February 2021.

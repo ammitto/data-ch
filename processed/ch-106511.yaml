@@ -1,0 +1,47 @@
+---
+ssid: '106511'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '106516'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: KingMax Hobby Co. Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: KingMax High Performance Servos
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Dongguan Binong Technology Co. Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Dongguan Binong Aviation Paishe Technology Co. Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Guangdong Beyond Aviation Photography Technology Co. Ltd
+    addresses:
+    - address_details: Room 703, 10th Building, No. 6 DuiTangHualing 1st Road, Chashan
+        Town
+      zip_code: '523393'

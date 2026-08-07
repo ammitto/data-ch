@@ -1,0 +1,25 @@
+---
+ssid: '104421'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '104426'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPP Variant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC NPP Variant Group
+    addresses:
+    - address_details: Room 1/2, Building 1, Baumanskaya Str. 43/1
+      zip_code: '105005'

@@ -1,0 +1,31 @@
+---
+ssid: '45316'
+sanctions_set_id: '39362'
+individual:
+  identity:
+    ssid: '45319'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Win Shein
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: U Win Shein
+    day_month_year:
+      day: 31
+      month: 7
+      year: 1957
+    addresses:
+    - address_details: Myananyadanar
+  justification: Win Shein was the Deputy Prime Minister from 1 February 2023 to 31
+    July 2025 and the Minister for Planning and Finance in the Union Government from
+    1 February 2021 to 31 July 2025 appointed by Commander-in-Chief Min Aung Hlaing.

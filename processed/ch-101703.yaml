@@ -1,0 +1,27 @@
+---
+ssid: '101703'
+sanctions_set_id: '68945'
+individual:
+  identity:
+    ssid: '101706'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Anbaran
+      - order: 2
+        name_part_type: given-name
+        value: Armin Ghorsi
+    day_month_year:
+      day: 21
+      month: 9
+      year: 1983
+  justification: Armin Ghorsi Anbaran is a Board Member and shareholder of Fanavaran
+    Sanat Ertebatat Company (FSE). FSE is a private company supplying critical electronic
+    components and jam-resistance guidance systems to the Islamic Revolutionary Guard
+    Corps Research and Self-Sufficiency Jihad Organisation (IRGC SSJO) and thereby
+    is involved in Iran’s unmanned aerial vehicle (UAV) programme.

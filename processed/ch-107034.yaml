@@ -1,0 +1,28 @@
+---
+ssid: '107034'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '107040'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Bondareva
+      - order: 2
+        name_part_type: given-name
+        value: Aleksandra
+      - order: 3
+        name_part_type: father-name
+        value: Aleksandrovna
+    day_month_year:
+      day: 4
+      month: 8
+      year: 1968
+  justification: Aleksandra Bondareva is the Ombudsman for Children’s Rights in the
+    Astrakhan Oblast of the Russian Federation, responsible for overseeing the welfare
+    of minors within the region.

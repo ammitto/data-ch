@@ -1,0 +1,26 @@
+---
+ssid: '105434'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105442'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “AEROMAKS”
+    addresses:
+    - address_details: Milyutinsky per., 13, building 1, 5th floor
+      zip_code: '101000'
+  justification: LLC “AEROMAKS” develops software for drones to perform various aviation
+    operation including aerial photography, collection, processing, and preparation
+    of cartographic data and space information. It is also a manufacturer of helicopter
+    type drones of SH-3000/-750/-450/-350, and in general develops 11 types of drones.
+    In 2023 the company opened its own Aviation Training Centre approved by the Ministry
+    of Labour of the Russian Federation. By the end of 2024 the company had 13 government
+    contracts signed and Gazprom Neft, Russian Post and Moscow City Department of
+    Information Technology were among its customers.

@@ -1,0 +1,34 @@
+---
+ssid: '106530'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '106537'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: All Russian Children’s Centre “Smena”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Budgetary Educational Institution All Russian Children’s
+          Centre “Smena”
+    day_month_year:
+      day: 1
+      month: 6
+      year: 1985
+    addresses:
+    - address_details: Territory of VDC “Smena”, building 1
+      zip_code: '353407'
+  justification: All Russian Children’s Centre “Smena” is a facility linked to the
+    Russian Ministry of Education, which hosts Ukrainian minors forcibly transferred
+    from occupied territories, where they are subject to ideological indoctrination,
+    “Russification”, and militarised-style education.

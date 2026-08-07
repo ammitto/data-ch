@@ -1,0 +1,38 @@
+---
+ssid: '104550'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104555'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AFIPSKY OIL REFINERY
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Afip
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Афипский НПЗ
+    addresses:
+    - zip_code: '353236'
+  justification: Afipsky Oil Refinery is one of the largest refineries in southern
+    Russia with an annual processing capacity of 6,25  million tons. It produces gasoline,
+    diesel and aviation fuel. The energy sector, especially the oil and gas sectors,
+    provide a substantial source of revenue to the Government of the Russian Federation.
+    Therefore, Afipsky Oil Refinery is involved in an economic sector providing a
+    substantial source of revenue to the Government of the Russian Federation, which
+    is responsible for the annexation of Crimea and the destabilisation of Ukraine.

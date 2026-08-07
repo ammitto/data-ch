@@ -1,0 +1,30 @@
+---
+ssid: '105483'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '105489'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Strelchenko
+      - order: 2
+        name_part_type: given-name
+        value: Alexey
+      - order: 3
+        name_part_type: father-name
+        value: Alekseyevich
+    day_month_year:
+      day: 10
+      month: 8
+      year: 1955
+  justification: Alexey Strelchenko is the CEO and General Director of JSC Perspective
+    Technologies Agency (UPT), a manufacturing and information technology company
+    which fulfils contracts on behalf of entities within the government of the Russian
+    Federation. The company is a manufacturer of weapons and ammunition and is also
+    a leading company in Russia in the development of fibre-optic technology.

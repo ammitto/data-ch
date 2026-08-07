@@ -1,0 +1,32 @@
+---
+ssid: '106900'
+sanctions_set_id: '71360'
+individual:
+  identity:
+    ssid: '106903'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Nazzal
+      - order: 2
+        name_part_type: given-name
+        value: Mohammad
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Rahman
+      - order: 2
+        name_part_type: given-name
+        value: Muhammad Essam Rizk Abdul
+    day_month_year:
+      year: 1963
+  justification: Mohammad Nazzal has been a member of the Politburo 1996. As a member
+    of that decision-making body, he is responsible for violent actions by Hamas.

@@ -1,0 +1,28 @@
+---
+ssid: '105367'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105372'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LIBSS LLC
+    day_month_year:
+      day: 27
+      month: 9
+      year: 2021
+    addresses:
+    - address_details: Vernadsky Prospekt, 21, Building 1
+      zip_code: '119331'
+  justification: LIBBS LLC is a front company for JSC IEMZ Kupol, a subsidiary of
+    Russian state-owned arms company Almaz-Antey. It has acted as an intermediary
+    between Kupol and Chinese suppliers manufacturing long-range attack drones of
+    the type Garpiya-A1, which are developed and produced for use in Russia’s war
+    of aggression against Ukraine. Therefore, LIBBS LCC is materially supporting Russia’s
+    military and industrial complex.

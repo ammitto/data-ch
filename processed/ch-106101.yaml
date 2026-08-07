@@ -1,0 +1,18 @@
+---
+ssid: '106101'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '106107'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Meryn Dis Ticaret Limited Sirketi
+    addresses:
+    - address_details: No. 18, 1471st Str., Alsancak
+      zip_code: '35220'

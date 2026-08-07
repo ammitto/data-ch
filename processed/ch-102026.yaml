@@ -1,0 +1,30 @@
+---
+ssid: '102026'
+sanctions_set_id: '13065'
+individual:
+  identity:
+    ssid: '102029'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Sheykhi
+      - order: 2
+        name_part_type: given-name
+        value: Morteza
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Morteza Sheikhi
+  justification: Morteza Sheykhi has been Commander of the Islamic Revolutionary Guard
+    Corps (IRGC) in Azna County, Lorestan Province, since 2024. Under his command,
+    IRGC forces in Azna County have been involved in the violent repression of demonstrations,
+    including during the nationwide protests in Iran that began in December 2025,
+    where IRGC forces opened fire on protesters, resulting in deaths and injuries.

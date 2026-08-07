@@ -1,0 +1,23 @@
+---
+ssid: '44867'
+sanctions_set_id: '39362'
+individual:
+  identity:
+    ssid: '44869'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Ye Win Oo
+    day_month_year:
+      day: 21
+      month: 2
+      year: 1966
+  justification: Lieutenant General Ye Win Oo is a member of the Myanmar Armed Forces
+    (Tatmadaw) and was the Joint Secretary of the State Administration Council (SAC)
+    until it was replaced by the State Security and Peace Commission (SSPC). He has
+    been serving as Secretary of the SSPC since it replaced the SAC.

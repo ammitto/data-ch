@@ -1,0 +1,46 @@
+---
+ssid: '104239'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '104242'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shanghai Welltech Electronic Trading Co. Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shanghai Weierstai Electronic Trading Co. Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shanghai Weiter Stein Electronic Trading Co. Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shanghai Weiersite Electronic Trading Co. Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shanghai Welltech Industrial Automation Co. Ltd.
+    addresses:
+    - address_details: Room 707, No. 1333 Wenju Road, Pilot Free Trade Zone, Pudong
+        New Area

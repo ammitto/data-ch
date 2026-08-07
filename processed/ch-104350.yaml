@@ -1,0 +1,40 @@
+---
+ssid: '104350'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104356'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Upravlenie Otgruzok
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Upravlenie Otgruzok
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Shipment Management”
+    addresses:
+    - address_details: Moskovskiy Blvd, b. 130
+      zip_code: '150001'
+  justification: JSC Upravlenie Otgruzok is a Russian company that is active in the
+    energy sector and part of PJSC Slavneft. JSC Upravlenie Otgruzok provides oil
+    transport and logistic services to PJSC Slavneft. The energy sector, especially
+    the oil and gas sectors, provides a substantial source of revenues to the Government
+    of the Russian Federation. Therefore, JSC Upravlenie Otgruzok is involved in an
+    economic sector providing a substantial source of revenue to the Government of
+    the Russian Federation, which is responsible for the annexation of Crimea and
+    the destabilisation of Ukraine.

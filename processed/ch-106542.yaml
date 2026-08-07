@@ -1,0 +1,29 @@
+---
+ssid: '106542'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '106547'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Avangard Military Camp
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Avangard Military-Patriotic Training Centre
+    addresses:
+  justification: Avangard Military Camp is a facility linked to the authorities of
+    the Russian Federation which hosts Ukrainian minors transferred from occupied
+    territories of Ukraine. These children are placed in environments where they are
+    exposed to programmes aligned with Russian state policies, including political
+    indoctrination and activities consistent with militarised and cadet-style education
+    frameworks, such as military training and discipline.

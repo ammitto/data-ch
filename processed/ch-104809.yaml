@@ -1,0 +1,31 @@
+---
+ssid: '104809'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '104814'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Anisimov
+      - order: 2
+        name_part_type: given-name
+        value: Anton
+      - order: 3
+        name_part_type: father-name
+        value: Sergeevich
+    day_month_year:
+      day: 19
+      month: 2
+      year: 1985
+  justification: Anton Anisimov is a prominent figure in Russia’s state-controlled
+    international media. He is the Deputy Editor-in-Chief of Russia Today, the Head
+    of International Broadcasting of Sputnik News Agency and Radio, and the Editor-in-Chief
+    of Sputnik News Agency and Radio. In his roles at Sputnik and Russia Today, Anton
+    Anisimov is responsible for spreading disinformation related to Ukraine and promoting
+    false pro-Kremlin narratives about Russia’s invasion of Ukraine.

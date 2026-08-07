@@ -1,0 +1,26 @@
+---
+ssid: '104449'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '104456'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Slavneft-Krasnoyarskneftegaz
+    addresses:
+    - address_details: Anatoliy Gladkov Str., b. 2A
+      zip_code: '660016'
+  justification: LLC Slavneft-Krasnoyarskneftegaz is a Russian company active in the
+    energy sector, in particular in the Krasnoyarskiy Kray. LLC Slavneft-Krasnoyarskneftegaz
+    engages in oil refining, and is part of the structure of PJSC Slavneft. The energy
+    sector, especially the oil and gas sectors, provides a substantial source of revenue
+    to the Government of the Russian Federation. Therefore, LLC Slavneft-Krasnoyarskneftegaz
+    is involved in an economic sector providing a substantial source of revenue to
+    the Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

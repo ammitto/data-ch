@@ -1,0 +1,32 @@
+---
+ssid: '105028'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105040'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Krasnoyarsk machine-building plant”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Krasnoyarsk Machine-Building Plant”
+      - order: 2
+        name_part_type: whole-name
+        value: JSC “Krasmash”
+    addresses:
+    - address_details: Im. Gazety “Krasnoyarsky Rabochy” avenue, 29
+      zip_code: '660123'
+  justification: JSC “Krasnoyarsk Machine-Building Plant” is a Russian machine-building
+    company. One of the activities of JSC “Krasnoyarsk Machine-Building Plant” is
+    the production of ballistic missiles and modules for carrier rockets. JSC “Krasnoyarsk
+    Machine-Building Plant” produces the ballistic missile RS-28 “Sarmat”.

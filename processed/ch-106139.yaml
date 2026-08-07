@@ -1,0 +1,27 @@
+---
+ssid: '106139'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '106144'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RC-All Electronics Group Co. Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: R&C Alliance Electronics Group
+    addresses:
+    - address_details: Unit 811, Beverley Commercial Centre, 87-105 Chatham Road South,
+        Tsim Sha Tsui, Kowloon
+    - address_details: Room 12A1, Block A, Zhonghangbeiyuan Building, No. 42 Zhonghang
+        Road, Futian District

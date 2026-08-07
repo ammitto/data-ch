@@ -1,0 +1,26 @@
+---
+ssid: '105464'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '105465'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “SCIENTIFIC AND PRODUCTION ASSOCIATION ‘ANDROID TECHNOLOGY’”
+    addresses:
+    - address_details: 21 Murmanskiy Side St
+      zip_code: '455048'
+    - address_details: 3 Grayvoronovskaya st.
+      zip_code: '109518'
+  justification: JSC “Scientific and Production Association ‘Android Technology’”
+    develops and manufactures unmanned ground-based robots and unmanned aerial vehicles.
+    One of them is an unmanned reconnaissance and strike vehicle “Marker”. The first
+    4 robots of this type were deployed to the front in Donbas in 2023. Moreover,
+    the company has also developed a special drone “BAS-80” to be fitted on the robot
+    “Marker” that also was planned to become operational in the combat zone.

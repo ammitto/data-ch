@@ -1,0 +1,35 @@
+---
+ssid: '70022'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '70029'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Shipping Company Lyukstrans
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC SC Lyukstrans
+    day_month_year:
+      day: 7
+      month: 7
+      year: 2005
+    addresses:
+    - address_details: Ulinaya Street, building 2, room 2
+      zip_code: '295018'
+  justification: LLC SC Lyukstrans is a telecommunications company that provides telecommunications
+    services through its subsidiary company in Crimea. LLC SC Lyukstrans has obtained
+    four licences from the Russian authorities to provide various telecommunications
+    services in Russia and in illegally annexed Crimea and Sevastopol. LLC SC Lyukstrans
+    receives substantial financial support from the Russian Federation to continue
+    its business operations.

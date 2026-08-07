@@ -1,0 +1,27 @@
+---
+ssid: '47661'
+sanctions_set_id: '39362'
+individual:
+  identity:
+    ssid: '47665'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Maung Maung Ohn
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: U Maung Maung Ohn
+  justification: Maung Maung Ohn has been the Minister of Information since 1 August
+    2021. He was appointed by the State Administrative Council (SAC), led by Commander-in-Chief
+    Min Aung Hlaing, which took over the legislative, executive and judicial powers
+    of the State as of 2 February 2021. He was previously Minister of Hotels and Tourism,
+    having been appointed on 7 February 2021.

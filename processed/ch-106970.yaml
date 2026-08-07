@@ -1,0 +1,54 @@
+---
+ssid: '106970'
+sanctions_set_id: '71360'
+individual:
+  identity:
+    ssid: '106973'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Abu Marzouk
+      - order: 2
+        name_part_type: given-name
+        value: Moussa
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Abu Marzook
+      - order: 2
+        name_part_type: given-name
+        value: Mousa Mohammed
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Marzuk
+      - order: 2
+        name_part_type: given-name
+        value: Musa Abu
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Abu-Marzuq
+      - order: 2
+        name_part_type: given-name
+        value: Sa’id
+    day_month_year:
+      day: 9
+      month: 2
+      year: 1951
+  justification: Moussa Abu Marzouk is a member of the Politburo. As a member of that
+    decision-making body, he is responsible for violent actions by Hamas.

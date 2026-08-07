@@ -1,0 +1,29 @@
+---
+ssid: '102042'
+sanctions_set_id: '13065'
+individual:
+  identity:
+    ssid: '102045'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Noshad
+      - order: 2
+        name_part_type: given-name
+        value: Alireza
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Alireza Nowshad
+  justification: Alireza Noshad is the Police Commander of Marvdasht County and a
+    member of the Marvdasht County Security Council. In this capacity, Alireza Noshad
+    directed the violent repression of the nationwide protests in Iran that began
+    in December 2025, resulting in deaths and injuries.
