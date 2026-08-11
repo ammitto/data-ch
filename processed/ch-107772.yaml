@@ -1,0 +1,35 @@
+---
+ssid: '107772'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '107778'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Tikmenov
+      - order: 2
+        name_part_type: given-name
+        value: Vasiliy
+      - order: 3
+        name_part_type: father-name
+        value: Nikolaevich
+    day_month_year:
+      day: 6
+      month: 10
+      year: 1950
+  justification: Vasiliy Tikmenov is the head of the Joint Stock Company Scientific
+    and Technical Center Elins (“JSC ‘STC Elins’”), which is an integral part of the
+    military-industrial complex of the Russian Federation. JSC “STC Elins” produces
+    weapons and ammunition, is involved in the production of electronic components
+    and electronic circuit boards, manufactures computers, radio and television transmitting
+    equipment, instruments and devices for measuring, testing and navigation, wires
+    and cables for electronic and electrical equipment, develops computer software
+    and provides research & development in the field of natural and technical sciences
+    etc. Therefore, JSC “STC Elins” plays a significant role in the fulfilment of
+    state defence orders during Russia’s invasion of Ukraine.

@@ -1,0 +1,28 @@
+---
+ssid: '107477'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107484'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Izovac
+    addresses:
+    - address_details: Selitskogo str., building 7, room 202
+      zip_code: '220075'
+  justification: LLC Izovac is a Belarusian developer and manufacturer of vacuum equipment,
+    film technologies, ion sources, sputtering technology and related software. The
+    company was included in the Registry of the Military-Industrial Complex of Russia.
+    In Russia, Izovac is represented by its partner LLC Engineering Group. Izovac,
+    together with its affiliated companies under the same group name, has supplied
+    Russian defence contractors that have received about USD 200 million worth of
+    goods from Izovac since the beginning of the full-scale Russian invasion of Ukraine.
+    LLC Izovac is therefore materially supporting Russia’s military and industrial
+    complex, including by being involved in the development, production or supply
+    of military technology and equipment.

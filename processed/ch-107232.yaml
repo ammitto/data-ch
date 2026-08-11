@@ -1,0 +1,29 @@
+---
+ssid: '107232'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107243'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “ASFPV”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “ASFPV”
+    addresses:
+    - zip_code: '195299'
+  justification: Limited Liability Company “ASFPV” is a Russian company that manufactures
+    the First Person View (FPV) drones “Veterok 7”, “Veterok 10”, and “Veterok 13”,
+    drone detectors “Gorn”, and fibre–optic cable spools for the Russian Armed Forces.
+    The company manufactures up to 10 000 drones monthly. “Veterok” drones are used
+    by Russia in its war of aggression against Ukraine.

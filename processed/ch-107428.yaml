@@ -1,0 +1,27 @@
+---
+ssid: '107428'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107432'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Kord-Bunker”
+    addresses:
+    - address_details: Polyarnyye Zori street 21/3
+      zip_code: '183025'
+  justification: Limited Liability Company “Kord-Bunker” is a shipping company based
+    in Russia. The company is the technical manager of the vessels Kord Wind, Kord
+    Arctic and Kord, as well as the ship manager and ISM manager of Kord Atlantic.
+    Those vessels lack adequate liability insurance and engage in manipulation of
+    Automatic Identification Systems while transporting crude oil or petroleum products
+    exported from Russia. Therefore, Limited Liability Company “Kord-Bunker” manages
+    vessels that transport crude oil or petroleum products exported from Russia and
+    practice irregular and high-risk shipping practices as set out in the International
+    Maritime Organization General Assembly resolution A.1192(33).

@@ -1,0 +1,27 @@
+---
+ssid: '107357'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107362'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “MORSKOY STANDARD”
+    addresses:
+    - address_details: Vladivostokskaya street 37
+      zip_code: '683024'
+  justification: Limited Liability Company “MORSKOY STANDARD” is a shipping company
+    based in Russia and the commercial operator of the vessels Protey, Peley and Akhilles.
+    Those vessels lack adequate liability insurance and engage in ship-to-ship transfers
+    and manipulation of Automatic Identification Systems while transporting crude
+    oil or petroleum products exported from Russia. Therefore, Limited Liability Company
+    “MORSKOY STANDARD” operates vessels that transport crude oil or petroleum products
+    exported from Russia and practice irregular and high-risk shipping practices as
+    set out in the International Maritime Organization General Assembly resolution
+    A.1192(33).

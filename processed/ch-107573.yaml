@@ -1,0 +1,35 @@
+---
+ssid: '107573'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107586'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Research and Production Enterprise ‘Zvukotekhnika’”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC NPP “Zvukotekhnika”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC NPP “Zvukotechnika”
+    addresses:
+    - address_details: Radiozavodskoye Highway 23A
+      zip_code: '602264'
+  justification: JSC “Research and Production Enterprise Zvukotekhnika” is a Russian
+    defence company specialising in the development and production of communication
+    and sound-broadcasting systems for industrial, mobile, and military use.

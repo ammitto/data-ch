@@ -1,0 +1,28 @@
+---
+ssid: '107760'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '107767'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Ozdoyev
+      - order: 2
+        name_part_type: given-name
+        value: Bekhan
+      - order: 3
+        name_part_type: father-name
+        value: Ibrahimovich
+    day_month_year:
+      day: 28
+      month: 9
+      year: 1972
+  justification: Bekhan Ozdoyev is the Industrial Director of the Conventional Arms,
+    Ammunition and Special Chemicals Complex of the Rostec State Corporation. Rostec
+    is the leading Russian arms manufacturer and supplier to the Russian armed forces.

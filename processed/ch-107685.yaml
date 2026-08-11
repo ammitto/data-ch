@@ -1,0 +1,42 @@
+---
+ssid: '107685'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107692'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Foundation for Advanced Studies
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Foundation for Advanced Research
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Advanced Research Foundation for the Financing of Advanced Military
+          and Dual-Use Technologies
+    day_month_year:
+      day: 21
+      month: 12
+      year: 2012
+    addresses:
+    - address_details: Berezhkovskaya embankment, 22, building 3
+      zip_code: '121059'
+  justification: The Foundation for Advanced Studies was established by the Government
+    of the Russian Federation to promote and fund research and development of weapons
+    and equipment to support the Russian Armed Forces and the military production
+    sector. The Foundation for Advanced Studieshas funded several projects to develop
+    advanced unmanned systems for military purposes.

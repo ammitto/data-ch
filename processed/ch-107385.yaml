@@ -1,0 +1,28 @@
+---
+ssid: '107385'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107389'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “GAZPROMNEFT SHIPPING”
+    addresses:
+    - address_details: Lit 0, Gapsalskaya street 1
+      zip_code: '198035'
+  justification: Limited Liability Company “GAZPROMNEFT SHIPPING” is a shipping company
+    based in Russia that specialises in providing technical support. The company is
+    the technical manager of the vessels Omsk, Olanga and Murmansk. Those vessels
+    lack adequate liability insurance and engage in ship-to-ship transfers as well
+    as manipulation of Automatic Identification Systems while transporting crude oil
+    or petroleum products exported from Russia. Therefore, Limited Liability Company
+    “GAZPROMNEFT SHIPPING” manages vessels that transport crude oil or petroleum products
+    exported from Russia and practice irregular and high-risk shipping practices as
+    set out in the International Maritime Organization General Assembly resolution
+    A.1192(33).

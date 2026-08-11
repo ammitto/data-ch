@@ -1,0 +1,28 @@
+---
+ssid: '107746'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '107755'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Rakhmanov
+      - order: 2
+        name_part_type: given-name
+        value: Aleksei
+      - order: 3
+        name_part_type: father-name
+        value: Lvovich
+    day_month_year:
+      day: 18
+      month: 7
+      year: 1964
+  justification: Aleksei Rakhmanov is a member of the Bureau of the League for Assistance
+    to Defence Enterprises, a Russian organisation focused on, among other things,
+    the development and modernisation of the Russian military industry.

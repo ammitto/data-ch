@@ -1,0 +1,38 @@
+---
+ssid: '107783'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '107786'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Vakstein
+      - order: 2
+        name_part_type: given-name
+        value: Maxim
+      - order: 3
+        name_part_type: father-name
+        value: Sergeevich
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Maxim WAKSTEIN
+    day_month_year:
+      day: 26
+      month: 8
+      year: 1980
+  justification: Maxim Vakstein is the General Director of the Foundation for Advanced
+    Studies. The Foundation for Advanced Studies was established by the Government
+    of the Russian Federation to promote and fund research and development of weapons
+    and equipment to support the Russian Armed Forces and the military production
+    sector. The Foundation for Advanced Studies has funded several projects to develop
+    advanced unmanned systems for military purposes.

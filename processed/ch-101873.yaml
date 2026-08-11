@@ -14,10 +14,10 @@ individual:
         name_part_type: given-name
         value: Abu
       - order: 2
-        name_part_type: given-name
+        name_part_type: further-given-name
         value: Zaid
       - order: 3
-        name_part_type: given-name
+        name_part_type: further-given-name
         value: Talha
       - order: 4
         name_part_type: family-name

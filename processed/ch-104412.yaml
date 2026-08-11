@@ -11,7 +11,7 @@ entity:
       lang: eng
       name_parts:
       - order: 1
-        name_part_type: family-name
+        name_part_type: whole-name
         value: Tellur Elektroniks LLC
     addresses:
     - address_details: Building 1, Profsoyuznaya Str. 65, Konkovo District

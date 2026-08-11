@@ -1,0 +1,28 @@
+---
+ssid: '107414'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107418'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “KONTUR SPB”
+    addresses:
+    - address_details: Zastavskaya 33 street
+      zip_code: '196034'
+  justification: Limited Liability Company “KONTUR SPB” is a shipping company based
+    in Russia that specialises in providing technical support. The company is the
+    technical manager of the vessels Odin, Kapitan Shiryaev and Valeriy Zelenko. Those
+    vessels lack adequate liability insurance and engage in ship-to-ship transfers
+    as well as manipulation of Automatic Identification Systems while transporting
+    crude oil or petroleum products exported from Russia. Therefore, Limited Liability
+    Company “KONTUR SPB” manages vessels that transport crude oil or petroleum products
+    exported from Russia and practice irregular and high-risk shipping practices as
+    set out in the International Maritime Organization General Assembly resolution
+    A.1192(33).

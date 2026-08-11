@@ -1,0 +1,43 @@
+---
+ssid: '107501'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107515'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Research Institute of Technical Systems “Sinvent”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Research Institute of Transport Systems “Sinvent”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Scientific Research Institute of Technical Systems “Synvent”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: "“NIITS ‘Sinvent’”"
+    addresses:
+    - address_details: Moskovsky prospekt, 212A, office 3047-3
+      zip_code: '196066'
+  justification: JSC Research Institute of Technical Systems “Sinvent” is Russian
+    defence research and production institute specialising in military training technologies.
+    It develops professional simulators and training programs for operators of complex
+    technical systems.

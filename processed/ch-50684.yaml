@@ -13,3 +13,15 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC AeroKompozit
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “AeroComposit”
+    addresses:
+    - address_details: Polikarpova Str. 23B, Building 2
+      zip_code: '125284'
+    - address_details: Leningradsky Prospekt 47
+      zip_code: '125167'

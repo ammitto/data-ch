@@ -1,0 +1,27 @@
+---
+ssid: '107714'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107718'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Lukoil-Western Siberia”
+    addresses:
+    - address_details: Nevsky prospekt 150E
+      zip_code: '191024'
+  justification: Limited Liability Company “Lukoil-Western Siberia” is a shipping
+    company based in Russia and the commercial operator of the vessels Aries, Neva
+    Lux and Nimbus Spb. Those vessels lack adequate liability insurance and are engaged
+    in ship-to-ship transfers as well as manipulation of Automatic Identification
+    Systems while transporting crude oil or petroleum products exported from Russia.
+    Therefore, Limited Liability Company “Lukoil-Western Siberia” operates vessels
+    that transport crude oil or petroleum products exported from Russia and practice
+    irregular and high-risk shipping practices as set out in the International Maritime
+    Organization General Assembly resolution A.1192(33).

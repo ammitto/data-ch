@@ -1,0 +1,28 @@
+---
+ssid: '107277'
+sanctions_set_id: '62614'
+individual:
+  identity:
+    ssid: '107283'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Juc
+      - order: 2
+        name_part_type: given-name
+        value: Alina
+    day_month_year:
+      day: 5
+      month: 11
+      year: 2000
+  justification: Alina Juc was a network coordinator in a secret Russian-funded operation
+    linked to Ilan Shor and aimed at disrupting the parliamentary elections of September
+    2025. She was tasked with recruiting, coordinating and offering payments for disinformation
+    activities carried out through the network. The disinformation campaign was ongoing
+    before the 2025 parliamentary elections with the purpose of boosting Ilan Shor’s
+    proxies by carrying out polling activities meant to distort the electoral reality.

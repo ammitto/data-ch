@@ -1,0 +1,27 @@
+---
+ssid: '107349'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107354'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “KORD COMPANY”
+    addresses:
+    - address_details: Tralovaya street 17
+      zip_code: '183001'
+  justification: Limited Liability Company “KORD COMPANY” is a shipping company based
+    in Russia. It is the commercial operator of the vessels Kord Wind, Kord Arctic
+    and Kord, as well as the owner of the vessel Kord Atlantic. Those vessels lack
+    adequate liability insurance and engage in manipulation of Automatic Identification
+    Systems while transporting crude oil or petroleum products exported from Russia.
+    Therefore, Limited Liability Company “KORD COMPANY” operates and owns vessels
+    that transport crude oil or petroleum products exported from Russia and practice
+    irregular and high-risk shipping practices as set out in the International Maritime
+    Organization General Assembly resolution A.1192(33).

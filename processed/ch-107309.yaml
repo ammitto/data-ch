@@ -1,0 +1,31 @@
+---
+ssid: '107309'
+sanctions_set_id: '62614'
+individual:
+  identity:
+    ssid: '107315'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Vlah
+      - order: 2
+        name_part_type: given-name
+        value: Irina
+    day_month_year:
+      day: 27
+      month: 2
+      year: 1974
+  justification: Irina Vlah is the leader of the “Inima Moldovei” political party.
+    She was actively engaged in activities aimed at destabilising the democratic processes
+    taking place in the Republic of Moldova ahead of the September 2025 parliamentary
+    elections. Irina Vlah undertook documented visits to Moscow in 2025, alongside
+    listed person Victoria Furtună. The two met with high-ranking Russian officials,
+    where they received assurances regarding campaign support and electoral coordination
+    instructions. Following the formation of a new political bloc, the “patriotic”
+    political bloc, Irina Vlah co-organised a paid election rally in July 2025, feigning
+    public support for the newly formed bloc.

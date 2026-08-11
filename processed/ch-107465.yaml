@@ -1,0 +1,28 @@
+---
+ssid: '107465'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107469'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: East Gemi İşletmeciliği AS
+    addresses:
+    - address_details: Ic Kapi 111, A Blok, Hukukcular Towers, Mustafa Kemal Caddesi
+        66A, Cevizli Mah, Kartal
+      zip_code: '34865'
+  justification: East Gemi İşletmeciliği AS is a shipping company based in Türkiye
+    that specialises in providing technical support. The company is the technical
+    manager of the vessels Azure, Jasper and Storm Pearl. These vessels lack adequate
+    liability insurance and engage in ship-to-ship transfers as well as manipulation
+    of Automatic Identification Systems while transporting crude oil or petroleum
+    products exported from Russia. Therefore, East Gemi İşletmeciliği AS manages vessels
+    that transport crude oil or petroleum products exported from Russia and practice
+    irregular and high-risk shipping practices as set out in the International Maritime
+    Organization General Assembly resolution A.1192(33).

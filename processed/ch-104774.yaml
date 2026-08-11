@@ -15,7 +15,7 @@ individual:
         value: Yermakov
       - order: 2
         name_part_type: given-name
-        value: Marksim
+        value: Maksim
     - name_type: alias
       quality: good
       lang: eng

@@ -1,0 +1,31 @@
+---
+ssid: '107794'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '107799'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Garayev
+      - order: 2
+        name_part_type: given-name
+        value: Tahir
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Takhir Harayev
+    day_month_year:
+      month: 1
+      year: 1980
+    addresses:
+    - address_details: 7 Rue De l’Arquebuse
+  justification: Tahir Garayev is a founder of Coral Energy (later 2Rivers Group).

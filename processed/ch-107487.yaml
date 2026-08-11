@@ -1,0 +1,43 @@
+---
+ssid: '107487'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107496'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Engineering Group
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Inzhiniring Grupp OOO
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Izovak Engineering
+    addresses:
+    - address_details: Ul. Lva Tolstogo D. 5, Str. 2, Floor 4, Pomeshch./Kom. 2/24
+        (V 416)
+      zip_code: '119021'
+  justification: LLC Engineering Group develops and produces high-tech equipment and
+    components for various industries. This company represents its partner Belarusian
+    company Izovac in Russia. Izovac was included in the Registry of the Military-Industrial
+    Complex of Russia. Izovac, together with its affiliated companies under the same
+    group name, has supplied Russian defence contractors that have received about
+    USD 200 million worth of goods from Izovac since the beginning of the full-scale
+    Russian invasion of Ukraine. LLC Engineering Group participated as an intermediary.
+    LLC Engineering Group is therefore materially supporting Russia’s military and
+    industrial complex, including by being involved in the development, production
+    or supply of military technology and equipment.

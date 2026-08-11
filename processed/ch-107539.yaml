@@ -1,9 +1,9 @@
 ---
-ssid: '50678'
-sanctions_set_id: '29445'
+ssid: '107539'
+sanctions_set_id: '27286'
 entity:
   identity:
-    ssid: '50679'
+    ssid: '107553'
     main: 'true'
     names:
     - name_type: primary-name
@@ -12,28 +12,24 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: UEC-Saturn
+        value: Joint Stock Company “Elekond”
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: United Engine Corporation – Saturn
+        value: JSC “Elekond”
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: ODK-Saturn PAO
-    - name_type: alias
-      quality: good
-      lang: eng
-      name_parts:
-      - order: 1
-        name_part_type: whole-name
-        value: PJSC UEC-Saturn
+        value: JSC “Elecond”
     addresses:
-    - address_details: Lenina Prospekt 163
-      zip_code: '152903'
+    - address_details: Kalinin Str. 3
+      zip_code: '427968'
+  justification: Joint Stock Company “Elekond” is a leading Russian manufacturer of
+    capacitors. Its products are used in electronics, aerospace products, transportation
+    and special-purpose equipment.

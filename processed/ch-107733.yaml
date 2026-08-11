@@ -1,0 +1,29 @@
+---
+ssid: '107733'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '107735'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Yevtushenko
+      - order: 2
+        name_part_type: given-name
+        value: Oleg
+      - order: 3
+        name_part_type: father-name
+        value: Nikolaevich
+    day_month_year:
+      day: 9
+      month: 11
+      year: 1975
+  justification: Oleg Yevtushenko has been the Executive Director of Rostec State
+    Corporation since 2018. Rostec is the most important defence corporation in Russia,
+    made up of the main companies of Russia’s military and industrial complex. Therefore,
+    Oleg Yevtushenko is supporting Russia’s military and industrial complex.

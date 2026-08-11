@@ -1,0 +1,21 @@
+---
+ssid: '107698'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107700'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shenzhen Minghuaxin
+  justification: Shenzhen Minghuaxin is a Chinese company supplying the Russian military
+    and industrial complex. Shenzhen Minghuaxin has supplied significant volumes of
+    components to Rustakt LLC, a Russian producer of military grade first-person-view
+    drones. Therefore, Shenzhen Minghuaxin supports Russia’s military and industrial
+    complex by being involved in the supply of military technology and equipment.
+    Moreover, Shenzhen Minghuaxin is associated with Rustakt LLC.

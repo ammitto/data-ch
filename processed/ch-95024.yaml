@@ -22,13 +22,6 @@ individual:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: حسین
-    - name_type: alias
-      quality: good
-      lang: eng
-      name_parts:
-      - order: 1
-        name_part_type: whole-name
         value: Mohammad Hossein Shamkhani
   justification: Hossein Shamkhani is a businessperson active in the Russian oil trade
     and a central player in Russia’s so-called “shadow fleet”. He uses the company

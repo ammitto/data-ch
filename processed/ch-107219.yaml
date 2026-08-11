@@ -1,0 +1,28 @@
+---
+ssid: '107219'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107229'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Association “League for Assistance to Defence Enterprises”
+    addresses:
+    - zip_code: '109028'
+  justification: Association “League for Assistance to Defence Enterprises” is a non-profit
+    organisation based in Moscow. It consists of representatives from the Government
+    of the Russian Federation, federal legislative and executive bodies, heads and
+    representatives of public and private military industry corporations, major holdings,
+    associations and enterprises. The organisation aims to promote the development,modernisation
+    and further growth of the Russian military industry. It advocates for the interests
+    of the domestic defence industry with Russian government bodies and civil society
+    institutions, in particular to promote innovation, strengthen training and foster
+    recruitment opportunities for defence companies. It also aims to assist Russian
+    defence companies in the implementation of the state armament program and state
+    military procurement.

@@ -1,0 +1,27 @@
+---
+ssid: '107704'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107710'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Nord Axis Ltd
+    day_month_year:
+      month: 12
+      year: 2022
+    addresses:
+    - address_details: Wan Chai, 8th Floor, China Hong Kong Tower, 8-12 Hennessy Ro
+  justification: Nord Axis is a Hong Kong-based company that is part of a network
+    of companies associated with the group 2Rivers which enables the shipment and
+    export of Russian oil and operates vessels part of the Russia’s so-called “Shadow
+    fleet”. Following the beginning of Russia’s war of aggression against Ukraine
+    in 2022, Nord Axis has become an important trader of oil originating from Russian
+    companies. The energy sector, in particular the oil sector, is a sector providing
+    substantial revenue to the Government of the Russian Federation.

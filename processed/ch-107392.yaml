@@ -1,0 +1,28 @@
+---
+ssid: '107392'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107397'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Trans KA Tankers Management Company Limited
+    addresses:
+    - address_details: Daire 57, Denizciler İş Merkezi, Sahil Bulvari No.126, Aydıntepe
+        Mah, Tuzla
+      zip_code: '34947'
+  justification: Trans KA Tankers Management Company Limited is a shipping company
+    based in Türkiye and is the commercial operator of the vessels Haci Kemal Ka,
+    Lycia Ka and Sumer. Those vessels lack adequate liability insurance and engage
+    in manipulation of Automatic Identification Systems while transporting crude oil
+    or petroleum products exported from Russia. Therefore, Trans KA Tankers Management
+    Company Limited operates vessels that transport crude oil or petroleum products
+    exported from Russia and practice irregular and high-risk shipping practices as
+    set out in the International Maritime Organization General Assembly resolution
+    A.1192(33).

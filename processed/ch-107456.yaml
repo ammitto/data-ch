@@ -1,0 +1,34 @@
+---
+ssid: '107456'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '107461'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: OOO Sea Engineering Limited
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO “Si Inzhenering”
+    addresses:
+    - address_details: K.2.a, Tsiolkovskogo street 9
+      zip_code: '190020'
+  justification: OOO Sea Engineering Limited is a shipping company based in St. Petersburg
+    that specialises in providing technical support. The company is the technical
+    manager of the vessels Nimbus SPB, G. Rossini and G. Puccini. Those vessels lack
+    adequate liability insurance and have engaged in ship-to-ship transfers as well
+    as manipulation of Automatic Identification Systems while transporting crude oil
+    or petroleum products exported from Russia. Therefore, OOO Sea Engineering Limited
+    manages vessels that transport crude oil or petroleum products exported from Russia
+    and practice irregular and high-risk shipping practices as set out in the International
+    Maritime Organization General Assembly resolution A.1192(33).
