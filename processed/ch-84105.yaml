@@ -18,7 +18,7 @@ individual:
         value: Sultan
       - order: 3
         name_part_type: grand-father-name
-        value: Mohammed
+        value: Mohammed Sultan
       - order: 4
         name_part_type: family-name
         value: al-Ajmi
@@ -39,6 +39,13 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Sheikh Shafi al-Ajmi
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shafi S. M. S. Alajmi
     - name_type: alias
       quality: low
       lang: eng
