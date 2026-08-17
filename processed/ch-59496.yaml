@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Aviaremont (Aviaremont)
+    addresses:
+    - address_details: Rossolimo Str. 17, Building 2, Floor 4, Section V, Rooms 11-28
+      zip_code: '119021'

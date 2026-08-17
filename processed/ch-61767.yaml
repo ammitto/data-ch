@@ -14,3 +14,20 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company Scientific Research Institute of Electronic and
           Mechanical Devices
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NII Elektronno-Mekhanicheskikh Priborov
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Penza Scientific Research Institute of Electromechanical Devices
+    addresses:
+    - address_details: Karakozova Str., 44
+      zip_code: '440600'

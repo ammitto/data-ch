@@ -14,3 +14,14 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company Scientific Research Institute of Electrical Carbon
           Products
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Scientific Research and Project-Technical Institute of Electrical
+          Carbon Products
+    addresses:
+    - address_details: Elektrougli, Gorki Lane, 1
+      zip_code: '142455'

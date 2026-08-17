@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: LLC Yadro
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Yadro Group of Companies
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Yadro Group of Companies”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO GK Yadro
+    addresses:
+    - address_details: Rochdelskaya Str. 15, Building 13, Technical Floor/IV, Room
+        1
+      zip_code: '123376'

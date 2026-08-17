@@ -13,3 +13,29 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Engineering Center Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Engineering Center
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LCEC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: EC
+    addresses:
+    - address_details: Gabricheskogo Str., 4, Room 124
+      zip_code: '125367'
+    - address_details: Volokolamskoye Shosse, 73
+      zip_code: '125424'

@@ -13,3 +13,24 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Elara
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Scientific and Production Complex Elara named after G.A. Illienko
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: The Ilyenko Elara Research and Production Complex, Joint-Stock Company
+    addresses:
+    - address_details: Moskovsky Prospekt, 40
+      zip_code: '428034'
+    - address_details: Obraztsova Str., 7
+      zip_code: '127055'
+    - address_details: Marshala Govorova Str., 29, Letter A
+      zip_code: '198097'

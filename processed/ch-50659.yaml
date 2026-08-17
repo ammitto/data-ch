@@ -13,3 +13,15 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Russian Helicopters JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Vertolety Rossii
+    addresses:
+    - address_details: Bolshaya Pionerskaya, 1
+      zip_code: '123610'
+    - address_details: Presnensky Val, 14
+      zip_code: '123557'

@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: ID Solution LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company ID Solution
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IDI Solution LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Aydi Solyushn
+    addresses:
+    - address_details: Dorozhnaya St. 60B, Office 421
+      zip_code: '117405'

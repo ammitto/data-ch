@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Zavolzhskiy Plant of Caterpillar Tractors
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO ZZGT
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Zavolzhskiy Zavod Gusenichnikh Tyagachey
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC ZCVP
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Zavolzhsky Crawler Vehicle Plant”
+    addresses:
+    - address_details: Zheleznodorozhnaya Str., 1
+      zip_code: '606522'

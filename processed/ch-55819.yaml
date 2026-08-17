@@ -13,3 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Corporation, AO GNPP “Region”
+    addresses:
+    - address_details: Lytkarino, Industrial Zone Tyraevo, Building 10

@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Novator DB
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Experimental Design Bureau “Novator”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Novator Design Bureau JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO OKB Novator
+    addresses:
+    - address_details: Kosmonavtov Prospekt, 18
+      zip_code: '620091'

@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: NM-Tekh
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NM-Tech LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: HM-TEX
+    addresses:
+    - address_details: Solnechnaya Alleya, 6, Floor 1, Premises XII, Office 4, 4A
+      zip_code: '124527'

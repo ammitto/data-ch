@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Foreign Intelligence Service (SVR)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Foreign Intelligence Service of the Russian Federation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SVR of Russia
+    addresses:
+    - address_details: Ostozhenka Str., 51, Building 1
+      zip_code: '119034'

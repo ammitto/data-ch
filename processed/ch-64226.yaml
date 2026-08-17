@@ -13,3 +13,35 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Public Joint Stock Company Rostvertol
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Rostov Helicopter Production Complex
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Rostvertol PJSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO Rosvertol
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Rostov Helicopter Production Complex Public Joint Stock Company “Rostvertol”
+          named after B.N. Slyusar
+    addresses:
+    - address_details: Novatorov Str., 5
+      zip_code: '344038'

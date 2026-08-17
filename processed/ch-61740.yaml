@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company RT-Tekhpriemka
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Aviatekhpriemka
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RTTEC
+    addresses:
+    - address_details: Elektrichesky Lane, 1, Building 12
+      zip_code: '123557'

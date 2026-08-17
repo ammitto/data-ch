@@ -13,3 +13,16 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Communication center of the Ministry of Defense
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Department of Information and Mass Communications of the Ministry of
+          Defence of the Russian Federation
+    addresses:
+    - address_details: Bolshoi Znamensky Pereulok, 21
+      zip_code: '119019'
+    - address_details: Frunzenskaya Embankment, 22/2
+      zip_code: '119160'

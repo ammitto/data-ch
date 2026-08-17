@@ -13,3 +13,23 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Vladimir Design Bureau for Radio Communications OJSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OAO VKBR
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Открытое Акционерное Общество «Владимирское Конструкторское Бюро Радиосвязи»
+          (ОАО «ВКБР»)
+    addresses:
+    - address_details: Baturina Str., 28
+      zip_code: '600017'
+    - address_details: P.O. Box 68
+      zip_code: '600009'

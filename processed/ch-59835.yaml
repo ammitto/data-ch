@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Ak Bars Holding
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: "“Ak Bars” Holding Company JSC"
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Холдинговая Компания «Ак Барс» (АО «Холдинговая
+          Компания «Ак Барс»)
+    addresses:
+    - address_details: Korolenko Str., 58a
+      zip_code: '420094'

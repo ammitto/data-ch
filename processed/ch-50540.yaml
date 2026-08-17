@@ -13,3 +13,35 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Aleksandrov Scientific Research Technological Institute NITI
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Государственное Унитарное Предприятие «Научно-Исследовательский
+          Технологический Институт имени А.П. Александрова»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State unitary Enterprise Alexandrov Research Institute of Technology
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FGUP “A.P. Aleksandrov NITI”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FSUE Alexandrov NITI
+    addresses:
+    - address_details: Koporskoye Shosse, 72
+      zip_code: '188540'

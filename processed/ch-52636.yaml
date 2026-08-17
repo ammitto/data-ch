@@ -13,3 +13,36 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Research Center Module
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NTTs Science and Technology Research Center Module
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC STC Module
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NTTs “Modul”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RC Module
+    addresses:
+    - address_details: 4th 8 Marta Str., 3
+      zip_code: '125167'
+    - address_details: P.O. Box 166
+      zip_code: '125190'

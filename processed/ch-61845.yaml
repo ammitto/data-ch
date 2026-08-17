@@ -13,3 +13,29 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Skolkovo Institute of Science and Technology
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Autonomous Non-Profit Organization for Higher Education Skolkovo Institute
+          of Science and Technology
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Skolkovskiy Institut Nauki I Tekhnologii
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Skoltech
+    addresses:
+    - address_details: Skolkovo Innovation Centre, Bolshoi Boulevard, 30, Building
+        1
+      zip_code: '121205'

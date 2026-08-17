@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Public Joint Stock Company Stavropol Radio Plant Signal
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Signal Radio Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Signal
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint Stock Company Stavropol Radioplant “Signal”
+    addresses:
+    - address_details: 2nd Yugo-Zapadny Proezd, 9A
+      zip_code: '355014'

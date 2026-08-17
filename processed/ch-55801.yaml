@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Company, Petrovsky Electromechanical Plant “Molot”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aktsionernoe Obshchestvo Petrovskii Elektromekhanicheskii Zavod Molot;
+          JSC Petrovsky Electromechanical Zavod Molot; AO PEMZ Molot
+    addresses:
+    - address_details: Petrovsk, Gogolya Str., 40

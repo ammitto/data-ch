@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Urals Project Design Bureau Detal
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint-Stock Company Ural Design Bureau “Detal”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Ural Design and Construction Bureau “Detal”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aktsionernoe Obshchestvo Uralskoe Proektno Konstruktorskoe Byuro “Detal”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO UPKB “Detal”
+    addresses:
+    - address_details: Pionerskaya Str., 8
+      zip_code: '623409'

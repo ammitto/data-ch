@@ -13,3 +13,37 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Yaroslavl Shipbuilding Factory
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO Yaroslavskiy Sudostroitelnyy Zavod
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO YaSZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Yaroslavsky Shipyard
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Публичное Акционерное Общество «Ярославский Судостроительный Завод»
+    addresses:
+    - address_details: Korabelnaya Str., 1
+      zip_code: '150006'
+    - address_details: Izmailovskoye Municipal District, Krasutskogo Str., 4b, Letter
+        B
+      zip_code: '196084'

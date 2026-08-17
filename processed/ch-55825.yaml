@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Corporation, Azov Optical and Mechanical Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Azovsky Optiko-Mechanichesky Zavod; JSC AOMZ; Azov Optomechanical Plant
+          JSC
+    addresses:
+    - address_details: Azov, Promyshlennaya Str., 5

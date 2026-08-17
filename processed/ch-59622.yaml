@@ -13,3 +13,42 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Central Design Bureau for Marine Engineering “Rubin”, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Центральное Конструкторское Бюро Морской Техники
+          «Рубин» (АО «ЦКБ МТ «Рубин»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: "“Rubin” Design Bureau"
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Tsentralnoye Konstruktorskoye Byuro Morskoy Tekhniki Rubin
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC TsKB MT Rubin
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: CDB ME “Rubin”
+    addresses:
+    - address_details: Marata Str., 90
+      zip_code: '191119'

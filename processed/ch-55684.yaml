@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Optron, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное общество «Оптрон»
+    addresses:
+    - address_details: Shcherbakovskaya Str., 53
+      zip_code: '105318'

@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Special Design Bureau of Control Means
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Spetsialnoe Proektno-Konstruktorskoe Byuro Sredstv Upravleniya
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO SPKB SU
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Special Design Bureau of Control Facilities”
+    addresses:
+    - address_details: Vagzhanovski Lane, 9, Office 315
+      zip_code: '170100'

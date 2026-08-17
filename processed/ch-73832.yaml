@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: RG Solutions Limited
+    addresses:
+    - address_details: Room 606, Celebrity Comm., Centre, 64 Castle Peak Road, Sham
+        Shui Po

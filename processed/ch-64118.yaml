@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Northern Production Association Arktika
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC SPO Arktika
+    addresses:
+    - address_details: Arkhangelskoye Shosse
+      zip_code: '164500'

@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Robin Trade Limited
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Robin Trade LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Общество с Ограниченной Ответственностью «Робин Трейд» (ООО «Робин
+          Трейд»)
+    addresses:
+    - address_details: Yablochkova Str., 21, Building 3, Premises VIII
+      zip_code: '127322'

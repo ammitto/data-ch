@@ -13,3 +13,12 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Corporation, “Central Design Bureau of Automation”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: CDBA; TsKBA; Central Design Bureau for Automatics Engineering JSC
+    addresses:
+    - address_details: Kosmichesky Prospekt, 24A

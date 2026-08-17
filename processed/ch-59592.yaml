@@ -14,3 +14,35 @@ entity:
         name_part_type: whole-name
         value: Subsidiary Sevastopol Naval Plant of Zvezdochka Shipyard (Sevastopol
           Naval Plant)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Севастопольский Морской Завод имени Серго Орджоникидзе»
+          (АО «СМЗ»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Филиал «Севастопольский морской завод» АО «Центр Судоремонта «Звездочка»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Sevastopol Naval Plant N.A. Sergo Ordzhonikidze
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Sevastopolskiy Morskoy Zavod Imeni Sergo Ordjonikidze”
+    addresses:
+    - address_details: Geroev Sevastopol Str., 13
+      zip_code: '299001'

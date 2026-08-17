@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Public Joint Stock Company United Aircraft Corporation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO AOK
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC UAC
+    addresses:
+    - address_details: Bolshaya Pionerskaya Str., 1
+      zip_code: '115054'

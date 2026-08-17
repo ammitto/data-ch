@@ -13,3 +13,35 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company SPMDB Malachite
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “St. Petersburg Marine Bureau of Machine Building
+          “Malakhit”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Malakhit Marine Engineering Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: St. Petersburg Marine Bureau of Machine Building Malakhit
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO SPMBM Malakhit
+    addresses:
+    - address_details: Frunze Str., 18
+      zip_code: '196135'

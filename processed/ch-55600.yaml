@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: All-Russian Research Institute of Optical and Physical Measurements
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: All-Russian Research Institute for Optical and Physical Measurements
+          Federal State Budgetary Institution
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FGBU VNIIOFI
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FSUE VNIIOFI
+    addresses:
+    - address_details: Ozernaya Str., 46, 202
+      zip_code: '119361'

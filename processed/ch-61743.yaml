@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Russian Research Institute Electronstandart
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Nauchno-Proizvodtvennoe Predpriyatie Elektronstandart
+    addresses:
+    - address_details: Tsvetnaya Str., 25, Building 3, Letter R
+      zip_code: '196006'

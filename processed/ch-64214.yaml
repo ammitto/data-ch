@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Public Joint Stock Company Kurganmashzavod
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Kurganmashzavod
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: oint Stock Company “Kurgan Machine-Building Plant”
+    addresses:
+    - address_details: Mashinostroiteley Prospekt, 17, Office Letter 1Zh
+      zip_code: '640021'

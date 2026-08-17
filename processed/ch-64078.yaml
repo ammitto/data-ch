@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Eastern Shipyard
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Vostochnaya Verf
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Vostochnaia Verf
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO V-VERF
+    addresses:
+    - address_details: Geroev Tikachestsev Str., 1
+      zip_code: '690017'

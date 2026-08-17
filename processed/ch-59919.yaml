@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Angstrem JSC
+    addresses:
+    - address_details: Shokina Square, 2, Building 3
+      zip_code: '124498'

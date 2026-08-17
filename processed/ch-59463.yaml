@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: AO Aviaagregat
+    addresses:
+    - address_details: Zavodskoye Shosse, 55
+      zip_code: '443009'

@@ -12,4 +12,38 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: St. Petersburg Shipbuilding Institution Krylov 45
+        value: St. Petersburg Shipbuilding Institution Krylov
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Unitary Enterprise Krylov State Scientific Centre
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Krylov State Research Centre
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FSUE Krylov State Scientific Centre
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Государственное Унитарное Предприятие «Крыловский Государственный
+          Научный Центр» (ФГУП «Крыловский Государственный Научный Центр»)
+    addresses:
+    - address_details: Moskovskoye Highway, 44
+      zip_code: '196158'
+    - address_details: Slavyanskaya Square, 2/5/4, Building 3
+      zip_code: '109240'

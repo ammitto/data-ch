@@ -14,3 +14,20 @@ entity:
         name_part_type: whole-name
         value: Federal State Unitary Enterprise Rostov-On-Don Research Institute of
           Radio Communications
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FGUP RNIIRS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal Research and Production Centre RNIIRS
+    addresses:
+    - address_details: Nansen Str., 130
+      zip_code: '344038'

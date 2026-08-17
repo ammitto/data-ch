@@ -13,3 +13,39 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: R. Ye. Alekseyev Central Design Bureau for Hydrofoil Ships
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Alexeev’s Hydrofoil Design Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: R.E. Alekseev Central Hydrofoil Design Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: TsKB PO SPK named after R. E. Alekseev
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Центральное Конструкторское Бюро по Судам на
+          Подводных Крыльях имени Р. Е. Алексеева» (АО «ЦКБ ПО СПК им. Р. Е. Алексеева»)
+    addresses:
+    - address_details: Svobody Str., 51
+      zip_code: '603003'
+    - address_details: Alekseev Str., 5
+      zip_code: '606549'
+    - address_details: Alpinskiy Pereulok, 29
+      zip_code: '192286'

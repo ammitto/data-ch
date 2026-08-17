@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Metallist Samara (Metallist Samara)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Metalist
+    addresses:
+    - address_details: Promyshlennosti Str., 278
+      zip_code: '443023'

@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: RATEP, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO RATEP
+    addresses:
+    - address_details: Dzerzhinskogo Str., 11
+      zip_code: '142205'

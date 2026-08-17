@@ -13,3 +13,22 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: MPI VOLNA
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: "“Mashpriborintorg - Volna” Ltd."
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Mashpriborintorg Wave
+    addresses:
+    - address_details: Plekhanova Str., 4a, Floor 2, Business Centre “YUNIKON”
+      zip_code: '111123'
+    - address_details: 1st Spasonalivkovsky Pereulok, 3/5
+      zip_code: '113184'

@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Novastream Limited
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Novastream LTD
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Novastrim
+    addresses:
+    - address_details: Severnaya Str., 2A, Room 51
+      zip_code: '600007'

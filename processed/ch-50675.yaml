@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tupolev JSC
+    addresses:
+    - address_details: Akademika Tupoleva Embankment, 17
+      zip_code: '105005'

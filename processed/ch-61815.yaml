@@ -12,4 +12,36 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Limited Liability Company RSBGroup
+        value: Limited Liability Company RSB-Group
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Intelligence Technologies
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO RSB-Grupp
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Razvedyvatelnye Tekhnologii OOO
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Russian Security Systems
+    addresses:
+    - address_details: Dnepropetrovskaya Str., 3, Building 5, Floor 1, Premises III,
+        Room 8, Office 6-6
+      zip_code: '117525'

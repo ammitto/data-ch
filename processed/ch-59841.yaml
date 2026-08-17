@@ -13,3 +13,29 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Systems of Biological Synthesis LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SBS LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO SBS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Общество с Ограниченной Ответственностью «Системы Биологического Синтеза»
+          (ООО «СБС»)
+    addresses:
+    - address_details: Akademika Koroleva Str., 13, Building 1, Floor 2, Premises
+        II, Room 60, 61
+      zip_code: '129515'

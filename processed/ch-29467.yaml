@@ -13,3 +13,42 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: OAO Almaz Antey
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Концерн Воздушно-Космической Обороны «Алмаз -
+          Антей»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: АО «Концерн ВКО «Алмаз - Антей»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Concern VKO “Almaz-Antey”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Almaz-Antey Corporation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: "“Almaz – Antey” Air and Space Defence Corporation”, Joint Stock Company"
+    addresses:
+    - address_details: Vereyskaya Str., 41
+      zip_code: '121471'

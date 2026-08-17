@@ -13,3 +13,33 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Design and Manufacturing of Aircraft Engines (DAMA)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: طراحی و ساخت موتور هواپیما
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Iranian Turbine Manufacturing Industries
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Design and Manufacturing of Aero-Engine Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Turbine Engine Manufacturing Co.
+    addresses:
+    - address_details: Shishesh Mina Street, Karaj Special Road

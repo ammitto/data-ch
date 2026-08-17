@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: STC Orion LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Scientific and Technical Center Orion
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Scientific and Technical Center Orion
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO NTTS Orion
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Nauchno-Tekhnicheski Tsentr Orion
+    addresses:
+    - address_details: Gostinichnaya Str. 7A, Room 1/1, Office 1/B-08
+      zip_code: '127106'

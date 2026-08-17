@@ -13,3 +13,18 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: United Engine Corporation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC UEC
+      - order: 2
+        name_part_type: whole-name
+        value: AO ODK
+    addresses:
+    - address_details: Budyonny Prospekt 16
+      zip_code: '105118'
+    - address_details: Mayakovsky Pereulok 11
+      zip_code: '109147'

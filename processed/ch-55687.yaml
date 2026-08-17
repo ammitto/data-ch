@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Pella Shipyard OJSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Leningrad Shipyard Pella
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO “Leningradsky Sudostroitelny Zavod “Pella”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO “Pella”
+    addresses:
+    - address_details: Tsentralnaya Str., 4
+      zip_code: '187330'

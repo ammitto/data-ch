@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: V.V. Tarasov Avia Avtomatika
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Aviaavtomatika named after V.V. Tarasov
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kursk Pribor
+    addresses:
+    - address_details: Zapolnaya Str., 47
+      zip_code: '305040'

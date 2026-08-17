@@ -13,3 +13,30 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: P.A. Voronin Lukhovitsk Aviation Plant, branch of RSK MiG
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Филиал Публичного Акционерного Общества «Объединенная Авиастроительная
+          Корпорация» – Луховицкий Авиационный Завод имени П.А. Воронина (Филиал ПАО
+          «ОАК» - Луховицкий Авиационный Завод)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Branch of Public Joint Stock Company “United Aircraft Corporation”
+          – Lukhovitsky Aviation Plant named after P. A. Voronin
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LAZ im. P. A. Voronina
+    addresses:
+    - address_details: Territory LAZ imeni Pavla Andreevicha Voronina
+      zip_code: '140500'

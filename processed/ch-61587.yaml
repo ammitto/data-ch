@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Concern OJSC - Kizlyar Electro-Mechanical Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Concern KEMZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Kontsern KEMZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint-Stock Company “Concern Kizlyar Electromechanical Plant”
+    addresses:
+    - address_details: Kutuzov Str., 1
+      zip_code: '368832'

@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Spetstehnotreyd LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “SpetsTechnoTrade”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Spetstekhnotreid
+    addresses:
+    - address_details: Mekhanizatorskyi Lane 11, Office 105
+      zip_code: '426028'

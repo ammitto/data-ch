@@ -14,3 +14,35 @@ entity:
         name_part_type: whole-name
         value: Institute of Physics Named After P.N. Lebedev of the Russian Academy
           of Sciences (LPI)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Государственное Бюджетное Учреждение Науки Физический Институт
+          им. П.Н. Лебедева Российской Академии Наук (ФИАН)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Lebedev Physical Institute
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LPI RAS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FIAN
+    addresses:
+    - address_details: Leninsky Prospekt, 53
+      zip_code: '119991'

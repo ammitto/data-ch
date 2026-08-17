@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Miass Machine-Building Factory
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO MMZ
+    addresses:
+    - address_details: Trugoyakskoye Shosse, 1
+      zip_code: '456320'

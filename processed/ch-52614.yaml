@@ -13,3 +13,8 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: OOO Elkomtekh (Elkomtex)
+    addresses:
+    - address_details: Lakhtinsky Prospekt, 54
+      zip_code: '197229'
+    - address_details: Shkapina Str., 32-34, Letter A
+      zip_code: '198095'

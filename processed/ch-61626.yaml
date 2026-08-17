@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Concern Radio-Electronic Technologies
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Concern Radio-Electronic Technologies
+    addresses:
+    - address_details: Goncharnaya Str., 20/1, Building 1
+      zip_code: '109240'

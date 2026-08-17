@@ -14,3 +14,28 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company Concern Central Institute for Scientific Research
           Elektropribor
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Concern TsNII Elektropribor
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: State Research Center of the Russian Federation Concern CSRI Elektropribor,
+          JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Elektropribor
+    addresses:
+    - address_details: Malaya Posadskaya Str., 30
+      zip_code: '197046'

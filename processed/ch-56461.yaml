@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Federal Center for Dual-Use Technology (FTsDT) Soyuz
+    addresses:
+    - address_details: Akademika Zhukova Str., 42
+      zip_code: '140090'

@@ -13,3 +13,14 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Rostekh – Azimuth
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Azimut JSC
+    addresses:
+    - address_details: Naryshkinskaya Alleya, 5, Building 2, Floor 2, Premises X,
+        Room 15
+      zip_code: '125167'

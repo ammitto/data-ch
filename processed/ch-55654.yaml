@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: ISE SO RAN Institute of High-Current Electronics
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Institute of High Current Electronics of the Siberian Branch of the
+          Russian Academy of Sciences
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IHE SB RAS
+    addresses:
+    - address_details: Akademichesky Prospekt, 2/3
+      zip_code: '634055'

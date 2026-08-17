@@ -12,4 +12,14 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: JCS Izhevsk Motozavod Axion-holding
+        value: JCS Izhevsk Motozavod Axion-Holding
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Izhevsk Motor Plant Aksion-Holding
+    addresses:
+    - address_details: Maksim Gorkogo Str., 90
+      zip_code: '426008'

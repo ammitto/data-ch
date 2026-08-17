@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: All-Russian Scientific-Research Institute Etalon JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: VNII Etalon JSC
+    addresses:
+    - address_details: 1st Yamskogo Polya Str., 19
+      zip_code: '125040'

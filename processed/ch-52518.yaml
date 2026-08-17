@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Avant Space LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Avant Space Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Avant Space Propulsion Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Avant-Spejs
+    addresses:
+    - address_details: Skolkovo Innovation Center, Bolshoi Boulevard, 42, Building
+        1, Floor 4, Room 1434, 1431
+      zip_code: '121205'
+    - address_details: Presnenskaya Embankment, 12
+      zip_code: '123112'
+    - address_details: Garibaldi Str., 15, Building 1
+      zip_code: '117335'
+    - address_details: Skolkovo Innovation Center Lugovaya Str., Building 4/7
+      zip_code: '143026'

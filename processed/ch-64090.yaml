@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Kazan Optical-Mechanical Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO KOMZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Kazan Optical and Mechanical Plant
+    addresses:
+    - address_details: Lipatova Str., 37
+      zip_code: '420075'

@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: United Instrument Manufacturing Corporation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO OPK
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: UIMC
+    addresses:
+    - address_details: Vereyskaya Str. 29, Building 141
+      zip_code: '121357'

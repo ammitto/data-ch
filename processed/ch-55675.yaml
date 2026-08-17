@@ -12,4 +12,21 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
+        value: Joint Stock Company NPO Elektromechaniki
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Scientific and Production Association “Electromechanics” JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
         value: NPO Elektromechaniki JSC
+    addresses:
+    - address_details: Mendeleeva Str., 31
+      zip_code: '45630'

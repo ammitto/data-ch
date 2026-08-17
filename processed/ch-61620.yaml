@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: SMT iLogic LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SMT-iLogic
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SMT-Ailogic
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SMT Aylogik
+    addresses:
+    - address_details: Nepokorennykh Prospekt, 17, Building 4, Letter B, Room 5-N
+      zip_code: '195220'

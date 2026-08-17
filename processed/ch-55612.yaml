@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Automated Procurement System for State Defense Orders, LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AST GOZ LLC
+    addresses:
+    - address_details: Profsoyuznaya Str., 78, Building 1
+      zip_code: '117393'

@@ -13,3 +13,41 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Aeroscan LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aeroscan
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aeroskan LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aeroscan Limited Liablity Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Aeroskan
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Aeroskan
+    addresses:
+    - address_details: Perunovskiy Pereulok, 3, Building 2, Floor 2, Room 11
+      zip_code: '127055'

@@ -13,3 +13,25 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: TTK Kammarket LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kammamarket Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Trade and Technical Company “Kammarket”
+    addresses:
+    - address_details: Kazanskaya Str., 41, Office 1
+      zip_code: '423600'
+    - address_details: Trubny Proyezd, Building 4, Industrial and Communal Zone “Promzona”
+    - address_details: Sibgata Khakima Str., 52
+    - address_details: Mendeleeva Str., 156/2
+    - address_details: Vesennaya Str., 6, Office 7
+    - address_details: Dimitrova Str., 2

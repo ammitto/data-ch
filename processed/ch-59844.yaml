@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Borisfen, JSC
+    addresses:
+    - address_details: 2nd Peschanaya Str., 4, Premises 1a, Rooms 1-4
+      zip_code: '125252'

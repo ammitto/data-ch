@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Federal Service for Military-Technical Cooperation
+    addresses:
+    - address_details: Ovchinnikovskaya Embankment, 18/1
+      zip_code: '115324'

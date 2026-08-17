@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Arsenal Machine-building plant, OJSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OAO MZ Arsenal
+    addresses:
+    - address_details: Komsomola Str., 1-3
+      zip_code: '195009'

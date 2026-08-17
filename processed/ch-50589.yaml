@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC Kazan Helicopter Plant Repair Service
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Казанский Вертолетный Завод-Ремонт, Сервис» (АО
+          «КВЗ-РемСервис»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kazanski Vertoletny Zavod Remservis
+    addresses:
+    - address_details: Tetsevskaya Str., 14, Building 22
+      zip_code: '420085'

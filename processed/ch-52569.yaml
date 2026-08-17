@@ -13,3 +13,14 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: LLC Center
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Tsentr
+    addresses:
+    - address_details: Yablochkova Str., 21, Building 3, Floor 3, Premises VIII, Room
+        1L
+      zip_code: '127322'

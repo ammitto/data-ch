@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Scientific-Production Enterprise Salyut JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPP Salyut
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Research and Production Enterprise “Salute”
+    addresses:
+    - address_details: Larina Str., 7, Building 4, Office 4264
+      zip_code: '603107'

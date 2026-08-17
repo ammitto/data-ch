@@ -13,3 +13,22 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: VTK Ltd
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Your Fuel Company”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “VTK”
+    addresses:
+    - address_details: Professora Kachalova Str., 14, Letter A
+      zip_code: '192019'
+    - address_details: Tramvaynyy Prospekt, 12, Letter A
+      zip_code: '198207'

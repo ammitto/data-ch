@@ -14,3 +14,36 @@ entity:
         name_part_type: whole-name
         value: Siberian Scientific-Research Institute of Aviation N.A. S.A. Chaplygin
           (SibNIA)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Автономное Учреждение «Сибирский Научно-Исследовательский
+          Институт Авиации им. С.А. Чаплыгина» (ФАУ «СибНИА им. С.А. Чаплыгина»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: S.A. Chaplygin Siberian Research Institute of Aviation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal Autonomous Institution “Siberian Research Institute of Aviation
+          named after S. A. Chaplygin”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FAU SibNIA im. S.A. Chplygina
+    addresses:
+    - address_details: Polzunova Str., 21
+      zip_code: '630051'

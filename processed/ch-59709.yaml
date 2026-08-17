@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Urals Instrument-Engineering Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO UPZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Ural Instrument-Making Plant”
+    addresses:
+    - address_details: 25 Km Chelyabinskiy Trakt
+      zip_code: '624000'

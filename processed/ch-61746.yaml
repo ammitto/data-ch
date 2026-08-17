@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Ryazan Plant of Metal Ceramic Instruments
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Ryazan Metal Ceramics Instrumentation Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Ryazan Plant of Ceramic Devices, RMCIP
+    addresses:
+    - address_details: Novaya Str., 51v
+      zip_code: '390027'

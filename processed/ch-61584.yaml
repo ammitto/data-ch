@@ -14,3 +14,34 @@ entity:
         name_part_type: whole-name
         value: PJSC “Scientific and Production Association ‘Almaz’ named after Academician
           A.A. Raspletin”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPO Almaz
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Almaz Scientific Production Association
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC NPO Almaz named after A.A. Raspletin
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPO Almaz imeni Akademika A. A. Raspletina
+    addresses:
+    - address_details: Leningradskiy Prospekt, 80, Building 16
+      zip_code: '125190'

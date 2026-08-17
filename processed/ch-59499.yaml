@@ -14,3 +14,14 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company Flight Research Institute N.A. M.M. Gromov (FRI
           Gromov)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aktsionernoe Obshchestvo Letno-Issledovatelski Institut Imeni M. M.
+          Gromova; JSC LII named after M. M. Gromov
+    addresses:
+    - address_details: Zhukovsky, Garnaeva Str., 2A
+      zip_code: '140180'

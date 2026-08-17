@@ -13,3 +13,36 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Company, KB Mashinostroeniya
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Research and Production Corporation “Design Bureau
+          of Mechanical Engineering”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPK KBM; Joint Stock Company “Research and Production Corporation
+          “Machine Building Design Bureau”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Research and Production Corporation Konstruktorskoye
+          Byuro Mashynostroyeniya
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kolomna Design Bureau of Machine-Building
+    addresses:
+    - address_details: Oksky Prospekt, 42

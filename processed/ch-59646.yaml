@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Almaz Central Marine Design Bureau, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Центральное Морское Конструкторское Бюро «Алмаз»
+          (АО «ЦМКБ «Алмаз»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC TsMKB Almaz
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: St. Petersburg Naval Design Bureau Almaz
+    addresses:
+    - address_details: Varshavskaya Str. 50
+      zip_code: '196128'

@@ -13,3 +13,29 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Scientific Research Institute of Applied Chemistry
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal Research and Production Center Research Institute of Applied
+          Chemistry
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC FNPC Research Institute of Applied Chemistry
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Федеральный Научно-Производственный Центр «Научно-Исследовательский
+          Институт Прикладной Химии» (АО «ФНПЦ «НИИ Прикладной Химии»)
+    addresses:
+    - address_details: Akademika Silina Str., 3
+      zip_code: '141300'

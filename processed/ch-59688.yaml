@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Radiopribor
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Радиоприбор»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Radiopribor
+    addresses:
+    - address_details: Fatkullina Str., 2
+      zip_code: '420021'

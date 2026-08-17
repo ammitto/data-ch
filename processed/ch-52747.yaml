@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: ZAO Elmiks-VS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: CJSC Elmiks-VS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Закрытое Акционерное Общество «Элмикс-ВС» (ЗАО «Элмикс-ВС»)
+    addresses:
+    - address_details: Artilleriyskaya Str., 1, Letter А, Premises 26-N
+      zip_code: '191014'

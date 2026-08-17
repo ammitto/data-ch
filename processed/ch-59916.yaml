@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Nudelman Precision Engineering Design Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: KB Tochmash
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Design Bureau of Precision Engineering named after
+          A.E. Nudelman”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO KBTochmash im. A. E. Nudelmana
+    addresses:
+    - address_details: Vvedenskogo Str., 8
+      zip_code: '117342'

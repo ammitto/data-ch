@@ -13,3 +13,57 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: NPK Technologii Maschinostrojenija
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Научно-Производственный Концерн «Технологии Машиностроения»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: АО «НПК «Техмаш»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPK Engineering Technology
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Tecmash Concern
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kontsern “Tecmash” JSC Research and Production Concern Machine Building
+          Technologies
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Scientific-Production Concern “Mechanical Engineering”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Scientific Production Concern Tekhmash
+    addresses:
+    - zip_code: '115184'
+    - address_details: Leningradskoe Highway, 58, Building 4
+      zip_code: '125212'

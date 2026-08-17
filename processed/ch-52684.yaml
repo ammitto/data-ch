@@ -14,3 +14,35 @@ entity:
         name_part_type: whole-name
         value: State Scientific Center AO GNTs RF—FEI A.I. Leypunskiy Physico-Energy
           Institute
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Leypunsky Institute of Physics and Power Engineering
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IPPE
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “State Scientific Centre of the Russian Federation
+          - Leipunsky Institute of Physics and Energy”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO GNTs RF - FEI
+    addresses:
+    - address_details: Bondarenko Square, 1
+      zip_code: '249033'

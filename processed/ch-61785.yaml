@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Special Design Bureau of Computer Engineering
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Spetsialnoe Konstruktorskoe Byuro Vychislitelnoi Tekhniki
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO SKB VT
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Special Design Bureau of Computer Technology”
+    addresses:
+    - address_details: Maksima Gorkogo Str., 1
+      zip_code: '180007'

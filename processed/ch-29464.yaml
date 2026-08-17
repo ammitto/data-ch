@@ -13,3 +13,36 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: OAO Wysokototschnye Kompleksi
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «НПО «Высокоточные Комплексы»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC NPO “High-precision complexes”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: High Precision Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPO Vysokotochnye Kompleksy AO
+    addresses:
+    - address_details: Gogolevsky Boulevard, 21, Building
+      zip_code: '119019'
+    - address_details: Kievskaya Str., 7
+      zip_code: '121059'

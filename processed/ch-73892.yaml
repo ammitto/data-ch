@@ -14,3 +14,24 @@ entity:
         name_part_type: whole-name
         value: Yildiz Çip Teknoloji Elektronik Elektrik Bilgisayar Malzemeleri Ticaret
           Sanayi Limited Sirketi
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Yildiz Çip; Yildiz Çip Teknoloji Elektronik Elektrik Bilgisayar Malzemeleri
+          Tic. San. Ltd. Ști.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Yildiz Chip Technology Electronic Electric Computer Materials Trade
+          Industry Limited
+    addresses:
+    - address_details: 'Kishla, cadde Șehit Binbașı Cengiz Toytunj, Antelsan İș Merkezi
+        No: 118, kat 5, İç kapı: 401'
+    - address_details: Kișla Mah. Șehit Binbași Cengiz Toytunç Cad. Antelsan İșmerkezi,
+        401/118

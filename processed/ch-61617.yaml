@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC ICC Milandr
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Milandr EK OOO
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Milur IS, OOO
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Mikroelectronic Production Complex (MPK) Milandr
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO PLL Milandr
+    addresses:
+    - address_details: Georgievskiy Prospekt, 5
+      zip_code: '124498'

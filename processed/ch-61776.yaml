@@ -14,3 +14,20 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company Scientific Research Institute of Industrial Television
           Rastr
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Nauchno Issledovatelskii Institut Promyshlennogo Televideniya Rastr
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NIIPT Rastr
+    addresses:
+    - address_details: Bolshaya Sankt-Peterburgskaya Str., 39
+      zip_code: '173003'

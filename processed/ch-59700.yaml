@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Scientific Production Enterprise Izmeritel
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPP Izmeritel.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPP Meter
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Research and Production Enterprise “Izmeritel”
+    addresses:
+    - address_details: Babushkina Str., 5
+      zip_code: '214031'

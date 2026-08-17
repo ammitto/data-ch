@@ -13,3 +13,41 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Paravar Pars Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: شرکت پراور پارس
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Paravar Pars Aerospace Research and Engineering Services
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Paravar Pars Aerospace Research Institute
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Paravar Pars Engineering and Services Aerospace Research Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Pravarpars Engineering Research and Design Company
+    addresses:
+    - address_details: 13 km of Shahid Babaei Highway, after Imam Hossein University,
+        next to Telo Road

@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Far Eastern Shipbuilding and Ship Repair Center
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Дальневосточный Центр Судостроения и Судоремонта»
+    addresses:
+    - address_details: Svetlanskaya Str., 72
+      zip_code: '690001'

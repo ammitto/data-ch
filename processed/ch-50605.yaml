@@ -13,3 +13,44 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Komsomolsk-na-Amur Aviation Production Organization (KNAAPO)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Открытое Акционерное Общество «Комсомольское-на-Амуре Авиационное Производственное
+          Объединение имени Ю.А. Гагарина» (ОАО «КнААПО»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Komsomolsk-on-Amur Aviation Plant named after Y. A. Gagarin
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: KnAAZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Branch of PJSC United Aircraft Corporation Yuri Gagarin Komsomolsk-on-Amur
+          Aircraft Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Branch of AO Company Sukhoi Yuri Gagarin Komsomolsk-on-Amur Aircraft
+          Plant
+    addresses:
+    - address_details: Komsomolsk-on-Amur, Sovetskaya Str., 1
+      zip_code: '681018'

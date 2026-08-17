@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Scientific-Production Enterprise Vostok JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPP Vostok
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Research and Production Enterprise “Wave”
+    addresses:
+    - address_details: Varshavskoe Shosse, 26
+      zip_code: '117105'

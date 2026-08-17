@@ -13,3 +13,40 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: OAO NPO Bazalt
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество ‘Научно-Производственное Объединение ‘Базальт’”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: АО “НПО ‘Базальт’”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Scientific and Production Association ‘Basalt’”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Research and Production Association ‘BAZALT’”
+    addresses:
+    - address_details: Velyaminovskaya Str. 32
+      zip_code: '105318'
+    - address_details: Dachnaya Str., 2A
+      zip_code: '141292'
+    - address_details: Shcheglovskaya Zaseka Str., 53
+      zip_code: '300004'
+    - address_details: Metallistov Square, 1
+      zip_code: '157800'

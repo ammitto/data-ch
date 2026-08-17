@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Ural Optical-Mechanical Plant E.S. Yalamova, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Production Association “Ural Optical and Mechanical Plant” named
+          after E. S. Yalamov”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “PA “UOMP”
+    addresses:
+    - address_details: Vostochnaya Str., 33 B
+      zip_code: '620100'

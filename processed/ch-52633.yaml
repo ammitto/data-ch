@@ -13,3 +13,31 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Radioavtomatika
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Testprecision LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Radioautomatic LLC
+    addresses:
+    - address_details: Municipal District Troparevo-Nikulino, Akademika Anokhina Str.,
+        2, Building 7
+      zip_code: '119602'
+    - address_details: Zolotorozhsky Val Str., 11, Building 22
+      zip_code: '101033'
+    - address_details: Maly Prospekt P.S., 5 Letter B
+      zip_code: '197198'
+    - address_details: Vladimir, Severnaya Str., 2a
+      zip_code: '600007'
+    - address_details: Gagarina Str., 3, Building 78
+      zip_code: '143966'
+    - address_details: Komsomolskaya Str., 1
+      zip_code: '142100'

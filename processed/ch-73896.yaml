@@ -13,3 +13,22 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: LLC Fregat
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Fregat LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Fregat
+    addresses:
+    - address_details: Petrogradskaya Embankment, 36, Letter A
+      zip_code: '197101'
+    - address_details: Moiseenko Str., 24A, Room 1-H, Office 404-404a
+      zip_code: '191144'

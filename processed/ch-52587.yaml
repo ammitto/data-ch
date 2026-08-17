@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Nerpa Shipyard
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SRZ Nerpa
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Branch Nerpa Shipyard - JSC “Ship Repair Centre Zvyozdochka”
+    addresses:
+    - zip_code: '184682'
+    - address_details: Proezd Mashinostroiteley, 12
+      zip_code: '164509'

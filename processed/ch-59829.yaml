@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Voentelecom JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Воентелеком» (АО «Воентелеком»)
+    addresses:
+    - address_details: Bolshaya Olenya Str. 15A, Building 1
+      zip_code: '107014'

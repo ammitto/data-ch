@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Elitan Trade LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Elitan Treid
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Elite Trade
+    addresses:
+    - address_details: Melnichnaya Str., 34A
+      zip_code: '426063'

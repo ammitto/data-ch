@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Foreign Trade Association Mashpriborintorg
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FTA Mashpriborintorg JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: oint Stock Company “Foreign Economic Association “Mashpriborintorg”
+    addresses:
+    - address_details: Shcherbakovskaya Str., 3
+      zip_code: '105318'
+    - address_details: Tkatskaya Str., 19
+      zip_code: '121108'
+    - address_details: Fili-Davydkovo Municipal District, Ivana Franko Str., 4, Building
+        10
+      zip_code: '121108'
+    - address_details: Ukrainsky Boulevard, 8, Building 1
+      zip_code: '121059'

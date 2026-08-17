@@ -13,3 +13,42 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Irkut Corporation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Публичное Акционерное Общество «Яковлев» (ПАО «Яковлев»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Публичное Акционерное Общество «Научно-Производственная Корпорация
+          «Иркут» (ПАО «Корпорация «Иркут»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint Stock Company Yakovlev
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Irkut Research and Production Corporation Public Joint Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Irkut Corporation
+    addresses:
+    - address_details: Leningradsky Prospekt, 68
+      zip_code: '125315'

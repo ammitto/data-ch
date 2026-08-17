@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company 123 Aviation Repair Plant (123 ARZ)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “123 Aircraft Repair Plant”
+    addresses:
+    - address_details: Staraya Russa, Starorussky District, Gorodok Microdistrict
+      zip_code: '175201'

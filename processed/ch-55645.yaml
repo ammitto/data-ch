@@ -13,3 +13,30 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Institute of High Energy Physics
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Budgetary Institution “Institute of High Energy Physics
+          named after A.A. Logunov of the National Research Center “Kurchatov Institute”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IHEP
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NITs Kurchatovsky Institute IFVE
+    addresses:
+    - address_details: Nauki Square, 1
+      zip_code: '142281'
+    - address_details: Pobedy Str., 1
+      zip_code: '142281'

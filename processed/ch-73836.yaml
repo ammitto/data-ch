@@ -13,3 +13,35 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC SEZ Alabuga
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Alabuga” Special Economic Zone of Industrial and Production Type
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Alabuga Special Economic Zone (SEZ)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Yelabuga Special Economic Zone (SEZ)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO OEZ PPT Alabuga
+    addresses:
+    - address_details: Sh-2 Str. (Territory of the Alabuga Special Economic Zone),
+        4/1
+      zip_code: '423601'

@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missiles Corporation JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Корпорация «Тактическое Ракетное Вооружение»
+          (АО «Корпорация «Тактическое Ракетное Вооружение»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: KTRV
+    addresses:
+    - address_details: Ilycha Str., 7
+      zip_code: '141080'

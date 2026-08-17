@@ -14,3 +14,13 @@ entity:
         name_part_type: whole-name
         value: Scientific-Research Institute of Automated Systems and Communications
           Complexes Neptune JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NII Neptun
+    addresses:
+    - address_details: Vasilyevsky Island, 7th Line, 80, Building 1, Letter A
+      zip_code: '199178'

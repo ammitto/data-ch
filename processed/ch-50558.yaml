@@ -14,3 +14,29 @@ entity:
         name_part_type: whole-name
         value: Federal State Unitary Enterprise Dukhov Automatics Research Institute
           (VNIIA)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Государственное Унитарное Предприятие «Всероссийский Научно-Исследовательский
+          Институт Автоматики им. Н.Л. Духова»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Unitary Enterprise “All-Russian Research Institute of
+          Automation named after N.L. Dukhov”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FSUE “VNIIA”
+    addresses:
+    - address_details: Sushchevskaya S, 22
+      zip_code: '127030'

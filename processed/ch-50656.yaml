@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Russian Aircraft Corporation MiG
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Российская Самолетостроительная Корпорация «МиГ»
+          (АО «РСК «МиГ»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “RAC MiG”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Mikoyan
+    addresses:
+    - address_details: Leningradskoe Shosse, 6, Building 1
+      zip_code: '125171'

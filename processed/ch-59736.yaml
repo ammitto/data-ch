@@ -13,3 +13,36 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Design Bureau of Chemical Machine Building KBKhM
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: A.M. Isayev Chemical Engineering Design Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: KB KhimMash
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Chemical Machine Building Design Bureau named
+          after A.M. Isaev”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Конструкторское Бюро Химического Машиностроения
+          имени А.М. Исаева»
+    addresses:
+    - address_details: Bogomolova Str., 12
+      zip_code: '141070'

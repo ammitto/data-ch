@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Federal Research and Production Center Altai
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO FNPZ Altai
+    addresses:
+    - address_details: Socialisticheskaya Str., 1
+      zip_code: '659322'

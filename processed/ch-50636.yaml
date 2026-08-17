@@ -13,3 +13,8 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Promtech-Dubna, JSC
+    addresses:
+    - address_details: Programistov Str., 4, Room 364
+      zip_code: '141983'
+    - address_details: Nauki Prospekt, 14
+      zip_code: '141983'

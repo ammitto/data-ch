@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: State Machine Building Design Bureau Raduga Bereznya
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC State Machine-Building Design Bureau Raduga named after A.Ya. Bereznyak
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “State Machine-Building Design Bureau “Raduga”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: MKB Raduga
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: GosMKB “Rainbow” named after A. Ya. Bereznyak
+    addresses:
+    - address_details: Zhukovskogo Str., 2A
+      zip_code: '141980'

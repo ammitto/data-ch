@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Rybinsk Shipyard Engineering
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Rybinsk Shipyard
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Rybinskaya Verf
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO “RV”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Общество с Ограниченной Ответственностью «Рыбинская Верфь» (ООО «РВ»)
+    addresses:
+    - address_details: Sudostroitelnaya Str.,1A
+      zip_code: '152978'

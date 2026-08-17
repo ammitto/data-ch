@@ -13,3 +13,22 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Ultran Electronic Components LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Ultran EC LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Ultran EK
+    addresses:
+    - address_details: Politekhnicheskaya Str., 22, Letter L, Premises 1-N, Room 8
+      zip_code: '194021'
+    - address_details: Politekhnicheskaya Str., 22, Letter L, Premises 9-N, Room 19
+      zip_code: '194021'

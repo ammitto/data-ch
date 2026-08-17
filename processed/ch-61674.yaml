@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Papilon Systems Limited Liability Company
+    addresses:
+    - address_details: Makeeva Prospekt, 48
+      zip_code: '456320'

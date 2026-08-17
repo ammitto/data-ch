@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Military Industrial Company Limited Liability Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Voenno-Promyshlennaya Kompaniya
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO VPK
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: VPK Military Industrial Company
+    addresses:
+    - address_details: Rochdelskaya Str., 15, Building 8
+      zip_code: '123376'

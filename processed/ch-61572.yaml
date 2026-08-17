@@ -13,3 +13,15 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Videoglaz Project
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Videoglaz Project”
+    addresses:
+    - address_details: Volnaya Str., 35
+      zip_code: '105118'
+    - address_details: Admiral Rudnev Str., 4, Floor 6, Premises 6, Office 6G
+      zip_code: '117041'

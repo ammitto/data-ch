@@ -13,3 +13,24 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: MCST Lebedev
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: MTsST Elbrus
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Moscow Center of SPARC Technologies
+    addresses:
+    - address_details: Leninsky Prospekt, 51
+      zip_code: '119991'
+    - address_details: Profsoyuznaya Str., 108
+      zip_code: '117437'
+    - address_details: Nagatinskaya Str. 1, Building 21
+      zip_code: '117105'

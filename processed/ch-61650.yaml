@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Oje Parvaz Mado Nafar Company (Mado)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: شرکت اوج پرواز ما دو نفر
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Mado
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Owj Parvaz Mado Nafar Company LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Oje Parvaz Mado Nafar Co
+    addresses:
+    - address_details: Qom, No. 1106, 11 Hemmat Corner, Hemmat Square, Hemmat Boulevard
+      zip_code: '3718116354'

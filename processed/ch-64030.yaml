@@ -13,3 +13,23 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: LLC CST (Zala Aero Group)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Zala Aero Group
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Zala Aero
+    addresses:
+    - address_details: Institutskiy Lane, 2, Floor 5, Room 7
+      zip_code: '127030'
+    - zip_code: '426011'
+    - address_details: Perunovsky Lane, 3, Building 2, Floor 3, Room 21
+      zip_code: '127055'

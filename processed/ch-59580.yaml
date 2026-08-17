@@ -14,3 +14,22 @@ entity:
         name_part_type: whole-name
         value: Scientific-Production Association Vint of Zvezdochka Shipyard (SPU
           Vint)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Головной филиал «Научно-Производственное Объединение «Винт» Акционерное
+          Общество «Центр Судоремонта «Звездочка» (Головной филиал «НПО «Винт» АО
+          «ЦС «Звездочка»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPO Vint
+    addresses:
+    - address_details: Novinsky Boulevard, 11
+      zip_code: '121099'

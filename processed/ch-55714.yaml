@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Scientific Research Institute Ferrite-Domen
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Научно-Исследовательский Институт «Феррит-Домен»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NII Ferrit-Domen
+    addresses:
+    - address_details: Zvetochnaya Str., 25, Building 3, Letter B, Room 417
+      zip_code: '196006'

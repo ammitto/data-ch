@@ -20,7 +20,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: AO “Baikal Elektroniks”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO “Baikal Elektroniks”
     addresses:
+    - address_details: 26th Kilometer of the M9 “Baltia” Highway, 5 (RigaLand Business
+        Centre), Building 1
+      zip_code: '143421'
+    - address_details: Marshala Vasilevskogo Str., 15, Building 20
+      zip_code: '123182'
+    - address_details: Proezd 4922th, 4, Building 5
+      zip_code: '124498'
     - address_details: 26th Kilometer of the M9 “Baltia” Highway, 5 (RigaLand Business
         Centre), Building 1
       zip_code: '143421'

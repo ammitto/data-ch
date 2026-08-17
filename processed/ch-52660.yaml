@@ -13,3 +13,41 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Scientific Research Institute of Hypersonic Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OJSC Scientific Research Enterprise Hypersonic Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Hypersonic Systems Research Institute
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Hypersonic Systems Research Institute of “Leninetz” Holding Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: HSRI
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OAO NIPGS
+    addresses:
+    - address_details: Moskovsky Prospekt, 212
+      zip_code: '196066'

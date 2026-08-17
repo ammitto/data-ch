@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Zelenodolsk Design Bureau, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Zelenodolskoe PKB
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ZPKB
+    addresses:
+    - address_details: Lenin Str., 41a
+      zip_code: '422540'

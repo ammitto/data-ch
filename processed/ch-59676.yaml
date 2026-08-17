@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Industrial Controls Design Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Конструкторское Бюро Промышленной Автоматики»
+          (АО «КБПА»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO KBPA
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Design Bureau for Industrial Automatics
+    addresses:
+    - address_details: Bolshaya Sadovaya Str., 239
+      zip_code: '410005'

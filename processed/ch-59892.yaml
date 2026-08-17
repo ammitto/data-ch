@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: SPA “Impuls”, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Research and Production Association “Impulse”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPO Impuls
+    addresses:
+    - address_details: Kirishskaya Str., 2, Letter A
+      zip_code: '195299'

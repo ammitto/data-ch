@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Razryad JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Разряд»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Zavod Razryad
+    addresses:
+    - address_details: Kosta Prospekt, 233
+      zip_code: '362031'

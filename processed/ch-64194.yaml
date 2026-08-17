@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Zelenodolsk Plant Named After A.M. Gorky
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Zelenodolsk Shipyard
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Zelenodolsky Zavod imeni A.M. Gorkogo
+    addresses:
+    - address_details: Zavodskaya Str., 5
+      zip_code: '422546'

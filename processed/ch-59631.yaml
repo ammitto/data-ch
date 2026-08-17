@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Central Research Institute of Automation and Hydraulics (CNIIAG), JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: TsNIIAG
+    addresses:
+    - address_details: Sovetskaya Armiya Str., 5
+      zip_code: '127018'

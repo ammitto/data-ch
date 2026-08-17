@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Design Technology Center Elektronika
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Electronics EDC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Electronics Engineering and Design Center
+    addresses:
+    - address_details: Leninskiy Prospekt, 119A, Letter 17a, Floor 2
+      zip_code: '394033'

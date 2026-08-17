@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Shvabe JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shvabe
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Швабе» (АО «Швабе»)
+    addresses:
+    - address_details: Prospekt Mira, 176
+      zip_code: '129366'

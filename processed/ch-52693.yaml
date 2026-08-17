@@ -14,3 +14,22 @@ entity:
         name_part_type: whole-name
         value: Tomsk Microwave and Photonic Integrated Circuits and Modules Collective
           Design Center
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: TUSUR-Electronica Research Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: TUSUR-Electronics LLC
+    addresses:
+    - address_details: 19 Gvardeyskoy Divizii Str., 15, Apartment 64
+      zip_code: '634045'
+    - address_details: Krasnoarmeyskaya Str., 147, Office 101
+      zip_code: '634045'

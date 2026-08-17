@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Salute Gas Turbine Research and Production Center
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Производственный комплекс «Салют» АО «ОДК» (ПК «Салют» АО «ОДК»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Salyut Production Complex of UEC JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Scientific Production Center for Gas Turbine Engineering “Salyut” JSC
+    addresses:
+    - address_details: Budyonnogo Avenue 16, Building 2
+      zip_code: '105118'

@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Vologda Optical and Mechanical Plant, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Vologda Optical and Mechanical Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OA VOMZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC VOMP
+    addresses:
+    - address_details: Maltseva Str., 54
+      zip_code: '160009'

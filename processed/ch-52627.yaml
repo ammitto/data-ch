@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: PJSC Zvezda
+    addresses:
+    - address_details: Babushkina Str., 123
+      zip_code: '192012'

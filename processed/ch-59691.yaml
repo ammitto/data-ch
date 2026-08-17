@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Ramensk Instrument-Engineering Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint-Stock Company Ramenskoye Instrument-Making Design Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Ramenskoye Engineering Design Office, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Ramenskoye Instrument-Making Design Bureau, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RPKB
+    addresses:
+    - address_details: Ramenskoye, Guriev Street, 2
+      zip_code: '140103'

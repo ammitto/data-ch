@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC Elektronstandart Pribor
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OJSC Elektropribor
+    addresses:
+    - address_details: I.Y. Yakovlev Prospekt, 3
+      zip_code: '428020'

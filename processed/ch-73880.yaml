@@ -13,3 +13,16 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Yilufa Electronics Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Yilufa Electronics Limited
+    addresses:
+    - address_details: 1806, Futian District, Shenzhen City, Hanguo Center
+    - address_details: Flat 419, 4/F, Block B, Sheung Shui Plaza, 3, Ka Fu Close,
+        Sheung Shui, NT
+    - address_details: Unit 02, 21/F, Hip Kwan Commercial Building, 38 Pitt Street,
+        Yau Ma Tei, Kowloon

@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: AO Rubin
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Рубин» (АО «Рубин»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Rubin
+    addresses:
+    - address_details: Marata Str., 86, Letter A
+      zip_code: '191119'

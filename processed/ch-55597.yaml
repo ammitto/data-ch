@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Alagir Resistor Factory
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Alagirsky Resistor Factory
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OJSC “AZS”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Открытое Акционерное Общество «Алагирский Завод Сопротивлений»
+    addresses:
+    - address_details: L. Tolstoy Str., 202
+      zip_code: '363240'

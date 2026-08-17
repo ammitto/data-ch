@@ -13,3 +13,31 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC Rocket and Space Centre – Progress
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Progress
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RKTs Progress
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Progress Rocket Space Centre
+    addresses:
+    - address_details: Zemets Str., 18
+      zip_code: '443009'
+    - address_details: Gilyarovsky Str., 39, Building 1, Room 203
+    - address_details: Lesnaya Str., 10
+    - address_details: Marshala Nedelina Str., 13a
+  justification: 'Telephone: + 7 (846) 955-13-61'

@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Public Joint Stock Company Agregat (PJSC Agregat)
+    addresses:
+    - address_details: Pushkin Str. 1
+      zip_code: '456020'

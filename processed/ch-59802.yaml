@@ -14,3 +14,64 @@ entity:
         name_part_type: whole-name
         value: Russian Federal Nuclear Center – All-Russian Research Institute of
           Experimental Physics
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Unitary Enterprise Yu. E. Sedakov Scientific Research
+          Institute of Measuring Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FGUP RFYaTs VNIIEF
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FGUP FNPTs NIIS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Sedakov Research Institute of Measuring Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Государственное Унитарное Предприятие «Российский Федеральный
+          Ядерный Центр - Всероссийский Научно-Исследовательский Институт Экспериментальной
+          Физики» (ФГУП «РФЯЦ - ВНИИЭФ»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Филиал Федерального Государственного Унитарного Предприятия «Российский
+          Федеральный Ядерный Центр – Всероссийский Научно-Исследовательский Институт
+          Экспериментальной Физики»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Государственное Унитарное Предприятие Федеральный Научно-Производственный
+          Центр «Научно-Исследовательский Институт Измерительных Систем им.Ю.Е.Седакова»
+          (ФГУП «ФНПЦ НИИИС им. Ю. Е. Седакова»)
+    addresses:
+    - address_details: Tropinina Str., 47
+      zip_code: '603137'
+    - address_details: Prospekt Mira, 37
+      zip_code: '607188'

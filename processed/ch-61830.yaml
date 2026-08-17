@@ -12,4 +12,28 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Public Joint Stock Company Megafon
+        value: Open Joint Stock Company Megafon
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Megafon
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO Megafon
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Megafon
+    addresses:
+    - address_details: Oruzheiny Lane, 41
+      zip_code: '127006'

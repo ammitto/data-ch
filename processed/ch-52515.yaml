@@ -13,3 +13,41 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: AO Kronshtadt
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kronshtadt Group
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kronde Group
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ZAO Kronshtadt
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kronshtadt
+    addresses:
+    - address_details: Obuchovskoy Oborony Prospekt, 21/2
+      zip_code: '192019'
+    - address_details: Proezd 1st Volokolamskiy, 10, Building 1, “Diapazon” Business
+        Centre
+      zip_code: '123060'
+    - address_details: Maly Prospekt V.O., 54, Building 4, Letter P
+      zip_code: '199178'
+    - address_details: Zhukovskogo Str., 2
+      zip_code: '141983'

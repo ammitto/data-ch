@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Technodinamika, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Aviation Equipment
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Technodynamics
+    addresses:
+    - address_details: Bolshaya Tatarskaya Str., 35, Building 5
+      zip_code: '115184'

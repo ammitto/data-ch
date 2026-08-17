@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Rubin Sever Design Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC KB Rubin-Sever
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Konstruktorskoe Byuro Rubin-Sever, PAO
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aktsionernoe Obshchestvo “Konstruktorskoe Byuro “Rubin-Sever”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Конструкторское Бюро «Рубин-Север» (АО «КБ «Рубин-Север»)
+    addresses:
+    - address_details: Archangelskoe Shosse, 58
+      zip_code: '164500'

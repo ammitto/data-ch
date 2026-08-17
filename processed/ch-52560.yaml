@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC Shipyard Vympel
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO SSZ “Vympel”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shipbuilding Plant “Vympel”
+    addresses:
+    - address_details: Novaya Str., 4
+      zip_code: '152912'

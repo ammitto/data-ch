@@ -13,3 +13,29 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: NPO Electronic Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPO Electric Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPO Elektronnye Sistemy
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPO E-Systems
+    addresses:
+    - address_details: Tashkentskaya Str., 4, Building 2, Letter U
+      zip_code: '196006'
+    - address_details: Kievskaya Str., 6
+      zip_code: '196084'

@@ -14,3 +14,48 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company Scientific Research Institute of Precision Mechanical
           Engineering
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Nauchno-Issledovatelskiy Institut Tochnogo Mashinostroeniya
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NIITM
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NIITM PAO
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OJSC Scientific and Research Institute of Precision Engineering
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Research Institute of Precision Machine Manufacturing
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Scientific and Research Institute of Precision Mechanical Engineering
+    addresses:
+    - address_details: Panfilovsky Avenue, 10
+      zip_code: '124460'

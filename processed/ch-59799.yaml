@@ -13,3 +13,35 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Radio Technical Institute named after A. L. Mints
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Concern Radio-Technical Information Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO RTI
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Academician A.L. Mints Radio Engineering Institute
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Радиотехнический Институт имени Академика А.Л.
+          Минца» (АО РТИ)
+    addresses:
+    - address_details: 8 Marta Str., 10, Building 1
+      zip_code: '127083'

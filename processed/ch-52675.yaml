@@ -13,3 +13,41 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Ship Maintenance Center Zvezdochka
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Ship Repair Center “Zvezdochka”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Zvezdochka Shipyard
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Center Sudoremonta Zvezdochka
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC SC “Zvyozdochka”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Центр Судоремонта «Звёздочка» (АО «ЦС «Звёздочка»)
+    addresses:
+    - address_details: Proezd Mashinostroiteley, 12
+      zip_code: '164509'

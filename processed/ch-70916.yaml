@@ -13,3 +13,17 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Mvizion LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Mvizion
+    addresses:
+    - address_details: Tursunkulova Street 8
+      zip_code: '100096'
+    - address_details: Gaydar Alieev Kuchasi 313
+      zip_code: '100161'
+    - address_details: Katartal Street 8, 7th Block
+      zip_code: '10113'

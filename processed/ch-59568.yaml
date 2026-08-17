@@ -14,3 +14,21 @@ entity:
         name_part_type: whole-name
         value: Open Joint Stock Company 720 Special Flight Support Equipment Repair
           Plant (720 RZ SOP)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «720 Ремонтный Завод Средств Обеспечения Полетов»
+          (АО «720 РЗ СОП»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “720 Repair Plant of Flight Support Facilities”
+    addresses:
+    - address_details: Krasnoarmeiskaya Str., 6
+      zip_code: '216507'

@@ -13,3 +13,35 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Special Design and Technical Bureau for Relay Technology
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Relay Technology Bureau JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO SKTB RT
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Special Relay System Design and Engineering Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Специальное Конструкторско-Технологическое Бюро
+          по Релейной Технике»
+    addresses:
+    - address_details: Nekhinskaya Str., 55
+      zip_code: '173021'

@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: LLC MBR-AVIA
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: MBR Avia
+    addresses:
+    - address_details: Vosmova Marta Str. 3
+      zip_code: '125167'

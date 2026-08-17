@@ -13,3 +13,23 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC Element
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: GK “Element”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Element Group of Companies
+    addresses:
+    - address_details: Presnenskaya Embankment, 12, Floor 20, Office 2024
+      zip_code: '123112'
+    - address_details: Presnenskaya Embankment, 12, Federation Tower “Vostok”, Office
+        2024
+      zip_code: '123112'

@@ -14,3 +14,28 @@ entity:
         name_part_type: whole-name
         value: Institute of Marine Technology Problems Far East Branch Russian Academy
           of Sciences
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Budgetary Institution of Science M.D. Ageev Institute
+          of Marine Technology Problems Far East Branch Russian Academy of Sciences
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IPMT DVO RAN
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IPMT FEB RAS
+    addresses:
+    - address_details: Sukhanova Str., 5A
+      zip_code: '690091'

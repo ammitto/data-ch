@@ -13,3 +13,48 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company State Scientific Research Institute Kristall
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO GOSNII Kristall
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Gosudarstvenny Nauchno-Issledovatelski Institut Kristall
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OAO GOSNII Kristall
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OJSC Kristall State Research Institute
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: GosNII «Kristall» OJSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: State-Owned Scientific-Research Institute “Crystal”
+    addresses:
+    - address_details: Zelenaya Str.; 6
+      zip_code: '606007'

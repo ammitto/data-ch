@@ -13,3 +13,14 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: LLC Alabuga Development
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Alabuga Development Company
+    addresses:
+    - address_details: Territory of the Alabuga Special Economic Zone, Sh-2 Str.,
+        Building 4, Rooms. 8, 9, 11, 12, 13, 14
+      zip_code: '423601'

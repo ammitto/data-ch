@@ -13,3 +13,15 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Informakustika JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Informacoustics”
+    addresses:
+    - address_details: Politekhnicheskaya Str., 22, Letter A
+      zip_code: '194021'
+    - address_details: R. Krestovki Embankment, 3
+      zip_code: '197376'

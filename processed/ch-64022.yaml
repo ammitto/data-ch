@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: I Jet Global DMCC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: iJet
+    addresses:
+    - address_details: 'Unit No: 3504, 1 Lake Plaza, Plot No: JLT-PH2-T2A, Jumeirah
+        Lakes Towers'

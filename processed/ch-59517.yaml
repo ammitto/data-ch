@@ -13,3 +13,8 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company STAR
+    addresses:
+    - address_details: Perm, Kuybyshev Str., 140A
+      zip_code: '614990'
+    - address_details: Perm, Komsomol Prospekt, 93
+      zip_code: '615990'

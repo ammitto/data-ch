@@ -12,4 +12,21 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Ministry of Defence RF
+        value: Ministry of Defence of the Russian Federation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: MOD RF
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: MO RF
+    addresses:
+    - address_details: Znamenka Str., 19
+      zip_code: '119019'

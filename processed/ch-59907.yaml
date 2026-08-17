@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: PLAZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PLAZ LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO PLAZ
+    addresses:
+    - address_details: Politekhnicheskaya Str., 22, Letter V, Room 1-H
+      zip_code: '194021'

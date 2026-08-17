@@ -13,3 +13,22 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Inelso LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Inelso
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Inelso
+    addresses:
+    - address_details: Gelsingforsskaya Str., 3, Letter Z, Office 412
+      zip_code: '194044'
+    - address_details: 2nd Roshchinsky Proezd, 8, Building 6, Business Centre “Serpukhovskoy
+        Dvor”

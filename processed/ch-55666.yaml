@@ -13,3 +13,15 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Meteor Plant JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Zavod Meteor
+    addresses:
+    - address_details: Loginova Str., 23
+      zip_code: '404130'
+    - address_details: Gorkogo Str., 1
+      zip_code: '404122'

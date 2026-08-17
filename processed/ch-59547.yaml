@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Open Joint Stock Company 20 Aviation Repair Plant (20 ARZ)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «20 Авиационный Ремонтный Завод» (АО «20 АРЗ»)
+    addresses:
+    - address_details: Gatchinskoe Shosse, 11, Pushkin
+      zip_code: '196603'

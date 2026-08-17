@@ -13,3 +13,37 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: SKS Elektron Broker
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO SKS Elektron Broker
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC SKS Electron Broker
+    addresses:
+    - address_details: Krzhizhanovskogo Str., 15, Building 5, Floor 5, Office 517B
+      zip_code: '117218'
+    - address_details: Kosmonavtov Street, 18, Block 2
+      zip_code: '129301'
+    - address_details: Sheremetyevo-2 Business, Floor 3, Office 316
+      zip_code: '141400'
+    - address_details: Building 8
+      zip_code: '142015'
+    - address_details: Vnutriportovaya Str., Office 301
+      zip_code: '692941'
+    - address_details: Lenina Avenue, 61A, Office 701
+      zip_code: '150054'
+    - address_details: Pulkovskoe Highway, 37, Building 4, Floor 3n1, Office 3.076
+      zip_code: '196210'
+    - address_details: 5th Verkhniy Lane, Industrial Zone Pamas, Letter Zh, Office
+        117
+      zip_code: '194292'
+    - address_details: Tsvetochnaya Str., 16, Business Centre Osipoff, Office 415
+      zip_code: '196084'

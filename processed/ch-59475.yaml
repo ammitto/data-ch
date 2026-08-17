@@ -14,3 +14,6 @@ entity:
         name_part_type: whole-name
         value: Federal State Unitary Enterprise "State Scientific-Research Institute
           for Aviation Systems" (GosNIIAS)
+    addresses:
+    - address_details: Viktorenko Str., 7, Building 2
+      zip_code: '125319'

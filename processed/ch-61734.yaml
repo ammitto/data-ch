@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Research and Production Enterprise Radar MMS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Radar MMS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPP Radar MMS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Scientific Production Association Radar MMS JSC
+    addresses:
+    - address_details: Novoselkovskaya Str., 37, Letter A
+      zip_code: '197375'

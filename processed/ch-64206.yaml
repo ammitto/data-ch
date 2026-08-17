@@ -13,3 +13,41 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Open Joint Stock Company Degtyaryov Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OJSC Plant im. V.A. Degtyareva
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Degtyaryov Factory
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OAO ZiD
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Open Joint Stock Company “Plant named after. V.A. Degtyarev”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Open Joint Stock Company “V.A. Degtyarev Plant”
+    addresses:
+    - address_details: Truda Str., 4
+      zip_code: '601900'

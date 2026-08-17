@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Pskov Distance Communications Equipment Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Псковский Завод Аппаратуры Дальней Связи»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Pskov Plant ADS JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Pskov Distance Communications Equipment (ADS)
+    addresses:
+    - address_details: Gagarina Str., 4
+      zip_code: '180004'

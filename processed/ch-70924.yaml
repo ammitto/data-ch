@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Deflog Technologies PTE LTD
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Deflog Tech
+    addresses:
+    - address_details: 'Shaw Road 30, #06-01, Roche Building'
+      zip_code: '367957'

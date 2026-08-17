@@ -13,3 +13,43 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: SuperCam
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Unmanned Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Supercam.Aero
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SuperCam Unmanned Systems Group
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: GK “Bespilontye Sistemy”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Bespilotnye Sistemy
+    addresses:
+    - address_details: 10 Let Oktyabrya Str.,10, 24, Appartment 62
+      zip_code: '426011'
+    - address_details: Melnichnaya Str., 34A
+      zip_code: '426063'

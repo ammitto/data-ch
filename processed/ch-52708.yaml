@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: United Shipbuilding Corporation JSC “Baltic Shipbuilding Factory”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Baltiski Zavod
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Baltic Shipyard, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Балтийский Завод»
+    addresses:
+    - address_details: Kosaya Liniya Str., 16
+      zip_code: '199106'

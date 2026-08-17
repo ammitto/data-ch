@@ -13,3 +13,31 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Microelectronic Research and Development Center Novosibirsk
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: KTIPM
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IFP KTIPM SO RAN
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Novosibirsk Branch of the Federal State Budgetary Institution of Science
+          of the A.V. Rzhanov Institute of Semiconductor Physics SB RAS “Design and
+          Technology Institute of Applied Microelectronics”
+    addresses:
+    - address_details: Nikolaeva Str., 8
+      zip_code: '630090'
+    - address_details: Akademika Lavrenteva Prospekt, 2/1
+      zip_code: '630090'

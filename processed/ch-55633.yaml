@@ -16,3 +16,7 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Evgeny
+    addresses:
+    - address_details: Zheleznodorozhniy Pereulok, 3, Building 41
+    - address_details: Melitopolskaya Str., 9, Building 3
+      zip_code: '117403'

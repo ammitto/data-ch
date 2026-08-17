@@ -13,3 +13,17 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC VNIIR Progress
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint-Stock Company “VNIIR-Progress”
+    addresses:
+    - address_details: I. Y. Yakovlev Prospekt, 4
+      zip_code: '428024'
+    - address_details: Bogatyrsky Prospekt, 18, Building 1, Letter A
+      zip_code: '197348'
+    - address_details: Serebryanicheskaya Embankment, 29
+      zip_code: '109028'

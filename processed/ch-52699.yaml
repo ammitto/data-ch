@@ -13,3 +13,44 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: United Shipbuilding Corporation JSC “35th Shipyard”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SRZ-35
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Branch “35 SRZ” – Joint Stock Company “Ship Repair Center Zvyozdochka”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: 35-y SRZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: 35th Ship Repair Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Филиал «35 Судоремонтный Завод» – Акционерное Общество «Центр Судоремонта
+          «Звёздочка» (ФЛ «35 СРЗ» – АО «ЦС «Звёздочка»)
+    addresses:
+    - address_details: Admiral Lobov Str., 100
+      zip_code: '183017'
+    - address_details: Proezd Mashinostroiteley, 12
+      zip_code: '164509'

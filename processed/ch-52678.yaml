@@ -13,3 +13,22 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: State Governmental Scientific Testing Area of Aircraft Systems (GkNIPAS)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Enterprise State Research and Testing Ground for Aviation
+          Systems named after L. K. Safronov
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Казенное Предприятие «Государственный Казенный Научно-Испытательный
+          Полигон Авиационных Систем имени Л. К. Сафронова» (ФКП «ГКНИПАС имени Л.
+          К. Сафронова»)
+    addresses:
+    - zip_code: '140250'

@@ -14,3 +14,43 @@ entity:
         name_part_type: whole-name
         value: International Center for Quantum Optics and Quantum Technologies (the
           Russian Quantum Center)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Общество с Ограниченной Ответственностью «Международный Центр Квантовой
+          Оптики И Квантовых Технологий» (ООО «МЦКТ»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Российский квантовый центр (РКЦ)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RCC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RQC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “MCCT”
+    addresses:
+    - address_details: Territory of the Skolkovo Innovation Center, Bolshoi Boulevard,
+        30, Building 1
+      zip_code: '121205'

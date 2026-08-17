@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Proton JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Proton
+    addresses:
+    - address_details: Leskova Str., 19
+      zip_code: '302040'

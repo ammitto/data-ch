@@ -13,3 +13,36 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Promtekhnologiya Limited Liability Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Promtechnology”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Promtechnologia
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Promtekhnologiya
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ORSIS
+    addresses:
+    - address_details: 14 Podyomnaya Str.,14, Building 8
+      zip_code: '109052'
+    - address_details: Krzhizhanovskogo Str., 29, Building 2
+      zip_code: '117218'

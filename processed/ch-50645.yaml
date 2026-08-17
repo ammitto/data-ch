@@ -13,3 +13,9 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Rapart Services LLC
+    addresses:
+    - address_details: Aeroportskaya Str., 2/2, “Sherland” Business Centre, Dubrovki
+        District
+      zip_code: '141580'
+    - address_details: Aeroportskaya Str., 6, Building 2, Dubrovki District
+      zip_code: '141580'

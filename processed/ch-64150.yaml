@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Scientific Research Engineering Institute
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NIII
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Nauchno-Issledovatelskiy Inzhenerniy Institut
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC SREI
+    addresses:
+    - address_details: Enthusiastov Shosse (Territory of the Western Industrial Zone),
+        6
+      zip_code: '143900'

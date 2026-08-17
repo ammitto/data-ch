@@ -14,3 +14,28 @@ entity:
         name_part_type: whole-name
         value: Tactical Missile Company, Joint Stock Company “State Machine Building
           Design Bureau ‘Vympel’ By Name I.I.Toropov”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Gos MKB “Vympel” im. I.I. Toropova
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPO Vympel
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC State Machine-Building Construction Bureau “Vympel” named after
+          I.I. Toropov JSC
+    addresses:
+    - address_details: Volokolamskoe Shosse, 90
+      zip_code: '125424'

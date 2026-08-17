@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Closed Joint Stock Company Turborus (Turborus)
+    addresses:
+    - address_details: Rybinsk District, Rybinsk, Lenina Prospekt, 179
+      zip_code: '152907'

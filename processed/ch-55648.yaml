@@ -13,3 +13,52 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Institute of Theoretical and Experimental Physics
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ITEP
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ITEF
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kurchatovsky Institute ITEF
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Budgetary Institution “Institute of Theoretical and Experimental
+          Physics named after A. I. Alikhanov of the National Research Center “Kurchatov
+          Institute”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kurchatov Complex of Theoretical and Experimental Physics
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Национальный Исследовательский Центр «Курчатовский Институт»
+    addresses:
+    - address_details: Bolshaya Cheremushkinskaya Str., 25
+      zip_code: '117218'
+    - address_details: Sevastopolsky Prospekt, 24
+      zip_code: '117209'

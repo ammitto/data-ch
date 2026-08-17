@@ -13,3 +13,12 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Argut OOO
+    addresses:
+    - address_details: Khutorskaya Str., 2, 38A, Building 1
+      zip_code: '127287'
+    - address_details: Mnyovniki Str., 6, Floor 3, Premises II, Room 13
+      zip_code: '123007'
+    - address_details: 2nd Magistralny Tupik, 7A, Building 1
+      zip_code: '123007'
+    - address_details: Narodnogo Opolcheniya Str., 34, Floor 3, Office 330
+      zip_code: '123423'

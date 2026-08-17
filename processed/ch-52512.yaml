@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: AO Center of Shipbuilding and Ship Repairing JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Tsentr Tekhnologii Sudostroyeniya i Sudoremonta
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO TsSS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Corporation Shipbuilding and Ship Repair Technology Center
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “SSTC”
+    addresses:
+    - address_details: Promyshlennaya Str., 7
+      zip_code: '198095'

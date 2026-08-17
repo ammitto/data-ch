@@ -13,3 +13,63 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Iran Aircraft Manufacturing Industries Corporation (HESA)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: HESA
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Iran Aircraft Manufacturing Industrial Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Hava Peyma Sazi-e Iran
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Havapeyma Sazhran
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Havapeyma Sazi Iran
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IAMI
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IAMCO
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: HTC
+    addresses:
+    - address_details: No. 107 Sepahbod Gharany Ave
+    - address_details: 28 km Esfahan – Tehran Freeway
+    - address_details: No27 Ahahamat Ave, Vallie Asr Square

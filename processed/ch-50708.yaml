@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Shipyard Yantar
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Pribaltic Shipbuilding Factory “Yantar”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO PSZ Yantar
+    addresses:
+    - address_details: Guskova Square 1
+      zip_code: '236005'

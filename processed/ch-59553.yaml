@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Open Joint Stock Company 308 Aviation Repair Plant (308 ARZ)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «308 Авиационный Ремонтный Завод» (АО «308 АРЗ»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO 308 ARZ
+    addresses:
+    - address_details: Lezhnevskaya Str., 118-B
+      zip_code: '153035'

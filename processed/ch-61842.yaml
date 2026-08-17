@@ -13,3 +13,46 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Skolkovo Foundation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Foundation for the Development of the Center for Elaboration and Commercialization
+          of New Technologies
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Fond Skolkovo
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Fund Skolkovo
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Nekommercheskaya Organizatsiya Fond Razvitiya Tsentra Razrabortki I
+          Kommertsializatsii Novykh Tekhnologii
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Non-profit Organization Development Fund of the Center for Development
+          and Commercialization of New Technologies
+    addresses:
+    - address_details: Skolkovo Innovation Centre, Lugovaya Str., 4
+      zip_code: '121205'
+    - address_details: Skolkovo Innovation Centre, Nobelya Str., 5
+      zip_code: '121205'

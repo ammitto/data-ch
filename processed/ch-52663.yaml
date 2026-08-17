@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Scientific Research Institute NII Submikron
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Submicron
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NII Submikron
+    addresses:
+    - address_details: Zelenograd, Georgievsky Prospekt, 5, Building 2, Floor 4, Premises
+        I, Room 50
+      zip_code: '124460'

@@ -14,3 +14,41 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company Research and Production Association Named After
           S.A. Lavochkina
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Nauchno-Proizvodstvennoe Obedinenie IM. S.A. Lavochkina
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Lavochkin Science and Production Association
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPO imeni S.A. Lavochkina
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPO Lavochkin
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: S.A. Lavochkin Scientific Production Association
+    addresses:
+    - address_details: Leningradskaya Str., 24
+      zip_code: '141402'

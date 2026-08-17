@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC PO Sevmash
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Production Association “Northern Machine Building Enterprise”
+    addresses:
+    - address_details: Arkhangelskoye Shosse, 58
+      zip_code: '164500'

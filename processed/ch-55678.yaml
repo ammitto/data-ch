@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Omsk Production Union Irtysh JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: АО «ОмПО «Иртыш»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OmPO Irtysh
+    addresses:
+    - address_details: Gurteva Str., 18
+      zip_code: '644060'

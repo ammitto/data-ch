@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Voronezh Semiconductor Devices Factory Assembly
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Voronezhsky Zavod Poluprovodnikovykh PriborovSborka
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO VZPP-S
+    addresses:
+    - address_details: Leninsky Avenue, 119A
+      zip_code: '394033'

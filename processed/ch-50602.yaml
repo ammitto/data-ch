@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Kazan Helicopter Plant PJSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kazan Helicopters; Kazanski Vertoletny Zavod AO
+    addresses:
+    - address_details: Tetsevskaya Str., 14
+      zip_code: '420085'

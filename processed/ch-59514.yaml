@@ -14,3 +14,13 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company Special Industrial and Technical Base Zvezdochka
           (SPTB Zvezdochka)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Special Production and Technical Base Zvezdochka”; SPTB Zvezdochka
+    addresses:
+    - address_details: Polyarny, Komsomolskaya Str., 2/7
+      zip_code: '184650'

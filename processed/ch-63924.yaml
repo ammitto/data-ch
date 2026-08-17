@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: CJSC Radiotekhkomplekt
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO RTKT
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Radiotekhkomplekt
+    addresses:
+    - address_details: Bolshaya Tatarskaya Str., 35, Building 7-9, Floor 4
+      zip_code: '115184'

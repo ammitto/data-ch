@@ -13,3 +13,22 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Scientific-Production Enterprise “Kant”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPP Kant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Research and Production Enterprise “Kant”
+    addresses:
+    - address_details: Talalikhina Str., 12, Building 7
+      zip_code: '109316'
+    - address_details: 3rd Mytishchinskaya Str., 16
+      zip_code: '129626'

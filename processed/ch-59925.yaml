@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Novosibirsk Plant of Artificial Fibre
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NZIV
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC NPAF
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Новосибирский Завод Искусственного Волокна»
+    addresses:
+    - address_details: Yuzhny Mkr., 101
+      zip_code: '633208'

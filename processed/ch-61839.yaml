@@ -13,3 +13,19 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: RT-Inform Limited Liability Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO RT-Inform
+    addresses:
+    - address_details: Turchaninov Lane, 6, Building 2, Office 105
+      zip_code: '119048'
+    - address_details: Savvinskaya Embankment, 23, Building 2, Room 613
+      zip_code: '119435'
+    - address_details: Volokolamskoe Highway, 75A
+      zip_code: '125424'
+    - address_details: Tatarstan Str., 11
+      zip_code: '420021'

@@ -13,3 +13,15 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company 766 UPTK
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC 766 UPTK; JSC “766 Management of Production and Technological Equipment”;
+          Special Design Bureau of the Ministry of Defence of the Russian Federation;
+          JSC “Special Design Bureau MO RF”; JSC SKB MO RF
+    addresses:
+    - address_details: Krasnogorsk, Nakhabino, Institutskaya Str. 1
+      zip_code: '143432'

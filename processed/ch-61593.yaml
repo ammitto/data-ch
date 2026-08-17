@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC Zelenogradsky Nanotechnology Center
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO ZNTC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Zelenograd Nanotechnology Center”
+    addresses:
+    - address_details: Solnechnaya Alleya, 6, Room IX, Office 17
+      zip_code: '124527'

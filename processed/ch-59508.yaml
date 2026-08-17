@@ -13,3 +13,14 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC NII Steel
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Scientific Research Institute of Steel; Research Institute of Steel;
+          AO NII Stali
+    addresses:
+    - address_details: Dubninskaya Str., 81A
+      zip_code: '127411'

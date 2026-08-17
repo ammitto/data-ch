@@ -13,3 +13,36 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: NIMI named after V.V. BAHIREV, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “V.V. Bakhirev Research and Development Machine
+          Building Institute”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Mechanical Engineering Research Institute
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Scientific Research Mechanical Engineering Institute
+          named after V.V. Bakhirev”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NIMI im. V. V. Bakhireva
+    addresses:
+    - address_details: Leningradskoye Shosse, 58
+      zip_code: '125212'

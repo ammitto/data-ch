@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Zhiguli Radio Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO ZhRZ
+    addresses:
+    - address_details: Radiozavodskaya Str., 1
+      zip_code: '445359'

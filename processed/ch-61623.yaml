@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Device Consulting
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Device Consulting; OOO Devais Konsalting
+    addresses:
+    - address_details: Aerodromnaya Str., 6, Letter A, Room 45
+      zip_code: '197348'

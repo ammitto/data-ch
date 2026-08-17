@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Perm Powder Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Enterprise “Perm Powder Plant”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FPK Perm Powder Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FKP Permsky Porokhovoy Zavod
+    addresses:
+    - address_details: Galperina Str., 11
+      zip_code: '614042'

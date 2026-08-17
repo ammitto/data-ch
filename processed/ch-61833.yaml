@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Public Joint Stock Company Tutaev Motor Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OAO Tutaevski Motorny Zavod
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO TMZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO Tutaevski Motorny Zavod
+    addresses:
+    - address_details: Stroiteley Str., 1
+      zip_code: '152303'

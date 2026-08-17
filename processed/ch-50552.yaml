@@ -14,3 +14,20 @@ entity:
         name_part_type: whole-name
         value: Federal State Budgetary Enterprise of the Administration of the President
           of Russia
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Administration of the President of the Russian Federation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: The Administrative Directorate of the President of the Russian Federation
+    addresses:
+    - address_details: Nikitnikov Pereulok, 2, Building 5
+      zip_code: '103132'

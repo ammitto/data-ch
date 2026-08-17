@@ -13,3 +13,15 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Euro Asia Cargo (Private) Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Euro Asia Group; Euro Asia Cargo
+    addresses:
+    - address_details: 51/2, Ananda Coomaraswamy Mawatha
+      zip_code: '00700'
+    - address_details: Bandaranaike International Airport
+      zip_code: '11450'

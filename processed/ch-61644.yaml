@@ -13,3 +13,54 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Islamic Revolutionary Guard Corps Aerospace Force
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: یروی هوافضای سپاه پاسداران انقلاب اسلامی
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aerospace Division of IRGC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aerospace Force of the Army of the Guardians of the Islamic Revolution
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Air Force, IRGC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IRGC Aerospace Force
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IRGC Air Force
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RGCAFSepah Pasdaran Air Force
+    addresses:
+    - address_details: Damavand Tehran Highway

@@ -14,3 +14,31 @@ entity:
         name_part_type: whole-name
         value: Federal State Budgetary Institution of Science P.I. K.A. Valiev RAS
           of the Ministry of Science and Higher Education of Russia (FTIAN)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Государственное Бюджетное Учреждение Науки Физико-Технологический
+          Институт имени К.А. Валиева Российской Академии Наук (ФТИАН им. К.А.Валиева
+          РАН)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FTIAN im. K.A. Valiev RAS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FRI RAS
+    addresses:
+    - address_details: Nakhimovsky Prospekt, 34
+      zip_code: '117218'
+    - address_details: Nakhimovsky Prospekt, 36, Building 1
+      zip_code: '117218'

@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Irkutsk Aviation Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Branch of PJSC Yakovlev – Irkutsk Aviation Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Irkutsk Aircraft Factory
+    addresses:
+    - address_details: Novatorov Str., 3
+      zip_code: '664020'

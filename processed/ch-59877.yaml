@@ -12,4 +12,28 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: JSC V. Tikhomirov Scientific Research Institute of Instrument Design
+        value: JSC V. V. Tikhomirov Scientific Research Institute of Instrument Design
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “V.V. Tikhomirov Scientific Research Institute of Instrument Engineering”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NIIP imeni V. V. Tikhomirova
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Scientific Research Institute of Instrument Engineering
+          named after V.V. Tikhomirov”
+    addresses:
+    - address_details: Gagarina Str., 3

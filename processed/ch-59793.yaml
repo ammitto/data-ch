@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Public Joint Stock Company Bryansk Special Design Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO BSKB
+    addresses:
+    - address_details: Vokzalnaya Str., 136
+      zip_code: '241017'

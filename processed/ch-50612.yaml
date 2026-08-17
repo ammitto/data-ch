@@ -13,3 +13,46 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Moscow Institute of Physics and Technology
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Государственное Автономное Образовательное Учреждение Высшего
+          Образования «Московский Физико-Технический Институт (Национальный Исследовательский
+          Университет)» (МФТИ, ФИЗТЕХ)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: MFTI
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FizTech
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: MIPT
+    addresses:
+    - address_details: Kerchenskaya Str., 1A, Building 1
+      zip_code: '117303'
+    - address_details: Institutskiy Pereulok, 9
+      zip_code: '141701'
+    - address_details: Klimentovsky Pereulok, 1, Building 1 (Moscow Campus)
+      zip_code: '115184'
+    - address_details: Gagarina Str., 16 (FALT)
+      zip_code: '140180'
+    - address_details: Maksimova Str., 4 (INBICST)
+      zip_code: '123098'
+    - address_details: Profsoyuznaya Str., 84/32 (Department of Applied Physics, FPFE)
+      zip_code: '117485'

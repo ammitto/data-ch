@@ -13,3 +13,33 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: AO Geomir
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Inzhenerny Tsentr Geomir, AO
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: CJSC Engineering Center Geomir, JSC Geomir
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ZAO Inzhenerny Tsentr Geomir
+    addresses:
+    - address_details: Olimiyskiy Prospekt, 50
+      zip_code: '141006'
+    - address_details: Melnichny Pereulok, 24
+      zip_code: '394030'
+    - address_details: Krasnykh Partizan Str., 249, Office 209/2
+      zip_code: '350047'
+    - address_details: Molodogvardeysky Pereulok, 39, Office 2
+      zip_code: '344029'

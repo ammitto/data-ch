@@ -13,3 +13,22 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Guangzhou Ausay Technology Co Limited
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Ausay Pcb
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: HK Ausay Technology Co.,Limited
+    addresses:
+    - address_details: Building C Mizi Industrial, Zone 5
+      zip_code: 8e
+    - address_details: R301 Block A of No 3 Building West Area of Tongda Industrial
+        Zone 5, She Helong street

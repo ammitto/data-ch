@@ -13,3 +13,43 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Federal Research Center Boreskov Institute of Catalysis
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Institute of Catalysis named after G. K. Boreskov SB RAS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Государственное Бюджетное Учреждение Науки «Федеральный
+          Исследовательский Центр «Институт Катализа им. Г.К. Борескова Сибирского
+          Отделения Российской Академии Наук»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IR SB RAS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Institute of Catalysis SB RAS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: BIC
+    addresses:
+    - address_details: Akademika Lavrentiev Prospekt, 5
+      zip_code: '630090'

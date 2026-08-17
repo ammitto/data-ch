@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Advanced Research Foundation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Фонд Перспективных Исследований (ФПИ)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Russian Foundation for Advanced Research Projects
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Fond Perspektivnykh Issledovaniy
+    addresses:
+    - address_details: Berezhkovskaya Embankment, 22, Building 3
+      zip_code: '121059'

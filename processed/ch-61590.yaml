@@ -13,3 +13,16 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Concern Oceanpribor, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Kontsern Okeanpribor
+    addresses:
+    - address_details: Chkalovsky Prospekt, 4
+      zip_code: '197376'
+    - address_details: Severnaya Str., 1
+      zip_code: '187341'
+    - zip_code: '186734'

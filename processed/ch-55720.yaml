@@ -14,3 +14,27 @@ entity:
         name_part_type: whole-name
         value: Scientific-Production Association and Scientific-Research Institute
           of Radio-Components
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NIIRK
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Research and Production Association NIIRK”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO NPO NIIRK
+    addresses:
+    - address_details: Krymsky Val Str., 3, Building 1, Office 1
+      zip_code: '119049'

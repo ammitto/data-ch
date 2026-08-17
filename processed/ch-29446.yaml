@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC Sirius
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Открытое Акционерное Общество «Концерн «Сириус»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kontsern Sirius
+    addresses:
+    - address_details: Pirogovskaya M. Str., 18, Building 1
+      zip_code: '119435'

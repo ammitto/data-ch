@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: UAB Pella-Fjord
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Pella-Fjord CJSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Pella-Fiord Shipbuilding Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Закрытое Акционерное Общество «Пелла-Фиорд» (ЗАО «Пелла-Фиорд»)
+    addresses:
+    - address_details: Tsentralnaya Str., 4
+      zip_code: '187330'

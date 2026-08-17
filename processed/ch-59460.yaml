@@ -12,4 +12,15 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Lyulki Science and Technology Center
+        value: A. Lyulki Science and Technology Center
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NTTs A. Lyulki; A. Lyulka Research and Engineering Centre – Branch
+          of ODK-Saturn PJSC
+    addresses:
+    - address_details: Moscow, Kasatkina Str., 13
+      zip_code: '129301'

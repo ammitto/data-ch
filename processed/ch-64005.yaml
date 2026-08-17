@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Trust Logistics LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Trust Logistics Group LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Trast Lodzhistiks Grupp
+    addresses:
+    - address_details: Baryshikha Str., 32, Building 1, Room 1/1
+      zip_code: '125368'
+    - address_details: Yelizarova Str., 23
+      zip_code: '141402'
+    - address_details: Yurovskaya Str., 92, Suite I, Room 40
+      zip_code: '125466'
+    - address_details: Territory of Sheremetyevo Airport, Property 5, 3rd Floor, Office
+        321
+      zip_code: '141402'

@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC Tula Arms Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Публичное Акционерное Общество «Императорский Тульский Оружейный Завод»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Imperial Tula Arms Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint Stock Company “Imperatorsky Tulsky Oruzheiny Zavod”
+    addresses:
+    - address_details: Sovetskaya Str., 1A
+      zip_code: '300041'

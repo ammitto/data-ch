@@ -13,3 +13,23 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Ak Bars Shipbuilding Corporation, CJSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Судостроительная Корпорация «Ак Барс» (АО «СК
+          «Ак Барс»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shipbuilding Corporation “Ak Bars”
+    addresses:
+    - address_details: Zavodskaya Str., 5
+      zip_code: '422546'
+    - address_details: Zavodskaya Str., 9a
+      zip_code: '422546'

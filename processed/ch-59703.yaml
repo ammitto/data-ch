@@ -14,3 +14,13 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company Scientific-Production Union for Radioelectronics
           named after V.I. Shimko
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPO Radioelectronics N.A. V.I. Shimko
+    addresses:
+    - address_details: Zhurnalistov Str., 50
+      zip_code: '420029'

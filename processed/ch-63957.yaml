@@ -13,3 +13,35 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Gorky Plant of Communication Equipment (GZAS)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Popov Communications Equipment Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “GZAS”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Gorky Communications Equipment Plant named after.
+          A.S. Popova”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO GZAS im. A. S. Popova
+    addresses:
+    - address_details: Internatsionalnaya Str., 100
+      zip_code: '603951'

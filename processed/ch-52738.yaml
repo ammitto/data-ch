@@ -19,3 +19,7 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Vladimirovich
+    addresses:
+    - address_details: St. Petersburg, Artilleriyskaya Str., 1, Letter А, Premises
+        26-N
+      zip_code: '191014'

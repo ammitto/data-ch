@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Zhukovskiy Central Aerohydrodynamics Institute (TsAGI)
+    addresses:
+    - address_details: Zhukovsky Str., 1
+      zip_code: '140180'

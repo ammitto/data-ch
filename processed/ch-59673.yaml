@@ -12,5 +12,23 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company Experimental-Design Bureau Elektroavtomatika in
-          the name of P.A. Efimov
+        value: Joint Stock Company Experimental-Design Bureau Elektroavtomatika named
+          after P.A. Efimov
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Development аnd Design Bureau “Elektroavtomatika” named after
+          P. A. Efimov”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO OKB Elektroavtomatika
+    addresses:
+    - address_details: Marshala Govorova Str., 40
+      zip_code: '198095'

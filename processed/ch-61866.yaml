@@ -13,3 +13,31 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Limited Liability Company Research and Production Association Radiovolna
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC NPO Radiovolna
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Nauchno-Proizvodstvennoe Obedinenie Radiovolna
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO NPO Radiovolna
+    addresses:
+    - address_details: 22nd Liniya, 3, Building 1, Letter M, Premises 1N, Office 618
+      zip_code: '199106'
+    - address_details: Kozhevennaya Liniya, 1-3, Letter P, Premises 1N
+      zip_code: '199106'
+    - address_details: Avotovo District, Kingiseppskoe Highway, 55
+      zip_code: '198320'

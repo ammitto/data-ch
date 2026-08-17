@@ -13,3 +13,30 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Scientific-Research Institute and Factory Platan
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NII Platan s Zavodom pri NIII
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Scientific Research Institute “Platan”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Scientific Research Institute “Platan” with a
+          Plant at the Research Institute”
+    addresses:
+    - address_details: Territory Vostochnaya Zavodskaya Promyshlennaya, 16
+      zip_code: '141190'
+    - address_details: Zavodskoy Proezd, 2, Room 225
+      zip_code: '141190'

@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: VMP “Avitec”, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Vyatka Machine-Building Enterprise Avitek
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO VMP Avitek
+    addresses:
+    - address_details: Oktyabrsky Prospekt, 1A
+      zip_code: '610047'

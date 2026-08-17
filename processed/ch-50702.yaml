@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Krasnoye Sormovo Shipyard
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC “Zavod “Krasnoye Sormovo”
+    addresses:
+    - address_details: Barrikad Str. 1
+      zip_code: '603003'

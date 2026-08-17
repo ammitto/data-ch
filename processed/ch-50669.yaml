@@ -13,3 +13,36 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Sukhoi Civil Aircraft
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Гражданские Самолеты Сухого» (АО «ГСС»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SACC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Sukhoi Civil Aircraft Company (SCAC)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO GSS
+    addresses:
+    - address_details: Leninskaya Sloboda Str., 26, Floor 1, Premises IV, Room 54
+      zip_code: '115280'
+    - address_details: Polikarpova Str., 23B, Building 2
+      zip_code: '125284'

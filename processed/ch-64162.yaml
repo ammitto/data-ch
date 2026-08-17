@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Taganrog Plant Priboy
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO TZ Priboy
+    addresses:
+    - address_details: Bolshaya Bulvarnaya Str., 13
+      zip_code: '347913'

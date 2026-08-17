@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: OKB “Technika”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Experimental Design Bureau Technika
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO OKB Tekhnika
+    addresses:
+    - address_details: Novaya Zarya Str., 6
+      zip_code: '115191'

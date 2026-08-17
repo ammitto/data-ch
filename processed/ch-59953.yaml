@@ -12,4 +12,21 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: KURGANPRIBOR, JSC
+        value: Kurganpribor, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint-Stock Company “Scientific and Production Association “Kurganpribor”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPO Kurganpribor
+    addresses:
+    - address_details: Yastrzhembskogo Str., 41a
+      zip_code: '640007'

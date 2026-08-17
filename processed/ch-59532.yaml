@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Lytkarino Machine-Building Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Лыткаринский Машиностроительный Завод – Филиал ПАО «ОДК-УМПО»
+    addresses:
+    - address_details: Turayevskaya Str., 9
+      zip_code: '140080'

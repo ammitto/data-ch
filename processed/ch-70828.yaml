@@ -13,3 +13,33 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC Kompel
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kompel
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kompel Joint Stock Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Kompel
+    addresses:
+    - address_details: Volgogdradsky Avenue, 28A, Building I, Room 6
+      zip_code: '109316'
+    - address_details: Novokhokhlovskaya Str. 23, Building 1 (Ring Park Business Park),
+        3rd Floor
+      zip_code: '109052'
+    - address_details: Bolshoy Prospekt, 18, lit. A (Andriyivskyi Shopping and Office
+        Center)
+      zip_code: '199034'

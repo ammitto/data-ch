@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: OAO Radiofizika
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Radiophysics
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO Radiofizika
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Публичное Акционерное Общество «Радиофизика» (ПАО «Радиофизика»)
+    addresses:
+    - address_details: Geroev Panfilovtsev Str., 10
+      zip_code: '125480'

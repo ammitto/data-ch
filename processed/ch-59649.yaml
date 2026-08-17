@@ -13,3 +13,22 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Eleron
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Федеральный центр науки и высоких технологий
+          «Специальное научно-производственное объединение «Элерон» (АО «ФЦНИВТ «СНПО
+          «Элерон»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO FZNIVT SNPO Eleron
+    addresses:
+    - address_details: Generala Belova Str., 14
+      zip_code: '115563'

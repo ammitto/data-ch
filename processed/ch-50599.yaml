@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Kamensk-Uralsky Metallurgical Works J.S. Co.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kamensk-Ural Metallurgical Plant
+    addresses:
+    - address_details: Zavodskaya Str., 5
+      zip_code: '623405'

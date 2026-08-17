@@ -14,3 +14,22 @@ entity:
         name_part_type: whole-name
         value: Open Joint Stock Company 170 Flight Support Equipment Repair Plant
           (170 RZ SOP)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «170 Ремонтный Завод Средств Обеспечения Полетов»
+          (АО «170 РЗ СОП»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC «170 Repair Plant of Flight Support», OJSC “170 Maintenance Works
+          of Flights Support”
+    addresses:
+    - address_details: Meditsinskaya Str., 2
+      zip_code: '603104'

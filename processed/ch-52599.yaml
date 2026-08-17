@@ -13,3 +13,31 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: NPP Istok
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Scientific and Production Enterprise Istok named after A. I. Shokin
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Istok A. I. Shokin
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Research and Production Corporation “Istok”
+    addresses:
+    - address_details: Vokzalnaya Str., 2A
+      zip_code: '141190'
+    - address_details: Okruzhnoy Proezd 4A
+      zip_code: '141190'
+    - address_details: Zavodskaya Str., 19
+      zip_code: '607210'

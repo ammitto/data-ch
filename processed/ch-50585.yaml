@@ -13,3 +13,14 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC Central Research Institute of Machine Building (JSC TsNIIMash)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Unitary Enterprise Central Research Institute for Machine
+          Building
+    addresses:
+    - address_details: Pionerskaya Str. 4, Building 22
+      zip_code: '141070'

@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Sukhoi Aviation JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Aviation Holding Company “Sukhoi”
+    addresses:
+    - address_details: Polikarpova Str., 23B
+      zip_code: '125284'

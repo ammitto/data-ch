@@ -13,3 +13,46 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Scientific-Research Institute of Electronics
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Scientific Research Institute of Electronics
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Scientific Research Institute of Electronic Technology
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Institute for Scientific Research Elektronnoy Tekhniki
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NIIET
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Научно-Исследовательский Институт Электронной
+          Техники» (АО «НИИЭТ»)
+    addresses:
+    - address_details: Starykh Bolshevikov Str., 5
+      zip_code: '394033'
+    - address_details: Kollakova Str., 24A (Business Centre “Artium”)
+      zip_code: '141008'
+    - address_details: Leninsky Prospekt, 119A
+      zip_code: '394042'

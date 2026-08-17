@@ -13,3 +13,42 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: State Flight Testing Center Named After V.P. Chkalov
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: 929 GLITS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: 929 State Flight Test Center
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: 929 GLITS VVS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: 929 Gosudarstvenniy Letno-Ispytatelniy Tsentr Ministerstvo Oboroni
+          Rossiiskoi Federatsii IM. V.P. Chkalova
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: GLITS MO RF IM. V.P. Ckhalova
+    addresses:
+    - address_details: Chkalovsky Airfield, Military Unit 15650
+      zip_code: '416500'

@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Kulon Scientific-Research Institute JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NII Kulon JSC
+    addresses:
+    - address_details: Ostankinsky Municipal District, Murmansky Proezd, 14
+      zip_code: '129075'

@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Ineko LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Общество с Ограниченной Ответственностью «Инеко»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OO Ineko
+    addresses:
+    - address_details: Zheleznodorozhny Pereulok, 3, Premises 41
+      zip_code: '141800'

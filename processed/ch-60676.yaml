@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Concern Avrora Scientific and Production Association, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Kontsern NPO Avrora
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Avrora
+    addresses:
+    - address_details: Karbyshev Str. 15
+      zip_code: '194021'

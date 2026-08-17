@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC Pella-Mash
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Machine-Building Company Pella-Mash LLC
+    addresses:
+    - address_details: Tsentralnaya Str., 4
+      zip_code: '187330'

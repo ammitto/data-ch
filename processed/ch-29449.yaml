@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: OJSC Stankoinstrument
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «РТ-Станкоинструмент»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “RT-Stankoinstrument”
+    addresses:
+    - address_details: Gilyarovskogo Str., 65, Building 1
+      zip_code: '107996'

@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Informtest Firm Limited Liability Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Informtest Firm LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Firma Informtest
+    addresses:
+    - address_details: Savyolkinsky Proezd, 4, Apartment 6, Floor XIV, Room 8
+      zip_code: '124482'

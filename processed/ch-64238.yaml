@@ -13,3 +13,44 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: United Machine Building Group Limited Liability Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO OMG
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Obedinennaya Mashinostroitelnaya Gruppa
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: UMG LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Production Association “Uralaz”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO PO Uralaz
+    addresses:
+    - address_details: Rochdelskaya Str., 15, Building 1
+      zip_code: '123376'
+    - address_details: Rochdelskaya Str., 15, Building 8, Floor 2, Premises II, Room
+        45
+      zip_code: '123022'

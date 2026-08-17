@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: PJSC “I.S. Brook” INEUM
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint Stock Company Institute of Electronic Control Computers
+          named after I.S. Bruk
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC INEUM
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO INEUM im. I.S. Bruka
+    addresses:
+    - address_details: Vavilova Str., 24
+      zip_code: '119334'

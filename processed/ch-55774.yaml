@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Company, Joint Stock Company Plant Kulakov
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Plant named after A.A. Kulakov
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Zavod im. A.A. Kulakova
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Zavod Kulakova
+    addresses:
+    - address_details: Yablochkova Str., 12, Letter A
+      zip_code: '197198'

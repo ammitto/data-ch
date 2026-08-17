@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Almatyevsk Radiopribor Plant (JSC AZRP)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Альметьевский Завод «Радиоприбор» (АО «Альметьевский
+          Завод «Радиоприбор»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Alymetyevsk Plant “Radiopribor”
+    addresses:
+    - address_details: 2, Stroiteley Prospekt, 2
+      zip_code: '423457'

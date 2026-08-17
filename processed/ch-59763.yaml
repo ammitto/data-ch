@@ -13,3 +13,41 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Ilyushin Aviation Complex
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Публичное Акционерное Общество «Авиационный Комплекс им. С.В. Ильюшина»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Ilyushin
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Ilyushin Design Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Aviation Complex named after S. V. Ilyushin
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO “Il”
+    addresses:
+    - address_details: Leningradsky Prospekt, 45G
+      zip_code: '125190'

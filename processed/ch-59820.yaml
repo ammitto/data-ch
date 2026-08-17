@@ -13,3 +13,42 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Strategic Control Posts Corporation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: CCB TM
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO SPU-TsKB TM
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Central Design Bureau of Heavy Machine Building
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Corporation SPU-CCB TM
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Корпорация «Стратегические Пункты Управления»
+          (АО «Корпорация «СПУ-ЦКБ ТМ»)
+    addresses:
+    - address_details: Podyomnaya Str., 12A
+      zip_code: '109052'

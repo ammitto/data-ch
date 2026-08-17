@@ -14,3 +14,30 @@ entity:
         name_part_type: whole-name
         value: Scientific Production Association Izhevsk Unmanned Systems Limited
           Liability Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Izhevsk Unmanned Systems Research and Production Association LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company "Research and Production Association "Izhevsk
+          Unmanned Systems”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO NPO IzhBS
+    addresses:
+    - address_details: Trofimova Str., 2A, Room. 221
+      zip_code: '115432'
+    - address_details: Ordzhunikidze Str., 2
+      zip_code: '426063'

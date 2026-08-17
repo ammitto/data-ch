@@ -13,3 +13,12 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Company, Joint Stock Company Severny Press
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Northern Press”; AO Severny Press
+    addresses:
+    - address_details: Tallinskaya Str., 7

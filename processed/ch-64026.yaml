@@ -13,3 +13,16 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Success Aviation Services FZC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Sucess Aviation
+      - order: 2
+        name_part_type: whole-name
+        value: Success Aviation Services FZCO
+    addresses:
+    - address_details: 608, The Apricot Tower
+    - address_details: Building L1, Sharjah International Airport

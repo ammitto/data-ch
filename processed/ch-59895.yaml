@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: RusBITech
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Scientific and Production Association Russian
+          Basic Information Technologies”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPO RusBITech
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RPA RusBITech
+    addresses:
+    - address_details: Varshavskoe Shosse, 26
+      zip_code: '117105'

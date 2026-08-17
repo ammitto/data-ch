@@ -13,3 +13,41 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Open Joint Stock Company Khabarovsk Radio Engineering Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Khabarovskiy Radiotekhnicheskiy Zavod
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO KhRTZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Khabarovsk Radio Engineering Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: KHRTZ PAO
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OAO KHRTZ
+    addresses:
+    - address_details: Kedrovy Lane, 8, Building V
+      zip_code: '680041'

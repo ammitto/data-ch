@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Bryansk Automobile Plant, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO BAZ
+    addresses:
+    - address_details: Staleliteynaya Str., 1
+      zip_code: '241035'

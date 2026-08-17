@@ -14,3 +14,7 @@ entity:
         name_part_type: whole-name
         value: Limited Liability Company Center for Specialized Production OSK Propulsion
           (OSK Propulsion)
+    addresses:
+    - address_details: Municipal District Gavan, Galerny Passage, 3, Letter A, Room
+        75
+      zip_code: '199226'

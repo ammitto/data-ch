@@ -13,3 +13,41 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: UEC-Perm Engines, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «ОДК-Пермские Моторы» (АО «ОДК-ПМ»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Permsky Motorny Zavod
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO ODK-PM
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Perm Motors
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Perm Engine Plant
+    addresses:
+    - address_details: Komsomolsky Prospekt, 93, Building 61
+      zip_code: '614010'

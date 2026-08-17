@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: IC Specpostavka
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OES SPECPOSTAVKA
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO OES Spetspostavka
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OESSP
+    addresses:
+    - address_details: Lipovaya Alley, 9, Letter A, Room 27N
+      zip_code: '197183'
+    - address_details: Petrogradskaya Embankment, 36, “Linkor” Business Centre
+      zip_code: '197046'
+    - address_details: Moiseenko Str., 24, Letter A, Premises 1-H, Office 101
+      zip_code: '191144'
+    - address_details: Novokuznetskaya Str., 4/12, Building 1, Business Centre “Matrix
+        Office”
+      zip_code: '119017'

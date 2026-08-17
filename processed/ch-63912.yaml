@@ -12,4 +12,16 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: TESTKOMPLEKT LLC
+        value: Testkomplekt LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO TestKomplekt
+    addresses:
+    - address_details: Upper Krasnoselskaya Str., 2/1, Building 1, Floor 3, Room 317
+      zip_code: '107140'
+    - address_details: Kolpakova Str., 24A, Office 5.06, Business Centre “Atrium”
+      zip_code: '141008'

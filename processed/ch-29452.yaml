@@ -13,3 +13,29 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: OAO JSC Chemcomposite
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «РТ-Химические технологии и композиционные материалы»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OJSC Khimkompozit
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RT-Chemical Technologies and Composite Materials
+    addresses:
+    - address_details: Krzhiszhanovskogo Str., 29, Room 6
+      zip_code: '117218'
+    - address_details: Bolshoy Savvinskiy Lane, 11, Entrance 1, Floor 4
+      zip_code: '119435'

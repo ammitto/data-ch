@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Company, Joint Stock Company “URALELEMENT”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Verkhneufaleysky Plant “Uralelement”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aktsionernoe Obshchestvo Verkhneufaleysky Zavod Uralelement
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Uralelement
+    addresses:
+    - address_details: Dmitrieva Str., 24
+      zip_code: '456800'

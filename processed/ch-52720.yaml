@@ -14,3 +14,28 @@ entity:
         name_part_type: whole-name
         value: United Shipbuilding Corporation “Scientific Research Design Technological
           Bureau Onega”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Nauchno-Issledovatelskoe Proektno-Teknnologicheskoe Byuro Onega PJSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SC NIPTB Onega
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Научно-Исследовательское Проектно-Технологическое
+          Бюро «Онега»
+    addresses:
+    - address_details: Proezd Mashinostroiteley., 12
+      zip_code: '164509'

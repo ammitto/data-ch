@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Company, Joint Stock Company “Salute”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Salyut
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Zavod “Salyut”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kuibyshev Mechanical Plant
+    addresses:
+    - address_details: Moskovskoe Shosse, 20
+      zip_code: '443028'

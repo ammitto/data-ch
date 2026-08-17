@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: AGT Systems LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company AGT Systems
+    addresses:
+    - address_details: Smolnaya Str., 24/A, Office 1420
+      zip_code: '125445'

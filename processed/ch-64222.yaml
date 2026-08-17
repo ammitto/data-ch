@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Public Joint Stock Company Proletarsky Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Proletarsky Factory
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO Proletarsky Zavod
+    addresses:
+    - address_details: Dudko Str., 3
+      zip_code: '192029'

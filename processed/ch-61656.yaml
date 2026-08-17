@@ -13,3 +13,29 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Qods Aviation Industries
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: شرکت صنایع هوایی قدس · صنایع هوایی قدس
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Qods Aeronautics Industries
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Company for Designing and Manufacturing Light Aircraft
+    addresses:
+    - address_details: Unit (or Suite) 207, Saleh Blvd
+    - address_details: Unit 207, Tarajit Maydane Taymori (or Teimori) Square, Basiri
+        Building, Tarasht
+    - address_details: Km 5 Karaj Special Road

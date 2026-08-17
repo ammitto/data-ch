@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Technical Center Windeq LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Windek Technical Center
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Technical Center “Vindek”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Technical Center Windeq
+    addresses:
+    - address_details: Selkhoztekhnika Village, Pokrovskaya Str. 1B/3, Office 69
+      zip_code: '142116'

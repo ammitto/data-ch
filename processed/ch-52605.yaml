@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: OAO GosNIIkhimanalit
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: State Research Chemical-Analytical Institute
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: HIMANALIT
+    addresses:
+    - address_details: Bumazhnaya Str., 17
+      zip_code: '190020'

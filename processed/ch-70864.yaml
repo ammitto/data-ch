@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: OMP LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company OMP
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO “OMP”
+    addresses:
+    - address_details: Stanislavskogo Str., 3, Building 31/1, Floor 1, Office 2
+      zip_code: '630079'

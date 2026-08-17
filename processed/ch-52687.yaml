@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: State Scientific Research Institute of Machine Building Bakhirev (GosNIImash)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: State Scientific Research Institute of Machine Building Bakhirev (GosNIImash)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “State Scientific Research Institute of Mechanical Engineering
+          named after V.V. Bakhirev”
+    addresses:
+    - address_details: Sverdlova Prospekt, 11 A
+      zip_code: '606002'

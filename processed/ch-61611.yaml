@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Trade-Component LLC
+    addresses:
+    - address_details: Tihvinskii Pereulok, 11, Building 2, Room 29
+      zip_code: '127055'

@@ -13,3 +13,29 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Ural Works of Civil Aviation, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Уральский Завод Гражданской Авиации» (АО «УЗГА»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: UZGA
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Ural Civil Aviation Factory
+    addresses:
+    - address_details: Bakhchivandzhi Str., 2G
+      zip_code: '620025'
+    - address_details: Marshala Zhukova Prospekt, 1, Building 1
+      zip_code: '123308'

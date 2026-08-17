@@ -12,4 +12,22 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Nizhegorodskiy televizionnyy zavod (NITEL JSC)
+        value: Nizhegorodskiy Televizionnyy Zavod (NITEL JSC)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO NITEL
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint Stock Company “Nizhny Novgorod Television Plant named
+          after. V. I. Lenin”
+    addresses:
+    - address_details: Gagarina Prospekt, 37
+      zip_code: '603009'

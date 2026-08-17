@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Corporation, Zvezda-Strela Limited Liability Company
+    addresses:
+    - address_details: Taganrog, 18th Pereulok, 1, Building 1
+      zip_code: '347904'

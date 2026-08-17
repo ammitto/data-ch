@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: "“Aeropribor-Voskhod”, JSC"
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Аэроприбор-Восход» (АО «АП Восход»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO AP-Voskhod
+    addresses:
+    - address_details: Tkatskaya Str. 19, Floor 4, Room 400
+      zip_code: '105318'

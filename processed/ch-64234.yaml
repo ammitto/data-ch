@@ -13,3 +13,43 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Scientific Production Enterprise Prima Limited Liability Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPP Proma
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Nauchno-Proizvodstvennoe Predpriyatie Prima
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Research & Production Company Prima
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Prima Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SPE Prima LLC
+    addresses:
+    - address_details: Svobody Str., 63
+      zip_code: '603003'
+    - address_details: Sormovskoye Shosse, 1Zh
+      zip_code: '603950'

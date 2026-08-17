@@ -13,3 +13,26 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Experimental Design Bureau named after A.S. Yakovlev
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint-Stock Company “A. S. Yakovlev Design Bureau”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: A.S Yakovlev EDB
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: АО «ОКБ ИМ. А.С. Яковлева»
+    addresses:
+    - address_details: Leningradsky Prospekt, 68

@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Ulyanovsk Mechanical Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Ulyanovsk Mechanical Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO UMZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC UMP
+    addresses:
+    - address_details: Moskovskoe Shosse, 94
+      zip_code: '432008'

@@ -14,3 +14,22 @@ entity:
         name_part_type: whole-name
         value: Open Joint Stock Company 32 Repair Plant of Flight Support Equipment
           (32 RZ SOP)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «32 Ремонтный Завод Средств Обеспечения Полетов»
+          (АО «32 РЗ СОП»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OJSC 32 Repair Plant of Flight Support Equipment; JSC “32 Flight Support
+          Equipment Repair Plant”; JSC “32 RZ SOP”
+    addresses:
+    - address_details: Hospitalnaya Str., 10
+      zip_code: '692243'

@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Novorossiysk Shipyard JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OA Novosrossiyskiy Sudoremontnyy Zavod
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC NSRZ
+    addresses:
+    - address_details: Sukhumskoye Shosse
+      zip_code: '353902'

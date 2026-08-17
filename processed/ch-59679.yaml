@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Kazan Instrument-Engineering and Design Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Казанское Приборостроительное Конструкторское
+          Бюро» (АО «КПКБ»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO KPKB
+    addresses:
+    - address_details: Sibirskiy Trakt Str., 1
+      zip_code: '420061'

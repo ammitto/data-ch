@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: United Shipbuilding Corporation JSC “Aysberg Central Design Bureau”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Iceberg Central Design Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO TsKB Aysberg
+    addresses:
+    - address_details: V.O., Bolshoy Prospekt, 36
+      zip_code: '199034'

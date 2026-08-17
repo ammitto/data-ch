@@ -13,3 +13,15 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Lyulki Experimental-Design Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: A. Lyulki OKB; Lyulki Experimental-Design Bureau Branch of UEC UMPO;
+          Experimental Design Bureau named after A. Lyulka – Branch of ODK-Ufa Engine
+          Building Production Association
+    addresses:
+    - address_details: Kasatkina Str., 13
+      zip_code: '129301'

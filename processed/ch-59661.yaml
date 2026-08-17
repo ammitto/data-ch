@@ -13,3 +13,43 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Branch of RSK MiG Nizhny Novgorod Aircraft-Construction Plant Sokol
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Нижегородский Авиастроительный Завод «Сокол» – Филиал АО «Российская
+          Самолетостроительная Корпорация «МиГ» (РСК «МиГ»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Филиал ПАО «Объединенная Авиастроительная Корпорация» – Нижегородский
+          Авиастроительный завод «Сокол»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SOKOL NAZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Nizhny Novgorod Aviation Plant Sokol
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Sokol Aircraft Plant
+    addresses:
+    - address_details: Chaadaeva Str., 1
+      zip_code: '603035'

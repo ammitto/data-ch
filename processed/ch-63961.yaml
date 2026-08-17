@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Nizhny Novgorod Research Institute of Radio Engineering (NNIIRT)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal Research and Production Center “Nizhny Novgorod Scientific
+          Research Institute of Radio Engineering”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO FNPTs NNIIRT
+    addresses:
+    - address_details: Shaposhnikova Str., 5
+      zip_code: '603152'

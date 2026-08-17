@@ -14,3 +14,13 @@ entity:
         name_part_type: whole-name
         value: Moscow Order of the Red Banner of Labor Research Radio Engineering
           Institute JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: MNIRTI JSC
+    addresses:
+    - address_details: Bolshoi Trekhsvyatitelsky Pereulok, 2/1
+      zip_code: '103028'

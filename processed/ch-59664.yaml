@@ -13,3 +13,43 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Chkalov Novosibirsk Aviation Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Открытое Акционерное Общество «Новосибирское Авиационное Производственное
+          Объединение им. В.П. Чкалова» (ОАО «НАПО им. В.П. Чкалова»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Новосибирский Авиационный Завод имени В.П. Чкалова - Филиал ПАО «Компания
+          «Сухой»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Novosibirsk Aircraft Production Association Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OAO NAPO im. V. P. Chkalova
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Novosibirsk Aircraft Production Plant named after V.P. Chkalov
+    addresses:
+    - address_details: Polzunova Str., 15
+      zip_code: '630051'

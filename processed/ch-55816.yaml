@@ -13,3 +13,12 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Corporation, 711 Aircraft Repair Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: 711 ARZ
+    addresses:
+    - address_details: Borisoglebsk, Chkalova Str., 18

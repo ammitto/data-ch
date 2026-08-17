@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tako LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Taco LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO TAKO
+    addresses:
+    - address_details: 7 Garegin Nzhdehi Street
+      zip_code: '0026'

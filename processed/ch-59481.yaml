@@ -13,3 +13,14 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company 218 Aviation Repair Plant (218 ARZ)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: United Engine Corporation-Service; Joint Stock Company “UEC-Service”;
+          ODK-Service
+    addresses:
+    - address_details: Gatchina, Grigorina Str., 7A
+      zip_code: '188307'

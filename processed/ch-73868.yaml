@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Conex Doo Beograd-Stari Grad
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Conex Doo
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: CONEX D.O.O. BEOGRAD-STARI GRAD
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Company for Production and Trade Conex Limited Liability Company Belgrade-Stari
+          Grad
+    addresses:
+    - address_details: Uzun Mirkova 7
+      zip_code: '11102'

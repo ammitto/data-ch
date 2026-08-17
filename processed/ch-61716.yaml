@@ -14,3 +14,42 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company North Western Regional Center of Almaz Antey Concern
           Obukhovsky Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO GOZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Severo-Zapadny Regionalny Tsentr Kontserna VKO Almaz-Antei Obukhovsky
+          Zavod
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC GOZ Obukhov Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Obukhovsky Zavod
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC SOP Obukhovskiy Plant
+    addresses:
+    - address_details: Obukhovskaya Oborona Avenue, 120, Building 19, Room1-Н № 708
+      zip_code: '192012'

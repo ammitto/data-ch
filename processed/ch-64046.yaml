@@ -14,3 +14,13 @@ entity:
         name_part_type: whole-name
         value: Federal State Unitary Enterprise Central Scientific Research Institute
           of Chemistry and Mechanics
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FGUP TSNIIKHM
+    addresses:
+    - address_details: Nagatinskaya Str., 16A
+      zip_code: '115487'

@@ -13,3 +13,24 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: TD Promelektronika LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO TD Promelektronika
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Trading House Promelektronica
+    addresses:
+    - address_details: Kolmogorova Str.,70, Office 209
+      zip_code: '620034'
+    - address_details: Kolmogorova Str., 73/2
+      zip_code: '620034'
+    - address_details: Sukhodolskaya Str., 197
+      zip_code: '620034'

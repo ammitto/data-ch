@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Research Production Association Mars
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RPA Mars
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal Research and Development Center JSC Scientific Production Association
+          “Mars”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FNPTs AO “NPO “MARS”
+    addresses:
+    - address_details: Solnechnaya Str., 20
+      zip_code: '432022'

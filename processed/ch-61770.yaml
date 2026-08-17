@@ -14,3 +14,8 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company Scientific Research Institute of Electronic Engineering
           Materials
+    addresses:
+    - address_details: Gagarina Str., 1
+      zip_code: '248650'
+    - address_details: 2nd Akademichesky Drive, 17, Building 3G, Rooms 27-40
+      zip_code: '248033'

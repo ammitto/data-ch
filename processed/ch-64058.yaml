@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company 150 Aircraft Repair Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC 150 ARZ
+    addresses:
+    - address_details: Lublino Village, Garrisonnaya Str., 4
+      zip_code: '238347'

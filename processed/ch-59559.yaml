@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Open Joint Stock Company 322 Aviation Repair Plant (322 ARZ)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «322 Авиационный Ремонтный Завод» (АО «322 АРЗ»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “322 Aircraft Repair Plant”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “322 ARP”
+    addresses:
+    - address_details: Zhukovsky Str., 5
+      zip_code: '692557'

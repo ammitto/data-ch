@@ -13,3 +13,14 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Scientific Production Enterprise Topaz
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Research and Production Enterprise Topaz
+    addresses:
+    - address_details: 3rd Mytishchinskaya Str., 16, Building 34, Floor 2, Office
+        III, Room 25
+      zip_code: '129626'

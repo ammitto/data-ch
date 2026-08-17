@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Forss Technology Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO FT
+    addresses:
+    - address_details: Bronnitskaya Str., 44, Letter 1, Premises 1N
+      zip_code: '190013'

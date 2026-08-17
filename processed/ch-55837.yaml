@@ -13,3 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Corporation, Joint Stock Company Concern Granit-Electron
+    addresses:
+    - address_details: Gospitalnaya Str., 3

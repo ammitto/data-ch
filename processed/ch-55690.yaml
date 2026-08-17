@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Polyot Chelyabinsk Radio Plant JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Челябинский Радиозавод «Полёт»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO “ChRZ “Polyot”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Chelyabinsk Radio Plant Polet
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ChRP “Polet”
+    addresses:
+    - address_details: Terponolskaya Str., 6
+      zip_code: '454080'

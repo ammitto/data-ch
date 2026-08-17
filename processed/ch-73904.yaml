@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Nordlase LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NordLase
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Nordleyz
+    addresses:
+    - address_details: Tallinskoye Shosse, 206, Letter A, Premises 2126, Office 1
+      zip_code: '198205'

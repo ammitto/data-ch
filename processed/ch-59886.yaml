@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: SPE “Krasnoznamenets”, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Scientific and Production Enterprise Krasnoznamenets
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Research and Production Enterprise “Krasnoznamyonets”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPP Krasnoznamenets
+    addresses:
+    - address_details: Chelyabinskaya Str., 95
+      zip_code: '195043'

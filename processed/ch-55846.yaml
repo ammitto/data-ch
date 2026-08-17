@@ -13,3 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Corporation, RKB Globus
+    addresses:
+    - address_details: Vysokovoltnaya Str., 6

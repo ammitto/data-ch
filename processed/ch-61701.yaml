@@ -13,3 +13,8 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Design Center Soyuz
+    addresses:
+    - address_details: Konstruktora Lukina Str., 14, Building 1, Zelenograd
+      zip_code: '124482'
+    - address_details: Building 100, Room 205, Zelenograd
+      zip_code: '124681'

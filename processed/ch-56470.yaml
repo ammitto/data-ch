@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Rosatomflot
+    addresses:
+    - address_details: Territory of Murmansk-17, 1
+      zip_code: '183038'

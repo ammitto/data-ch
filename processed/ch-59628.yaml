@@ -13,3 +13,30 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Aerospace Equipment Corporation, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Корпорация «Аэрокосмическое Оборудование» (АО
+          «КАО»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aerospace Equipment JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: KAO JSC
+    addresses:
+    - address_details: Marshala Govorova Str., 40, Building 11, Office 407.
+      zip_code: '198095'
+    - address_details: Kropotkina Str., 1
+      zip_code: '197101'

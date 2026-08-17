@@ -13,3 +13,15 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: VXI-Systems Limited Liability Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: InformTest Holdings
+    addresses:
+    - address_details: Savyolkinsky Proezd, 4, Apartment 6, Floor XIV, Room 1
+      zip_code: '124482'
+    - address_details: Savyolkinsky Proezd, 4, Floor 11
+      zip_code: '124482'

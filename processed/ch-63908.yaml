@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: VMK Limited Liability Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: VMK LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO VMK
+    addresses:
+    - address_details: Zubchaninovka Village, Smyshlyaevskoe Shosse, 1a, Office 258
+      zip_code: '443050'

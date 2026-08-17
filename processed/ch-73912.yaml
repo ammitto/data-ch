@@ -13,3 +13,15 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: LLS Mark
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLS
+    addresses:
+    - address_details: Yablochkova Str., 20, Letter Ya, Office 40
+      zip_code: '197198'
+    - address_details: Birzhevaya Liniya, 16, ITMO Technopark, Office 401
+      zip_code: '197198'

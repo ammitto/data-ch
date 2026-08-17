@@ -14,3 +14,20 @@ entity:
         name_part_type: whole-name
         value: Federal State Unitary Enterprise All-Russian Research Institute of
           Physical, Technical and Radio Engineering Measurements (VNIIFTRI)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FGUP VNIIFTRI
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: VNIIFTRI - State Scientific Center of the Russian Federation
+    addresses:
+    - address_details: Industrial Zone of FGUP VNIIFTRI, Building 11
+      zip_code: '141570'

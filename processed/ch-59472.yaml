@@ -14,3 +14,8 @@ entity:
         name_part_type: whole-name
         value: Federal State Budgetary Institution National Research Center Institute
           N.A. N.E. Zhukovsky (Zhukovsky National Research Institute)
+    addresses:
+    - address_details: Zhukovsky, Zhukovskogo Str., 1
+      zip_code: '140180'
+    - address_details: Moscow, Viktorenko Str., 7
+      zip_code: '125319'

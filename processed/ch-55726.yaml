@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Scientific-Production Enterprise “Svyaz”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPP Svyaz
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Research and Production Enterprise “Svyaz”
+    addresses:
+    - address_details: Shkolnaya Str., 19, Shekinsky District
+      zip_code: '301214'

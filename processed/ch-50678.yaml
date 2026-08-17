@@ -19,13 +19,6 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: United Engine Corporation – Saturn
-    - name_type: alias
-      quality: good
-      lang: eng
-      name_parts:
-      - order: 1
-        name_part_type: whole-name
         value: ODK-Saturn PAO
     - name_type: alias
       quality: good
@@ -34,6 +27,22 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: PJSC UEC-Saturn
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: United Engine Corporation – Saturn
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC UEC-Saturn
     addresses:
+    - address_details: Lenina Prospekt, 163
+      zip_code: '152903'
     - address_details: Lenina Prospekt 163
       zip_code: '152903'

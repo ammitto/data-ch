@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: SPA Pribor named after S.S. Golembiovsky, SC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Scientific and Production Association “Pribor” named after S.S.
+          Golembiovsky”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPO Pribor imeni S. S. Golumbiovskogo
+    addresses:
+    - address_details: Kirovogradskaya Str., 1
+      zip_code: '117587'

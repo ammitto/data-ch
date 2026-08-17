@@ -13,3 +13,46 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: United Shipbuilding Corporation JSC “Astrakhan Shipyard”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Astrahansky Shipyard
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Astrahanskiy SRZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Astrakhan Ship Repair Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Branch “Astrakhansky Sudoremontny Zavod” – Joint Stock Company “Ship
+          Repair Center “Zvyozdochka”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Филиал «Астраханский Судоремонтный Завод» – Акционерное Общество «Центр
+          Судоремонта «Звёздочка» (ФЛ «Астраханский Судоремонтный Завод» – АО «ЦС
+          «Звёздочка»)
+    addresses:
+    - address_details: Atarbekova Str., 37
+      zip_code: '414009'
+    - address_details: Proezd Mashinostroiteley, 12
+      zip_code: '164509'

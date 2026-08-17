@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tambov Plant (TZ) “October”
+    addresses:
+    - address_details: Bastionnaya Str., 1
+      zip_code: '392029'

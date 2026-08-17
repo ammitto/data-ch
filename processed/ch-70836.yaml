@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: LLC NeoTech
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company NeoTech
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Neotekh
+    addresses:
+    - address_details: Chugunnaya Str., 20, Letter A, Note 25H (No. 8)
+      zip_code: '194044'

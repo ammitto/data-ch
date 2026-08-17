@@ -13,3 +13,16 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Phasotron Scientific-Research Institute of Radio-Engineering
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Phasotron NIIR; Corporation “Fazotron – Research Institute of Radio
+          Engineering” JSC
+    addresses:
+    - address_details: Kavkazsky Boulevard, 59, Floor 3, Space XIV, Room 21
+      zip_code: '115516'
+    - address_details: Elektrichesky Lane, 1
+      zip_code: '123557'

@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: GFK Logistics Asia LLC
+    addresses:
+    - address_details: 16A Navoi Street, Shaykhantakhur District
+      zip_code: '100011'

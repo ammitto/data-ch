@@ -13,3 +13,41 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: United Shipbuilding Corporation “Sredne-Nevsky Shipyard”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC SNSZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aktcionernoe Obshestvo “Sredne-Nevsky Sudostroyelny Plant”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Middle Neva Shipbuilding Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Unitary Enterprise “Sredne-Nevsky Shipbuilding Plant”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Средне-Невский Судостроительный Завод»
+    addresses:
+    - address_details: Pontonny, Zavodskaya Str., 10
+      zip_code: '196643'

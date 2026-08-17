@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: BIC-inform
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: BIK Inform OOO
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company BIK Inform
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: BIK Inform LLC
+    addresses:
+    - address_details: Bumazhnaya Str. 9, Building 1
+      zip_code: '190020'

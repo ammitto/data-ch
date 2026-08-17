@@ -13,3 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Shenzhen Biguang Trading Co. Ltd
+    addresses:
+    - address_details: 18e, Block B, World Trade Square

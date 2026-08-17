@@ -13,3 +13,22 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: ZAO Svyaz Inzhiniring
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Svyaz Engineering
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Связь Инжиниринг» (АО «Связь Инжиниринг»)
+    addresses:
+    - address_details: 6th Radialnaya Str., 9
+      zip_code: '115404'
+    - address_details: 8 Marta Str., 10, Building 3
+      zip_code: '127083'

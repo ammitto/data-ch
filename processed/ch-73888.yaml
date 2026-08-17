@@ -13,3 +13,19 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Thai IT Hardware Co., Ltd
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Thai IT Hardware
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Roll Up Co., Ltd.
+    addresses:
+    - address_details: 315/85 Floor 3, Moo 12

@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Open Joint Stock Company 275 Aviation Repair Plant (275 ARZ)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «275 Авиационный Ремонтный Завод» (АО «275 АРЗ»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC “275 Aircraft Repair Plant”
+    addresses:
+    - address_details: Dzerzhinsky Str., 141
+      zip_code: '350090'

@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Admiralty Shipyard JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Адмиралтейские Верфи»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Admiralteyskiye Verfi
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Soviet Shipyard No. 194
+    addresses:
+    - address_details: Fontanka River Embankment, 203
+      zip_code: '190121'

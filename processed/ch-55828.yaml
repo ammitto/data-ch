@@ -13,3 +13,12 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Corporation, Concern “MPO – Gidropribor”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Concern Sea Underwater Weapons Gidropribor
+    addresses:
+    - address_details: Bolshoi Sampsonievskiy Prospekt, 24A, Letter Z

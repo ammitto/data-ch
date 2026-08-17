@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Izhevsk Electromechanical Plant Kupol
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO IEMZ Kupol
+    addresses:
+    - address_details: Pesochnaya Str., 3
+      zip_code: '426033'

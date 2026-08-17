@@ -13,3 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tulatochmash, JSC
+    addresses:
+    - address_details: Kominterna Str., 24

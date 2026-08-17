@@ -13,3 +13,44 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Special Technological Center LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: STC LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Special Technology Center Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Special Technology Centre Limited Liability Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO STTs
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Общество с Ограниченной Ответственностью «Специальный Технологический
+          Центр» (ООО «СТЦ»)
+    addresses:
+    - address_details: Gzhatskaya Str., 21, Office 53, Letter B
+      zip_code: '195220'
+    - address_details: Piskarevsky Prospekt, 150, Building 5
+      zip_code: '195220'

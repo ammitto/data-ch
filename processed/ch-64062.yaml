@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company 810 Aircraft Repair Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: 810 ARZ
+    addresses:
+    - address_details: Vertoletnaya Str., 1
+      zip_code: '672003'

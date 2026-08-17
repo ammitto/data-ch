@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Scientific Research Institute of Applied Acoustics (NIIPA)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Государственное Унитарное Предприятие «Научно-Исследовательский
+          Институт Прикладной Акустики» (ФГУП «НИИПА»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FGUP NIIPA
+    addresses:
+    - address_details: 9 May Str., 7A
+      zip_code: '141980'

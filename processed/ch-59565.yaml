@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Open Joint Stock Company 680 Aircraft Repair Plant (680 ARZ)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «680 Авиационный Ремонтный Завод» (АО «680 АРЗ»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “680 Aircraft Repair Plant”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “680 ARP”
+    addresses:
+    - address_details: Bazarnaya Str. 2a
+      zip_code: '676859'

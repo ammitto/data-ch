@@ -13,3 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Closed Joint Stock Company TPK Linkos, Subdivision in Astrakhan
+    addresses:
+    - address_details: Astrakhan Oblast, Akhtubinsk, Velichko Str. 6

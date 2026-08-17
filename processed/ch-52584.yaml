@@ -14,3 +14,24 @@ entity:
         name_part_type: whole-name
         value: N. A. Dollezhal Order of Lenin Research and Design Institute of Power
           Engineering
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NIKIET
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Lenin Order Research and Design Institute of Power Engineering
+          named after N.A. Dollezhal”
+    addresses:
+    - address_details: Malaya Krasnoselskaya Str., 2/8, Building 3
+      zip_code: '107140'
+    - address_details: Akademika Dollezhala Square, 1/3
+      zip_code: '107140'
+    - zip_code: '101000'

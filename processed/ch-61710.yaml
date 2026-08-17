@@ -14,3 +14,6 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company Machine-Building Engineering Office Fakel Named
           After Akademika P.D. Grushina
+    addresses:
+    - address_details: Akademika Grushina Str., 33
+      zip_code: '141401'

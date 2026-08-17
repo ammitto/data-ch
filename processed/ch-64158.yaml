@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Scientific Technical Institute Radiosvyaz
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NTO Radiosvyaz
+    addresses:
+    - address_details: Marshala Govorova Str., 29, Letter N
+      zip_code: '198097'

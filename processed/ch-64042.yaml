@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Federal State Enterprise Kazan State Gunpowder Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FKP KGKPZ
+    addresses:
+    - address_details: Pervogo Maya Str., 14
+      zip_code: '420032'

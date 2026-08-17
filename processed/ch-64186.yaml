@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Vodtranspribor
+    addresses:
+    - address_details: Serdobolskaya Str., 64
+      zip_code: '197342'

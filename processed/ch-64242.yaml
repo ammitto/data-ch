@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Volgograd Machine Building Company Limited Liability Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO VMK VGTZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Volgograd Tractor Plant
+    addresses:
+    - address_details: Dzerzhinsky Square, 1
+      zip_code: '400006'

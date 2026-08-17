@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Ryazan Radio-Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Рязанский Радиозавод»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: АО «Рязанский Радиозавод»
+    addresses:
+    - address_details: Lermontova Str., 11
+      zip_code: '390023'

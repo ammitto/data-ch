@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Omsk Scientific-Research Institute of Instrument Engineering JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Omsk Research Institute of Instrument Engineering
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO ONIIP
+    addresses:
+    - address_details: Maslennikova Str., 231
+      zip_code: '644071'

@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Innovative Underwater Technologies, LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IPT LLC
+    addresses:
+    - address_details: Mezhevoy Canal Str., 4, Premises 58A
+      zip_code: '198035'

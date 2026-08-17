@@ -14,3 +14,21 @@ entity:
         name_part_type: whole-name
         value: Open Joint Stock Company Volgograd Radio-Technical Equipment Plant
           (VZ RTO)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Волгоградский Завод Радиотехнического Оборудования»
+          (АО «ВЗРТО»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC VZRTO
+    addresses:
+    - address_details: Novodvinskaya Str., 60
+      zip_code: '400010'

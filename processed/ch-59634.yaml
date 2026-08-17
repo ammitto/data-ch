@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Aerospace Systems Design Bureau, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Опытно-Конструкторское Бюро «Аэрокосмические
+          Системы» (АО «ОКБ «Аэрокосмические Системы»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “OKB “Aerospace Systems”
+    addresses:
+    - address_details: Programistov Str., 4,
+      zip_code: '141983'

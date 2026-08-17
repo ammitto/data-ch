@@ -14,3 +14,28 @@ entity:
         name_part_type: whole-name
         value: A.A. Kharkevich Institute for Information Transmission Problems (IITP),
           Russian Academy of Sciences (RAS)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IPPI RAN
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IITP RAS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Государственное Бюджетное Учреждение Науки Институт Проблем
+          Передачи Информации им. А.А. Харкевича Российской Академии Наук (ИППИ РАН)
+    addresses:
+    - address_details: Bolshoy Karetny Pereulok, 19, Building 1
+      zip_code: '127051'

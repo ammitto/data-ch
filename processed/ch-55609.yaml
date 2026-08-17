@@ -13,3 +13,35 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Arzam Scientific Production Enterprise Temp Avia
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Temp-Avia Arzamas Research and Production Association JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OKB Temp
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ANPP Temp-Avia
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Арзамасское Научно-Производственное Предприятие
+          «Темп-Авиа» (АО АНПП «Темп-Авиа»)
+    addresses:
+    - address_details: Kirov Str., 26
+      zip_code: '607220'

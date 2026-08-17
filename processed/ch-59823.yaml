@@ -14,3 +14,35 @@ entity:
         name_part_type: whole-name
         value: V.A. Trapeznikov Institute of Control Sciences of Russian Academy of
           Sciences
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ICS RAS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IPU RAN
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Institute of Control Sciences RAS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Государственное Бюджетное Учреждение Науки Институт Проблем
+          Управления им. В.А. Трапезникова Российской Академии Наук (ИПУ РАН)
+    addresses:
+    - address_details: Profsoyuznaya Str., 65
+      zip_code: '117997'

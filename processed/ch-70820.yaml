@@ -13,3 +13,64 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: LLC Research and Production Enterprise Itelma
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Research and Production Enterprise Itelma LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Itelma
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “RK-ITELMA”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Itelma Electronics
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Nauchno Proizvodstvennoe Predpriyatie Itelma
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC NPP Itelma
+    addresses:
+    - address_details: 1st Nagatinsky Proyezd, 10, Building 1, Office 25
+      zip_code: '115230'
+    - address_details: Baturina Str., 39/1
+      zip_code: '600017'
+    - address_details: Avtostroiteley Avenue, 87
+      zip_code: '433513'
+    - address_details: P. Shcherbina Str., 23
+      zip_code: '156961'
+    - address_details: Kalinina Str., 1
+      zip_code: '142671'
+    - address_details: Pushkina Str., 4
+      zip_code: '423823'
+    - address_details: Voroshilova Str., 17
+      zip_code: '445044'
+    - address_details: Oktyabrskaya Str., 19
+      zip_code: '347900'
+    - address_details: Ploschad Lenina Str., 40
+      zip_code: '413105'

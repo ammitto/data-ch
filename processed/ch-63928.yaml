@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Asia Pacific Links Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Asia Pacific Links Limited
+    addresses:
+    - address_details: Office E, 8/F., Shing Hing Commercial Building, 21-27 Wing
+        Kut Street

@@ -13,3 +13,32 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Russian Space Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RKS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Russian Corporation of Rocket and Space Instrumentation
+          and Information Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RSS
+    addresses:
+    - address_details: Aviamotornaya Str., 53
+      zip_code: '111250'
+    - address_details: Dekabristov Str., 51
+      zip_code: '127490'
+    - address_details: Sosnovaya Str., 222
+      zip_code: '676470'

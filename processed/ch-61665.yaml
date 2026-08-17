@@ -13,3 +13,8 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: AO Papilon
+    addresses:
+    - address_details: Makeeva Prospekt, 48
+      zip_code: '456320'
+    - address_details: Novocheremushkinskaya Str., 63, Building 1
+      zip_code: '117418'

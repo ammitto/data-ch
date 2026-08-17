@@ -14,3 +14,45 @@ entity:
         name_part_type: whole-name
         value: Main Directorate of Deep-Sea Research of the Ministry of Defense of
           the Russian Federation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Main Directorate of Deep-Sea Research
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: GUGI
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Hydrographic Service of the Navy
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Department of Navigation and Oceanography of the Ministry of Defence
+          of the Russian Federation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Главное Управление Глубоководных Исследований Министерства Обороны
+          Российской Федерации (ГУГИ)
+    addresses:
+    - address_details: Onezhskaya Str., 26A / 119019
+      zip_code: '125413'
+    - address_details: St. Petersburg, 8, 11 line of Vasilievsky Island
+      zip_code: '199034'

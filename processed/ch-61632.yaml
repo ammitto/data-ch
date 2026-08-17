@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: OOO “UNITEK”
+    addresses:
+    - address_details: Gorbunova Str., 2, Building 3, Premises 238
+      zip_code: '121596'

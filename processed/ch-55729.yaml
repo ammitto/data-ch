@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Scientific-Production Enterprise Almaz JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPP Almaz
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Research and Production Enterprise “Almaz”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Almaz Research and Production Enterprise
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RPE Almaz
+    addresses:
+    - address_details: Panfilov I.V. Str., 1A, Building 1
+      zip_code: '410033'

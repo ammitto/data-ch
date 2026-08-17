@@ -13,3 +13,15 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Federal Technical Regulation and Metrology Agency (Rosstandart)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal Agency for Technical Regulation and Metrology
+    addresses:
+    - address_details: Presnenskaya Naberezhnaya, 10, Building 2, Floors 7, 29, 39
+      zip_code: '123112'
+    - address_details: Presnenskaya Naberezhnaya, 10, Building 2
+      zip_code: '123112'

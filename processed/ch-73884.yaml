@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: TOO Elem Group
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Elem Group LLP, Limited Liability Partnership “Elem Group (Elem Grupp)”
+    addresses:
+    - address_details: Nauryzbay Batyra Str., 8
+      zip_code: '05004'

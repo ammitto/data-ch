@@ -13,3 +13,36 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Afanasyev Technomac, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Научно-Производственное Объединение «Техномаш»
+          имени С.А. Афанасьева» (АО «НПО «Техномаш» им. С.А. Афанасьева»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Scientific and Production Association “Tekhnomash” named after
+          S.A. Afanasiev
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Afanasyev Research and Production Enterprise Technomac, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPO Technomash
+    addresses:
+    - address_details: Maryina Roshcha 3rd Proezd, 40, Building 1
+      zip_code: '127018'

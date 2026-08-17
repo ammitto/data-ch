@@ -13,3 +13,23 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: SP KVANT (Sovmestnoe Predpriyatie Kvantovye Tekhnologii)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Общество с Ограниченной Ответственностью «Совместное Предприятие «Квантовые
+          Технологии» (ООО «СП «Квант»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Venture Quantum Technologies
+    addresses:
+    - address_details: Territory of the Skolkovo Innovation Centre, Nobelya Str.,  1
+      zip_code: '121205'
+    - address_details: Varshavskoe Shosse, 46, Floor 6, Premises 600K
+      zip_code: '115230'

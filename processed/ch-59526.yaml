@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Zlatoustovsky Machine Building Plant (JSC Zlatmash)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Zlatoust Machine-Building Plant
+    addresses:
+    - address_details: Zlatoust, Parkovy Proezd, 1
+      zip_code: '456227'

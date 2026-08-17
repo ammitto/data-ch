@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: OPK Oboronprom
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Объединенная Промышленная Корпорация «Оборонпром»
+          (АО «ОПК «Оборонпром»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: United Industrial Corporation Oboronprom
+    addresses:
+    - address_details: Vereyskaya Str., 29, Building 141
+      zip_code: '121357'

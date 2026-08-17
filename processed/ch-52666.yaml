@@ -16,3 +16,6 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Sergey
+    addresses:
+    - address_details: Marshala Govorova Str., 40, Letter A, Office 34
+      zip_code: '198095'

@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Scientific Research Institute of Computing Machinery
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Научно-Исследовательский Институт Средств Вычислительной
+          Техники» (АО «НИИ СВТ»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Scientific Research Institute of Computer Technology
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC NII SVT
+    addresses:
+    - address_details: Melnichnaya Str., 31
+      zip_code: '610025'

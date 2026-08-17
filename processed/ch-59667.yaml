@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company All-Russian Scientific-Research Institute Gradient
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO VNII Gradient
+    addresses:
+    - address_details: Sokolov Avenue, 96
+      zip_code: '344000'

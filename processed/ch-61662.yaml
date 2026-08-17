@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Concern Morinformsystem–Agat
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Kontsern Morinformsistema Agat
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Morinsis-Agat
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Kontsern Morinsis-agat
+    addresses:
+    - address_details: Shosse Entuziastov, 29
+      zip_code: '105275'

@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Integral SPB
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Venture JSC Integral SPB
+    addresses:
+    - address_details: Irinovsky Prospekt, 21, Building 1
+      zip_code: '195279'

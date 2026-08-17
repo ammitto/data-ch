@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Lutch Design Office JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Lutch Design Bureau JCS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Lutch JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: KB-Lutch
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: АО «КБ «Луч»
+    addresses:
+    - address_details: Pobedy Boulevard, 25
+      zip_code: '152920'

@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Energiya JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO “Energiya”
+    addresses:
+    - address_details: Elektrik Settlement, 1
+      zip_code: '399775'

@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Research and Production Enterprise Sapfir
+    addresses:
+    - address_details: Shcherbakovskaya Str., 53, Room 304А
+      zip_code: '105187'

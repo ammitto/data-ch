@@ -13,3 +13,29 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Si2 Microsystems Pvt Ltd
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Si2 Microsystems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Si2
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Si2 Microsystems Private Limited
+    addresses:
+    - address_details: 84, Deep Towers, EPIP Industrial Area
+      zip_code: '560066'
+    - address_details: 52/A, 1st Cross, 3rd Main KIADB Industrial Area
+      zip_code: '562114'

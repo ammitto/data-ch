@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: OAO Svetlovskoye Predpriyatiye Era
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO SP Era
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Svetlovsky Enterprise ERA
+    addresses:
+    - address_details: Lizy Chaikinoy Str., 1
+      zip_code: '238340'

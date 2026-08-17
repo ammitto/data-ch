@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Novosibirsk Cartridge Plant, JSC (SIBFIRE)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPZ
+    addresses:
+    - address_details: Stantsionnaya Str., 30A, Office 307
+      zip_code: '630108'

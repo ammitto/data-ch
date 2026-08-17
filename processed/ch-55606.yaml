@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Almaz JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Almaz
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Алмаз»
+    addresses:
+    - address_details: Tupolev Str., 16
+      zip_code: '344093'

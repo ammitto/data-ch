@@ -13,3 +13,26 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Leningrad Laser Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO LLS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LenLasers
+    addresses:
+    - address_details: Yablochkova Str., 20, Letter Ya, Office 408
+      zip_code: '197198'
+    - address_details: Boris Bogatkova Str., 210
+      zip_code: '630090'
+    - address_details: Filippovsky Pereulok, 13, Building 1
+      zip_code: '119019'
+    - address_details: Zhigura Str., 2
+      zip_code: '690088'

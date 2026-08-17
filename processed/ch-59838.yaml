@@ -14,3 +14,30 @@ entity:
         name_part_type: whole-name
         value: Special Research Bureau for Automation of Marine Researches Far East
           Branch Russian Academy of Sciences
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SKB SAMI DVO RAN
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Budgetary Institution of Science Special Design Bureau
+          of Marine Research Automation Means of the Far Eastern Branch of the Russian
+          Academy of Sciences; SKB SAMI FEB RAS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Государственное Бюджетное Учреждение Науки Специальное
+          Конструкторское Бюро Средств Автоматизации Морских Исследований Дальневосточного
+          Отделения Российской Академии Наук (СКБ САМИ ДВО РАН)
+    addresses:
+    - address_details: Aleksei Maksimovich Gorky Str., 25

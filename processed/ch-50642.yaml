@@ -13,3 +13,36 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Radiotechnical and Information Systems (RTI) Concern
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RTI Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Scientific and Production Association of Long-Range
+          Radar”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Концерн «Радиотехнические и Информационные Системы»
+          (АО «Концерн «РТИ Системы»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPO Dalney Radiolokatsii
+    addresses:
+    - address_details: 8 Marta Str., 10, Building 1
+      zip_code: '127083'

@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Central Research and Development Institute Tsiklon
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Cyclone TsNII
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: CRI Cyclone
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Central Research Institute Cyclone JSC
+    addresses:
+    - address_details: Shchelkovskoe Shosse, 77
+      zip_code: '107497'

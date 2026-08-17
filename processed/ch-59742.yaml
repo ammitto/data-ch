@@ -14,3 +14,28 @@ entity:
         name_part_type: whole-name
         value: 'Ilyushin Aviation Complex Branch: Myasishcheva Experimental Mechanical
           Engineering Plant'
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Myasishcheva EMZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: V.M. Мyasishchev Experimental Mechanical Engineering Plant PJSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Branch of S.V. Ilyushin Aviation Complex PJSC – lV.M. Myasishchev Experimental
+          Machine-Building Plant
+    addresses:
+    - address_details: Narkomvod Str., 7
+      zip_code: '140182'

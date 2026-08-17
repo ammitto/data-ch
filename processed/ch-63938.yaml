@@ -13,3 +13,19 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Alpha Trading Investments Limited
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Alpha Trading Investments
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Alpha Trading Investments Ltd
+    addresses:
+    - address_details: Unit 617, 6/F, 131-132 Connaught Road West, Solo Workshops,

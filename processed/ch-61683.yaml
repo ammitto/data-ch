@@ -14,3 +14,27 @@ entity:
         name_part_type: whole-name
         value: Federal State Budgetary Scientific Institution Research and Production
           Complex Technology Center
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPKTS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Scientific Manufacturing Complex Technological Center
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: SMC Technological Center
+    addresses:
+    - address_details: Zelenograd, Shokina Square, 1, Building 7, Room 7237
+      zip_code: '124498'

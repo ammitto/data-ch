@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Burevestnik Central Research Institute, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO TsNII Burevestnik
+    addresses:
+    - address_details: Sormovskoye Shosse, 1A
+      zip_code: '603950'

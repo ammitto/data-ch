@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Concern Avtomatika
+    addresses:
+    - address_details: otanicheskaya Str. 25
+      zip_code: '127106'

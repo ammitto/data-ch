@@ -13,3 +13,18 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: LLC Rezonit
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Rezonit
+    addresses:
+    - address_details: Solnechnaya Alleya, 6, Premises III, Floor 2, Room 3
+      zip_code: '124527'
+    - address_details: Instrumentalnaya Str., Building 3, Letter K, Door No. 4, Kantemirovsky
+        Business Centre
+      zip_code: '197022'
+    - address_details: Botanicheskaya Str., 19, Office 4
+      zip_code: '620137'

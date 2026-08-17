@@ -13,3 +13,29 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: OrelMetallPolimer LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ORELMETALLPOLYMER
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Orelmetallpolymer
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO “OMP”
+    addresses:
+    - address_details: Avtomagistral Str., 1Yu
+      zip_code: '303032'
+    - address_details: Olkhovskaya Str., 45, Building 3, Floor 1, Room 1, Office 10
+      zip_code: '105066'

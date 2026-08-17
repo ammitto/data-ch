@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Nevskoe Design Bureau, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Nevskoe PKB
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Nevskoye Design Bureau”
+    addresses:
+    - address_details: Galerny Proezd, 3
+      zip_code: '199226'

@@ -13,3 +13,30 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Kalyazinsky Machine Building Factory – Branch of RSK MiG
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Branch of Public Joint Stock Company “United Aircraft Corporation”
+          – Kalyazinskiy Machine Building Factory
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kalyazinskiy Machine Building Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Филиал Публичного Акционерного Общества «Объединенная Авиастроительная
+          Корпорация» - Калязинский Машиностроительный Завод (Филиал ПАО «ОАК» - Калязинский
+          Машиностроительный Завод)
+    addresses:
+    - address_details: Industrialnaya Str. 5, Kalyazin
+      zip_code: '171573'

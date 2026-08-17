@@ -13,3 +13,23 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Moscow Aviation Institute
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Федеральное Государственное Бюджетное Образовательное Учреждение Высшего
+          Образования «Московский Авиационный Институт (Национальный Исследовательский
+          Университет)»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: MAI; Federal State Budgetary Establishment of Higher Education “Moscow
+          Aviation Institute (National Research University)”
+    addresses:
+    - address_details: Volokolamskoe Highway, 4
+      zip_code: '125993'

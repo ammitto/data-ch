@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Company, Joint Stock Company Ravenstvo
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Rawenstvo
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Ravenstvo
+    addresses:
+    - address_details: Promyshlennaya Str., 19
+      zip_code: '198095'

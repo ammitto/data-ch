@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC Shipyard Zaliv (Zaliv Shipbuilding yard)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Zaliv Shipbuilding Plant
+    addresses:
+    - address_details: Tankistov Str., 4
+      zip_code: '298310'

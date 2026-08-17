@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company 360 Aviation Repair Plant (360 ARZ)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “360 Aircraft Repair Plant”
+    addresses:
+    - address_details: Zabaikalskaya Str., 13V
+      zip_code: '390015'

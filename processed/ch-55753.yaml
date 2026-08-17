@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Special Design Bureau Salute JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO OKB Salyut
+    addresses:
+    - address_details: Krasny Prospekt, 153
+      zip_code: '630049'

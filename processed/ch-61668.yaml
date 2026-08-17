@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: IT-Papillon OOO
+    addresses:
+    - address_details: Makeeva Prospekt, 48, Premises 222
+      zip_code: '456320'

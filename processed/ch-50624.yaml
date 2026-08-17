@@ -13,3 +13,36 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: PJSC Beriev Aircraft Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Публичное Акционерное Общество «Таганрогский Авиационный Научно-Технический
+          Комплекс им. Г.М. Бериева» (ПАО «ТАНТК им. Г.М. Бериева»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Taganrog Aviation Scientific and Technical Complex named after G. M.
+          Beriev
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint-Stock Company “Beriev Aircraft”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: TANTK
+    addresses:
+    - address_details: Aviatorov Square, 1
+      zip_code: '347923'

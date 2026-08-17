@@ -14,3 +14,27 @@ entity:
         name_part_type: whole-name
         value: Rzhanov Institute of Semiconductor Physics, Siberian Branch of Russian
           Academy of Sciences (IPP SB RAS)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IPP SB RAS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Institute of Semiconductor Physics NA A.V. Rzhanov
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: IFP SO RAN
+    addresses:
+    - address_details: Akademika Lavrenteva Prospekt, 13
+      zip_code: '630090'

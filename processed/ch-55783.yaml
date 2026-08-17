@@ -14,3 +14,20 @@ entity:
         name_part_type: whole-name
         value: Tactical Missile Company, Joint Stock Company Saratov Radio Instrument
           Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aktsionernoe Obshchestvo Saratovsky Radiopriborny Zavod
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO SRZ
+    addresses:
+    - address_details: Prospekt 50 Let Oktyabrya, 108
+      zip_code: '410040'

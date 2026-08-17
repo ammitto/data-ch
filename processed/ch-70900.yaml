@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: SFT LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company SFT
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: CFT
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO SFT
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Obshchestvo s Organzichennoi Otvetstvennostyu SFT
+    addresses:
+    - address_details: Kozhevnicheskaya Str., 10, Building 1
+      zip_code: '115114'

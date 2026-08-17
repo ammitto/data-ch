@@ -14,3 +14,27 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company Nizhny Novgorod Plant of the 70th Anniversary of
           Victory
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Nizhegorodskiy Zavod 70 Letiya Pobedy
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NZSLP
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NZ 70-Letiya Pobedy
+    addresses:
+    - address_details: Sormovskoe Highway, 21
+      zip_code: '603052'

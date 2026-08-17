@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC Kalashnikov
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Концерн «Калашников»
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Concern Kalashnikov
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Izhevskiy Mashinostroitel’nyi Zavod
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NPO Izhmash
+    addresses:
+    - address_details: Deryabina Avenue, 2/193, Room 78
+      zip_code: '426006'

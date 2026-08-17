@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: JSC Sozvezdie Concern
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint-Stock Company Concern Sozvezdie
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Kontsern Sozvezdie
+    addresses:
+    - address_details: Plekhanovskaya Str. 14
+      zip_code: '394018'

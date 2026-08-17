@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Ocean Chips
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Ocean Electronics Limited Liability Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Okean Elektroniki
+    addresses:
+    - address_details: Kalinina Str., 2, Building 4, Letter A, Premises 1N, Room 10
+      zip_code: '198099'

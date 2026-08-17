@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Center for Technological Competencies in Radiophtonics
+    addresses:
+    - address_details: 8th March Str., 10, Building 1
+      zip_code: '127083'

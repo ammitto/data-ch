@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: ZAO Promelektronika
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Closed Joint Stock Company “Promelectronica”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Promelektronika
+    addresses:
+    - address_details: Kolmogorova Str.,70
+      zip_code: '620034'

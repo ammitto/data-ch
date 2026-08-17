@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Company, NPO Lightning
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Research and Production Association Lightning JSC; Molniya Research
+          & Industrial Corporation JSC; JSC NPO Molniya
+    addresses:
+    - address_details: Lodochnaya Str., 5, Building 1

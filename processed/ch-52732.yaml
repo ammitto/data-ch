@@ -13,3 +13,30 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Vega Pilot Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Experimental Plant Vega – Branch of Joint Stock Company Zvezdochka
+          Ship Repair Centre
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OZ Vega – Filial AO TSS Zvezdochka
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Experimental Plant Vega
+    addresses:
+    - address_details: Lenina Str., 73
+      zip_code: '249010'
+    - address_details: Proezd Mashinostroiteley, 12
+      zip_code: '165509'

@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Scientific Research Institute of Communication Management Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NIISU
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Research and Development Institute of Communication
+          and Management Systems”
+    addresses:
+    - address_details: Starokaluzhkoe Shosse, 58
+      zip_code: '117630'

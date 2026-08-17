@@ -14,3 +14,27 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company Institute for Scientific Research Microelectronic
           Equipment Progress
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Microelectronics Research Institute Progress JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Nauchno-Issledovatelskiy Institut Mikroelektronnoiy Apparatury Progress
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Progress MRI JSC
+    addresses:
+    - address_details: Cherepanovkh Proezd, 54
+      zip_code: '125183'

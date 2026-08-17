@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Neva Electronica JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Нева Электроника»
+    addresses:
+    - address_details: Yuri Gagarin Prospekt, 2, Letter A, Room 20-N
+      zip_code: '196105'

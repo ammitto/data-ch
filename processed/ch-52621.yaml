@@ -13,3 +13,19 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: OOO Sertal
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Sertal LLC
+    addresses:
+    - address_details: Yablochkova Str., 21, Building 3, Floor 3, Premises VIII, Room
+        1I
+      zip_code: '127322'
+    - address_details: Novocherkassky Boulevard, 47
+      zip_code: '109369'
+    - address_details: Varshavskoe Shosse, 1A
+      zip_code: '117105'
+    - zip_code: '119333'

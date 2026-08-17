@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Software Research Institute
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Научно-Исследовательский Институт Программных
+          Средств» (АО «НИИ ПС»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Research Institute of Software Tools
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC NII PS
+    addresses:
+    - address_details: Politekhnicheskaya Str., 22, Letter H
+      zip_code: '194021'

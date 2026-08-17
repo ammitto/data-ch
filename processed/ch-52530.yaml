@@ -13,3 +13,22 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Crocus Nano Electronics
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Krokus Nanoelektronika
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Crocusnano
+    addresses:
+    - address_details: 8th Testilshchikov Str., 11, Building 2
+      zip_code: '109129'
+    - address_details: Volgogradsky Prospekt, 42, Building 5, Floor 1, Premises 1
+      zip_code: '109129'

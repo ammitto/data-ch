@@ -14,3 +14,28 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company Scientific Research Institute of Computing Complexes
           Named After M.A. Kartsev
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NIIVK N.A. M.A. Kartsev
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NIIVK im. M.A. Kartsev
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Nauchno-Issledelvatelsky Institut Vychislitelnykh Kompleksov imeni
+          M.A. Kartseva
+    addresses:
+    - address_details: Profsoyuznaya Str., 108
+      zip_code: '17437'

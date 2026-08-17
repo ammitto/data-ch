@@ -13,3 +13,22 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: ELPROM
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Elprom
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Elprom LLC
+    addresses:
+    - address_details: Pulkovskaya Str., 2, Building 1, Letter A
+      zip_code: '196142'
+    - address_details: Marshala Govorova Str., 40, Letter A, Premises 2-N, Room 34
+      zip_code: '198095'

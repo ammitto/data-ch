@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: UEC-Aviadvigatel JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO ODK-Aviadvigatel
+    addresses:
+    - address_details: Komsomolsky Prospekt 93, Building 61
+      zip_code: '614010'

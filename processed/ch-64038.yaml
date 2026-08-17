@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Closed Joint Stock Company Special Design Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ZAO SKB
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO SKB
+    addresses:
+    - address_details: 1905 Goda Str., 35/Zh
+      zip_code: '614014'

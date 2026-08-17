@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Scientific-Research Institute “Argon”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NII Argon
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Scientific Research Institute “Argon”
+    addresses:
+    - address_details: Varshavskoe Shosse, 125, Building 1
+      zip_code: '117587'

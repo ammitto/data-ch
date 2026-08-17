@@ -13,3 +13,23 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: UralVagonZavod
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Scientific and Production Corporation “Uralvagonzavod” named after
+          F. E. Dzerzhinsky”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Research and Production Corporation Ural Wagon Factory
+    addresses:
+    - address_details: Vostochnoye Shosse, 28
+      zip_code: '622007'
+    - address_details: Bolshaya Yakimanka Str., 40
+      zip_code: '119049'

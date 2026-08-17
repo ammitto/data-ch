@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: A-CONTRAKT
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: A-Kontrakt
+    addresses:
+    - address_details: 2nd Roshchinskiy Prospekt, 8, Business Centre “Serpukhovskoy
+        Dvor”
+      zip_code: '115419'
+    - address_details: Aptekarsky Prospekt, 6
+      zip_code: '197022'
+    - address_details: Gelsingforskaya Str., 3, Letter “3”, Premises 411-416
+      zip_code: '194044'
+    - address_details: Business Centre "Krasnaya Nitya"
+    - address_details: Medikov Prospekt, 5, Letter “V”
+      zip_code: '197022'

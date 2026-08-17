@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Kami Group LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Kami Group
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Obshchestvo s Ogranichennoi Otvetstvennostyu Kami Grupp
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Kami Group OOO
+    addresses:
+    - address_details: Bolshaya Semenovskaya Str., 40, Building 13, Floor 3, Room
+        307
+      zip_code: '107023'

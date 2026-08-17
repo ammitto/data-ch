@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: ENICS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC ENICS
+    addresses:
+    - address_details: Korolenko Str., 120
+      zip_code: '420094'

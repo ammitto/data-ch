@@ -13,3 +13,57 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Scientific Production Enterprise Digital Solutions
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ASIC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Electronic Engineering Design Center Digital Solutions JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPP Tsifrovye Resheniya
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: DSol NPP
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Digital Solutions
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Research and Production Enterprise “Digital Solutions”
+    addresses:
+    - address_details: 2nd Sinichkina Str., 9A, Building 7, Floor 3, Office I, Room
+        4
+      zip_code: '111020'
+    - address_details: 2nd Sinichkina Str., 9a, Building 7, Business Centre Sinitsa
+        Plaza
+      zip_code: '111020'
+    - zip_code: '105066'
+    - address_details: Zavoda Serp i Molot Drive, 10, Business Centre Integral
+      zip_code: '111250'
+    - address_details: Penza, Kirov Str., 56, Business Centre Atrium
+      zip_code: '440026'

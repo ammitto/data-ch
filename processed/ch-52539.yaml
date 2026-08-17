@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Electronic Computing and Information Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Research and Development Center ELVEES
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ELVIS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Scientific Production Center Elvis
+    addresses:
+    - address_details: Konstruktora Lukina Str., 14, Building 14
+      zip_code: '124460'

@@ -13,3 +13,16 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Tactical Missile Company, PJSC “MBDB ‘ISKRA’”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “MDB “Iskra”; Joint Stock Company Machine Building Design Bureau
+          “ISKRA”; Iskra Engineering Design Bureau JSC named after I.I. Kartukov;
+          JSC MBDB ISKRA; Machine-Building Design Bureau “Iskra” named after Ivan
+          Kartukov JSC; Aktsionernoe Obshchestvo “Ma
+    addresses:
+    - address_details: Leningradsky Prospekt, 35
+      zip_code: '125284'

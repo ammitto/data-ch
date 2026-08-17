@@ -13,3 +13,10 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Aerocomposit Ulyanovsk Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Branch of AeroKomposit JSC in the city of Ulyanovsk

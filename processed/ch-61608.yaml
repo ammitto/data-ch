@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Vest Ost Limited Liability
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Vest Ost
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: West Ost Company
+    addresses:
+    - address_details: Gotvalda Str., 21, Building 2, Premises 17
+      zip_code: '620107'

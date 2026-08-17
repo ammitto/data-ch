@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company All-Russian Research Institute Signal
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OJSC All-Russian Research Institute Signal
+    addresses:
+    - address_details: Krupskoy Str., 57
+      zip_code: '601903'

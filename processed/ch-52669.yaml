@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Serniya Engineering
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Sernia Engineering
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Общество с Ограниченной Ответственностью «Серния Инжиниринг» (ООО «Серния
+          Инжиниринг»)
+    addresses:
+    - address_details: Vavilova Str., 57A, Floor 2, Premises 211, Room 211-3
+      zip_code: '117292'
+    - address_details: Ogorodnyy Proezd, 27, Floor 6, Office 8
+      zip_code: '127322'
+    - address_details: Rodionova Str., 167B
+      zip_code: '603093'
+    - address_details: Ligovsky Prospekt, 270, Section B, Office 2201
+      zip_code: '196084'
+    - address_details: Sibirskiy Tract, 1A

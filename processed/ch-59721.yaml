@@ -14,3 +14,27 @@ entity:
         name_part_type: whole-name
         value: Public Joint Stock Company Moscow Institute of Electro-Mechanics and
           Automation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO MIEA
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Moscow Institute of Electromechanics and Automatics PJSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Moskovskiy Institut Elektromekhaniki i Avtomatiki
+    addresses:
+    - address_details: Aviatsionny Pereulok, 5
+      zip_code: '125167'

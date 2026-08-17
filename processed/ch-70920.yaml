@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Design Bureau of Navigation Sytems (NAVIS)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “KB NAVIS”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint-Stock Company Design Bureau Navigation Systems
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO KB NAVIS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Navis Inc.
+    addresses:
+    - address_details: Kulneva Str. 3, Building 1, Room III/5, 6
+      zip_code: '121170'

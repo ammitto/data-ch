@@ -13,3 +13,43 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Ulan-Ude Aviation Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC UUAP
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: U-UAP JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO U-UAZ
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Ulan-Ude Aircraft Aviation Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Ulan-Ude Aviation Factory
+    addresses:
+    - address_details: Khorinskaya Str., 1
+      zip_code: '670009'
+    - address_details: Tchaikovsky Str., 5, Office 35
+      zip_code: '670009'

@@ -13,3 +13,27 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Closed Joint Stock Company TPK Linkos
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Closed Joint Stock Company “Technological Park of Cosmonautics “Linkos”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Linkos Space Technology Park Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ZAO TPK Linkos
+    addresses:
+    - address_details: Shcherbinka, Dorozhnaya Str., 5
+      zip_code: '142172'

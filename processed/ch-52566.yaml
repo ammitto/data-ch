@@ -19,3 +19,6 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Anatolyevich
+    addresses:
+    - address_details: Tvetochnaya Str., 25, Building 3
+      zip_code: '196006'

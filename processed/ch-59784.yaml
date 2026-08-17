@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: NPP Start
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NPP Start im. A. I. Yaskina
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Research and Production Enterprise “Start” named after A.I. Yaskin
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Научно-Производственное Предприятие «Старт» им.
+          А.И. Яскина» (АО «НПП «Старт» им. А. И. Яскина»)
+    addresses:
+    - address_details: Pribaltiyskaya Str., 24
+      zip_code: '620007'

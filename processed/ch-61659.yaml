@@ -13,3 +13,19 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Shahed Aviation Industries
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: صنایع هوایی شاهد · مرکز تحقیقات صنایع هوایی شاهد
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shahed Aviation Industries Research Centre
+    addresses:
+    - address_details: Shahid Lavi Street, Sajad Street

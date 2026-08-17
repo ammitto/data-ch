@@ -12,4 +12,50 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: The JSC Makeyev Design Bureau
+        value: JSC Makeyev Design Bureau
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Academician V.P.Makeyev State Rocket Centre”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Makeyev State Rocket Centre”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “State Missile Center named after Akademika V.P.
+          Makeyeva”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Makeyev OKB
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Makeyev SRC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO GRTs Makeyeva
+    addresses:
+    - address_details: Turgoyakskoye Shosse, 1
+      zip_code: '456313'

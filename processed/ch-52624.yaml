@@ -13,3 +13,15 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Photon Pro LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Foton PRO
+    addresses:
+    - address_details: Lodygina Str., 3, Main Building, Floor 2, Premises 206
+      zip_code: '430034'
+    - address_details: Saransk, R. Luxemburg Str., 11
+      zip_code: '430032'

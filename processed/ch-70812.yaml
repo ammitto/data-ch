@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Grant Instrument
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Grant Instrument
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Grant Tools
+    addresses:
+    - address_details: Tsvetochnaya Str., 16, Building 1, Premises 425
+      zip_code: '196006'

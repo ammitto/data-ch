@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Ural Scientific Research Institute for Composite Materials
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: UNIIKM
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Ural Research Institute of Composite Materials”
+    addresses:
+    - address_details: Novozvyaginskaya Str., 57
+      zip_code: '614014'

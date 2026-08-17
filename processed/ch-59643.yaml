@@ -13,3 +13,21 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: AGAT, Gavrilov-Yaminskiy Machine-Building Plant, JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество Гаврилов-Ямский Машиностроительный Завод «АГАТ»
+          (АО ГМЗ «АГАТ»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO GMZ AGAT
+    addresses:
+    - address_details: Mashinostroiteley Proezd, 1
+      zip_code: '152240'

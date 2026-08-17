@@ -13,3 +13,20 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Spel LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Spel
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Spel
+    addresses:
+    - address_details: Gavanskaya Str., 12, Building 2, lit. B, Room 1-H
+      zip_code: '199106'

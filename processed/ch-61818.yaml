@@ -13,3 +13,64 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Mitishinskiy Scientific Research Institute of Radio Measuring Instruments
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federalnoe Gosudarstvennoe Byudzhetnoe Uchrezhdenie Vserossiiskii Nauchno-Issledovatelskii
+          Institut Radioelektroniki
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Unitary Enterprise MNIIRIP
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FGBU VNIIR
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FGBU Vserossiiskii Nauchno-Issledovatelskii Institut Radioelektroniki
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FGUP MNIIRIP
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: FSBI VNIIR
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Mytishchi Research Institute for RF Measurement Instruments
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Federal State Budgetary Institution All-Russian Scientific Research
+          Institute of Radio Electronics
+    addresses:
+    - address_details: Kolpakova Str., 2A, Building B1, Floor 3, Offices 66, 87
+      zip_code: '141002'

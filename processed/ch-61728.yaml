@@ -13,3 +13,51 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Research Center ELINS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Scientific and Technical Center ELINS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Nauchnyy Tsentr ELINS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ELINS STC JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO NTs ELINS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: NTTS ELINS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: CJSC NTC Elins
+    addresses:
+    - address_details: Panfilovsky Propsekt, 10, Zelenograd
+      zip_code: '124460'
+    - address_details: Panfilovsky Prospekt, 4, Building 1, Premises V, Room 1-9,
+        Zelenograd
+      zip_code: '124460'

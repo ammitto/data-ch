@@ -13,3 +13,23 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: ZAO Sparta
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Sparta
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Спарта»
+    addresses:
+    - address_details: Mokhovaya Str., 18, Letter A, Premises 7N
+      zip_code: '191028'
+    - address_details: Izmailovskoye Municipal District, Krasutskogo Str., 4b, Letter
+        B
+      zip_code: '196084'

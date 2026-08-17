@@ -12,4 +12,35 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Hartis Dv LLV
+        value: Hartis DV LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Charteris DV”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Charteris DV”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company Hartis DV
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Khartis DV
+    addresses:
+    - address_details: Svobody Str., 35, Building 5, Floor 1, Premises 1, Room 4
+      zip_code: '125362'

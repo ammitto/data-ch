@@ -13,3 +13,16 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Svetlana Semiconductors
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO Svetlana Poluprovodniki
+    addresses:
+    - address_details: Akademika Valieva Str., 6, Building 2 Floor/Premises 1/I, Room
+        28
+      zip_code: '124460'
+    - address_details: Engelsa Avenue, 27, Letter AM, Room 18-H
+      zip_code: '194156'

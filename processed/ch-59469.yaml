@@ -14,3 +14,15 @@ entity:
         name_part_type: whole-name
         value: Federal Autonomous Institution Central Institute of Engine-Building
           N.A. P.I. Baranov; Central Institute of Aviation Motors (CIAM)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Central Institute of Aviation Motors; CIAM
+    addresses:
+    - address_details: Aviamotornaya Str., 2
+      zip_code: '111116'
+    - address_details: Lytkarino, Turaevo industrial zone, Building 7
+      zip_code: '140080'

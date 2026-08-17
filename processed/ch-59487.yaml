@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company 514 Aviation Repair Plant (514 ARZ)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “514 Aircraft Repair Plant”
+    addresses:
+    - address_details: Rzhev, Chelyuskintsev Str., 121
+      zip_code: '172383'

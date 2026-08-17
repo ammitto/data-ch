@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Branch of PAO II – Aviastar
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Филиал Публичного Акционерного Общества «Авиационный Комплекс Им. С.В.
+          Ильюшина» - Авиастар (Филиал ПАО «Ил» - Авиастар)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aviastar-SP
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Branch of PJSC “IL” – Aviastar
+    addresses:
+    - address_details: Antonova Avenue, 21
+      zip_code: '432072'

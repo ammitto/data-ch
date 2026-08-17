@@ -13,3 +13,37 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Machine Building Group Limited Liability Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Machine Building Group
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO Mashinostroitelnaya Gruppa
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OOO MG
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: MG LLC
+    addresses:
+    - address_details: Rochdelskaya Str., 15, Building 1
+      zip_code: '123376'
+    - address_details: Rochdelskaya Str., 15, Building 8, Floor 2, Premises II, Room
+        45
+      zip_code: '123022'

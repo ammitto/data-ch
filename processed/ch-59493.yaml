@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Aramil Aviation Repair Plant (AARZ)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aramil Branch of ODK-Service JSC
+    addresses:
+    - address_details: Aramil, Garnizon Str., 11a, Building 1
+      zip_code: '624003'

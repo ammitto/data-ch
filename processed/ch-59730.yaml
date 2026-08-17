@@ -13,3 +13,13 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Joint Stock Company Ramensky Instrument-Engineering Plant
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO RPZ
+    addresses:
+    - address_details: Mikhalevicha Str., 39, Building 20, Floor 2, Room 124
+      zip_code: '140100'

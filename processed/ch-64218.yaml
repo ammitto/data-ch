@@ -13,3 +13,28 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Public Joint Stock Company Motovilikha Plants
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Motovilikha Plants
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint Stock Company of Special Machine Building and Metallurgy
+          Motovilikhinskie Zavody
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Motovilikhinskie Zavody
+    addresses:
+    - address_details: 1905 Goda Str., 35, Building 245
+      zip_code: '614014'

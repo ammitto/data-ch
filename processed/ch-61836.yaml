@@ -13,3 +13,34 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Public Joint Stock Company Vympel Interstate Corporation
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC MAC Vympel
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO MAK Vympel
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PAO Mezhgosudarstvennaya Aktsionernaya Korporatsiya Vympel
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Vympel Interstate Commercial Corporation
+    addresses:
+    - address_details: Geroev Panfilovtsev Str. 10, Building 1
+      zip_code: '125480'

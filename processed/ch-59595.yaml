@@ -13,3 +13,30 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Russian Institute of Radio Navigation and Time
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Акционерное Общество «Российский Институт Радионавигации и Времени»
+          (АО «РИРВ»)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RIRT
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO RIRV
+    addresses:
+    - address_details: Obukhovskaya Oborona Prospekt, 120, Letter ETs
+      zip_code: '192012'
+    - address_details: Staraya Basmannaya Str., 19, Building 12
+      zip_code: '105066'

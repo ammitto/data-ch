@@ -13,3 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Rosoboronexport OJSC (ROE)
+    addresses:
+    - address_details: Stromynka Str., 272
+      zip_code: '107076'
