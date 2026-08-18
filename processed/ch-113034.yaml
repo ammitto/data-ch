@@ -1,0 +1,40 @@
+---
+ssid: '113034'
+sanctions_set_id: '13065'
+individual:
+  identity:
+    ssid: '113038'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Salehi
+      - order: 2
+        name_part_type: given-name
+        value: Nima
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Salehi
+      - order: 2
+        name_part_type: given-name
+        value: Alireza
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Q7x
+    day_month_year:
+      day: 24
+      month: 11
+      year: 1984
+  justification: Nima Salehi is an Iranian hacker and computer engineer.

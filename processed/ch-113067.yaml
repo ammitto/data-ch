@@ -1,0 +1,31 @@
+---
+ssid: '113067'
+sanctions_set_id: '8174'
+individual:
+  identity:
+    ssid: '113072'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Ansari
+      - order: 2
+        name_part_type: given-name
+        value: Ali
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Ali Akbar Ansari
+    day_month_year:
+      day: 26
+      month: 12
+      year: 1968
+  justification: Ali Ansari is an Iranian businessman and former owner of Bank Ayandeh
+    and of the Iran Mall.

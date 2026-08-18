@@ -30,6 +30,13 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Tom Kiyurige
+    - name_type: alias
+      quality: low
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Isaac Mupeta
     day_month_year:
       day: 13
       month: 1
