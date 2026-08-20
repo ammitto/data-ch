@@ -17,6 +17,13 @@ individual:
         name_part_type: family-name
         value: Chouka
     - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Abu Hamza
+    - name_type: alias
       quality: low
       lang: eng
       name_parts:
