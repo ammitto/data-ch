@@ -31,7 +31,7 @@ individual:
         name_part_type: whole-name
         value: Tom Kiyurige
     - name_type: alias
-      quality: low
+      quality: good
       lang: eng
       name_parts:
       - order: 1
