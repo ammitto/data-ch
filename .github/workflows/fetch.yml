@@ -48,7 +48,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
+          # A fetch writes processed/ and nothing else. Staging the whole
+          # checkout would let an unrelated eligible file ride along on a
+          # harvest commit.
+          git add -A -- processed/
           git commit -m "chore: update Switzerland sanctions data ($(date +%Y-%m-%d))"
           git push
 
