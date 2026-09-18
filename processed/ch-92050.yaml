@@ -1,4 +1,3 @@
----
 ssid: '92050'
 sanctions_set_id: '29445'
 entity:
@@ -14,8 +13,7 @@ entity:
         name_part_type: whole-name
         value: GTCT Ltd.
     addresses:
-    - address_details: 'Veko Giz Plaza, Maslak Mah. Maslak Meydan Sokak, No:3, Kat:
-        13'
+    - address_details: 'Veko Giz Plaza, Maslak Mah. Maslak Meydan Sokak, No:3, Kat: 13'
       zip_code: '34396'
     - address_details: Eski Büyükdere Caddesi 1
       zip_code: '34485'

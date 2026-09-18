@@ -1,4 +1,3 @@
----
 ssid: '62391'
 sanctions_set_id: '3986'
 entity:
@@ -18,6 +17,4 @@ entity:
       month: 10
       year: 2018
     addresses:
-  justification: Aman for Protection and Security LLC is a private security company,
-    which acts as a shell company for the Hosn al-Watan milita, founded by Muhammad
-    Abdo Assaad. It therefore benefits from and supports the former al-Assad regime.
+  justification: Aman for Protection and Security LLC is a private security company, which acts as a shell company for the Hosn al-Watan milita, founded by Muhammad Abdo Assaad. It therefore benefits from and supports the former al-Assad regime.

@@ -1,4 +1,3 @@
----
 ssid: '100365'
 sanctions_set_id: '8174'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Bank Saderat
     addresses:
     - address_details: Bank Saderat Tower, 43 Somayeh Ave
-  justification: Bank Saderat is one of Iran’s largest banks. The Government of Iran
-    is one of its major shareholders.
+  justification: Bank Saderat is one of Iran’s largest banks. The Government of Iran is one of its major shareholders.

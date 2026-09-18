@@ -1,4 +1,3 @@
----
 ssid: '11898'
 sanctions_set_id: '3986'
 individual:
@@ -32,8 +31,4 @@ individual:
         value: Adnuf
     day_month_year:
       year: 1951
-  justification: Officer of the rank of Lieutenant General and Deputy Chief of General
-    Staff, Operations and Training for the Syrian Army in post after May 2011 under
-    the former al-Assad regime. In his position as Deputy Chief of General Staff he
-    was directly involved in repression of and violence against the civilian population
-    in Syria.
+  justification: Officer of the rank of Lieutenant General and Deputy Chief of General Staff, Operations and Training for the Syrian Army in post after May 2011 under the former al-Assad regime. In his position as Deputy Chief of General Staff he was directly involved in repression of and violence against the civilian population in Syria.

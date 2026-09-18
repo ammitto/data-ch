@@ -1,4 +1,3 @@
----
 ssid: '52891'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 16
       month: 6
       year: 1954
-  justification: Vladimir Sungorkin is the Director General and Editor-in-Chief of
-    Komsomolskaya Pravda. He is one of the main actors in foreign information manipulation
-    and interference activities or propagandists who often speaks out on Ukraine,
-    creating misinformation and manipulating facts.
+  justification: Vladimir Sungorkin is the Director General and Editor-in-Chief of Komsomolskaya Pravda. He is one of the main actors in foreign information manipulation and interference activities or propagandists who often speaks out on Ukraine, creating misinformation and manipulating facts.

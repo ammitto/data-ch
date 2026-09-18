@@ -1,4 +1,3 @@
----
 ssid: '52639'
 sanctions_set_id: '29445'
 entity:
@@ -26,8 +25,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Общество с Ограниченной Ответственностью «Робин Трейд» (ООО «Робин
-          Трейд»)
+        value: Общество с Ограниченной Ответственностью «Робин Трейд» (ООО «Робин Трейд»)
     addresses:
     - address_details: Yablochkova Str., 21, Building 3, Premises VIII
       zip_code: '127322'

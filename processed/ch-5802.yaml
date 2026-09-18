@@ -1,4 +1,3 @@
----
 ssid: '5802'
 sanctions_set_id: '4387'
 entity:
@@ -16,6 +15,4 @@ entity:
     addresses:
     - address_details: Nezavisimost ave., 86-B
       zip_code: '220012'
-  justification: Beltechexport benefits from the regime as a main exporter of arms
-    and military equipment in Belarus, which requires authorisation from the Belarusian
-    authorities.
+  justification: Beltechexport benefits from the regime as a main exporter of arms and military equipment in Belarus, which requires authorisation from the Belarusian authorities.

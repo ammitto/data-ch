@@ -1,4 +1,3 @@
----
 ssid: '3290'
 sanctions_set_id: '3976'
 individual:
@@ -44,6 +43,4 @@ individual:
       day: 23
       month: 5
       year: 1971
-  justification: President of FNI, one of the armed groups and militias referred to
-    in paragraph 20 of Res. 1493 (2003), involved in the trafficking of arms, in violation
-    of the arms embargo.
+  justification: President of FNI, one of the armed groups and militias referred to in paragraph 20 of Res. 1493 (2003), involved in the trafficking of arms, in violation of the arms embargo.

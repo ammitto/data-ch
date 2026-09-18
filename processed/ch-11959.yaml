@@ -1,4 +1,3 @@
----
 ssid: '11959'
 sanctions_set_id: '3986'
 individual:
@@ -33,9 +32,4 @@ individual:
       day: 9
       month: 12
       year: 1958
-  justification: 'High-ranking officer under the former al-Assad regime. Close to
-    Maher al-Assad and former President Bashar al-Assad. Former positions: Commander
-    of the 40th Brigade (4th Division) between 2011 and 2014; deputy Commander of
-    the 4th Division in 2015; Commander of the 2nd Corps in 2016. Involved in the
-    crackdown on the civilian population across Syria, including arbitrary arrests,
-    mass killings and forced displacements of civilian population.'
+  justification: 'High-ranking officer under the former al-Assad regime. Close to Maher al-Assad and former President Bashar al-Assad. Former positions: Commander of the 40th Brigade (4th Division) between 2011 and 2014; deputy Commander of the 4th Division in 2015; Commander of the 2nd Corps in 2016. Involved in the crackdown on the civilian population across Syria, including arbitrary arrests, mass killings and forced displacements of civilian population.'

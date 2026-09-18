@@ -1,4 +1,3 @@
----
 ssid: '76601'
 sanctions_set_id: '29445'
 entity:
@@ -28,8 +27,7 @@ entity:
         name_part_type: whole-name
         value: Megasan Elektronik Ticaret Ve Sanayi Anonim Şirketi
     addresses:
-    - address_details: Fatih Sultan Mehmet Mahallesi Poligon Caddesi OneBlock İş Merkezi
-        No:16 Floor:11
+    - address_details: Fatih Sultan Mehmet Mahallesi Poligon Caddesi OneBlock İş Merkezi No:16 Floor:11
       zip_code: '34771'
     - address_details: 'Perpa Trading Centers A Block Floor:11 No: 1409'
       zip_code: '34384'

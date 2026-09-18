@@ -1,4 +1,3 @@
----
 ssid: '95365'
 sanctions_set_id: '27286'
 entity:
@@ -41,13 +40,4 @@ entity:
     addresses:
     - address_details: Bolshaya Pochtovaya Street., 26 “B”, bldg. 1, room 401
       zip_code: '105082'
-  justification: LLC “Open Systems Development Technology” is a Russia-based entity
-    that supplies metalworking equipment. Since the imposition of Union restrictive
-    measures prohibiting the export of lathes to Russia, LLC “Open Systems Development
-    Technology” is actively involved in circumventing such restrictive measures by
-    acting as the Russia-based recipient of illegally exported lathes. An import scheme
-    organised by Sergey Ushko, Director of LLC “Open Systems Development Technology”,
-    supplies machine tools (including lathes) of Union origin to Russia. Therefore,
-    LLC “Open Systems Development Technology” is an entity circumventing Union restrictive
-    measures by activities which have the aim or result of frustrating the provisions
-    of Decision 2014/512/CFSP and Regulation (EU) No 833/2014.
+  justification: LLC “Open Systems Development Technology” is a Russia-based entity that supplies metalworking equipment. Since the imposition of Union restrictive measures prohibiting the export of lathes to Russia, LLC “Open Systems Development Technology” is actively involved in circumventing such restrictive measures by acting as the Russia-based recipient of illegally exported lathes. An import scheme organised by Sergey Ushko, Director of LLC “Open Systems Development Technology”, supplies machine tools (including lathes) of Union origin to Russia. Therefore, LLC “Open Systems Development Technology” is an entity circumventing Union restrictive measures by activities which have the aim or result of frustrating the provisions of Decision 2014/512/CFSP and Regulation (EU) No 833/2014.

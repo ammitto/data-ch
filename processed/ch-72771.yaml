@@ -1,4 +1,3 @@
----
 ssid: '72771'
 sanctions_set_id: '27286'
 individual:
@@ -23,10 +22,4 @@ individual:
       day: 29
       month: 10
       year: 1966
-  justification: Alexander Belyaev is the CEO and the founder of LLC SMTiLogic. LLC
-    SMT-iLogic is a provider of various services in the field of electronics development.
-    The company provides services for the development of electronics and manufactures
-    devices for collecting and processing information. LLC STC, the Russian military-affiliated
-    manufacturer of Orlan-10 drones, gets foreign components from LLC SMT-iLogic.
-    The Russian Armed Forces use Orlan-10 drones in the war of aggression against
-    Ukraine.
+  justification: Alexander Belyaev is the CEO and the founder of LLC SMTiLogic. LLC SMT-iLogic is a provider of various services in the field of electronics development. The company provides services for the development of electronics and manufactures devices for collecting and processing information. LLC STC, the Russian military-affiliated manufacturer of Orlan-10 drones, gets foreign components from LLC SMT-iLogic. The Russian Armed Forces use Orlan-10 drones in the war of aggression against Ukraine.

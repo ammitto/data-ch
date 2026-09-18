@@ -1,4 +1,3 @@
----
 ssid: '10148'
 sanctions_set_id: '8174'
 entity:
@@ -16,7 +15,4 @@ entity:
     addresses:
     - address_details: Ponte Francesco Morosini 59
       zip_code: '16126'
-  justification: Point of contact for ECL and PCL services. Used by the DIO subsidiary
-    Marine Industries Group (MIG; now known as Marine Industries Organization, MIO)
-    which is responsible for the design and construction of various marine structures
-    and both military and non-military vessels. DIO was designated under UNSCR 1737.
+  justification: Point of contact for ECL and PCL services. Used by the DIO subsidiary Marine Industries Group (MIG; now known as Marine Industries Organization, MIO) which is responsible for the design and construction of various marine structures and both military and non-military vessels. DIO was designated under UNSCR 1737.

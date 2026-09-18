@@ -1,4 +1,3 @@
----
 ssid: '61003'
 sanctions_set_id: '27286'
 individual:
@@ -23,10 +22,4 @@ individual:
       day: 20
       month: 3
       year: 1978
-  justification: Evgeny Zhuravlev is a Russian military leader, Commander of the Guards
-    4th (Kantemirovskaya) Tank Division of the Tank Army of the Western Military District.
-    The Guards 4th (Kantemirovskaya) Tank Division participated in the war of aggression
-    against Ukraine. As Commander of the Guards 4th (Kantemirovskaya) Tank Division,
-    he is responsible for the actions of his unit. Evgeny Zhuravlev is therefore responsible
-    for supporting and implementing actions which undermine the territorial integrity,
-    sovereignty and independence of Ukraine.
+  justification: Evgeny Zhuravlev is a Russian military leader, Commander of the Guards 4th (Kantemirovskaya) Tank Division of the Tank Army of the Western Military District. The Guards 4th (Kantemirovskaya) Tank Division participated in the war of aggression against Ukraine. As Commander of the Guards 4th (Kantemirovskaya) Tank Division, he is responsible for the actions of his unit. Evgeny Zhuravlev is therefore responsible for supporting and implementing actions which undermine the territorial integrity, sovereignty and independence of Ukraine.

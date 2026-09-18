@@ -1,4 +1,3 @@
----
 ssid: '86878'
 sanctions_set_id: '27286'
 entity:
@@ -28,17 +27,7 @@ entity:
       month: 11
       year: 2012
     addresses:
-    - address_details: Part 2, Floor 6, No. 882-1, Lianting Road, Xiangan Industrial
-        Park, Torch High-tech Zone
+    - address_details: Part 2, Floor 6, No. 882-1, Lianting Road, Xiangan Industrial Park, Torch High-tech Zone
       zip_code: '361100'
-    - address_details: Unit E, Unit 431, 4th Floor, Building C, Xiamen International
-        Shipping Center, No. 93 Xiangyu Road, Xiamen Area, China (Fujian) Pilot Free
-        Trade Zone
-  justification: Xiamen Limbach Aviation Engine Co., Ltd (Xiamen Limbach) is a Chinese
-    company producing L550 series engines for drones. Xiamen Limbach Aviation Engine
-    Co., Ltd has delivered such components to IEMZ Kupol, a subsidiary of Russian
-    state-owned arms company Almaz-Antey, which subsequently were used for manufacturing
-    long-range attack drones of the type Garpiya-3 (G3) for use in Russia’s war of
-    aggression against Ukraine. Those deliveries were made through other entities
-    registered in the People’s Republic of China, notably Redlepus TSK Vektor Industrial
-    (Shenzhen) Co., Ltd and Juhang Aviation Technology Shenzhen Co. Ltd.
+    - address_details: Unit E, Unit 431, 4th Floor, Building C, Xiamen International Shipping Center, No. 93 Xiangyu Road, Xiamen Area, China (Fujian) Pilot Free Trade Zone
+  justification: Xiamen Limbach Aviation Engine Co., Ltd (Xiamen Limbach) is a Chinese company producing L550 series engines for drones. Xiamen Limbach Aviation Engine Co., Ltd has delivered such components to IEMZ Kupol, a subsidiary of Russian state-owned arms company Almaz-Antey, which subsequently were used for manufacturing long-range attack drones of the type Garpiya-3 (G3) for use in Russia’s war of aggression against Ukraine. Those deliveries were made through other entities registered in the People’s Republic of China, notably Redlepus TSK Vektor Industrial (Shenzhen) Co., Ltd and Juhang Aviation Technology Shenzhen Co. Ltd.

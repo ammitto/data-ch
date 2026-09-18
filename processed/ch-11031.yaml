@@ -1,4 +1,3 @@
----
 ssid: '11031'
 sanctions_set_id: '8174'
 individual:
@@ -36,9 +35,4 @@ individual:
       day: 21
       month: 9
       year: 1969
-  justification: Former Deputy Head of UN designated Atomic Energy Organisation of
-    Iran, where he was subordinate to UN designated Feridun Abbasi Davani. Has been
-    involved in the Iranian nuclear programme since at least 2002, including as the
-    former head of procurement and logistics at AMAD, where he was responsible for
-    using front companies such as Kimia Madan to procure equipment and material for
-    Iran’s nuclear weapons programme.
+  justification: Former Deputy Head of UN designated Atomic Energy Organisation of Iran, where he was subordinate to UN designated Feridun Abbasi Davani. Has been involved in the Iranian nuclear programme since at least 2002, including as the former head of procurement and logistics at AMAD, where he was responsible for using front companies such as Kimia Madan to procure equipment and material for Iran’s nuclear weapons programme.

@@ -1,4 +1,3 @@
----
 ssid: '61614'
 sanctions_set_id: '29445'
 entity:
@@ -23,8 +22,7 @@ entity:
     addresses:
     - address_details: Profsoyuznaya Str., 65, Building 1
       zip_code: '117246'
-    - address_details: Tashkentskaya Str. 1, Building A, Room 30N, Business Centre
-        “Davidov”
+    - address_details: Tashkentskaya Str. 1, Building A, Room 30N, Business Centre “Davidov”
       zip_code: '196006'
     - address_details: Narymskaya Str, 8A, Office 304
       zip_code: '630132'

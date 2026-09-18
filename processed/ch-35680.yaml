@@ -1,4 +1,3 @@
----
 ssid: '35680'
 sanctions_set_id: '3986'
 individual:
@@ -26,6 +25,4 @@ individual:
       - order: 1
         name_part_type: further-given-name
         value: Zahir
-  justification: Former Electricity Minister under the former al-Assad regime. As
-    a former Government Minister, shares responsibility for the former al-Assad regime’s
-    violent repression of the civilian population.
+  justification: Former Electricity Minister under the former al-Assad regime. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.

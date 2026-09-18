@@ -1,4 +1,3 @@
----
 ssid: '106083'
 sanctions_set_id: '29445'
 entity:
@@ -14,9 +13,6 @@ entity:
         name_part_type: whole-name
         value: NeWay Technology Ltd.
     addresses:
-    - address_details: Unit 606, 6 Floor, Celebrity Commercial Centre, 64 Castle Peak
-        Road, Sham Shui Po, Kowloon
-    - address_details: Unit D7, 3/F., Block D, 18-24 Kwai Cheong Road, Mai Shun Industrial
-        Building, Kwai Chung, N.T.
-    - address_details: Room 1206, Hua Lianfa West Building, Hua Qiang North Road,
-        Futian District
+    - address_details: Unit 606, 6 Floor, Celebrity Commercial Centre, 64 Castle Peak Road, Sham Shui Po, Kowloon
+    - address_details: Unit D7, 3/F., Block D, 18-24 Kwai Cheong Road, Mai Shun Industrial Building, Kwai Chung, N.T.
+    - address_details: Room 1206, Hua Lianfa West Building, Hua Qiang North Road, Futian District

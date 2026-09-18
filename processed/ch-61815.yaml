@@ -1,4 +1,3 @@
----
 ssid: '61815'
 sanctions_set_id: '29445'
 entity:
@@ -42,6 +41,5 @@ entity:
         name_part_type: whole-name
         value: Russian Security Systems
     addresses:
-    - address_details: Dnepropetrovskaya Str., 3, Building 5, Floor 1, Premises III,
-        Room 8, Office 6-6
+    - address_details: Dnepropetrovskaya Str., 3, Building 5, Floor 1, Premises III, Room 8, Office 6-6
       zip_code: '117525'

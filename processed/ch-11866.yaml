@@ -1,4 +1,3 @@
----
 ssid: '11866'
 sanctions_set_id: '3986'
 individual:
@@ -33,6 +32,4 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Jami
-  justification: Branch Chief for Syrian Military Intelligence (SMI) in Dayr az-Zor.
-    Directly involved in repression and violence against the civilian population in
-    Dayr az-Zor and Alboukamal.
+  justification: Branch Chief for Syrian Military Intelligence (SMI) in Dayr az-Zor. Directly involved in repression and violence against the civilian population in Dayr az-Zor and Alboukamal.

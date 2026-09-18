@@ -1,4 +1,3 @@
----
 ssid: '44332'
 sanctions_set_id: '4387'
 entity:
@@ -16,8 +15,4 @@ entity:
     addresses:
     - address_details: Nezavisimosti ave. 115
       zip_code: '220114'
-  justification: AGAT electromechanical Plant OJSC is part of the Belarusian State
-    Authority for Military Industry of the Republic of Belarus (a.k.a. SAMI or State
-    Military Industrial Committee), which is responsible for implementing the military-technical
-    policy of the State and a subordinate to the Council of Ministers and President
-    of Belarus.
+  justification: AGAT electromechanical Plant OJSC is part of the Belarusian State Authority for Military Industry of the Republic of Belarus (a.k.a. SAMI or State Military Industrial Committee), which is responsible for implementing the military-technical policy of the State and a subordinate to the Council of Ministers and President of Belarus.

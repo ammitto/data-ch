@@ -1,4 +1,3 @@
----
 ssid: '45032'
 sanctions_set_id: '39362'
 individual:
@@ -13,6 +12,4 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Jeng Phang Naw Htaung
-  justification: Since 31 July 2025, Jeng Phang Naw Htaung is Minister of Sports and
-    Youth Affairs as well as Union Minister of Hotels and Tourism. He is also a former
-    member of the State Administrative Council (SAC) and Minister for Ethnic Affairs.
+  justification: Since 31 July 2025, Jeng Phang Naw Htaung is Minister of Sports and Youth Affairs as well as Union Minister of Hotels and Tourism. He is also a former member of the State Administrative Council (SAC) and Minister for Ethnic Affairs.

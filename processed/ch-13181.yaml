@@ -1,4 +1,3 @@
----
 ssid: '13181'
 sanctions_set_id: '13065'
 individual:
@@ -16,9 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Amir
-  justification: Deputy head of the Unit for Social Affairs and Crime Prevention at
-    the judiciary in the province of Khorasan-Razavi. Deputy Prosecutor of Mashhad
-    until at least 2015. Trials under his prosecution have been conducted summarily
-    and inside closed session, without adherence to basic rights of the accused. As
-    execution rulings were issued en masse, death sentences were issued without proper
-    observance of fair hearing procedures.
+  justification: Deputy head of the Unit for Social Affairs and Crime Prevention at the judiciary in the province of Khorasan-Razavi. Deputy Prosecutor of Mashhad until at least 2015. Trials under his prosecution have been conducted summarily and inside closed session, without adherence to basic rights of the accused. As execution rulings were issued en masse, death sentences were issued without proper observance of fair hearing procedures.

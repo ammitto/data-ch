@@ -1,4 +1,3 @@
----
 ssid: '9999'
 sanctions_set_id: '8174'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Great Ocean Shipping Services (GOSS)
     addresses:
     - address_details: Suite 404, 4th Floor, Block B-1
-  justification: This firm was used to set up cover companies for IRISL in the UAE,
-    including Good Luck Shipping. Its managing director is Moghddami Fard.
+  justification: This firm was used to set up cover companies for IRISL in the UAE, including Good Luck Shipping. Its managing director is Moghddami Fard.

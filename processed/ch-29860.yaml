@@ -1,4 +1,3 @@
----
 ssid: '29860'
 sanctions_set_id: '3986'
 individual:
@@ -35,6 +34,4 @@ individual:
         value: Yazigi
     day_month_year:
       year: 1961
-  justification: Former Minister of Health under the former al-Assad regime. As a
-    former Government Minister, shares responsibility for the former al-Assad regime’s
-    violent repression of the civilian population.
+  justification: Former Minister of Health under the former al-Assad regime. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.

@@ -1,4 +1,3 @@
----
 ssid: '9200'
 sanctions_set_id: '8174'
 entity:
@@ -17,5 +16,4 @@ entity:
     - address_details: Ave. Sepahbod Gharani
     - address_details: Ave. Sepahbod Gharani
     - address_details: 107 Sepahbod Gharani Avenue
-  justification: A MODAFL organisation responsible for planning and managing Iran’s
-    military aviation industry.
+  justification: A MODAFL organisation responsible for planning and managing Iran’s military aviation industry.

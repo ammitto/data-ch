@@ -1,4 +1,3 @@
----
 ssid: '12534'
 sanctions_set_id: '89252'
 entity:
@@ -14,6 +13,5 @@ entity:
         name_part_type: whole-name
         value: Central Bank of Syria
     addresses:
-    - address_details: 'Sabah Bahrat Square. Postal address: Altjreda al Maghrebeh
-        Square'
+    - address_details: 'Sabah Bahrat Square. Postal address: Altjreda al Maghrebeh Square'
   justification: Provides financial support to the Syrian regime.

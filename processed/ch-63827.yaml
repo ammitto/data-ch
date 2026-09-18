@@ -1,4 +1,3 @@
----
 ssid: '63827'
 sanctions_set_id: '27286'
 entity:
@@ -20,9 +19,4 @@ entity:
     addresses:
     - address_details: Entuziastov Highway, 56, Building 21
       zip_code: '111123'
-  justification: JSC NPP Klass is a Russian company that manufactures and supplies
-    protective equipment to the Russian military and more broadly to the Russian Armed
-    Forces and security forces. This equipment has been used by the Russian military
-    in Russia’s war of aggression against Ukraine. JSC NPP Klass is therefore supporting
-    materially actions which undermine and threaten the territorial integrity, sovereignty
-    and independence of Ukraine.
+  justification: JSC NPP Klass is a Russian company that manufactures and supplies protective equipment to the Russian military and more broadly to the Russian Armed Forces and security forces. This equipment has been used by the Russian military in Russia’s war of aggression against Ukraine. JSC NPP Klass is therefore supporting materially actions which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.

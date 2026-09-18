@@ -1,4 +1,3 @@
----
 ssid: '7776'
 sanctions_set_id: '3981'
 individual:
@@ -30,6 +29,4 @@ individual:
       day: 27
       month: 2
       year: 1953
-  justification: Member of the "Military Command" which has assumed responsibility
-    for the coup d'état of 12 April 2012. Also a member of the Military High Command
-    (highest hierarchy of the Bissau-Guinean Armed Forces).
+  justification: Member of the "Military Command" which has assumed responsibility for the coup d'état of 12 April 2012. Also a member of the Military High Command (highest hierarchy of the Bissau-Guinean Armed Forces).

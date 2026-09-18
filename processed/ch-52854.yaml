@@ -1,4 +1,3 @@
----
 ssid: '52854'
 sanctions_set_id: '27286'
 individual:
@@ -30,10 +29,4 @@ individual:
       day: 8
       month: 9
       year: 1953
-  justification: Viatcheslav Kantor is a leading Russian businessperson who is beneficial
-    owner of the publicly listed Acron Group, one of Russia’s largest fertiliser producers.
-    He has close ties to the President of the Russian Federation, Vladimir Putin.
-    This connection with the Russian president has helped him to maintain his considerable
-    wealth. He has openly declared his support to and friendship for the President
-    of the Russian Federation, Vladimir Putin, on numerous occasions, and enjoys good
-    relations with the Kremlin.
+  justification: Viatcheslav Kantor is a leading Russian businessperson who is beneficial owner of the publicly listed Acron Group, one of Russia’s largest fertiliser producers. He has close ties to the President of the Russian Federation, Vladimir Putin. This connection with the Russian president has helped him to maintain his considerable wealth. He has openly declared his support to and friendship for the President of the Russian Federation, Vladimir Putin, on numerous occasions, and enjoys good relations with the Kremlin.

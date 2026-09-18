@@ -1,4 +1,3 @@
----
 ssid: '101834'
 sanctions_set_id: '73477'
 individual:
@@ -29,7 +28,4 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Abu Lulu
-  justification: Elfateh Abdullah Idris Adam is a Brigadier General and Commander
-    of the RSF. He has been identified as a key perpetrator of the atrocities committed
-    by the RSF in El Fasher in October 2025. During that incident, he executed civilians
-    and ordered the killing of several innocent people, including children.
+  justification: Elfateh Abdullah Idris Adam is a Brigadier General and Commander of the RSF. He has been identified as a key perpetrator of the atrocities committed by the RSF in El Fasher in October 2025. During that incident, he executed civilians and ordered the killing of several innocent people, including children.

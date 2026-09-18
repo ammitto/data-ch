@@ -1,4 +1,3 @@
----
 ssid: '101022'
 sanctions_set_id: '8174'
 entity:
@@ -20,6 +19,4 @@ entity:
     addresses:
     - address_details: Via Gerolamo Morone 6
       zip_code: '20121'
-  justification: IRITAL Shipping SRL is owned and controlled by Islamic Republic of
-    Iran Shipping Lines (IRISL). It is involved in Iran’s proliferation efforts by
-    transporting components for its ballistic missile programme.
+  justification: IRITAL Shipping SRL is owned and controlled by Islamic Republic of Iran Shipping Lines (IRISL). It is involved in Iran’s proliferation efforts by transporting components for its ballistic missile programme.

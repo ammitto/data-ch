@@ -1,4 +1,3 @@
----
 ssid: '56251'
 sanctions_set_id: '27286'
 individual:
@@ -23,10 +22,4 @@ individual:
       day: 15
       month: 10
       year: 1962
-  justification: Yuri Nikolaevich Grekhov is a Russian military commander, Colonel-General,
-    a Deputy Commander-in-Chief of the Russian Aerospace Forces. The Russian Aerospace
-    Forces have delivered strikes on both military and civilian targets in Ukraine.
-    As a Deputy Commander-in-Chief of the Russian Aerospace Forces, he commands the
-    Air and Missile Defense troops, therefore he is responsible for supporting and
-    implementing actions which undermine the territorial integrity, sovereignty and
-    independence of Ukraine and stability and security in Ukraine.
+  justification: Yuri Nikolaevich Grekhov is a Russian military commander, Colonel-General, a Deputy Commander-in-Chief of the Russian Aerospace Forces. The Russian Aerospace Forces have delivered strikes on both military and civilian targets in Ukraine. As a Deputy Commander-in-Chief of the Russian Aerospace Forces, he commands the Air and Missile Defense troops, therefore he is responsible for supporting and implementing actions which undermine the territorial integrity, sovereignty and independence of Ukraine and stability and security in Ukraine.

@@ -1,4 +1,3 @@
----
 ssid: '93601'
 sanctions_set_id: '27286'
 individual:
@@ -23,10 +22,4 @@ individual:
       day: 30
       month: 9
       year: 1978
-  justification: Alexey Chadayev is the Director of Scientific-Research Centre “Ushkuynik”,
-    a company producing unmanned aerial vehicles (UAVs) to the benefit of the Russian
-    military. Its main product is the close-range fiber-optic electronic warfare resistant
-    UAV named “Kniaz Vandal Novgorodskiy” (KVN), which is used in Russia’s war of
-    aggression against Ukraine. The company also holds permission from the Russian
-    Government to unite and coordinate the efforts of UAV engineers and construction
-    companies in order to create and test new types of UAV in Veliky Novgorod.
+  justification: Alexey Chadayev is the Director of Scientific-Research Centre “Ushkuynik”, a company producing unmanned aerial vehicles (UAVs) to the benefit of the Russian military. Its main product is the close-range fiber-optic electronic warfare resistant UAV named “Kniaz Vandal Novgorodskiy” (KVN), which is used in Russia’s war of aggression against Ukraine. The company also holds permission from the Russian Government to unite and coordinate the efforts of UAV engineers and construction companies in order to create and test new types of UAV in Veliky Novgorod.

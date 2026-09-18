@@ -1,4 +1,3 @@
----
 ssid: '12445'
 sanctions_set_id: '3986'
 entity:
@@ -22,6 +21,4 @@ entity:
         value: Centre d’Etude et de Recherche Scientifique (CERS)
     addresses:
     - address_details: Barzeh Street
-  justification: Provides support to the Syrian army under the former al-Assad regime
-    for the acquisition of equipment used for the surveillance and repression of demonstrators
-    under the former al-Assad regime.
+  justification: Provides support to the Syrian army under the former al-Assad regime for the acquisition of equipment used for the surveillance and repression of demonstrators under the former al-Assad regime.

@@ -1,4 +1,3 @@
----
 ssid: '4773'
 sanctions_set_id: '4387'
 individual:
@@ -26,6 +25,4 @@ individual:
     addresses:
     - address_details: ул. Жесткова, 14а
       zip_code: '210601'
-  justification: Head Prosecutor of the Region of Vitebsk since October 2006. Responsible
-    for the repression of civil society following the December 2010 elections. This
-    includes responsibility for cases against Siarhei Kavalenka and Andrei Haidukow.
+  justification: Head Prosecutor of the Region of Vitebsk since October 2006. Responsible for the repression of civil society following the December 2010 elections. This includes responsibility for cases against Siarhei Kavalenka and Andrei Haidukow.

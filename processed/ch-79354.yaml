@@ -1,4 +1,3 @@
----
 ssid: '79354'
 sanctions_set_id: '47225'
 individual:
@@ -21,5 +20,4 @@ individual:
         value: Mullah
     day_month_year:
       year: 1968
-  justification: Head of Investigation Department, Ministry of Security (Intelligence)
-    under the Taliban regime.
+  justification: Head of Investigation Department, Ministry of Security (Intelligence) under the Taliban regime.

@@ -1,4 +1,3 @@
----
 ssid: '72467'
 sanctions_set_id: '27286'
 individual:
@@ -23,6 +22,4 @@ individual:
       day: 22
       month: 2
       year: 1962
-  justification: Andrey Terlikov is the former General Director of JSC “UKBTM”. The
-    company develops and modernises T-72 and T-90 tanks for the Armed Forces of the
-    Russian Federation, used in Russia’s war of aggression against Ukraine.
+  justification: Andrey Terlikov is the former General Director of JSC “UKBTM”. The company develops and modernises T-72 and T-90 tanks for the Armed Forces of the Russian Federation, used in Russia’s war of aggression against Ukraine.

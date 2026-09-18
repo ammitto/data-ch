@@ -1,4 +1,3 @@
----
 ssid: '48040'
 sanctions_set_id: '27286'
 individual:
@@ -23,9 +22,4 @@ individual:
       day: 20
       month: 6
       year: 1969
-  justification: Pyotr Tolstoy is a Member and Deputy Speaker of the State Duma and
-    was the head of the Russian delegation at the Parliamentary Assembly of the Council
-    of Europe (PACE) until 25 February 2022. He has also been the host of the television
-    programme “Vremya Pokazhet”. A central figure in Government propaganda, he frequently
-    takes positions in favour of the annexation of Crimea. He publicly supports Russian’s
-    war of aggression against Ukraine.
+  justification: Pyotr Tolstoy is a Member and Deputy Speaker of the State Duma and was the head of the Russian delegation at the Parliamentary Assembly of the Council of Europe (PACE) until 25 February 2022. He has also been the host of the television programme “Vremya Pokazhet”. A central figure in Government propaganda, he frequently takes positions in favour of the annexation of Crimea. He publicly supports Russian’s war of aggression against Ukraine.

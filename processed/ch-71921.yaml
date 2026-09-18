@@ -1,4 +1,3 @@
----
 ssid: '71921'
 sanctions_set_id: '27286'
 individual:
@@ -26,8 +25,4 @@ individual:
     addresses:
     - address_details: 5 Mira str.
       zip_code: '628006'
-  justification: Natalya Komarova is the Governor of the Khanty-Mansi Autonomous Okrug
-    – Yugra region, appointed by President of the Russian Federation Vladimir Putin.
-    In her role as Governor, Natalya Komarova manages a regional state body of the
-    Russian Federation and is responsible for implementing state policies at regional
-    level.
+  justification: Natalya Komarova is the Governor of the Khanty-Mansi Autonomous Okrug – Yugra region, appointed by President of the Russian Federation Vladimir Putin. In her role as Governor, Natalya Komarova manages a regional state body of the Russian Federation and is responsible for implementing state policies at regional level.

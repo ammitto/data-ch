@@ -1,4 +1,3 @@
----
 ssid: '51081'
 sanctions_set_id: '27286'
 individual:
@@ -19,5 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Anatolievich
-  justification: Sergei Sauta holds a position of Head of the Department of Legal
-    Support of the Ministry of Defence of the Republic of Belarus.
+  justification: Sergei Sauta holds a position of Head of the Department of Legal Support of the Ministry of Defence of the Republic of Belarus.

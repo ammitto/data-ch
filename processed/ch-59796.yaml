@@ -1,4 +1,3 @@
----
 ssid: '59796'
 sanctions_set_id: '29445'
 entity:
@@ -40,8 +39,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Публичное Акционерное Общество «Воронежское Акционерное Самолетостроительное
-          Общество» (ПАО «ВАСО»)
+        value: Публичное Акционерное Общество «Воронежское Акционерное Самолетостроительное Общество» (ПАО «ВАСО»)
     addresses:
     - address_details: Tsiolkovskogo Str., 27
       zip_code: '394029'

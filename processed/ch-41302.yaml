@@ -1,4 +1,3 @@
----
 ssid: '41302'
 sanctions_set_id: '3986'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 22
       month: 8
       year: 1978
-  justification: Leading businessperson operating in Syria with business interests
-    in tourism, telecommunications and real estate. As General Manager of the regime-backed
-    Telsa Communication Group as well as of Castro LLC, and through his other business
-    interests, Mahir Burhan Eddine al-Imam benefits from the Syrian regime and supports
-    its financing and lobbying policy as well as its construction policy.
+  justification: Leading businessperson operating in Syria with business interests in tourism, telecommunications and real estate. As General Manager of the regime-backed Telsa Communication Group as well as of Castro LLC, and through his other business interests, Mahir Burhan Eddine al-Imam benefits from the Syrian regime and supports its financing and lobbying policy as well as its construction policy.

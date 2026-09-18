@@ -1,4 +1,3 @@
----
 ssid: '40326'
 sanctions_set_id: '3986'
 individual:
@@ -23,6 +22,4 @@ individual:
       day: 31
       month: 8
       year: 1970
-  justification: Minister of Tourism under the former al-Assad regime. Appointed in
-    November 2018. As a Government Minister, shares responsibility for the former
-    al-Assad regime’s violent repression of the civilian population.
+  justification: Minister of Tourism under the former al-Assad regime. Appointed in November 2018. As a Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.

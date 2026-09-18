@@ -1,4 +1,3 @@
----
 ssid: '107740'
 sanctions_set_id: '27286'
 individual:
@@ -16,11 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Pavel
-  justification: Pavel Nikitin is a Belarus-born Russian individual who is involved
-    in multiple companies that assemble military-use Unmanned Aerial Vehicles (UAVs)
-    for Russia’s military and industrial complex. He is the owner of Rustakt LLC,
-    which imports components for UAVs and assembles UAVs. Furthermore, he is involved
-    in the company Santext LLC, which imports UAVs to Belarus for re-export to Russia.
-    Therefore, Pavel Nikitin is supporting Russia’s military and industrial complex,
-    including by being involved in the production and supply of military technology
-    and equipment.
+  justification: Pavel Nikitin is a Belarus-born Russian individual who is involved in multiple companies that assemble military-use Unmanned Aerial Vehicles (UAVs) for Russia’s military and industrial complex. He is the owner of Rustakt LLC, which imports components for UAVs and assembles UAVs. Furthermore, he is involved in the company Santext LLC, which imports UAVs to Belarus for re-export to Russia. Therefore, Pavel Nikitin is supporting Russia’s military and industrial complex, including by being involved in the production and supply of military technology and equipment.

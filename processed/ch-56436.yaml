@@ -1,4 +1,3 @@
----
 ssid: '56436'
 sanctions_set_id: '27286'
 entity:
@@ -16,5 +15,4 @@ entity:
     addresses:
     - address_details: Bolshaya Sankt-Peterburgskaya Str. 73
       zip_code: '173000'
-  justification: "“Kvant” JSC is a Russian company operating in the military sector
-    that produces electronic warfare systems for the Russian Armed Forces."
+  justification: "“Kvant” JSC is a Russian company operating in the military sector that produces electronic warfare systems for the Russian Armed Forces."

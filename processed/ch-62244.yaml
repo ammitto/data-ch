@@ -1,4 +1,3 @@
----
 ssid: '62244'
 sanctions_set_id: '3986'
 individual:
@@ -29,8 +28,4 @@ individual:
     day_month_year:
       year: 1991
     addresses:
-  justification: Ali Najib Ibrahim is a leading businessperson operating in Syria
-    linked to the former al-Assad regime, active also in the telecommunications sector.
-    He owns several shell companies, which have been linked to the former al-Assad
-    regime in attempts to circumvent sanctions. He therefore benefits from and supports
-    the former al-Assad regime.
+  justification: Ali Najib Ibrahim is a leading businessperson operating in Syria linked to the former al-Assad regime, active also in the telecommunications sector. He owns several shell companies, which have been linked to the former al-Assad regime in attempts to circumvent sanctions. He therefore benefits from and supports the former al-Assad regime.

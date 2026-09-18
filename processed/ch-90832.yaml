@@ -1,4 +1,3 @@
----
 ssid: '90832'
 sanctions_set_id: '4387'
 individual:
@@ -20,8 +19,4 @@ individual:
       day: 1
       month: 1
       year: 1965
-  justification: Aleh Kaliada is a Belarusian judge of the Zavodsky District Court
-    of the City of Minsk. He has issued politically motivated sentences concerning,
-    inter alia, freedom of expression or freedom of assembly, against Yana Barysovich,
-    Andrei Asaula, Rastsislau Shavel, Aliaksandr Zialiutkin, and Maksim Prazhenik.
-    Aleh Kaliada is therefore responsible for the repression of civil society in Belarus.
+  justification: Aleh Kaliada is a Belarusian judge of the Zavodsky District Court of the City of Minsk. He has issued politically motivated sentences concerning, inter alia, freedom of expression or freedom of assembly, against Yana Barysovich, Andrei Asaula, Rastsislau Shavel, Aliaksandr Zialiutkin, and Maksim Prazhenik. Aleh Kaliada is therefore responsible for the repression of civil society in Belarus.

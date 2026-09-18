@@ -1,4 +1,3 @@
----
 ssid: '50569'
 sanctions_set_id: '29445'
 entity:
@@ -12,16 +11,14 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Forensic Center of Nizhniy Novgorod Region Main Directorate of the
-          Ministry of Interior Affairs
+        value: Forensic Center of Nizhniy Novgorod Region Main Directorate of the Ministry of Interior Affairs
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Main Directorate of the Ministry of Internal Affairs of the Russian
-          Federation for the Nizhny Novgorod Region
+        value: Main Directorate of the Ministry of Internal Affairs of the Russian Federation for the Nizhny Novgorod Region
     - name_type: alias
       quality: good
       lang: eng

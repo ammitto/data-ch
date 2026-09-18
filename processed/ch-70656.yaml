@@ -1,4 +1,3 @@
----
 ssid: '70656'
 sanctions_set_id: '27286'
 entity:
@@ -27,6 +26,4 @@ entity:
     addresses:
     - address_details: Sovetskaya 1-A
       zip_code: '300002'
-  justification: Imperial Tula Arms Plant produces the Konkurs-M anti-tank missile
-    system. It has increased the production of the missile systems for the Armed Forces
-    of the Russian Federation, which are used in the war of aggression against Ukraine.
+  justification: Imperial Tula Arms Plant produces the Konkurs-M anti-tank missile system. It has increased the production of the missile systems for the Armed Forces of the Russian Federation, which are used in the war of aggression against Ukraine.

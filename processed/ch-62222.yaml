@@ -1,4 +1,3 @@
----
 ssid: '62222'
 sanctions_set_id: '3986'
 individual:
@@ -29,5 +28,4 @@ individual:
       year: 1975
     addresses:
     - address_details: Assaad Building, Main Street
-  justification: Muhammad Abdo Assaad is the leader of the Hosn al-Watan militia,
-    which fought on behalf of the former al-Assad regime.
+  justification: Muhammad Abdo Assaad is the leader of the Hosn al-Watan militia, which fought on behalf of the former al-Assad regime.

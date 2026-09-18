@@ -1,4 +1,3 @@
----
 ssid: '71085'
 sanctions_set_id: '3986'
 individual:
@@ -25,6 +24,4 @@ individual:
         value: Fahd
     day_month_year:
       year: 1955
-  justification: Fahd Darwish is President of the Joint Syrian-Iranian Chamber of
-    Commerce. In addition, Darwish owns and runs multiple businesses in Syria active
-    in different sectors such as trading and pharmaceuticals.
+  justification: Fahd Darwish is President of the Joint Syrian-Iranian Chamber of Commerce. In addition, Darwish owns and runs multiple businesses in Syria active in different sectors such as trading and pharmaceuticals.

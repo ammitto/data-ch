@@ -1,4 +1,3 @@
----
 ssid: '51300'
 sanctions_set_id: '27286'
 individual:
@@ -23,6 +22,4 @@ individual:
       day: 22
       month: 3
       year: 1964
-  justification: Dmitry Pumpyansky is a leading Russian businessperson operating in
-    Russia. In the two years up to May 2025, his wealth increased very considerably,
-    which contrasts with his assertions that he is no longer involved in business.
+  justification: Dmitry Pumpyansky is a leading Russian businessperson operating in Russia. In the two years up to May 2025, his wealth increased very considerably, which contrasts with his assertions that he is no longer involved in business.

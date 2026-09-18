@@ -1,4 +1,3 @@
----
 ssid: '78271'
 sanctions_set_id: '68945'
 individual:
@@ -19,6 +18,4 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Khaji
-  justification: Afshin Khaji Fard is the head of the EU-listed Iranian Aviations
-    Industries Organisation (IAIO), a state-owned company under the authority of the
-    EU-listed Ministry of Defence and Armed Forces Logistics (MODAFL).
+  justification: Afshin Khaji Fard is the head of the EU-listed Iranian Aviations Industries Organisation (IAIO), a state-owned company under the authority of the EU-listed Ministry of Defence and Armed Forces Logistics (MODAFL).

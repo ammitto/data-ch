@@ -1,4 +1,3 @@
----
 ssid: '70374'
 sanctions_set_id: '27286'
 entity:
@@ -34,5 +33,4 @@ entity:
     addresses:
     - address_details: 5 Ploshchad Lenina
       zip_code: '692335'
-  justification: Progress Arsenyev Aviation Company is a Russian military industry
-    company. It supplies helicopters to the Armed Forces of the Russian Federation.
+  justification: Progress Arsenyev Aviation Company is a Russian military industry company. It supplies helicopters to the Armed Forces of the Russian Federation.

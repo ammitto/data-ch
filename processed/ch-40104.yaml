@@ -1,4 +1,3 @@
----
 ssid: '40104'
 sanctions_set_id: '3986'
 individual:
@@ -36,8 +35,4 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Heikal Bin Rizkallah
-  justification: Leading businessperson operating in Syria, who holds a 33 % stake
-    in Exceed Development and Investment, which has entered into a USD 17,7 million
-    joint venture for the construction of Marota City, a regime-backed luxury residential
-    and commercial development. Through the participation in the Marota City development,
-    Maen Rizk Allah Haykal benefits from and/or supports the Syrian regime.
+  justification: Leading businessperson operating in Syria, who holds a 33 % stake in Exceed Development and Investment, which has entered into a USD 17,7 million joint venture for the construction of Marota City, a regime-backed luxury residential and commercial development. Through the participation in the Marota City development, Maen Rizk Allah Haykal benefits from and/or supports the Syrian regime.

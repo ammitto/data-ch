@@ -1,4 +1,3 @@
----
 ssid: '3203'
 sanctions_set_id: '3976'
 individual:
@@ -33,8 +32,4 @@ individual:
     day_month_year:
       year: 1954
     addresses:
-  justification: According to open source and official reporting, Leodomir Mugaragu
-    is the Chief of Staff of the Forces Combattantes Abucunguzi/Combatant Force for
-    the Liberation of Rwanda (FOCA), the FDLR’s armed wing. According to official
-    reporting Mugaragu is a senior planner for FDLR’s military operations in the eastern
-    DRC.
+  justification: According to open source and official reporting, Leodomir Mugaragu is the Chief of Staff of the Forces Combattantes Abucunguzi/Combatant Force for the Liberation of Rwanda (FOCA), the FDLR’s armed wing. According to official reporting Mugaragu is a senior planner for FDLR’s military operations in the eastern DRC.

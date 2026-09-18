@@ -1,4 +1,3 @@
----
 ssid: '101167'
 sanctions_set_id: '27286'
 individual:
@@ -16,7 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Valery
-  justification: Valery Kildiyarov is a manager of Alghaf Marine DMCC, and the finance
-    director of Litasco Middle East DMCC. Both companies supply significant volumes
-    of Russian crude oil. The energy sector, in particular the oil sector, is a sector
-    providing a substantial source of revenue to the Russian Government.
+  justification: Valery Kildiyarov is a manager of Alghaf Marine DMCC, and the finance director of Litasco Middle East DMCC. Both companies supply significant volumes of Russian crude oil. The energy sector, in particular the oil sector, is a sector providing a substantial source of revenue to the Russian Government.

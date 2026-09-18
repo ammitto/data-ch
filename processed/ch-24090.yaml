@@ -1,4 +1,3 @@
----
 ssid: '24090'
 sanctions_set_id: '3978'
 entity:
@@ -22,7 +21,4 @@ entity:
         value: Leader International Trading Limited
     addresses:
     - address_details: Room 1610 Nan Fung Tower, 173 Des Voeux Road
-  justification: Facilitates shipments on behalf of the Korea Mining Development Trading
-    Corporation (KOMID). KOMID was designated by the Committee in Apr 2009 and is
-    the DPRK’s primary arms dealer and main exporter of goods and equipment related
-    to ballistic missiles and conventional weapons.
+  justification: Facilitates shipments on behalf of the Korea Mining Development Trading Corporation (KOMID). KOMID was designated by the Committee in Apr 2009 and is the DPRK’s primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons.

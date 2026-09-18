@@ -1,4 +1,3 @@
----
 ssid: '54583'
 sanctions_set_id: '4387'
 entity:
@@ -16,10 +15,4 @@ entity:
     addresses:
     - address_details: Novopolotsk 1
       zip_code: '211440'
-  justification: As a state-owned enterprise, OJSC Naftan is a major source of revenue
-    and foreign currency for the Lukashenka regime. Therefore, Naftan benefits from
-    and supports the Lukashenka regime. Employees of Naftan who took part in strikes
-    and peaceful protests in the aftermath of the fraudulent Aug 2020 presidential
-    elections in Belarus were intimidated and dismissed by the company’s management.
-    Therefore, Naftan is responsible for the repression of civil society in Belarus
-    and supports the Lukashenka regime.
+  justification: As a state-owned enterprise, OJSC Naftan is a major source of revenue and foreign currency for the Lukashenka regime. Therefore, Naftan benefits from and supports the Lukashenka regime. Employees of Naftan who took part in strikes and peaceful protests in the aftermath of the fraudulent Aug 2020 presidential elections in Belarus were intimidated and dismissed by the company’s management. Therefore, Naftan is responsible for the repression of civil society in Belarus and supports the Lukashenka regime.

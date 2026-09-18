@@ -1,4 +1,3 @@
----
 ssid: '42043'
 sanctions_set_id: '42032'
 individual:
@@ -20,9 +19,4 @@ individual:
       day: 29
       month: 9
       year: 1967
-  justification: Special advisor to the President of Nicaragua on health issues and
-    former Minister of Health. Responsible for serious human rights violations and
-    for the repression of civil society and democratic opposition in Nicaragua, including
-    by hindering access to emergency medical assistance for injured civilians involved
-    in demonstrations and ordering hospital staff to report demonstrators who have
-    been brought to hospital by the police.
+  justification: Special advisor to the President of Nicaragua on health issues and former Minister of Health. Responsible for serious human rights violations and for the repression of civil society and democratic opposition in Nicaragua, including by hindering access to emergency medical assistance for injured civilians involved in demonstrations and ordering hospital staff to report demonstrators who have been brought to hospital by the police.

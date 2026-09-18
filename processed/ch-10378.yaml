@@ -1,4 +1,3 @@
----
 ssid: '10378'
 sanctions_set_id: '8174'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Melodious Maritime Incorporation
     addresses:
     - address_details: 47st Bella Vista and Aquilino de la Guardia
-  justification: IRISL front company. It is the registered owner of a vessel owned
-    by IRISL or an IRISL affiliate.
+  justification: IRISL front company. It is the registered owner of a vessel owned by IRISL or an IRISL affiliate.

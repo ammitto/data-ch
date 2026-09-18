@@ -1,4 +1,3 @@
----
 ssid: '6237'
 sanctions_set_id: '6094'
 individual:
@@ -16,6 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Augustine
-  justification: Directly involved in the terror campaign before and during the 2008
-    elections. Responsible for political upheaval in Bindura. Senior military officer,
-    promoted by the President in 2011.
+  justification: Directly involved in the terror campaign before and during the 2008 elections. Responsible for political upheaval in Bindura. Senior military officer, promoted by the President in 2011.

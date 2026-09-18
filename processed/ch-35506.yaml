@@ -1,4 +1,3 @@
----
 ssid: '35506'
 sanctions_set_id: '3978'
 individual:
@@ -24,9 +23,4 @@ individual:
       day: 11
       month: 3
       year: 1971
-  justification: Kim Chol Sam is a representative for Daedong Credit Bank (DCB) who
-    has been involved in managing transactions on behalf of DCB Finance Limited. As
-    an overseas-based representative of DCB, it is suspected that Kim Chol Sam has
-    facilitated transactions worth hundreds of thousands of dollars and likely managed
-    millions of dollars in DPRK related accounts with potential links to nuclear/missile
-    programmes.
+  justification: Kim Chol Sam is a representative for Daedong Credit Bank (DCB) who has been involved in managing transactions on behalf of DCB Finance Limited. As an overseas-based representative of DCB, it is suspected that Kim Chol Sam has facilitated transactions worth hundreds of thousands of dollars and likely managed millions of dollars in DPRK related accounts with potential links to nuclear/missile programmes.

@@ -1,4 +1,3 @@
----
 ssid: '55798'
 sanctions_set_id: '29445'
 entity:
@@ -19,7 +18,6 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Research and Production Association Lightning JSC; Molniya Research
-          & Industrial Corporation JSC; JSC NPO Molniya
+        value: Research and Production Association Lightning JSC; Molniya Research & Industrial Corporation JSC; JSC NPO Molniya
     addresses:
     - address_details: Lodochnaya Str., 5, Building 1

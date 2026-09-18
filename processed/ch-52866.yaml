@@ -1,4 +1,3 @@
----
 ssid: '52866'
 sanctions_set_id: '27286'
 individual:
@@ -44,8 +43,4 @@ individual:
       day: 9
       month: 2
       year: 1962
-  justification: Aleksei Pimanov is a propagandist and the Head of the Krasnaya Zvezda
-    media holding, owned by the Russian Defence Ministry. The Minister of Defence,
-    Sergey Shoygu, personally requested Pimanov to become the Head of the Krasnaya
-    Zvezda. The media holding was established by decree of the Russian Minister of
-    Defence and controls the federal TV channel Zvezda.
+  justification: Aleksei Pimanov is a propagandist and the Head of the Krasnaya Zvezda media holding, owned by the Russian Defence Ministry. The Minister of Defence, Sergey Shoygu, personally requested Pimanov to become the Head of the Krasnaya Zvezda. The media holding was established by decree of the Russian Minister of Defence and controls the federal TV channel Zvezda.

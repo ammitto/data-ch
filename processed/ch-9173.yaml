@@ -1,4 +1,3 @@
----
 ssid: '9173'
 sanctions_set_id: '8174'
 entity:
@@ -43,9 +42,6 @@ entity:
         value: Technology of Centrifuge of Iran Company
     addresses:
     - address_details: 156 Golestan Street, Saradr-e Jangal
-    - address_details: Khalij-e Fars Boulevard, Kilometre 10 of Atomic Energy Road,
-        Rowshan Shahr, Third Moshtaq Street
+    - address_details: Khalij-e Fars Boulevard, Kilometre 10 of Atomic Energy Road, Rowshan Shahr, Third Moshtaq Street
     - address_details: Yousef Abad District, No. 1, 37th Street
-  justification: Iran Centrifuge Technology Company manufactures uranium enrichment
-    centrifuge parts, and is directly supporting Iran’s proliferation-sensitive nuclear
-    activities.
+  justification: Iran Centrifuge Technology Company manufactures uranium enrichment centrifuge parts, and is directly supporting Iran’s proliferation-sensitive nuclear activities.

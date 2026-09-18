@@ -1,4 +1,3 @@
----
 ssid: '10750'
 sanctions_set_id: '8174'
 entity:
@@ -32,5 +31,4 @@ entity:
       zip_code: '200122'
     - address_details: F23A-D, Times Plaza No. 1, Taizi Road, Shekou
       zip_code: '518067'
-  justification: Santexlines act on behalf of HDSL. Previously known as IRISL China
-    shipping Company, it acted on behalf of IRISL in China.
+  justification: Santexlines act on behalf of HDSL. Previously known as IRISL China shipping Company, it acted on behalf of IRISL in China.

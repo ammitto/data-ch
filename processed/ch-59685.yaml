@@ -1,4 +1,3 @@
----
 ssid: '59685'
 sanctions_set_id: '29445'
 entity:
@@ -19,8 +18,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Phasotron NIIR; Corporation “Fazotron – Research Institute of Radio
-          Engineering” JSC
+        value: Phasotron NIIR; Corporation “Fazotron – Research Institute of Radio Engineering” JSC
     addresses:
     - address_details: Kavkazsky Boulevard, 59, Floor 3, Space XIV, Room 21
       zip_code: '115516'

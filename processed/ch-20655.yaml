@@ -1,4 +1,3 @@
----
 ssid: '20655'
 sanctions_set_id: '3980'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Mohamed Abou
-  justification: Former Secretary General of the General People's Congress. Closely
-    associated with the former regime of Muammar Qadhafi.
+  justification: Former Secretary General of the General People's Congress. Closely associated with the former regime of Muammar Qadhafi.

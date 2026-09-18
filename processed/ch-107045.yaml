@@ -1,4 +1,3 @@
----
 ssid: '107045'
 sanctions_set_id: '27286'
 individual:
@@ -26,6 +25,4 @@ individual:
     addresses:
     - address_details: Lenina Avenue 75,
       zip_code: '183006'
-  justification: Alevtina Andreeva is the Commissioner for Children’s Rights in the
-    Murmansk Region of the Russian Federation and is responsible for overseeing regional
-    policies and institutions concerning minors.
+  justification: Alevtina Andreeva is the Commissioner for Children’s Rights in the Murmansk Region of the Russian Federation and is responsible for overseeing regional policies and institutions concerning minors.

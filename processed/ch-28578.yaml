@@ -1,4 +1,3 @@
----
 ssid: '28578'
 sanctions_set_id: '27286'
 entity:
@@ -23,8 +22,4 @@ entity:
     addresses:
     - address_details: International Highway, House 31, building 1
       zip_code: '141411'
-  justification: Dobrolet was a subsidiary of a Russian State-owned airline. Since
-    the illegal annexation of Crimea Dobrolet has so far exclusively operated flights
-    between Moscow and Simferopol. It therefore facilitated the integration of the
-    illegally annexed Autonomous Republic of Crimea into the Russian Federation and
-    undermined Ukrainian sovereignty and territorial integrity.
+  justification: Dobrolet was a subsidiary of a Russian State-owned airline. Since the illegal annexation of Crimea Dobrolet has so far exclusively operated flights between Moscow and Simferopol. It therefore facilitated the integration of the illegally annexed Autonomous Republic of Crimea into the Russian Federation and undermined Ukrainian sovereignty and territorial integrity.

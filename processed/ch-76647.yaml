@@ -1,4 +1,3 @@
----
 ssid: '76647'
 sanctions_set_id: '29445'
 entity:
@@ -35,5 +34,4 @@ entity:
         name_part_type: whole-name
         value: Bion Trade Group Limited
     addresses:
-    - address_details: 'Maslak Mah. Büyükdere Cad. Noramin İş Merkezi No: 237 İç Kapi
-        No: 202'
+    - address_details: 'Maslak Mah. Büyükdere Cad. Noramin İş Merkezi No: 237 İç Kapi No: 202'

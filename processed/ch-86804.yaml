@@ -1,4 +1,3 @@
----
 ssid: '86804'
 sanctions_set_id: '27286'
 individual:
@@ -33,7 +32,4 @@ individual:
       day: 27
       month: 11
       year: 1969
-  justification: Niels Troost is a Dutch businessperson and the sole shareholder of
-    EZI-DIAROC. EZI-DIAROC is the sole shareholder of Paramount Energy and Commodities
-    SA (PECSA). PECSA controls the Dubai-based subsidiary Paramount Energy and Commodities
-    DMCC (Paramount DMCC).
+  justification: Niels Troost is a Dutch businessperson and the sole shareholder of EZI-DIAROC. EZI-DIAROC is the sole shareholder of Paramount Energy and Commodities SA (PECSA). PECSA controls the Dubai-based subsidiary Paramount Energy and Commodities DMCC (Paramount DMCC).

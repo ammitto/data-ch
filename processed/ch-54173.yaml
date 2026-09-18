@@ -1,4 +1,3 @@
----
 ssid: '54173'
 sanctions_set_id: '27286'
 entity:
@@ -16,8 +15,4 @@ entity:
     addresses:
     - address_details: Ulitsa 9 Maya, 2
       zip_code: '607220'
-  justification: Arzamas Machine-Building Plant is part of Oleg Deripaska’s Military
-    Industrial Company. It manufactures the BTR-80 amphibious armoured personnel carriers,
-    which were used by Russia during its war of aggression against Ukraine in 2022.
-    It is also improving the properties of the armour of Russian military vehicles
-    involved in the war against Ukraine.
+  justification: Arzamas Machine-Building Plant is part of Oleg Deripaska’s Military Industrial Company. It manufactures the BTR-80 amphibious armoured personnel carriers, which were used by Russia during its war of aggression against Ukraine in 2022. It is also improving the properties of the armour of Russian military vehicles involved in the war against Ukraine.

@@ -1,4 +1,3 @@
----
 ssid: '20798'
 sanctions_set_id: '3980'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Libyan Housing and Infrastructure Board (HIB)
     addresses:
     - address_details: Tajora
-  justification: Under control of Muammar Qadhafi and his family, and potential source
-    of funding for his regime.
+  justification: Under control of Muammar Qadhafi and his family, and potential source of funding for his regime.

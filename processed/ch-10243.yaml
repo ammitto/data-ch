@@ -1,4 +1,3 @@
----
 ssid: '10243'
 sanctions_set_id: '8174'
 entity:
@@ -16,6 +15,4 @@ entity:
     addresses:
     - address_details: 143/1 Tower Road
       zip_code: SLM1604
-  justification: Kerman Shipping Company Ltd is a wholly-owned subsidiary of IRISL.
-    Located at the same address in Malta as Woking Shipping Investments Ltd and the
-    companies it owns.
+  justification: Kerman Shipping Company Ltd is a wholly-owned subsidiary of IRISL. Located at the same address in Malta as Woking Shipping Investments Ltd and the companies it owns.

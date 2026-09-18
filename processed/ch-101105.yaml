@@ -1,4 +1,3 @@
----
 ssid: '101105'
 sanctions_set_id: '8174'
 entity:
@@ -35,8 +34,5 @@ entity:
         name_part_type: whole-name
         value: Sealeaders
     addresses:
-    - address_details: No 14 (alt. 5), Shabnam Alley, Fajr Street, Shahid Motahhari
-        Avenue
-  justification: Soroush Saramin Asatir (SSA) operates and manages a number of Islamic
-    Republic of Iran Shipping Lines (IRISL) vessels. Accordingly, it acts on behalf
-    of IRISL and provides essential services to it.
+    - address_details: No 14 (alt. 5), Shabnam Alley, Fajr Street, Shahid Motahhari Avenue
+  justification: Soroush Saramin Asatir (SSA) operates and manages a number of Islamic Republic of Iran Shipping Lines (IRISL) vessels. Accordingly, it acts on behalf of IRISL and provides essential services to it.

@@ -1,4 +1,3 @@
----
 ssid: '73244'
 sanctions_set_id: '27286'
 entity:
@@ -20,12 +19,4 @@ entity:
     addresses:
     - address_details: Truda Ave., 23
       zip_code: '393192'
-  justification: FSE Tambov Gunpowder Plant is a Russian enterprise that produces
-    pyroxylin powders, which is used in various types of ammunition used by the Russian
-    Armed Forced. The plant produces pyroxylin powders for a wide range of ammunition,
-    from 7,62  mm cartridges and grenades for Kalashnikov rifles to 125 mm tank rounds
-    for T-90 main battle tank and artillery shells for 2S3 Akatsiya, 2S19 Msta-S,
-    Msta-B and 2S5 Hyacinth artillery and howitzer units. The plant is owned by the
-    Russian defence conglomerate Rostec State Corporation. The plant operates in a
-    strategically important sector of the military industry and was able to increase
-    its production capacity during Russia’s war of aggression against Ukraine.
+  justification: FSE Tambov Gunpowder Plant is a Russian enterprise that produces pyroxylin powders, which is used in various types of ammunition used by the Russian Armed Forced. The plant produces pyroxylin powders for a wide range of ammunition, from 7,62  mm cartridges and grenades for Kalashnikov rifles to 125 mm tank rounds for T-90 main battle tank and artillery shells for 2S3 Akatsiya, 2S19 Msta-S, Msta-B and 2S5 Hyacinth artillery and howitzer units. The plant is owned by the Russian defence conglomerate Rostec State Corporation. The plant operates in a strategically important sector of the military industry and was able to increase its production capacity during Russia’s war of aggression against Ukraine.

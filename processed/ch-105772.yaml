@@ -1,4 +1,3 @@
----
 ssid: '105772'
 sanctions_set_id: '27286'
 entity:
@@ -19,8 +18,4 @@ entity:
       year: 2002
     addresses:
     - address_details: 446100, Samara region, Chapaevsk, Kuibysheva st., 1
-  justification: JSC “Promsintez” is an enterprise of the military and industrial
-    complex of the Russian Federation engaged in the production of explosives. The
-    JSC “Promsintez” plant produces a wide range of explosives, including TNT, which
-    is directly used in the production of ammunition. JSC “Promsintez” therefore forms
-    part of Russia’s military and industrial complex.
+  justification: JSC “Promsintez” is an enterprise of the military and industrial complex of the Russian Federation engaged in the production of explosives. The JSC “Promsintez” plant produces a wide range of explosives, including TNT, which is directly used in the production of ammunition. JSC “Promsintez” therefore forms part of Russia’s military and industrial complex.

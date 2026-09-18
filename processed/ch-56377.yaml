@@ -1,4 +1,3 @@
----
 ssid: '56377'
 sanctions_set_id: '27286'
 entity:
@@ -16,8 +15,4 @@ entity:
     addresses:
     - address_details: 10/1 Yakovoapostolsky pereulok
       zip_code: '105064'
-  justification: The Alexander Gorchakov Public Diplomacy Fund was established in
-    2010 by the Russian President Dmitry Medvedev. The founder of the Fund was the
-    Russian Ministry of Foreign Affairs and the current Minister of Foreign Affairs
-    is the head of the board of trustees. The Ministry funds the work of the Gorchakov
-    Fund, which in turn grants funding to think tanks and GONGOs.
+  justification: The Alexander Gorchakov Public Diplomacy Fund was established in 2010 by the Russian President Dmitry Medvedev. The founder of the Fund was the Russian Ministry of Foreign Affairs and the current Minister of Foreign Affairs is the head of the board of trustees. The Ministry funds the work of the Gorchakov Fund, which in turn grants funding to think tanks and GONGOs.

@@ -1,4 +1,3 @@
----
 ssid: '69175'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 3
       month: 6
       year: 1970
-  justification: Dmitry Polkovnikov was the Director of Crimea Patriot Centre (also
-    known as “Krympatriotcentr”). The Centre provides military training for children
-    in illegally annexed Crimea and Sevastopol. He was involved in organising Russian
-    military and patriotic camps for children from the illegally annexed Crimean Peninsula.
+  justification: Dmitry Polkovnikov was the Director of Crimea Patriot Centre (also known as “Krympatriotcentr”). The Centre provides military training for children in illegally annexed Crimea and Sevastopol. He was involved in organising Russian military and patriotic camps for children from the illegally annexed Crimean Peninsula.

@@ -1,4 +1,3 @@
----
 ssid: '89270'
 sanctions_set_id: '29445'
 entity:
@@ -14,6 +13,5 @@ entity:
         name_part_type: whole-name
         value: Yusha Group Co. Ltd.
     addresses:
-    - address_details: No. 29, Industrial Park Road, Chengdong Industrial Park, Jianli
-        County
+    - address_details: No. 29, Industrial Park Road, Chengdong Industrial Park, Jianli County
       zip_code: '433301'

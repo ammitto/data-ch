@@ -1,4 +1,3 @@
----
 ssid: '62697'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 3
       month: 3
       year: 1955
-  justification: Boris Alyoshin is a Russian businessman involved in the activities
-    of Russian companies and corporations contributing to the strengthening of Russia’s
-    military base. He is one of the founders and managers of the LLC “SoyuzMash Russia”,
-    which unites more than a thousand Russian military and civilian industries.
+  justification: Boris Alyoshin is a Russian businessman involved in the activities of Russian companies and corporations contributing to the strengthening of Russia’s military base. He is one of the founders and managers of the LLC “SoyuzMash Russia”, which unites more than a thousand Russian military and civilian industries.

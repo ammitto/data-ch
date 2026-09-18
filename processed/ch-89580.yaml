@@ -1,4 +1,3 @@
----
 ssid: '89580'
 sanctions_set_id: '27286'
 entity:
@@ -20,9 +19,4 @@ entity:
     addresses:
     - address_details: Golubinskaya Str. 8
       zip_code: '117574'
-  justification: JSC Faraday is a shoe manufacturer for the Russian Army, as well
-    as for the Russian Ministry of the Interior and for Rosgvardia. JSC Faraday is
-    among the organisations included in the consolidated register of organisations
-    of the Defence-Industrial complex and received subsidies from the Ministry of
-    Industry and Trade to re-equip its factory to serve military requirements. Faraday
-    products were used by Russian forces in Ukraine.
+  justification: JSC Faraday is a shoe manufacturer for the Russian Army, as well as for the Russian Ministry of the Interior and for Rosgvardia. JSC Faraday is among the organisations included in the consolidated register of organisations of the Defence-Industrial complex and received subsidies from the Ministry of Industry and Trade to re-equip its factory to serve military requirements. Faraday products were used by Russian forces in Ukraine.

@@ -1,4 +1,3 @@
----
 ssid: '76313'
 sanctions_set_id: '27286'
 entity:
@@ -40,9 +39,4 @@ entity:
       year: 2004
     addresses:
     - address_details: Kommunisticheskaya str. 9
-  justification: The Akmat Kadyrov Foundation carries out re-education programmes
-    for Ukrainian children and teenagers, subjecting them to militaristic training
-    with the intent of alienating them from their home country and relatives. Furthermore,
-    the Akmat Kadyrov Foundation provides financial incentives to the families of
-    the Chechen fighters involved in Russia’s war of aggression against Ukraine to
-    attract new volunteers and keep those already fighting motivated.
+  justification: The Akmat Kadyrov Foundation carries out re-education programmes for Ukrainian children and teenagers, subjecting them to militaristic training with the intent of alienating them from their home country and relatives. Furthermore, the Akmat Kadyrov Foundation provides financial incentives to the families of the Chechen fighters involved in Russia’s war of aggression against Ukraine to attract new volunteers and keep those already fighting motivated.

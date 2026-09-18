@@ -1,4 +1,3 @@
----
 ssid: '99511'
 sanctions_set_id: '29445'
 entity:
@@ -21,8 +20,6 @@ entity:
         name_part_type: whole-name
         value: Alice Parts Co. Ltd
     addresses:
-    - address_details: Room A516, 5th Floor, Yee Fat Industrial Building, No. 35 Tai
-        Yau Street, San Po Kong
-    - address_details: Flat/Room A, 20/F Kui Fu Commercial Building, 300 Lockhart
-        Road
+    - address_details: Room A516, 5th Floor, Yee Fat Industrial Building, No. 35 Tai Yau Street, San Po Kong
+    - address_details: Flat/Room A, 20/F Kui Fu Commercial Building, 300 Lockhart Road
     - address_details: Office 517, 90 Central Tangxia ave.

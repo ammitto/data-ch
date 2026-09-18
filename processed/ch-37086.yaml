@@ -1,4 +1,3 @@
----
 ssid: '37086'
 sanctions_set_id: '27286'
 entity:
@@ -23,9 +22,4 @@ entity:
     addresses:
     - address_details: Novyi Arbat str., 15, building 2
       zip_code: '119019'
-  justification: Owner of the gas turbines originally supplied by Siemens Gas Turbine
-    Technologies OOO to OAO "VO TPE". OOO "VO TPE" transferred the gas turbines to
-    be installed in Crimea. This contributes to establishing an independent power
-    supply for Crimea and Sevastopol as a means of supporting their separation from
-    Ukraine, and undermines the territorial integrity, sovereignty and independence
-    of Ukraine.
+  justification: Owner of the gas turbines originally supplied by Siemens Gas Turbine Technologies OOO to OAO "VO TPE". OOO "VO TPE" transferred the gas turbines to be installed in Crimea. This contributes to establishing an independent power supply for Crimea and Sevastopol as a means of supporting their separation from Ukraine, and undermines the territorial integrity, sovereignty and independence of Ukraine.

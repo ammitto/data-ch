@@ -1,4 +1,3 @@
----
 ssid: '100251'
 sanctions_set_id: '8174'
 entity:
@@ -15,7 +14,4 @@ entity:
         value: Bank Melli, Bank Melli Iran (including all branches) and subsidiaries
     addresses:
     - address_details: Ferdowsi Avenue
-  justification: Bank Melli is Iran’s largest bank and is owned and controlled by
-    the Government of Iran and provides services to the Ministry of Defense (MODAFL).
-    Therefore, Bank Melli is is controlled by and provides support to the Government
-    of Iran.
+  justification: Bank Melli is Iran’s largest bank and is owned and controlled by the Government of Iran and provides services to the Ministry of Defense (MODAFL). Therefore, Bank Melli is is controlled by and provides support to the Government of Iran.

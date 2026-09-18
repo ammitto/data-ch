@@ -1,4 +1,3 @@
----
 ssid: '100925'
 sanctions_set_id: '8174'
 entity:
@@ -22,6 +21,4 @@ entity:
         value: HK Intertrade
     addresses:
     - address_details: 21st Floor, Tai Yau Building, 181 Johnston Road, Wanchai
-  justification: HK Intertrade Company benefitted the Iranian government by being
-    involved in a scheme that helped launder Iranian oil proceeds. HK Intertrade is
-    also believed to be a front company for the National Iranian Oil Company (NIOC).
+  justification: HK Intertrade Company benefitted the Iranian government by being involved in a scheme that helped launder Iranian oil proceeds. HK Intertrade is also believed to be a front company for the National Iranian Oil Company (NIOC).

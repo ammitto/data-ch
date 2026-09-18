@@ -1,4 +1,3 @@
----
 ssid: '13430'
 sanctions_set_id: '13065'
 individual:
@@ -16,6 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Ali
-  justification: Deputy prosecutor province of Karaj, region of Alborz in the period
-    2010-2016. Responsible for grave violation of human rights, including involvement
-    in the execution of a juvenile.
+  justification: Deputy prosecutor province of Karaj, region of Alborz in the period 2010-2016. Responsible for grave violation of human rights, including involvement in the execution of a juvenile.

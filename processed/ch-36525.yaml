@@ -1,4 +1,3 @@
----
 ssid: '36525'
 sanctions_set_id: '3978'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Koryo Bank
     addresses:
     - address_details: Koryo Bank Building, Pulgun Street
-  justification: Koryo Bank operates in the financial services industry in the DPRK’s
-    economy and is associated with Office 38 and Office 39 of the KWP.
+  justification: Koryo Bank operates in the financial services industry in the DPRK’s economy and is associated with Office 38 and Office 39 of the KWP.

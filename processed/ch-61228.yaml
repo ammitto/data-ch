@@ -1,4 +1,3 @@
----
 ssid: '61228'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 3
       month: 11
       year: 1978
-  justification: Alexandr Kots is a special correspondent of a pro-Kremlin Komsomolskaya
-    Pravda tabloid. He is a member of the Presidential Council for Civil Society and
-    Human Rights, where he sits on the working group on the “special military operation”
-    (war) in Ukraine.
+  justification: Alexandr Kots is a special correspondent of a pro-Kremlin Komsomolskaya Pravda tabloid. He is a member of the Presidential Council for Civil Society and Human Rights, where he sits on the working group on the “special military operation” (war) in Ukraine.

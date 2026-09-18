@@ -1,4 +1,3 @@
----
 ssid: '64716'
 sanctions_set_id: '38066'
 individual:
@@ -27,7 +26,4 @@ individual:
       day: 12
       month: 9
       year: 1974
-  justification: Michel Rukunda is a former Colonel of the Congolese armed forces
-    (FARDC) and the Commander and Military leader of the non-governmental armed group
-    Twirwaneho operating in South Kivu, which claims to represent the Banyamulenge
-    Community.
+  justification: Michel Rukunda is a former Colonel of the Congolese armed forces (FARDC) and the Commander and Military leader of the non-governmental armed group Twirwaneho operating in South Kivu, which claims to represent the Banyamulenge Community.

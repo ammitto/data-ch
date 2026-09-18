@@ -1,4 +1,3 @@
----
 ssid: '38795'
 sanctions_set_id: '3978'
 entity:
@@ -16,6 +15,4 @@ entity:
     addresses:
     - address_details: 419-201, Tongyi Lu, Huancui Qu
       zip_code: '264200'
-  justification: Ship and commercial manager of the XIN GUANG HAI, a vessel that on
-    loaded coal at Taean, DPRK, on 27 Oct 2017 and had an ETA of 14 Nov 2017 to Cam
-    Pha, Vietnam, but it did not arrive.
+  justification: Ship and commercial manager of the XIN GUANG HAI, a vessel that on loaded coal at Taean, DPRK, on 27 Oct 2017 and had an ETA of 14 Nov 2017 to Cam Pha, Vietnam, but it did not arrive.

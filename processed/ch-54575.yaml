@@ -1,4 +1,3 @@
----
 ssid: '54575'
 sanctions_set_id: '4387'
 entity:
@@ -16,12 +15,4 @@ entity:
     addresses:
     - address_details: 131 Novodvorskiy village
       zip_code: '223016'
-  justification: Inter Tobacco LLC is part of the tobacco manufacturing industry in
-    Belarus. It has a significant share of the profitable domestic cigarette market
-    in Belarus. The company was given exclusive privileges to import tobacco products
-    to Belarus, based on a decree signed by Aliaksandr Lukashenka. Additionally, Lukashenka
-    issued a Presidential decree to re-draw the boundaries of Belarus’s capital, Minsk,
-    to carve out land for Inter Tobacco’s factory, probably for reasons related to
-    tax evasion. Inter Tobacco belongs to Alexei Oleksin and members of his close
-    family (it is owned by Oleksin’s company Energo-Oil). Therefore, Inter Tobacco
-    is benefitting from the Lukashenka regime.
+  justification: Inter Tobacco LLC is part of the tobacco manufacturing industry in Belarus. It has a significant share of the profitable domestic cigarette market in Belarus. The company was given exclusive privileges to import tobacco products to Belarus, based on a decree signed by Aliaksandr Lukashenka. Additionally, Lukashenka issued a Presidential decree to re-draw the boundaries of Belarus’s capital, Minsk, to carve out land for Inter Tobacco’s factory, probably for reasons related to tax evasion. Inter Tobacco belongs to Alexei Oleksin and members of his close family (it is owned by Oleksin’s company Energo-Oil). Therefore, Inter Tobacco is benefitting from the Lukashenka regime.

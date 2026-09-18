@@ -1,4 +1,3 @@
----
 ssid: '59106'
 sanctions_set_id: '27286'
 individual:
@@ -23,6 +22,4 @@ individual:
       day: 28
       month: 5
       year: 1967
-  justification: Sergey Mikheev is a political scientist and politician. He is a member
-    of the Central Council of the Just Russia — Patriots — For Truth party, which
-    backed Russia’s invasion of Ukraine.
+  justification: Sergey Mikheev is a political scientist and politician. He is a member of the Central Council of the Just Russia — Patriots — For Truth party, which backed Russia’s invasion of Ukraine.

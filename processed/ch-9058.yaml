@@ -1,4 +1,3 @@
----
 ssid: '9058'
 sanctions_set_id: '8174'
 entity:
@@ -71,5 +70,4 @@ entity:
         value: Etemad-e Mobin Consortium
     addresses:
     - address_details: Pasadaran Av.
-  justification: A company owned or controlled by IRGC that contributes to financing
-    the strategic interests of the regime.
+  justification: A company owned or controlled by IRGC that contributes to financing the strategic interests of the regime.

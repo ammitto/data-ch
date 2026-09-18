@@ -1,4 +1,3 @@
----
 ssid: '48057'
 sanctions_set_id: '27286'
 entity:
@@ -20,7 +19,4 @@ entity:
     addresses:
     - address_details: Pl Rastrelli 2 Liter A
       zip_code: '191124'
-  justification: Bank Rossiya is the personal bank of Senior Officials of the Russian
-    Federation. In this capacity, Bank Rossiya supports and benefits from Russian
-    decision-makers responsible for the annexation of Crimea or the destabilisation
-    of Eastern Ukraine.
+  justification: Bank Rossiya is the personal bank of Senior Officials of the Russian Federation. In this capacity, Bank Rossiya supports and benefits from Russian decision-makers responsible for the annexation of Crimea or the destabilisation of Eastern Ukraine.

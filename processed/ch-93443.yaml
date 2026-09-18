@@ -1,4 +1,3 @@
----
 ssid: '93443'
 sanctions_set_id: '27286'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 13
       month: 12
       year: 1985
-  justification: Alexey Vyaznikov is the General Director of JSC Central Research
-    Institute “Elektron”, a Russian research and manufacturing company, which has
-    won a government procurement contract for developing and producing high-tech electronic
-    components for the Russian defence industry. Therefore, Alexey Nikolaevich Vyaznikov
-    is supporting and benefitting from Russia’s military and industrial complex.
+  justification: Alexey Vyaznikov is the General Director of JSC Central Research Institute “Elektron”, a Russian research and manufacturing company, which has won a government procurement contract for developing and producing high-tech electronic components for the Russian defence industry. Therefore, Alexey Nikolaevich Vyaznikov is supporting and benefitting from Russia’s military and industrial complex.

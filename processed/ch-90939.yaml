@@ -1,4 +1,3 @@
----
 ssid: '90939'
 sanctions_set_id: '4387'
 entity:
@@ -20,9 +19,4 @@ entity:
     addresses:
     - address_details: ul. Kulman 2
       zip_code: '220013'
-  justification: Precise Electro-Mechanics Plant is a Belarusian State enterprise
-    that specializes in the development and production of military products and subordinate
-    to the State Military-Industrial Committee of the Republic of Belarus. In this
-    capacity Precise Electro-Mechanics Plant produces military hardware in use by
-    the Belarus armed forces, notably ballistic missiles and provides revenue to the
-    Belarusian State.
+  justification: Precise Electro-Mechanics Plant is a Belarusian State enterprise that specializes in the development and production of military products and subordinate to the State Military-Industrial Committee of the Republic of Belarus. In this capacity Precise Electro-Mechanics Plant produces military hardware in use by the Belarus armed forces, notably ballistic missiles and provides revenue to the Belarusian State.

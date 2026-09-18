@@ -1,4 +1,3 @@
----
 ssid: '59586'
 sanctions_set_id: '29445'
 entity:
@@ -12,16 +11,14 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Siberian Scientific-Research Institute of Aviation N.A. S.A. Chaplygin
-          (SibNIA)
+        value: Siberian Scientific-Research Institute of Aviation N.A. S.A. Chaplygin (SibNIA)
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Федеральное Автономное Учреждение «Сибирский Научно-Исследовательский
-          Институт Авиации им. С.А. Чаплыгина» (ФАУ «СибНИА им. С.А. Чаплыгина»)
+        value: Федеральное Автономное Учреждение «Сибирский Научно-Исследовательский Институт Авиации им. С.А. Чаплыгина» (ФАУ «СибНИА им. С.А. Чаплыгина»)
     - name_type: alias
       quality: good
       lang: eng
@@ -35,8 +32,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal Autonomous Institution “Siberian Research Institute of Aviation
-          named after S. A. Chaplygin”
+        value: Federal Autonomous Institution “Siberian Research Institute of Aviation named after S. A. Chaplygin”
     - name_type: alias
       quality: good
       lang: eng

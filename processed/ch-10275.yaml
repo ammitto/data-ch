@@ -1,4 +1,3 @@
----
 ssid: '10275'
 sanctions_set_id: '8174'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Kingswood Shipping Company Limited
     addresses:
     - address_details: 171, Old Bakery Street
-  justification: IRISL front company, owned or controlled by IRISL or an IRISL affiliate.
-    It is the registered owner of a vessel owned by IRISL or an IRISL affiliate.
+  justification: IRISL front company, owned or controlled by IRISL or an IRISL affiliate. It is the registered owner of a vessel owned by IRISL or an IRISL affiliate.

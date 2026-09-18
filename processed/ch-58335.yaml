@@ -1,4 +1,3 @@
----
 ssid: '58335'
 sanctions_set_id: '27286'
 individual:
@@ -23,11 +22,4 @@ individual:
       day: 26
       month: 1
       year: 1993
-  justification: Senior Lieutenant Dmitri Tikhonov is a member of the Missile Pre-Planning
-    unit at the Main Computing Centre of the General Staff (GVC) of Russia’s Armed
-    Forces General Staff. In this role, he is a key figure in Russia’s missile strikes
-    on Ukraine, including on civilian targets, throughout April to October 2022, killing
-    over 30 people and wounding more than 100 in October 2022 alone. Senior Lieutenant
-    Dmitri Tikhonov is thus a natural person responsible for, supporting or implementing
-    actions or policies which undermine or threaten the territorial integrity, sovereignty
-    and independence of Ukraine.
+  justification: Senior Lieutenant Dmitri Tikhonov is a member of the Missile Pre-Planning unit at the Main Computing Centre of the General Staff (GVC) of Russia’s Armed Forces General Staff. In this role, he is a key figure in Russia’s missile strikes on Ukraine, including on civilian targets, throughout April to October 2022, killing over 30 people and wounding more than 100 in October 2022 alone. Senior Lieutenant Dmitri Tikhonov is thus a natural person responsible for, supporting or implementing actions or policies which undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.

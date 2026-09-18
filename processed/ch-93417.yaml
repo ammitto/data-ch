@@ -1,4 +1,3 @@
----
 ssid: '93417'
 sanctions_set_id: '27286'
 entity:
@@ -27,9 +26,4 @@ entity:
     addresses:
     - address_details: st. Lenina, 135, Vyatskie Polyany
       zip_code: '612960'
-  justification: LLC “Molot-Oruzhie” is a Russian company designing and manufacturing
-    weapons, in particular shotguns of the Vepr-12 series, for the Armed Forces of
-    the Russian Federation, which are used in Russia’s war of aggression against Ukraine.
-    The company also produces various modifications of the RPK 74 machine gun and
-    the ASG-17 automatic grenade launcher, which are used in Russia’s war of aggression
-    against Ukraine.
+  justification: LLC “Molot-Oruzhie” is a Russian company designing and manufacturing weapons, in particular shotguns of the Vepr-12 series, for the Armed Forces of the Russian Federation, which are used in Russia’s war of aggression against Ukraine. The company also produces various modifications of the RPK 74 machine gun and the ASG-17 automatic grenade launcher, which are used in Russia’s war of aggression against Ukraine.

@@ -1,4 +1,3 @@
----
 ssid: '38771'
 sanctions_set_id: '3978'
 entity:
@@ -22,6 +21,4 @@ entity:
         value: Phyongchon Shipping and Marine
     addresses:
     - address_details: Otan-dong, Chung-guyok
-  justification: Registered owner of DPRK tanker JI SONG 6, which is believed to have
-    been involved in ship to ship transfer operations of oil in late January 2018.
-    The company also owns vessels JI SONG 8 and WOORY STAR.
+  justification: Registered owner of DPRK tanker JI SONG 6, which is believed to have been involved in ship to ship transfer operations of oil in late January 2018. The company also owns vessels JI SONG 8 and WOORY STAR.

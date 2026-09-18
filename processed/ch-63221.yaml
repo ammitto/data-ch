@@ -1,4 +1,3 @@
----
 ssid: '63221'
 sanctions_set_id: '27286'
 individual:
@@ -23,9 +22,4 @@ individual:
       day: 19
       month: 7
       year: 1991
-  justification: Mikhail Zvinchuk is a member of the working group established by
-    President Putin in Dec 2022 to coordinate the mobilization efforts of the Russian
-    Federation to support its war of aggression against Ukraine. Beyond his role in
-    the working group, he is known as the creator of the pro-Russian military Telegram
-    channel “Rybar” reporting on Russian war efforts and Ukrainian military positions,
-    as well as distributing disinformation and pro-Kremlin propaganda about the war.
+  justification: Mikhail Zvinchuk is a member of the working group established by President Putin in Dec 2022 to coordinate the mobilization efforts of the Russian Federation to support its war of aggression against Ukraine. Beyond his role in the working group, he is known as the creator of the pro-Russian military Telegram channel “Rybar” reporting on Russian war efforts and Ukrainian military positions, as well as distributing disinformation and pro-Kremlin propaganda about the war.

@@ -1,4 +1,3 @@
----
 ssid: '89159'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 9
       month: 5
       year: 1968
-  justification: Dmitry Lelikov is Deputy General Director of Rostec and a member
-    of Rostec’s Management Board. Rostec is a key company within the Russian military-industrial
-    complex and produces various types of defence hardware and equipment in use by
-    the Russian Armed Forces in their war of aggression against Ukraine.
+  justification: Dmitry Lelikov is Deputy General Director of Rostec and a member of Rostec’s Management Board. Rostec is a key company within the Russian military-industrial complex and produces various types of defence hardware and equipment in use by the Russian Armed Forces in their war of aggression against Ukraine.

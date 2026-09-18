@@ -1,4 +1,3 @@
----
 ssid: '55190'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 15
       month: 3
       year: 1978
-  justification: Sergey Nikolaevich Borisenko is a major of the 64th Separate Motorised
-    Rifle Brigade of the 35th Combined Arms Army of the Russian Federation, which
-    reportedly killed, raped and tortured civilians in Bucha, Ukraine. These atrocities
-    may constitute crimes against humanity and war crimes.
+  justification: Sergey Nikolaevich Borisenko is a major of the 64th Separate Motorised Rifle Brigade of the 35th Combined Arms Army of the Russian Federation, which reportedly killed, raped and tortured civilians in Bucha, Ukraine. These atrocities may constitute crimes against humanity and war crimes.

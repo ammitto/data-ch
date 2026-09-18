@@ -1,4 +1,3 @@
----
 ssid: '77556'
 sanctions_set_id: '38066'
 individual:
@@ -19,6 +18,4 @@ individual:
     day_month_year:
       month: 3
       year: 1968
-  justification: Colonel Augustin Migabo holds a leading position as Deputy Commander
-    of the Special Force Command of the Rwanda Defence Force (RDF), deployed in DRC
-    as from May 2022, more specifically in the North Kivu region.
+  justification: Colonel Augustin Migabo holds a leading position as Deputy Commander of the Special Force Command of the Rwanda Defence Force (RDF), deployed in DRC as from May 2022, more specifically in the North Kivu region.

@@ -1,4 +1,3 @@
----
 ssid: '66379'
 sanctions_set_id: '8174'
 individual:
@@ -48,6 +47,4 @@ individual:
         value: Hassan
     day_month_year:
       year: 1944
-  justification: Mohammad Reza Zahedi is a high-ranking official and Ground Forces
-    Commander of the Islamic Revolutionary Guard Corps (IRGC). Mohammad Reza Zahedi
-    is therefore a member of the IRGC.
+  justification: Mohammad Reza Zahedi is a high-ranking official and Ground Forces Commander of the Islamic Revolutionary Guard Corps (IRGC). Mohammad Reza Zahedi is therefore a member of the IRGC.

@@ -1,4 +1,3 @@
----
 ssid: '89068'
 sanctions_set_id: '27286'
 entity:
@@ -21,10 +20,4 @@ entity:
         name_part_type: whole-name
         value: КБ “Око”
     addresses:
-  justification: Oko Design Bureau is a company created in 2022 which produces two
-    kinds of drones named Privet-82 and Privet-120. Privet-82 drones were introduced
-    in the frontline of war in Ukraine to the Russian Army units in the first half
-    of 2023 and have been widely used in combat since then. Privet-82 drones produced
-    by Oko Design Bureau have received full support from the Russian Ministry of Defence
-    and have completed all tests. Oko Design Bureau participated in the Army2023 Forum
-    presenting its products.
+  justification: Oko Design Bureau is a company created in 2022 which produces two kinds of drones named Privet-82 and Privet-120. Privet-82 drones were introduced in the frontline of war in Ukraine to the Russian Army units in the first half of 2023 and have been widely used in combat since then. Privet-82 drones produced by Oko Design Bureau have received full support from the Russian Ministry of Defence and have completed all tests. Oko Design Bureau participated in the Army2023 Forum presenting its products.

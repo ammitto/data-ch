@@ -1,4 +1,3 @@
----
 ssid: '88548'
 sanctions_set_id: '27286'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 1
       month: 9
       year: 1980
-  justification: Yan Leshchenko is a deputy of the so-called “People’s Council” of
-    the so-called “Luhansk People’s Republic”. Leshchenko is also the regional coordinator
-    of the actions of Russia’s war of aggression against Ukraine in the occupied territory
-    of Luhansk. He has supported the war in actions and in public statements, including
-    supporting specific attacks by Russia on Ukrainian territory.
+  justification: Yan Leshchenko is a deputy of the so-called “People’s Council” of the so-called “Luhansk People’s Republic”. Leshchenko is also the regional coordinator of the actions of Russia’s war of aggression against Ukraine in the occupied territory of Luhansk. He has supported the war in actions and in public statements, including supporting specific attacks by Russia on Ukrainian territory.

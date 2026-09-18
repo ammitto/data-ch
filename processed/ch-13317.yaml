@@ -1,4 +1,3 @@
----
 ssid: '13317'
 sanctions_set_id: '13065'
 individual:
@@ -28,7 +27,4 @@ individual:
         value: Hosseyn
     day_month_year:
       year: 1969
-  justification: Mayor of Eslamshahr until 2020. Former Iranian MP. Former Governor-General
-    ("Farmandar") of Tehran Province until Sep 2010, he was responsible for the intervention
-    of police forces and therefore for the repression of demonstrations. He received
-    a prize in Dec 2010 for his role in the post-election repression.
+  justification: Mayor of Eslamshahr until 2020. Former Iranian MP. Former Governor-General ("Farmandar") of Tehran Province until Sep 2010, he was responsible for the intervention of police forces and therefore for the repression of demonstrations. He received a prize in Dec 2010 for his role in the post-election repression.

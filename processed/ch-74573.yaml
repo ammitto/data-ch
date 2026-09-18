@@ -1,4 +1,3 @@
----
 ssid: '74573'
 sanctions_set_id: '27286'
 entity:
@@ -20,7 +19,4 @@ entity:
     addresses:
     - address_details: Krakovská 583/9
       zip_code: 110 00
-  justification: Voice of Europe is an online media outlet, which has engaged in a
-    systematic, international campaign of media manipulation and distortion of facts
-    in order to enhance the destabilisation of Ukraine and the Union and its Member
-    States, and to justify Russia’s war of aggression against Ukraine.
+  justification: Voice of Europe is an online media outlet, which has engaged in a systematic, international campaign of media manipulation and distortion of facts in order to enhance the destabilisation of Ukraine and the Union and its Member States, and to justify Russia’s war of aggression against Ukraine.

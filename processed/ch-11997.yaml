@@ -1,4 +1,3 @@
----
 ssid: '11997'
 sanctions_set_id: '3986'
 individual:
@@ -26,5 +25,4 @@ individual:
       - order: 1
         name_part_type: given-name
         value: Wajeeh
-  justification: Commander 18th Armoured Division under the former al-Assad regime.
-    Responsible for the violence against protestors in Homs.
+  justification: Commander 18th Armoured Division under the former al-Assad regime. Responsible for the violence against protestors in Homs.

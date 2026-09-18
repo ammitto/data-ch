@@ -1,4 +1,3 @@
----
 ssid: '100194'
 sanctions_set_id: '8174'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Ali Reza
-  justification: Ali Reza Khanchi is a nuclear scientist affiliated with the Iranian
-    Nuclear Science and Technology Research Institute (NSTRI).
+  justification: Ali Reza Khanchi is a nuclear scientist affiliated with the Iranian Nuclear Science and Technology Research Institute (NSTRI).

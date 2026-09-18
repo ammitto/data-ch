@@ -1,4 +1,3 @@
----
 ssid: '13193'
 sanctions_set_id: '13065'
 individual:
@@ -16,7 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Ahmad
-  justification: Judge at the Supreme Court and Chief of the Tehran Revolutionary
-    Court. Head of the "Organization for the Preservation of Morality". Former judge
-    at the 2nd Branch of the Special Economic Corruption Court. Former judge, Tehran
-    Appeals Court, Branch 36.
+  justification: Judge at the Supreme Court and Chief of the Tehran Revolutionary Court. Head of the "Organization for the Preservation of Morality". Former judge at the 2nd Branch of the Special Economic Corruption Court. Former judge, Tehran Appeals Court, Branch 36.

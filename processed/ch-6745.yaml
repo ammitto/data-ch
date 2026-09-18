@@ -1,4 +1,3 @@
----
 ssid: '6745'
 sanctions_set_id: '6094'
 individual:
@@ -16,6 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Isaac
-  justification: Directly involved in the campaign of terror waged before and after
-    the 2008 elections. In chain of command which organized violence in Soka village
-    in Muzarabani.
+  justification: Directly involved in the campaign of terror waged before and after the 2008 elections. In chain of command which organized violence in Soka village in Muzarabani.

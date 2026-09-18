@@ -1,4 +1,3 @@
----
 ssid: '51223'
 sanctions_set_id: '27286'
 individual:
@@ -19,6 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Ivanovich
-  justification: Dmitri Ivanovich Surovich holds the position of the Deputy Commander
-    for Armaments, and the Head of Armaments Directorate of North-Western Operational
-    Command of Belarus.
+  justification: Dmitri Ivanovich Surovich holds the position of the Deputy Commander for Armaments, and the Head of Armaments Directorate of North-Western Operational Command of Belarus.

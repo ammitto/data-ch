@@ -1,4 +1,3 @@
----
 ssid: '99759'
 sanctions_set_id: '29445'
 entity:
@@ -14,6 +13,5 @@ entity:
         name_part_type: whole-name
         value: KMT LLC
     addresses:
-    - address_details: Sokolinaya Gora municipal district, Bolshaya Semyonovskaya
-        Street. 40, building 13, room 203
+    - address_details: Sokolinaya Gora municipal district, Bolshaya Semyonovskaya Street. 40, building 13, room 203
       zip_code: '107023'

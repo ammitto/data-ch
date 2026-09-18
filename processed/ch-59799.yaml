@@ -1,4 +1,3 @@
----
 ssid: '59799'
 sanctions_set_id: '29445'
 entity:
@@ -40,8 +39,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Акционерное Общество «Радиотехнический Институт имени Академика А.Л.
-          Минца» (АО РТИ)
+        value: Акционерное Общество «Радиотехнический Институт имени Академика А.Л. Минца» (АО РТИ)
     addresses:
     - address_details: 8 Marta Str., 10, Building 1
       zip_code: '127083'

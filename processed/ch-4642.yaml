@@ -1,4 +1,3 @@
----
 ssid: '4642'
 sanctions_set_id: '4387'
 individual:
@@ -26,8 +25,4 @@ individual:
     addresses:
     - address_details: пр-т Победителей, 7 Информационно-аналитический центр
       zip_code: '220004'
-  justification: Deputy Director general of Beltelecom in charge of external relations
-    and relations with the state institutions. Former Director of the Information
-    and Analytical Center of the President's Administration which acts as one of the
-    main sources of state propaganda, supporting and justifying the repression of
-    the democratic opposition and of civil society.
+  justification: Deputy Director general of Beltelecom in charge of external relations and relations with the state institutions. Former Director of the Information and Analytical Center of the President's Administration which acts as one of the main sources of state propaganda, supporting and justifying the repression of the democratic opposition and of civil society.

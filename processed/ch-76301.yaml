@@ -1,4 +1,3 @@
----
 ssid: '76301'
 sanctions_set_id: '27286'
 individual:
@@ -25,8 +24,4 @@ individual:
       year: 1975
     addresses:
     - address_details: Niomanskaya street, 61, ap. 10
-  justification: Aleksandr Moroz is the General Director of the Belarusian Optical-Mechanical
-    Association “BelOMO”. He was appointed by President Lukashenko. BelOMO is a state-owned
-    enterprise that operates in the defence sector in Belarus, producing and selling
-    optical sights for small arms, including telescopic sights and optical sights
-    with illuminated reticles.
+  justification: Aleksandr Moroz is the General Director of the Belarusian Optical-Mechanical Association “BelOMO”. He was appointed by President Lukashenko. BelOMO is a state-owned enterprise that operates in the defence sector in Belarus, producing and selling optical sights for small arms, including telescopic sights and optical sights with illuminated reticles.

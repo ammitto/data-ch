@@ -1,4 +1,3 @@
----
 ssid: '87659'
 sanctions_set_id: '47224'
 entity:
@@ -47,8 +46,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Association of Citizens for the Support of Truth and Supression of
-          Lies
+        value: Association of Citizens for the Support of Truth and Supression of Lies
     - name_type: alias
       quality: good
       lang: eng

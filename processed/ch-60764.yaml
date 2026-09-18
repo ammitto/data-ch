@@ -1,4 +1,3 @@
----
 ssid: '60764'
 sanctions_set_id: '27286'
 entity:
@@ -26,12 +25,4 @@ entity:
       year: 2012
     addresses:
     - address_details: Proezd-12 Maryina Roshcha, d. 9, str. 1
-  justification: Nizhneangarsktransstroy is a Moscow-based construction company that
-    specialises in road and highway repairs. Nizhneangarsktransstroy has, in particular,
-    been commissioned by the Russian forces occupying Ukraine to rebuild the bridge
-    connecting the territory of the Russian Federation with the occupied Ukrainian
-    Crimean peninsula, which was damaged on 8 October 2022 following an explosion.
-    The repairs conducted by Nizhneangarsktransstroy are of particular strategic importance
-    to Russia’s war efforts. The Crimean bridge functions as a land corridor between
-    the Russian Federation and the occupied territory of Ukraine and its accessibility
-    directly affects Russia’s ability to wage war in southern Ukraine.
+  justification: Nizhneangarsktransstroy is a Moscow-based construction company that specialises in road and highway repairs. Nizhneangarsktransstroy has, in particular, been commissioned by the Russian forces occupying Ukraine to rebuild the bridge connecting the territory of the Russian Federation with the occupied Ukrainian Crimean peninsula, which was damaged on 8 October 2022 following an explosion. The repairs conducted by Nizhneangarsktransstroy are of particular strategic importance to Russia’s war efforts. The Crimean bridge functions as a land corridor between the Russian Federation and the occupied territory of Ukraine and its accessibility directly affects Russia’s ability to wage war in southern Ukraine.

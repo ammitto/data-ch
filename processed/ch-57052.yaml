@@ -1,4 +1,3 @@
----
 ssid: '57052'
 sanctions_set_id: '27286'
 entity:
@@ -30,9 +29,4 @@ entity:
     addresses:
     - address_details: 4 Truda st.
       zip_code: '601900'
-  justification: A defence company which provides weapons to the Russian Armed Forces.
-    It manufactured Igla MANPADS, 9M119M “Refleks” and 9M120 “Ataka” missiles and
-    3UBK20 missile launchers that were used by the Russian Armed Forces during Russia’s
-    war of aggression against Ukraine. The company continues to produce weapons for
-    the war as evidenced by its participation in the ARMY 2022 forum in August 2022
-    and recent publications on its site.
+  justification: A defence company which provides weapons to the Russian Armed Forces. It manufactured Igla MANPADS, 9M119M “Refleks” and 9M120 “Ataka” missiles and 3UBK20 missile launchers that were used by the Russian Armed Forces during Russia’s war of aggression against Ukraine. The company continues to produce weapons for the war as evidenced by its participation in the ARMY 2022 forum in August 2022 and recent publications on its site.

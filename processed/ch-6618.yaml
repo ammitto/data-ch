@@ -1,4 +1,3 @@
----
 ssid: '6618'
 sanctions_set_id: '6094'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Gilbert
-  justification: Directly involved in the terror campaign waged before and during
-    the 2008 elections in Mashonaland West (Chegutu); involved in violent farm takeovers.
+  justification: Directly involved in the terror campaign waged before and during the 2008 elections in Mashonaland West (Chegutu); involved in violent farm takeovers.

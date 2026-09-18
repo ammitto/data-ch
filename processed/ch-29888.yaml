@@ -1,4 +1,3 @@
----
 ssid: '29888'
 sanctions_set_id: '3986'
 individual:
@@ -33,7 +32,4 @@ individual:
       day: 10
       month: 3
       year: 1961
-  justification: Former Minister of Transport in power after May 2011 (appointed 27.8.2014)
-    under the former al-Assad regime. He was previously General Director of the Port
-    of Tartus. As a former Government Minister, shares responsibility for the former
-    al-Assad regime’s violent repression of the civilian population.
+  justification: Former Minister of Transport in power after May 2011 (appointed 27.8.2014) under the former al-Assad regime. He was previously General Director of the Port of Tartus. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.

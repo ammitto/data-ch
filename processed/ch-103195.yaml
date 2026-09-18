@@ -1,4 +1,3 @@
----
 ssid: '103195'
 sanctions_set_id: '27286'
 individual:
@@ -23,10 +22,4 @@ individual:
       day: 8
       month: 8
       year: 1984
-  justification: Colonel Artem Gorodilov is the Commander of the 83rd Guards Air Assault
-    Brigade and the former Commander of the 234th Guards Air Assault Regiment, which
-    is part of the 76th Guards Air Assault Division. The 234th Guards Air Assault
-    Regiment participated in a massacre of civilians in Bucha when that city was occupied
-    by Russian troops in the early days of the war. Artem Gorodilov led the 234th
-    Guards Air Assault Regiment at the time and was present in Bucha where hundreds
-    of civilians died, in some cases as a result of brutal executions.
+  justification: Colonel Artem Gorodilov is the Commander of the 83rd Guards Air Assault Brigade and the former Commander of the 234th Guards Air Assault Regiment, which is part of the 76th Guards Air Assault Division. The 234th Guards Air Assault Regiment participated in a massacre of civilians in Bucha when that city was occupied by Russian troops in the early days of the war. Artem Gorodilov led the 234th Guards Air Assault Regiment at the time and was present in Bucha where hundreds of civilians died, in some cases as a result of brutal executions.

@@ -1,4 +1,3 @@
----
 ssid: '28110'
 sanctions_set_id: '4387'
 individual:
@@ -19,9 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Nikolayevich
-  justification: Judge at the regional court in Shklov. In January 2012 he decided
-    to transfer former Presidential candidate and opposition activist N. Statkevich
-    to a closed- type prison in Mogilov on the mere basis of alleged violations of
-    the rules of imprisonment in Shklov penal colony IK-17. This decision has thus
-    led to breaches of N. Statkevich's human rights including sleep deprivation and
-    threatening his health.
+  justification: Judge at the regional court in Shklov. In January 2012 he decided to transfer former Presidential candidate and opposition activist N. Statkevich to a closed- type prison in Mogilov on the mere basis of alleged violations of the rules of imprisonment in Shklov penal colony IK-17. This decision has thus led to breaches of N. Statkevich's human rights including sleep deprivation and threatening his health.

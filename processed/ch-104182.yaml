@@ -1,4 +1,3 @@
----
 ssid: '104182'
 sanctions_set_id: '27286'
 entity:
@@ -30,7 +29,4 @@ entity:
     addresses:
     - address_details: kv-l 63 (First Industrial Array of Ter.), building 2
       zip_code: '665809'
-  justification: JSC “Angarsk Petrochemical Company” is a Russian entity operating
-    an oil refinery in the Irkutsk Region. The energy sector, in particular the oil
-    sector, is a sector providing a substantial source of revenue to Government of
-    the Russian Federation.
+  justification: JSC “Angarsk Petrochemical Company” is a Russian entity operating an oil refinery in the Irkutsk Region. The energy sector, in particular the oil sector, is a sector providing a substantial source of revenue to Government of the Russian Federation.

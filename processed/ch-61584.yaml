@@ -1,4 +1,3 @@
----
 ssid: '61584'
 sanctions_set_id: '29445'
 entity:
@@ -12,8 +11,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: PJSC “Scientific and Production Association ‘Almaz’ named after Academician
-          A.A. Raspletin”
+        value: PJSC “Scientific and Production Association ‘Almaz’ named after Academician A.A. Raspletin”
     - name_type: alias
       quality: good
       lang: eng

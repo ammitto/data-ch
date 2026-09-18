@@ -1,4 +1,3 @@
----
 ssid: '5222'
 sanctions_set_id: '4387'
 individual:
@@ -24,8 +23,6 @@ individual:
       month: 5
       year: 1948
     addresses:
-    - address_details: Brest State University бульвар Космонавтов, 21, кабинет no.
-        223
+    - address_details: Brest State University бульвар Космонавтов, 21, кабинет no. 223
       zip_code: '224016'
-  justification: Rector of Brest State University. Responsible for the expulsion of
-    students involved in protests following the December 2010 elections.
+  justification: Rector of Brest State University. Responsible for the expulsion of students involved in protests following the December 2010 elections.

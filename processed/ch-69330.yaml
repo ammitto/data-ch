@@ -1,4 +1,3 @@
----
 ssid: '69330'
 sanctions_set_id: '27286'
 individual:
@@ -25,9 +24,4 @@ individual:
       year: 1970
     addresses:
     - address_details: Kostycheva Street, 45, apt. 99
-  justification: Lieutenant General Sergey Burakov is Commander of the North-Western
-    District of the Russian National Guard. He also took part in Russia’s war of aggression
-    against Ukraine, including the capture of the Chernobyl nuclear power plant. Therefore,
-    Lieutenant General Sergey Burakov is supporting and implementing actions and policies
-    which undermine and threaten the territorial integrity, sovereignty and independence
-    of Ukraine.
+  justification: Lieutenant General Sergey Burakov is Commander of the North-Western District of the Russian National Guard. He also took part in Russia’s war of aggression against Ukraine, including the capture of the Chernobyl nuclear power plant. Therefore, Lieutenant General Sergey Burakov is supporting and implementing actions and policies which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.

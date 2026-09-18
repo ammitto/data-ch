@@ -1,4 +1,3 @@
----
 ssid: '101095'
 sanctions_set_id: '8174'
 entity:
@@ -38,6 +37,4 @@ entity:
       year: 2009
     addresses:
     - address_details: Asseman Tower, Pasdaran Street, Shahid Sayyade Shirazee Square
-  justification: Safiran Payam Darya Shipping Company (Sapid Shipping Company) is
-    an Iranian shipping company owned and controlled by Islamic Republic of Iran Shipping
-    Lines (IRISL), performing various services for the entity.
+  justification: Safiran Payam Darya Shipping Company (Sapid Shipping Company) is an Iranian shipping company owned and controlled by Islamic Republic of Iran Shipping Lines (IRISL), performing various services for the entity.

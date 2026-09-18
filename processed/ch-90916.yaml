@@ -1,4 +1,3 @@
----
 ssid: '90916'
 sanctions_set_id: '4387'
 entity:
@@ -19,7 +18,4 @@ entity:
       year: 2020
     addresses:
     - address_details: Platonava 20b
-  justification: Ridotto LLC is a Belarusian IT company specialising in online gambling
-    application development. Alexander Shatrov, who has been sanctioned by the Union
-    since 21 June 2021 for benefiting from and supporting the Lukashenka regime, owns
-    49,99 % of its shares.
+  justification: Ridotto LLC is a Belarusian IT company specialising in online gambling application development. Alexander Shatrov, who has been sanctioned by the Union since 21 June 2021 for benefiting from and supporting the Lukashenka regime, owns 49,99 % of its shares.

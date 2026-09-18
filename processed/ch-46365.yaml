@@ -1,4 +1,3 @@
----
 ssid: '46365'
 sanctions_set_id: '27286'
 individual:
@@ -26,5 +25,4 @@ individual:
     addresses:
     - address_details: Pushkinskaya Ulitsa, 72А
       zip_code: '344022'
-  justification: Prosecutor of the Military Prosecutor’s Office of the Southern Military
-    District of the Russian Federation in Rostov-on-Don.
+  justification: Prosecutor of the Military Prosecutor’s Office of the Southern Military District of the Russian Federation in Rostov-on-Don.

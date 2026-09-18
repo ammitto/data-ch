@@ -1,4 +1,3 @@
----
 ssid: '11186'
 sanctions_set_id: '8174'
 individual:
@@ -16,6 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Anis
-  justification: Former administrator of Barzagani Tejarat Tavanmad Saccal companies;
-    his company has attempted to procure sensitive goods for entities designated under
-    Resolution 1737 (2006).
+  justification: Former administrator of Barzagani Tejarat Tavanmad Saccal companies; his company has attempted to procure sensitive goods for entities designated under Resolution 1737 (2006).

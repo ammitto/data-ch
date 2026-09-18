@@ -1,4 +1,3 @@
----
 ssid: '44237'
 sanctions_set_id: '4387'
 individual:
@@ -19,9 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Aliaksandravich
-  justification: In his position as judge of the Sovetsky district court in Gomel/Homyel,
-    he is responsible for numerous politically motivated rulings against journalists,
-    activists and protesters. Violations of rights of defence were reported during
-    trials conducted under his supervision. He is therefore responsible for human
-    rights violations and undermining the rule of law, as well as for contributing
-    to the repression of civil society and democratic opposition.
+  justification: In his position as judge of the Sovetsky district court in Gomel/Homyel, he is responsible for numerous politically motivated rulings against journalists, activists and protesters. Violations of rights of defence were reported during trials conducted under his supervision. He is therefore responsible for human rights violations and undermining the rule of law, as well as for contributing to the repression of civil society and democratic opposition.

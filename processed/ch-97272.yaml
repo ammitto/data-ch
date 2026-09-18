@@ -1,4 +1,3 @@
----
 ssid: '97272'
 sanctions_set_id: '3984'
 individual:
@@ -40,5 +39,4 @@ individual:
       day: 27
       month: 7
       year: 1973
-  justification: AEOI official involved in the heavy water research reactor project
-    at Arak.
+  justification: AEOI official involved in the heavy water research reactor project at Arak.

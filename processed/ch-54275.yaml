@@ -1,4 +1,3 @@
----
 ssid: '54275'
 sanctions_set_id: '27286'
 entity:
@@ -23,5 +22,4 @@ entity:
     addresses:
     - address_details: Bolshaya Tatarskaya Str. 35/5
       zip_code: '115184'
-  justification: Tecmash Concern is a key designer and manufacturer of missiles and
-    munitions used by the Russian armed forces. It is a Rostec subsidiary.
+  justification: Tecmash Concern is a key designer and manufacturer of missiles and munitions used by the Russian armed forces. It is a Rostec subsidiary.

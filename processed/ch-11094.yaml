@@ -1,4 +1,3 @@
----
 ssid: '11094'
 sanctions_set_id: '8174'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Mojtaba
-  justification: Engineer; MODAFL Deputy for Industry. Supervisory role over AIO and
-    DIO.
+  justification: Engineer; MODAFL Deputy for Industry. Supervisory role over AIO and DIO.

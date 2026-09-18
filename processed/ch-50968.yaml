@@ -1,4 +1,3 @@
----
 ssid: '50968'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 16
       month: 5
       year: 1969
-  justification: Andrey Sychevoy is Lieutenant General and on 24 February 2022 he
-    was Commander of the 8th Guards Combined Arms Army of the Southern Military District,
-    which has been involved in military actions against Ukraine. In July 2022 he was
-    named as commander of Russia’s group of forces “Zapad” operating in Ukraine.
+  justification: Andrey Sychevoy is Lieutenant General and on 24 February 2022 he was Commander of the 8th Guards Combined Arms Army of the Southern Military District, which has been involved in military actions against Ukraine. In July 2022 he was named as commander of Russia’s group of forces “Zapad” operating in Ukraine.

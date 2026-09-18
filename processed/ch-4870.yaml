@@ -1,4 +1,3 @@
----
 ssid: '4870'
 sanctions_set_id: '4387'
 individual:
@@ -19,6 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Kanstantsinavich
-  justification: Has been actively involved in the repression of civil society in
-    Belarus. As a former Deputy Head of the KGB, he was responsible for the repressive
-    work of the KGB against civil society and democratic opposition.
+  justification: Has been actively involved in the repression of civil society in Belarus. As a former Deputy Head of the KGB, he was responsible for the repressive work of the KGB against civil society and democratic opposition.

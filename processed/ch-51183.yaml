@@ -1,4 +1,3 @@
----
 ssid: '51183'
 sanctions_set_id: '27286'
 individual:
@@ -19,7 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Viktorovich
-  justification: Aleksandr Viktorovich Naumenko has held the position of Commander
-    of the Troops of the North-Western Operational Command of Belarus. In July 2024,
-    Alexander Naumenko was appointed as Deputy Minister of Defence of the Republic
-    of Belarus.
+  justification: Aleksandr Viktorovich Naumenko has held the position of Commander of the Troops of the North-Western Operational Command of Belarus. In July 2024, Alexander Naumenko was appointed as Deputy Minister of Defence of the Republic of Belarus.

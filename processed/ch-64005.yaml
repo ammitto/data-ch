@@ -1,4 +1,3 @@
----
 ssid: '64005'
 sanctions_set_id: '29445'
 entity:
@@ -34,6 +33,5 @@ entity:
       zip_code: '141402'
     - address_details: Yurovskaya Str., 92, Suite I, Room 40
       zip_code: '125466'
-    - address_details: Territory of Sheremetyevo Airport, Property 5, 3rd Floor, Office
-        321
+    - address_details: Territory of Sheremetyevo Airport, Property 5, 3rd Floor, Office 321
       zip_code: '141402'

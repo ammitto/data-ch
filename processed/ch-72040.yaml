@@ -1,4 +1,3 @@
----
 ssid: '72040'
 sanctions_set_id: '27286'
 individual:
@@ -23,10 +22,4 @@ individual:
       day: 6
       month: 8
       year: 1964
-  justification: Igor Makushev is a high-ranking official in the Russian military
-    and Director of JSC MAK Vympel. JSC MAK Vympel (a.k.a. Public Joint Stock Company
-    Vympel Interstate Corporation) is a Russian military-industrial state enterprise
-    that develops antiballistic missile systems and space control systems deployed
-    by the Russian Armed Forces. Moreover, JSC MAK Vympel is part of the Almaz-Antey
-    concern, a Russian state-owned arms manufacturer that develops anti-aircraft defence
-    and cruise missile systems for the Russian military.
+  justification: Igor Makushev is a high-ranking official in the Russian military and Director of JSC MAK Vympel. JSC MAK Vympel (a.k.a. Public Joint Stock Company Vympel Interstate Corporation) is a Russian military-industrial state enterprise that develops antiballistic missile systems and space control systems deployed by the Russian Armed Forces. Moreover, JSC MAK Vympel is part of the Almaz-Antey concern, a Russian state-owned arms manufacturer that develops anti-aircraft defence and cruise missile systems for the Russian military.

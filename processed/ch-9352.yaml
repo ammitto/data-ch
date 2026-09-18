@@ -1,4 +1,3 @@
----
 ssid: '9352'
 sanctions_set_id: '8174'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Oil Turbo Compressor Company (OTC)
     addresses:
     - address_details: No. 12 Saee Alley Vali E Asr Street
-  justification: Affiliated to EU-designated Sakhte Turbopomp va Kompressor (SATAK)
-    (a.k.a. Turbo Compressor Manufacturer, TCMFG).
+  justification: Affiliated to EU-designated Sakhte Turbopomp va Kompressor (SATAK) (a.k.a. Turbo Compressor Manufacturer, TCMFG).

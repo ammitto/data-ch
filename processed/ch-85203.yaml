@@ -1,4 +1,3 @@
----
 ssid: '85203'
 sanctions_set_id: '4387'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 13
       month: 4
       year: 1974
-  justification: Vadzim Mazol is a Belarusian judge of the Pruzhany District Court
-    of the Brest Region. He was appointed by Aliaksandr Lukashenka. He issued sentences
-    against a large number of citizens of Belarus who voiced their opinions against
-    the President and the regime’s law enforcement authorities, including on social
-    media.
+  justification: Vadzim Mazol is a Belarusian judge of the Pruzhany District Court of the Brest Region. He was appointed by Aliaksandr Lukashenka. He issued sentences against a large number of citizens of Belarus who voiced their opinions against the President and the regime’s law enforcement authorities, including on social media.

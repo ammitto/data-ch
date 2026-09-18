@@ -1,4 +1,3 @@
----
 ssid: '8790'
 sanctions_set_id: '3984'
 individual:
@@ -16,6 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Amir
-  justification: Head of Esfahan Nuclear Fuel Research and Production Center (E.47.A.2.),
-    which is part of the AEOI’s Nuclear Fuel Production and Procurement Company, which
-    is involved in enrichment related activities.
+  justification: Head of Esfahan Nuclear Fuel Research and Production Center (E.47.A.2.), which is part of the AEOI’s Nuclear Fuel Production and Procurement Company, which is involved in enrichment related activities.

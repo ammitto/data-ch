@@ -1,4 +1,3 @@
----
 ssid: '63276'
 sanctions_set_id: '27286'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 30
       month: 4
       year: 1956
-  justification: Rifat Sabitov is the Deputy Director General of All-Russia Television
-    and Radio Broadcasting Company (VGTRK), Russia’s largest media corporation. During
-    the war against Ukraine, TV channels and other parts of VGTRK holding have been
-    among the most active and important instruments in spreading the Kremlin narrative
-    and supporting the war with aggressive commentaries and unverified information.
+  justification: Rifat Sabitov is the Deputy Director General of All-Russia Television and Radio Broadcasting Company (VGTRK), Russia’s largest media corporation. During the war against Ukraine, TV channels and other parts of VGTRK holding have been among the most active and important instruments in spreading the Kremlin narrative and supporting the war with aggressive commentaries and unverified information.

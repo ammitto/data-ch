@@ -1,4 +1,3 @@
----
 ssid: '65767'
 sanctions_set_id: '3984'
 individual:
@@ -18,6 +17,4 @@ individual:
         value: Naser
     day_month_year:
       year: 1960
-  justification: Head of Shahid Hemmat Industrial Group (SHIG), which is designated
-    under resolution 1737 (2006) for its role in Iran's ballistic missile programme
-    (designated under IRe.067).
+  justification: Head of Shahid Hemmat Industrial Group (SHIG), which is designated under resolution 1737 (2006) for its role in Iran's ballistic missile programme (designated under IRe.067).

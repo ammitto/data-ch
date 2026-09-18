@@ -1,4 +1,3 @@
----
 ssid: '101122'
 sanctions_set_id: '8174'
 entity:
@@ -31,5 +30,4 @@ entity:
     - address_details: No 119, Corner Shabnam Alley, Shoaa Square, Ghaem Magam Farahani
     - address_details: Abyar Alley, Corner of Shahid Azodi St. & Karim Khan Zand Ave.
     - address_details: Shahid Azodi St., Karim Khan Zand Ave., Abiar Alley
-  justification: Valfajr 8th Shipping Line is owned and controlled by Islamic Republic
-    of Iran Shipping Lines (IRISL).
+  justification: Valfajr 8th Shipping Line is owned and controlled by Islamic Republic of Iran Shipping Lines (IRISL).

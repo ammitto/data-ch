@@ -1,4 +1,3 @@
----
 ssid: '58267'
 sanctions_set_id: '27286'
 entity:
@@ -20,10 +19,4 @@ entity:
     addresses:
     - address_details: Prechistenskaya embankment 13, building 1
       zip_code: '119034'
-  justification: National Media Group is a media holding, controlling 28 media enterprises
-    in Russia, including Channel One, Channel 5, REN TV and STS, 78.ru, the national
-    newspaper Izvestia, Delovoy Peterburg and other outlets. It is owned by Bank Rossiya,
-    whose main shareholder is Yuriy Kovalchuk. NMG chairman of the board is Alina
-    Kabaeva. NMG is therefore associated with persons and entities under restrictive
-    measures in respect of actions undermining or threatening the territorial integrity,
-    sovereignty and independence of Ukraine.
+  justification: National Media Group is a media holding, controlling 28 media enterprises in Russia, including Channel One, Channel 5, REN TV and STS, 78.ru, the national newspaper Izvestia, Delovoy Peterburg and other outlets. It is owned by Bank Rossiya, whose main shareholder is Yuriy Kovalchuk. NMG chairman of the board is Alina Kabaeva. NMG is therefore associated with persons and entities under restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.

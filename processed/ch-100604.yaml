@@ -1,4 +1,3 @@
----
 ssid: '100604'
 sanctions_set_id: '4387'
 entity:
@@ -32,8 +31,4 @@ entity:
     addresses:
     - address_details: S. Kovalevskaya Lane, 62, room 16
       zip_code: '220014'
-  justification: Horizont Holding is a Belarusian holding company. Horizont Holding
-    is one of the largest and most dynamically developing diversified holdings in
-    the Republic of Belarus, covering a wide range of business areas. It has been
-    described as one of the flagships of Minsk industry. Horizont Holding’s projects
-    are being implemented with the instructions of Aliaksandr Lukashenka.
+  justification: Horizont Holding is a Belarusian holding company. Horizont Holding is one of the largest and most dynamically developing diversified holdings in the Republic of Belarus, covering a wide range of business areas. It has been described as one of the flagships of Minsk industry. Horizont Holding’s projects are being implemented with the instructions of Aliaksandr Lukashenka.

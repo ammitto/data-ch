@@ -1,4 +1,3 @@
----
 ssid: '102134'
 sanctions_set_id: '13065'
 entity:
@@ -39,10 +38,6 @@ entity:
       month: 10
       year: 2004
     addresses:
-    - address_details: No. 62, 1st floor, Shahid Farshad ayyazi (9th), Shahid Abdolhamid
-        Sabunchi St., Shahid Beheshti Ave.
+    - address_details: No. 62, 1st floor, Shahid Farshad ayyazi (9th), Shahid Abdolhamid Sabunchi St., Shahid Beheshti Ave.
       zip_code: '1533763811'
-  justification: Douran Software Technologies is an Iranian software company involved
-    in internet blocking and censoring activities. It provides traffic analysis tools
-    and censorship, internet filtering and blocking of VPN equipment to Iranian internet
-    providers.
+  justification: Douran Software Technologies is an Iranian software company involved in internet blocking and censoring activities. It provides traffic analysis tools and censorship, internet filtering and blocking of VPN equipment to Iranian internet providers.

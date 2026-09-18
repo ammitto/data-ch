@@ -1,4 +1,3 @@
----
 ssid: '64769'
 sanctions_set_id: '38066'
 individual:
@@ -26,5 +25,4 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Le petit loup de la montagne
-  justification: Justin Maki Gesi holds a leading position as Commander of the ALC/CODECO,
-    a non-governmental armed group operating in North-Eastern DRC (especially Ituri).
+  justification: Justin Maki Gesi holds a leading position as Commander of the ALC/CODECO, a non-governmental armed group operating in North-Eastern DRC (especially Ituri).

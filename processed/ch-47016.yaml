@@ -1,4 +1,3 @@
----
 ssid: '47016'
 sanctions_set_id: '27286'
 individual:
@@ -25,5 +24,4 @@ individual:
       year: 1981
     addresses:
     - address_details: Raskolnikova 11 app. 5
-  justification: Sergey Shcherbakov is a freelance employee of the Russian GRU and
-    a Wagner Group mercenary.
+  justification: Sergey Shcherbakov is a freelance employee of the Russian GRU and a Wagner Group mercenary.

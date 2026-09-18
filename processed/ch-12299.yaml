@@ -1,4 +1,3 @@
----
 ssid: '12299'
 sanctions_set_id: '3986'
 individual:
@@ -18,5 +17,4 @@ individual:
         value: al-Sari
     day_month_year:
       year: 1953
-  justification: Former Minister of State under the former al-Assad regime. Associated
-    with the former al-Assad regime and its violent repression of the civilian population.
+  justification: Former Minister of State under the former al-Assad regime. Associated with the former al-Assad regime and its violent repression of the civilian population.

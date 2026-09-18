@@ -1,4 +1,3 @@
----
 ssid: '58500'
 sanctions_set_id: '27286'
 individual:
@@ -30,11 +29,4 @@ individual:
       day: 4
       month: 4
       year: 1977
-  justification: Mikhail Frolov is the editor-in-chief of REN TV – a Russian TV station,
-    which is spreading state propaganda and disinformation related to Russia’s war
-    of aggression against Ukraine. He was included in the list of ‘1500 warmongers’
-    compiled by the Free Russia Forum. Mikhail Frolov is also the first deputy director
-    and editor-in-chief of Multimedia Information Center Izvestia LLC, which is providing
-    news coverage for REN TV. He is therefore supporting actions or policies which
-    undermine or threaten the territorial integrity, sovereignty and independence
-    of Ukraine.
+  justification: Mikhail Frolov is the editor-in-chief of REN TV – a Russian TV station, which is spreading state propaganda and disinformation related to Russia’s war of aggression against Ukraine. He was included in the list of ‘1500 warmongers’ compiled by the Free Russia Forum. Mikhail Frolov is also the first deputy director and editor-in-chief of Multimedia Information Center Izvestia LLC, which is providing news coverage for REN TV. He is therefore supporting actions or policies which undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.

@@ -1,4 +1,3 @@
----
 ssid: '56135'
 sanctions_set_id: '27286'
 individual:
@@ -23,9 +22,4 @@ individual:
       day: 1
       month: 12
       year: 1976
-  justification: So-called representative of the main council of Zaporizhzhia region’s
-    military-civil administration. He has advocated against Ukrainian authorities
-    and in favour of the Zaporizhzhia region becoming part of the Russian Federation.
-    He has also facilitated the issuance of Russian passports in the city of Melitopol
-    and actively supported the annexation of the Zaporizhzhia region by the Russian
-    Federation, including through the energy infrastructure.
+  justification: So-called representative of the main council of Zaporizhzhia region’s military-civil administration. He has advocated against Ukrainian authorities and in favour of the Zaporizhzhia region becoming part of the Russian Federation. He has also facilitated the issuance of Russian passports in the city of Melitopol and actively supported the annexation of the Zaporizhzhia region by the Russian Federation, including through the energy infrastructure.

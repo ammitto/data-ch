@@ -1,4 +1,3 @@
----
 ssid: '71790'
 sanctions_set_id: '27286'
 entity:
@@ -41,8 +40,4 @@ entity:
     addresses:
     - address_details: Moskovskoe highway, no. 94
       zip_code: '432008'
-  justification: JSC UMZ is a Russian military-industrial state enterprise that develops
-    missile systems, including the Buk-M2 missile system, deployed by the Russian
-    Armed Forces. Moreover, JSC UMZ is part of the Almaz-Antey concern, a Russian
-    state-owned arms manufacturer that develops anti-aircraft defence and cruise missile
-    systems for the Russian military.
+  justification: JSC UMZ is a Russian military-industrial state enterprise that develops missile systems, including the Buk-M2 missile system, deployed by the Russian Armed Forces. Moreover, JSC UMZ is part of the Almaz-Antey concern, a Russian state-owned arms manufacturer that develops anti-aircraft defence and cruise missile systems for the Russian military.

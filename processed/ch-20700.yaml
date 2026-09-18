@@ -1,4 +1,3 @@
----
 ssid: '20700'
 sanctions_set_id: '3980'
 individual:
@@ -20,6 +19,4 @@ individual:
       day: 8
       month: 7
       year: 1954
-  justification: Former close collaborator of Colonel Qadhafi, former senior role
-    in security services and director of radio and television. Closely associated
-    with the former regime of Muammar Qadhafi.
+  justification: Former close collaborator of Colonel Qadhafi, former senior role in security services and director of radio and television. Closely associated with the former regime of Muammar Qadhafi.

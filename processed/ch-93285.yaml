@@ -1,4 +1,3 @@
----
 ssid: '93285'
 sanctions_set_id: '27286'
 entity:
@@ -27,9 +26,4 @@ entity:
     addresses:
     - address_details: Partizanski ave, 150
       zip_code: '220021'
-  justification: Minsk Wheel Tractor Plant is a Belarusian military industry company
-    that develops military vehicles for the Russian Armed Forces and is supporting
-    Russia’s defence capabilities. In 2024 alone, the total export volume of the company
-    was 306 wagons of military equipment, mostly provided to Russian enterprises belonging
-    to the military and industrial complex of the Russian Federation. The company
-    continued to export military equipment to the Russian Federation in 2025.
+  justification: Minsk Wheel Tractor Plant is a Belarusian military industry company that develops military vehicles for the Russian Armed Forces and is supporting Russia’s defence capabilities. In 2024 alone, the total export volume of the company was 306 wagons of military equipment, mostly provided to Russian enterprises belonging to the military and industrial complex of the Russian Federation. The company continued to export military equipment to the Russian Federation in 2025.

@@ -1,4 +1,3 @@
----
 ssid: '6813'
 sanctions_set_id: '6094'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: S.
-  justification: Directly involved in the terror campaign waged before and during
-    the elections in 2008 in Mutare and the Highlands.
+  justification: Directly involved in the terror campaign waged before and during the elections in 2008 in Mutare and the Highlands.

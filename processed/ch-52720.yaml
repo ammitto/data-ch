@@ -1,4 +1,3 @@
----
 ssid: '52720'
 sanctions_set_id: '29445'
 entity:
@@ -12,8 +11,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: United Shipbuilding Corporation “Scientific Research Design Technological
-          Bureau Onega”
+        value: United Shipbuilding Corporation “Scientific Research Design Technological Bureau Onega”
     - name_type: alias
       quality: good
       lang: eng
@@ -34,8 +32,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Акционерное Общество «Научно-Исследовательское Проектно-Технологическое
-          Бюро «Онега»
+        value: Акционерное Общество «Научно-Исследовательское Проектно-Технологическое Бюро «Онега»
     addresses:
     - address_details: Proezd Mashinostroiteley., 12
       zip_code: '164509'

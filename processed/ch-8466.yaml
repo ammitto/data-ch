@@ -1,4 +1,3 @@
----
 ssid: '8466'
 sanctions_set_id: '3984'
 entity:
@@ -13,5 +12,4 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Khorasan Metallurgy Industries
-  justification: Subsidiary of AMIG which depends on DIO. Involved in the production
-    of centrifuges components.
+  justification: Subsidiary of AMIG which depends on DIO. Involved in the production of centrifuges components.

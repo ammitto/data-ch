@@ -1,4 +1,3 @@
----
 ssid: '55313'
 sanctions_set_id: '27286'
 individual:
@@ -20,9 +19,4 @@ individual:
       day: 7
       month: 10
       year: 1968
-  justification: Petr Akopov is a Russian propagandist and columnist at RIA Novosti,
-    a Russian State-owned domestic news agency under the effective State control of
-    Rossiya Segodnya. He is a central figure in Government propaganda and has authored
-    articles denying Ukraine’s right to statehood and calls for the ‘denazification’
-    as well as the ‘de-Ukrainisation’ of the country, promoting the idea that Ukraine
-    should be an integral part of Russia.
+  justification: Petr Akopov is a Russian propagandist and columnist at RIA Novosti, a Russian State-owned domestic news agency under the effective State control of Rossiya Segodnya. He is a central figure in Government propaganda and has authored articles denying Ukraine’s right to statehood and calls for the ‘denazification’ as well as the ‘de-Ukrainisation’ of the country, promoting the idea that Ukraine should be an integral part of Russia.

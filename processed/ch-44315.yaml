@@ -1,4 +1,3 @@
----
 ssid: '44315'
 sanctions_set_id: '4387'
 entity:
@@ -15,10 +14,4 @@ entity:
         value: GHU – Main Economic Department of the Presidential Administration
     addresses:
     - address_details: Miasnikova str. 37
-  justification: Main Economic Department (GHU) of the Presidential Administration
-    is the largest operator on the non-residential real estate market in the Republic
-    of Belarus and a supervisor of numerous companies. Victor Sheiman, who as the
-    former head of the Belarus President Property Management Directorate exercised
-    direct control over GHU, was asked by President Aliaksandr Lukashenka to supervise
-    the safety of the 2020 presidential elections. GHU is therefore benefitting from
-    its association with and supporting the Lukashenka regime.
+  justification: Main Economic Department (GHU) of the Presidential Administration is the largest operator on the non-residential real estate market in the Republic of Belarus and a supervisor of numerous companies. Victor Sheiman, who as the former head of the Belarus President Property Management Directorate exercised direct control over GHU, was asked by President Aliaksandr Lukashenka to supervise the safety of the 2020 presidential elections. GHU is therefore benefitting from its association with and supporting the Lukashenka regime.

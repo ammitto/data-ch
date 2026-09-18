@@ -1,4 +1,3 @@
----
 ssid: '33948'
 sanctions_set_id: '3978'
 entity:
@@ -56,8 +55,7 @@ entity:
         name_part_type: whole-name
         value: Division 39
     addresses:
-    - address_details: Second KWP Government Building (Korean –Ch’o’ngsa, Urban Town
-        (Korean-Dong), Chung Ward
+    - address_details: Second KWP Government Building (Korean –Ch’o’ngsa, Urban Town (Korean-Dong), Chung Ward
     - address_details: Chung-Guyok (Central District), Sosong Street, Kyongrim-Dong
     - address_details: Changwang Street
   justification: DPRK government entity.

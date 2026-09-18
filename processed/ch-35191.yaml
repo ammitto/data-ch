@@ -1,4 +1,3 @@
----
 ssid: '35191'
 sanctions_set_id: '3986'
 individual:
@@ -44,9 +43,4 @@ individual:
       day: 3
       month: 7
       year: 1955
-  justification: Holds the ranks of Major General, Head of the Syrian Artillery and
-    Missiles Directorate of the Syrian Armed Forces under the former al-Assad regime,
-    in post after May 2011. As a senior ranking officer of the Syrian Artillery and
-    Missile Directorate, he is responsible for the violent repression of the civilian
-    population, including the deployment of missiles and chemical weapons by Brigades
-    under his command in highly populated civilian areas in Ghouta in 2013.
+  justification: Holds the ranks of Major General, Head of the Syrian Artillery and Missiles Directorate of the Syrian Armed Forces under the former al-Assad regime, in post after May 2011. As a senior ranking officer of the Syrian Artillery and Missile Directorate, he is responsible for the violent repression of the civilian population, including the deployment of missiles and chemical weapons by Brigades under his command in highly populated civilian areas in Ghouta in 2013.

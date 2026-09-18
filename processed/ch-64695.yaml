@@ -1,4 +1,3 @@
----
 ssid: '64695'
 sanctions_set_id: '27286'
 entity:
@@ -20,12 +19,4 @@ entity:
     addresses:
     - address_details: str. Krzhizhanovskoy, d.13, str.2
       zip_code: '117218'
-  justification: The Institute of the Russian Diaspora is a GRU front organisation
-    and an integral part of Inforos’s online disinformation network. It was co-founded
-    by Inforos-founder Denis Tyurin. Additionally, Denis Tyurin has registered the
-    official propaganda website of the Institute himself, using an official Inforos
-    email address. The Institute owns an online media presence called russkie.org
-    which disseminates Russian disinformation and propaganda about the war of aggression
-    against Ukraine. Therefore, the Institute of the Russian diaspora is materially
-    supporting actions and policies which undermine and threaten the territorial integrity,
-    sovereignty and independence of Ukraine.
+  justification: The Institute of the Russian Diaspora is a GRU front organisation and an integral part of Inforos’s online disinformation network. It was co-founded by Inforos-founder Denis Tyurin. Additionally, Denis Tyurin has registered the official propaganda website of the Institute himself, using an official Inforos email address. The Institute owns an online media presence called russkie.org which disseminates Russian disinformation and propaganda about the war of aggression against Ukraine. Therefore, the Institute of the Russian diaspora is materially supporting actions and policies which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.

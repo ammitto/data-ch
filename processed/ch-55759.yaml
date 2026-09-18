@@ -1,4 +1,3 @@
----
 ssid: '55759'
 sanctions_set_id: '29445'
 entity:
@@ -12,8 +11,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Tactical Missile Company, Joint Stock Company “State Machine Building
-          Design Bureau ‘Vympel’ By Name I.I.Toropov”
+        value: Tactical Missile Company, Joint Stock Company “State Machine Building Design Bureau ‘Vympel’ By Name I.I.Toropov”
     - name_type: alias
       quality: good
       lang: eng
@@ -34,8 +32,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: JSC State Machine-Building Construction Bureau “Vympel” named after
-          I.I. Toropov JSC
+        value: JSC State Machine-Building Construction Bureau “Vympel” named after I.I. Toropov JSC
     addresses:
     - address_details: Volokolamskoe Shosse, 90
       zip_code: '125424'

@@ -1,4 +1,3 @@
----
 ssid: '75223'
 sanctions_set_id: '27286'
 entity:
@@ -23,10 +22,4 @@ entity:
     addresses:
     - address_details: Bolshaya Novodmitrovskaya str. 12
       zip_code: '127015'
-  justification: JSC Aeroelektromash has years-long experience in the design of electrical
-    equipment for aviation and space engineering. It engages in the development, manufacture
-    and repair of electrical equipment and automatic control systems for domestic
-    aviation materiel. The design bureau of JSC Aeroelektromash has unique in-house
-    developments in the field of power generation systems and their units for airborne
-    vehicles, such as generators, switching and control equipment in the area of various-purpose
-    electric drives, including hoisting and transportation equipment.
+  justification: JSC Aeroelektromash has years-long experience in the design of electrical equipment for aviation and space engineering. It engages in the development, manufacture and repair of electrical equipment and automatic control systems for domestic aviation materiel. The design bureau of JSC Aeroelektromash has unique in-house developments in the field of power generation systems and their units for airborne vehicles, such as generators, switching and control equipment in the area of various-purpose electric drives, including hoisting and transportation equipment.

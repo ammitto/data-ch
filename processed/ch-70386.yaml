@@ -1,4 +1,3 @@
----
 ssid: '70386'
 sanctions_set_id: '27286'
 entity:
@@ -34,10 +33,4 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Gazprom PMC
-  justification: PMC Fakel is a Russian private military company that participates
-    in Russian combat operations in Ukraine. Created and financed by Russian energy
-    corporation Gazprom, the volunteer battalions of PMC Fakel consist mostly of Gazprom
-    employees, predominantly working in the security guard branch. The volunteer battalions
-    of PMC Fakel directly contribute to Russia’s war of aggression against Ukraine.
-    Therefore, PMC Fakel is supporting materially actions which undermine and threaten
-    the territorial integrity, sovereignty and independence of Ukraine.
+  justification: PMC Fakel is a Russian private military company that participates in Russian combat operations in Ukraine. Created and financed by Russian energy corporation Gazprom, the volunteer battalions of PMC Fakel consist mostly of Gazprom employees, predominantly working in the security guard branch. The volunteer battalions of PMC Fakel directly contribute to Russia’s war of aggression against Ukraine. Therefore, PMC Fakel is supporting materially actions which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.

@@ -1,4 +1,3 @@
----
 ssid: '75217'
 sanctions_set_id: '27286'
 individual:
@@ -19,9 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Nikolaevich
-  justification: Vadim Merkulov is Head of the Expert Unit of the Federal Security
-    Service (FSB) of the Russian Federation for Crimea and Sevastopol. In his position,
-    he prosecuted Amet Suleymanov, member of the Crimean Tatars, and other Crimean
-    political prisoners. He is therefore supporting and implementing actions and policies
-    which undermine and threaten the territorial integrity, sovereignty and independence
-    of Ukraine.
+  justification: Vadim Merkulov is Head of the Expert Unit of the Federal Security Service (FSB) of the Russian Federation for Crimea and Sevastopol. In his position, he prosecuted Amet Suleymanov, member of the Crimean Tatars, and other Crimean political prisoners. He is therefore supporting and implementing actions and policies which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.

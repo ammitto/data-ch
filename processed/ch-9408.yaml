@@ -1,4 +1,3 @@
----
 ssid: '9408'
 sanctions_set_id: '8174'
 entity:
@@ -70,9 +69,5 @@ entity:
         name_part_type: whole-name
         value: Automation Raad Khavar Mianeh Nabbet Co
     addresses:
-    - address_details: Unit 1, No 35, Bouali Sina Sharghi, Chehel Sotoun Street, Fatemi
-        Square
-  justification: A company involved in procurement of inverters for Iran’s proscribed
-    enrichment programme. Raad Iran was established to produce and design controlling
-    systems and provides the sale and installation of inverters and programmable Logic
-    Controllers.
+    - address_details: Unit 1, No 35, Bouali Sina Sharghi, Chehel Sotoun Street, Fatemi Square
+  justification: A company involved in procurement of inverters for Iran’s proscribed enrichment programme. Raad Iran was established to produce and design controlling systems and provides the sale and installation of inverters and programmable Logic Controllers.

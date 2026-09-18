@@ -1,4 +1,3 @@
----
 ssid: '51162'
 sanctions_set_id: '27286'
 individual:
@@ -23,6 +22,4 @@ individual:
       day: 31
       month: 10
       year: 1978
-  justification: Vitaly Fridrikhovich Kilchevsky is the Head of the Armoured Vehicles
-    Directorate of the Ministry of Defence He is the former Deputy Commander for Armaments
-    and the former Head of Armaments of Belarus.
+  justification: Vitaly Fridrikhovich Kilchevsky is the Head of the Armoured Vehicles Directorate of the Ministry of Defence He is the former Deputy Commander for Armaments and the former Head of Armaments of Belarus.

@@ -1,4 +1,3 @@
----
 ssid: '89290'
 sanctions_set_id: '29445'
 entity:
@@ -28,6 +27,5 @@ entity:
         name_part_type: whole-name
         value: MEIXIN ELECT
     addresses:
-    - address_details: Room 1005(B), 10/F, Ho Kong Commercial Center, 2-16 Fa Yuen
-        St., Mong Kok
+    - address_details: Room 1005(B), 10/F, Ho Kong Commercial Center, 2-16 Fa Yuen St., Mong Kok
     - address_details: Room 1D, 2/F, Fu Tao Building, 98 Argyle Street, Mongkok

@@ -1,4 +1,3 @@
----
 ssid: '78430'
 sanctions_set_id: '68945'
 individual:
@@ -20,8 +19,4 @@ individual:
       day: 14
       month: 8
       year: 1975
-  justification: Mehdi Gogerdchian is the managing director of EU-listed Iran Aircraft
-    Manufacturing Industries (HESA). The company is controlled by the EU-listed Iran
-    Aviation Industries Organization (IAIO), a subsidiary of the EU-listed Iranian
-    Ministry of Defence and Armed Forces Logistics (MODAFL), which is responsible
-    for planning and managing Iran’s military aviation industry.
+  justification: Mehdi Gogerdchian is the managing director of EU-listed Iran Aircraft Manufacturing Industries (HESA). The company is controlled by the EU-listed Iran Aviation Industries Organization (IAIO), a subsidiary of the EU-listed Iranian Ministry of Defence and Armed Forces Logistics (MODAFL), which is responsible for planning and managing Iran’s military aviation industry.

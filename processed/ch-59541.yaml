@@ -1,4 +1,3 @@
----
 ssid: '59541'
 sanctions_set_id: '29445'
 entity:
@@ -19,16 +18,14 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Филиал ПАО «ОДК-Сатурн» - Омское Моторостроительное Конструкторское
-          Бюро (ОМКБ)
+        value: Филиал ПАО «ОДК-Сатурн» - Омское Моторостроительное Конструкторское Бюро (ОМКБ)
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: FL UEC-Saturn – OMKB; Omsk Engine Design Bureau; Branch of PAO UEC-Saturn
-          Omsk Motor-Manufacturing Design Bureau
+        value: FL UEC-Saturn – OMKB; Omsk Engine Design Bureau; Branch of PAO UEC-Saturn Omsk Motor-Manufacturing Design Bureau
     addresses:
     - address_details: Okruzhnaya Road Str., 3
       zip_code: '644021'

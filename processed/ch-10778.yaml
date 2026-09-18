@@ -1,4 +1,3 @@
----
 ssid: '10778'
 sanctions_set_id: '8174'
 entity:
@@ -22,7 +21,4 @@ entity:
         value: Sysyem Wise Ltd
     addresses:
     - address_details: 15th Floor, Tower One, Lippo Centre, 89 Queensway
-  justification: System Wise Ltd is a Hong Kong based company, owned by Shallon Ltd,
-    whose ships are operated by Safiran Payam Darya Shipping Lines (SAPID) that took
-    over IRISL’s bulk services and routes and uses vessels previously owned and operated
-    by IRISL.
+  justification: System Wise Ltd is a Hong Kong based company, owned by Shallon Ltd, whose ships are operated by Safiran Payam Darya Shipping Lines (SAPID) that took over IRISL’s bulk services and routes and uses vessels previously owned and operated by IRISL.

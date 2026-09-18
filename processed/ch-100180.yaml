@@ -1,4 +1,3 @@
----
 ssid: '100180'
 sanctions_set_id: '8174'
 individual:
@@ -30,6 +29,4 @@ individual:
       day: 22
       month: 5
       year: 1952
-  justification: Dr. Hoseyn Faqihian contributed to the Iranian nuclear programme
-    as Director-General of the Nuclear Fuel Production Company and Deputy Director
-    of the AEOI.
+  justification: Dr. Hoseyn Faqihian contributed to the Iranian nuclear programme as Director-General of the Nuclear Fuel Production Company and Deputy Director of the AEOI.

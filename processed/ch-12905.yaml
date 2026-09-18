@@ -1,4 +1,3 @@
----
 ssid: '12905'
 sanctions_set_id: '12788'
 individual:
@@ -26,6 +25,4 @@ individual:
     day_month_year:
       year: 1952
     addresses:
-  justification: Married to Muammar Qadhafi since 1970. Significant personal wealth,
-    which could be used for regime purposes. Her sister Fatima Farkash is married
-    to Abdallah Sanussi, head of Libyan military intelligence.
+  justification: Married to Muammar Qadhafi since 1970. Significant personal wealth, which could be used for regime purposes. Her sister Fatima Farkash is married to Abdallah Sanussi, head of Libyan military intelligence.

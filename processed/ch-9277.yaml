@@ -1,4 +1,3 @@
----
 ssid: '9277'
 sanctions_set_id: '8174'
 entity:
@@ -31,6 +30,4 @@ entity:
       year: 1996
     addresses:
     - address_details: Pasdaran Av.
-  justification: Marine Industries is a subsidiary of the EU-listed Defense Industries
-    Organization (DIO), which is a subsidiary of EU-listed Iran’s Ministry of Defense
-    for Armed Forces Logistics (MODAFL).
+  justification: Marine Industries is a subsidiary of the EU-listed Defense Industries Organization (DIO), which is a subsidiary of EU-listed Iran’s Ministry of Defense for Armed Forces Logistics (MODAFL).

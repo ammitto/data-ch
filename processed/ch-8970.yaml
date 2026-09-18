@@ -1,4 +1,3 @@
----
 ssid: '8970'
 sanctions_set_id: '8174'
 entity:
@@ -20,5 +19,4 @@ entity:
       zip_code: KY1-1104
     - address_details: Rafi Alley, Vali Asr Avenue, Nader Alley
       zip_code: '15116'
-  justification: Cayman-based fund licensed by the Iranian Government for foreign
-    investment in the Tehran Stock Exchange.
+  justification: Cayman-based fund licensed by the Iranian Government for foreign investment in the Tehran Stock Exchange.

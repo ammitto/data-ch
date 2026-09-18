@@ -1,4 +1,3 @@
----
 ssid: '43896'
 sanctions_set_id: '3986'
 individual:
@@ -25,6 +24,4 @@ individual:
         value: Al-Zamil
     day_month_year:
       year: 1963
-  justification: Minister of Electricity under the former al-Assad regime. Appointed
-    in August 2020. As a Government Minister, shares responsibility for the former
-    al-Assad regime’s violent repression against the civilian population.
+  justification: Minister of Electricity under the former al-Assad regime. Appointed in August 2020. As a Government Minister, shares responsibility for the former al-Assad regime’s violent repression against the civilian population.

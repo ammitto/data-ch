@@ -1,4 +1,3 @@
----
 ssid: '104911'
 sanctions_set_id: '27286'
 entity:
@@ -23,9 +22,4 @@ entity:
     addresses:
     - address_details: Krasnozavodsk city, Rdultovsky square, 1
       zip_code: '141321'
-  justification: Joint Stock Company “Krasnozavodsky Chemical Plant” is one of the
-    largest enterprises of the military and industrial complex of Russia, located
-    in the Sergiev Posad city of the Moscow region. The plant specialises in the production
-    of explosives, gunpowder and ammunition components, including products for artillery,
-    multiple launch rocket systems (MLRS) and ballistic missiles including those used
-    in war against Ukraine.
+  justification: Joint Stock Company “Krasnozavodsky Chemical Plant” is one of the largest enterprises of the military and industrial complex of Russia, located in the Sergiev Posad city of the Moscow region. The plant specialises in the production of explosives, gunpowder and ammunition components, including products for artillery, multiple launch rocket systems (MLRS) and ballistic missiles including those used in war against Ukraine.

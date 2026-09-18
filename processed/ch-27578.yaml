@@ -1,4 +1,3 @@
----
 ssid: '27578'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 8
       month: 9
       year: 1955
-  justification: Chief of the General Staff of the Armed Forces of the Russian Federation,
-    First Deputy Minister of Defence of the Russian Federation, General of the Army.
-    Responsible for the massive deployment of Russian troops along the border with
-    Ukraine and Russia’s military attack against Ukraine in February 2022.
+  justification: Chief of the General Staff of the Armed Forces of the Russian Federation, First Deputy Minister of Defence of the Russian Federation, General of the Army. Responsible for the massive deployment of Russian troops along the border with Ukraine and Russia’s military attack against Ukraine in February 2022.

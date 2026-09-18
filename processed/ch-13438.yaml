@@ -1,4 +1,3 @@
----
 ssid: '13438'
 sanctions_set_id: '13065'
 individual:
@@ -16,6 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Mohamed
-  justification: Colonel and Deputy of IRGC technical and cyber intelligence and in
-    charge of the centre of analysis and fight against organised crime within the
-    Pasdaran. Responsible for the arrests and torture of bloggers/journalists.
+  justification: Colonel and Deputy of IRGC technical and cyber intelligence and in charge of the centre of analysis and fight against organised crime within the Pasdaran. Responsible for the arrests and torture of bloggers/journalists.

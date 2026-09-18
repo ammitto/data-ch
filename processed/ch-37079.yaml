@@ -1,4 +1,3 @@
----
 ssid: '37079'
 sanctions_set_id: '27286'
 entity:
@@ -23,11 +22,4 @@ entity:
     addresses:
     - address_details: Novyi Arbat str., 15, building 2
       zip_code: '119019'
-  justification: Contracting party with Siemens Gas Turbine Technologies OOO, OAO
-    "VO TPE" purchased gas turbines declared to be destined for a power plant in Taman,
-    Krasnodar region, Russian Federation, and as the contractor was responsible for
-    the transfer of the gas turbines to OOO "VO TPE" which in turn transferred them
-    to be installed in Crimea. This contributes to establishing an independent power
-    supply for Crimea and Sevastopol as a means of supporting their separation from
-    Ukraine, and undermines the territorial integrity, sovereignty and independence
-    of Ukraine.
+  justification: Contracting party with Siemens Gas Turbine Technologies OOO, OAO "VO TPE" purchased gas turbines declared to be destined for a power plant in Taman, Krasnodar region, Russian Federation, and as the contractor was responsible for the transfer of the gas turbines to OOO "VO TPE" which in turn transferred them to be installed in Crimea. This contributes to establishing an independent power supply for Crimea and Sevastopol as a means of supporting their separation from Ukraine, and undermines the territorial integrity, sovereignty and independence of Ukraine.

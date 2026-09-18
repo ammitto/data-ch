@@ -1,4 +1,3 @@
----
 ssid: '53010'
 sanctions_set_id: '27286'
 individual:
@@ -37,10 +36,4 @@ individual:
       day: 31
       month: 8
       year: 1986
-  justification: Ekaterina Vladimirovna Tikhonova is the daughter of President Vladimir
-    Putin. She has been Head of the new artificial intelligence institute at Moscow
-    State University, funded with state funds. She currently heads the Innopraktika
-    development initiative, funded by key Russian companies whose directors are members
-    of the inner circle of oligarchs close to President Putin. She is also co-chair
-    of the coordinating council for import substitutions at the Russian Union of Industrialists
-    and Entrepreneurs.
+  justification: Ekaterina Vladimirovna Tikhonova is the daughter of President Vladimir Putin. She has been Head of the new artificial intelligence institute at Moscow State University, funded with state funds. She currently heads the Innopraktika development initiative, funded by key Russian companies whose directors are members of the inner circle of oligarchs close to President Putin. She is also co-chair of the coordinating council for import substitutions at the Russian Union of Industrialists and Entrepreneurs.

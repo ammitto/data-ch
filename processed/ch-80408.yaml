@@ -1,4 +1,3 @@
----
 ssid: '80408'
 sanctions_set_id: '47225'
 entity:
@@ -63,5 +62,4 @@ entity:
         name_part_type: whole-name
         value: Haji Zar Jamil, Haji Abdul Baseer Money Changer
     addresses:
-    - address_details: 'Sanatan Bazaar (variant: Sanatin Bazaar), Sanatan Bazaar Street,
-        near Trench Road (variant: Tranch Road)'
+    - address_details: 'Sanatan Bazaar (variant: Sanatin Bazaar), Sanatan Bazaar Street, near Trench Road (variant: Tranch Road)'

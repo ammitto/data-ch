@@ -1,4 +1,3 @@
----
 ssid: '55388'
 sanctions_set_id: '27286'
 individual:
@@ -23,9 +22,4 @@ individual:
       day: 11
       month: 2
       year: 1964
-  justification: Arkady Volozh is a Russian businessperson with business interests
-    in IT and technology. He is the founder and former CEO of Yandex, having resigned
-    following his listing by the European Union. He is a major shareholder of Yandex,
-    the largest Internet company in Russia, operating Russia’s most popular search
-    engine. Yandex operates in the ICT sector, which brings considerable tax revenue
-    to the Government of the Russian Federation.
+  justification: Arkady Volozh is a Russian businessperson with business interests in IT and technology. He is the founder and former CEO of Yandex, having resigned following his listing by the European Union. He is a major shareholder of Yandex, the largest Internet company in Russia, operating Russia’s most popular search engine. Yandex operates in the ICT sector, which brings considerable tax revenue to the Government of the Russian Federation.

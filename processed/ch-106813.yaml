@@ -1,4 +1,3 @@
----
 ssid: '106813'
 sanctions_set_id: '27286'
 individual:
@@ -19,7 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Alexandrovna
-  justification: Evgenia Grichenkova is the Head of camp “Korsun”, a branch of the
-    International Children’s Centre “Artek”, a federal state budgetary educational
-    institution operating within the framework of the Russian Federation’s public
-    education system in the temporarily occupied territory of Crimea.
+  justification: Evgenia Grichenkova is the Head of camp “Korsun”, a branch of the International Children’s Centre “Artek”, a federal state budgetary educational institution operating within the framework of the Russian Federation’s public education system in the temporarily occupied territory of Crimea.

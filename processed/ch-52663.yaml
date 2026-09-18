@@ -1,4 +1,3 @@
----
 ssid: '52663'
 sanctions_set_id: '29445'
 entity:
@@ -28,6 +27,5 @@ entity:
         name_part_type: whole-name
         value: AO NII Submikron
     addresses:
-    - address_details: Zelenograd, Georgievsky Prospekt, 5, Building 2, Floor 4, Premises
-        I, Room 50
+    - address_details: Zelenograd, Georgievsky Prospekt, 5, Building 2, Floor 4, Premises I, Room 50
       zip_code: '124460'

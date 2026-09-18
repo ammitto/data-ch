@@ -1,4 +1,3 @@
----
 ssid: '70638'
 sanctions_set_id: '27286'
 entity:
@@ -38,13 +37,4 @@ entity:
       day: 24
       month: 11
       year: 2005
-  justification: RSB Group is a Russian private military company that contributes
-    to Russia’s war of aggression against Ukraine by training Russian soldiers and
-    Special Forces units for the war in Ukraine. Combatants of RSB Group consist of
-    professional military personnel, as well as reserve officers of the Main Directorate
-    of the General Staff of the Armed Forces (GRU) and the Federal Security Service
-    of the Russian Federation. In its activities, RSB Group relies on professionals
-    with combat experience gained during military service in Russia. On its official
-    website, RSB Group details that it “acquires, uses and stores weapons outside
-    of Russia”. Therefore, RSB Group is supporting materially actions, which undermine
-    and threaten the territorial integrity, sovereignty and independence of Ukraine.
+  justification: RSB Group is a Russian private military company that contributes to Russia’s war of aggression against Ukraine by training Russian soldiers and Special Forces units for the war in Ukraine. Combatants of RSB Group consist of professional military personnel, as well as reserve officers of the Main Directorate of the General Staff of the Armed Forces (GRU) and the Federal Security Service of the Russian Federation. In its activities, RSB Group relies on professionals with combat experience gained during military service in Russia. On its official website, RSB Group details that it “acquires, uses and stores weapons outside of Russia”. Therefore, RSB Group is supporting materially actions, which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.

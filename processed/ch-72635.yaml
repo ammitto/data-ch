@@ -1,4 +1,3 @@
----
 ssid: '72635'
 sanctions_set_id: '27286'
 individual:
@@ -23,13 +22,4 @@ individual:
       day: 31
       month: 3
       year: 1958
-  justification: Vladimir Sorokin is the General Director of Iskra Engineering Design
-    Bureau JSC named after I.I. Kartukov. The company is one of the leading producers
-    of solid-fuelled rocket motors. The company has developed various solid propellant
-    gas generators used in the mechanisms for deploying missile elements, for emergency
-    landing gear release and for rapid start of turbojet engines. Since its foundation,
-    the company has developed and delivered for supply more than 200 solid-propellant
-    engines for anti-aircraft, tactical, aviation, naval and space missile systems
-    for the Russian Ministry of Defence. Moreover, the company also ensures its compliances
-    with the requirements for licensing in the field of weapons and military equipment
-    and obtaining a state defence order.
+  justification: Vladimir Sorokin is the General Director of Iskra Engineering Design Bureau JSC named after I.I. Kartukov. The company is one of the leading producers of solid-fuelled rocket motors. The company has developed various solid propellant gas generators used in the mechanisms for deploying missile elements, for emergency landing gear release and for rapid start of turbojet engines. Since its foundation, the company has developed and delivered for supply more than 200 solid-propellant engines for anti-aircraft, tactical, aviation, naval and space missile systems for the Russian Ministry of Defence. Moreover, the company also ensures its compliances with the requirements for licensing in the field of weapons and military equipment and obtaining a state defence order.

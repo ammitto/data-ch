@@ -1,4 +1,3 @@
----
 ssid: '9229'
 sanctions_set_id: '8174'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Iran Transfo
     addresses:
     - address_details: 15 Hakim Azam St, Shirazeh, Shomali St, Mollasadra, Vanak Sq
-  justification: Transformer manufacturer involved in the ongoing construction of
-    the Fordow (Qom) facility built without being declared to the IAEA.
+  justification: Transformer manufacturer involved in the ongoing construction of the Fordow (Qom) facility built without being declared to the IAEA.

@@ -1,4 +1,3 @@
----
 ssid: '107205'
 sanctions_set_id: '27286'
 entity:
@@ -15,12 +14,4 @@ entity:
         value: Volga Oil Shipping Company
     addresses:
     - zip_code: '117312'
-  justification: Volga Oil Shipping Company is a shipping company based in Russia
-    that specialises in providing technical support. The company is the technical
-    manager of the vessels Volgoneft-111, Midvolga-3 and Midvolga-2. Those vessels
-    lack adequate liability insurance and engage in manipulation of Automatic Identification
-    Systems while transporting crude oil or petroleum products exported from Russia.
-    Therefore, Volga Oil Shipping Company manages vessels that transport crude oil
-    or petroleum products exported from Russia and practice irregular and high-risk
-    shipping practices as set out in the International Maritime Organization General
-    Assembly resolution A.1192(33).
+  justification: Volga Oil Shipping Company is a shipping company based in Russia that specialises in providing technical support. The company is the technical manager of the vessels Volgoneft-111, Midvolga-3 and Midvolga-2. Those vessels lack adequate liability insurance and engage in manipulation of Automatic Identification Systems while transporting crude oil or petroleum products exported from Russia. Therefore, Volga Oil Shipping Company manages vessels that transport crude oil or petroleum products exported from Russia and practice irregular and high-risk shipping practices as set out in the International Maritime Organization General Assembly resolution A.1192(33).

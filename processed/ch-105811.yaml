@@ -1,4 +1,3 @@
----
 ssid: '105811'
 sanctions_set_id: '27286'
 entity:
@@ -34,8 +33,4 @@ entity:
     addresses:
     - address_details: Peskova Street, Building 1
       zip_code: '344091'
-  justification: Limited Liability Company “10th Bearing Plant” specialises in the
-    production of bearings for trucks, cars and special vehicles, including for the
-    needs of enterprises of the military industry of the Russian Federation. The company
-    supplies its bearings to Russian military industry companies, including KAMAZ
-    and UralAZ.
+  justification: Limited Liability Company “10th Bearing Plant” specialises in the production of bearings for trucks, cars and special vehicles, including for the needs of enterprises of the military industry of the Russian Federation. The company supplies its bearings to Russian military industry companies, including KAMAZ and UralAZ.

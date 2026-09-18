@@ -1,4 +1,3 @@
----
 ssid: '11989'
 sanctions_set_id: '3986'
 individual:
@@ -16,6 +15,4 @@ individual:
       - order: 2
         name_part_type: title
         value: Major General
-  justification: Deputy Director of General Intelligence Directorate under the former
-    al-Assad regime. Responsible for the use of violence across Syria and intimidation
-    and torture of protestors.
+  justification: Deputy Director of General Intelligence Directorate under the former al-Assad regime. Responsible for the use of violence across Syria and intimidation and torture of protestors.

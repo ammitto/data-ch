@@ -1,4 +1,3 @@
----
 ssid: '11265'
 sanctions_set_id: '8174'
 individual:
@@ -37,7 +36,4 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Sovlat Thana
-  justification: Managing Director of the Uranium Conversion Facility (UCF) in Esfahan.
-    This is the facility that produces the feed material (UF6) for the enrichment
-    facilities at Natanz. On 27 Aug 2006, Solat Sana received a special award from
-    President Ahmadinejad for his role.
+  justification: Managing Director of the Uranium Conversion Facility (UCF) in Esfahan. This is the facility that produces the feed material (UF6) for the enrichment facilities at Natanz. On 27 Aug 2006, Solat Sana received a special award from President Ahmadinejad for his role.

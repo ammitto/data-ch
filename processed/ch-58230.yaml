@@ -1,4 +1,3 @@
----
 ssid: '58230'
 sanctions_set_id: '27286'
 individual:
@@ -23,9 +22,4 @@ individual:
       day: 17
       month: 3
       year: 1974
-  justification: Sergey Sergeyevich Kravtsov is the Minister of Education of the Russian
-    Federation. Under his responsibility, the Ministry is aiming to integrate the
-    education system in the illegally annexed regions of Ukraine into one Russian
-    education space. Under his guidance, schools in those areas have been forced to
-    switch over to the Russian curriculum, use educational materials from Russia,
-    and to erase Ukrainian elements from the curriculum.
+  justification: Sergey Sergeyevich Kravtsov is the Minister of Education of the Russian Federation. Under his responsibility, the Ministry is aiming to integrate the education system in the illegally annexed regions of Ukraine into one Russian education space. Under his guidance, schools in those areas have been forced to switch over to the Russian curriculum, use educational materials from Russia, and to erase Ukrainian elements from the curriculum.

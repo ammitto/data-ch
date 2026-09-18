@@ -1,4 +1,3 @@
----
 ssid: '3622'
 sanctions_set_id: '3978'
 individual:
@@ -25,5 +24,4 @@ individual:
       month: 10
       year: 1944
     addresses:
-  justification: Director of Namchongang Trading Corporation; oversees the import
-    of items needed for the uranium enrichment program.
+  justification: Director of Namchongang Trading Corporation; oversees the import of items needed for the uranium enrichment program.

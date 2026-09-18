@@ -1,4 +1,3 @@
----
 ssid: '44632'
 sanctions_set_id: '29610'
 individual:
@@ -41,5 +40,4 @@ individual:
       month: 2
       year: 1986
     addresses:
-  justification: Director, or General Manager, of the Criminal Investigation Department
-    (CID), Sana’a based ministry of interior, in Sana’a, Yemen
+  justification: Director, or General Manager, of the Criminal Investigation Department (CID), Sana’a based ministry of interior, in Sana’a, Yemen

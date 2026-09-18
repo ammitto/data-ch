@@ -1,4 +1,3 @@
----
 ssid: '11300'
 sanctions_set_id: '8174'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Bahman
-  justification: Chairman of the Board and Managing Director of the designated Export
-    Development Bank of Iran.
+  justification: Chairman of the Board and Managing Director of the designated Export Development Bank of Iran.

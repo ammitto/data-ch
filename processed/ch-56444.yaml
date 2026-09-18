@@ -1,4 +1,3 @@
----
 ssid: '56444'
 sanctions_set_id: '27286'
 entity:
@@ -16,6 +15,4 @@ entity:
     addresses:
     - address_details: Magnitogorskaya street 51, lit. E
       zip_code: '195027'
-  justification: FORSS is a Russian company which provides engineering services to
-    the shipbuilding industry. It fulfils orders made by the Government of the Russian
-    Federation.
+  justification: FORSS is a Russian company which provides engineering services to the shipbuilding industry. It fulfils orders made by the Government of the Russian Federation.

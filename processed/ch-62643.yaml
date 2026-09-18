@@ -1,4 +1,3 @@
----
 ssid: '62643'
 sanctions_set_id: '62614'
 individual:
@@ -20,9 +19,4 @@ individual:
       day: 1
       month: 5
       year: 1986
-  justification: Marina Tauber is the deputy leader of Ilan Shor’s ȘOR political party
-    and a Member of the Parliament of the Republic of Moldova. She was charged in
-    the “Bank Fraud” case and she is subject to investigation in two criminal cases
-    in the Republic of Moldova related to the illegal financing from an organised
-    criminal group and the falsification of the report on the financial management
-    of the ȘOR Party.
+  justification: Marina Tauber is the deputy leader of Ilan Shor’s ȘOR political party and a Member of the Parliament of the Republic of Moldova. She was charged in the “Bank Fraud” case and she is subject to investigation in two criminal cases in the Republic of Moldova related to the illegal financing from an organised criminal group and the falsification of the report on the financial management of the ȘOR Party.

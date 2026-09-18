@@ -1,4 +1,3 @@
----
 ssid: '106338'
 sanctions_set_id: '27286'
 entity:
@@ -16,5 +15,4 @@ entity:
     addresses:
     - address_details: ul. Yaroslavskaya 13 A, 3rd floor, office 15
       zip_code: '129366'
-  justification: Joint Stock Company Rakurs is a Russian software company and a contractor
-    for the Russian Ministry of Defence.
+  justification: Joint Stock Company Rakurs is a Russian software company and a contractor for the Russian Ministry of Defence.

@@ -1,4 +1,3 @@
----
 ssid: '51191'
 sanctions_set_id: '27286'
 individual:
@@ -19,6 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Evgenievich
-  justification: Vadim Shadura holds the position of Chief of Staff – First Deputy
-    Commander of the Troops of the North-Western Operational Command of Belarus and
-    has been promoted to Major-General.
+  justification: Vadim Shadura holds the position of Chief of Staff – First Deputy Commander of the Troops of the North-Western Operational Command of Belarus and has been promoted to Major-General.

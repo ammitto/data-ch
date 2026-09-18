@@ -1,4 +1,3 @@
----
 ssid: '52472'
 sanctions_set_id: '27286'
 entity:
@@ -18,6 +17,4 @@ entity:
       zip_code: '115184'
     - address_details: Street Marat, 90
       zip_code: '191119'
-  justification: The United Shipbuilding Corporation is a Russian state-owned shipbuilding
-    conglomerate, which is the main provider of military warships to the Russian Navy.
-    It owns multiple shipyards and design bureaus.
+  justification: The United Shipbuilding Corporation is a Russian state-owned shipbuilding conglomerate, which is the main provider of military warships to the Russian Navy. It owns multiple shipyards and design bureaus.

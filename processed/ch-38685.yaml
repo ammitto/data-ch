@@ -1,4 +1,3 @@
----
 ssid: '38685'
 sanctions_set_id: '3978'
 entity:
@@ -28,7 +27,5 @@ entity:
         name_part_type: whole-name
         value: Chang An Shipping and Technology
     addresses:
-    - address_details: Room 2105, DL1849, Trend Centre, 29-31 Cheung Lee Street, Chai
-        Wan
-  justification: Registered owner, ship manager, and commercial manager of Panama-flagged
-    vessel HUA FU, a cargo ship that loaded DPRK coal at Najin, DPRK on 24 Sep 2017.
+    - address_details: Room 2105, DL1849, Trend Centre, 29-31 Cheung Lee Street, Chai Wan
+  justification: Registered owner, ship manager, and commercial manager of Panama-flagged vessel HUA FU, a cargo ship that loaded DPRK coal at Najin, DPRK on 24 Sep 2017.

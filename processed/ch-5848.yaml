@@ -1,4 +1,3 @@
----
 ssid: '5848'
 sanctions_set_id: '4387'
 entity:
@@ -16,8 +15,6 @@ entity:
     addresses:
     - address_details: Pobediteley Avenue 51/2, Room 15
       zip_code: '220035'
-    - address_details: Республика Беларусь, проспект Победителей, дом 51, корпус 2,
-        помещение 15
+    - address_details: Республика Беларусь, проспект Победителей, дом 51, корпус 2, помещение 15
       zip_code: '220035'
-  justification: Holding company of Iury Chyzh. Iury Chyzh provides financial support
-    to the Lukashenka regime, notably through his holding company LLC Triple.
+  justification: Holding company of Iury Chyzh. Iury Chyzh provides financial support to the Lukashenka regime, notably through his holding company LLC Triple.

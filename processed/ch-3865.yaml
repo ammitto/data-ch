@@ -1,4 +1,3 @@
----
 ssid: '3865'
 sanctions_set_id: '3973'
 entity:
@@ -14,8 +13,4 @@ entity:
         name_part_type: whole-name
         value: ATC, Ltd
     addresses:
-  justification: According to the UN, ATC, Ltd. is a Viktor Bout-controlled firm and
-    is a major shareholder in one of Viktor Bout’s flagship companies, Centrafrican
-    Airlines. In addition, when Bout registered Centrafrican Airlines in 1998, the
-    registration itself indicated that ATC was one of the principal shareholders of
-    Centrafrican and that it was controlled by Viktor Bout.
+  justification: According to the UN, ATC, Ltd. is a Viktor Bout-controlled firm and is a major shareholder in one of Viktor Bout’s flagship companies, Centrafrican Airlines. In addition, when Bout registered Centrafrican Airlines in 1998, the registration itself indicated that ATC was one of the principal shareholders of Centrafrican and that it was controlled by Viktor Bout.

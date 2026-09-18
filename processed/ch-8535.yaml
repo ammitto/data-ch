@@ -1,4 +1,3 @@
----
 ssid: '8535'
 sanctions_set_id: '3984'
 entity:
@@ -13,5 +12,4 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Parchin Chemical Industries
-  justification: Branch of DIO, which produces ammunition, explosives, as well as
-    solid propellants for rockets and missiles
+  justification: Branch of DIO, which produces ammunition, explosives, as well as solid propellants for rockets and missiles

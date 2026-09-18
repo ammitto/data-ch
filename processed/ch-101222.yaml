@@ -1,4 +1,3 @@
----
 ssid: '101222'
 sanctions_set_id: '27286'
 entity:
@@ -25,9 +24,5 @@ entity:
       month: 2
       year: 2011
     addresses:
-    - address_details: Service Zone No. 04, Level 06, R2 Tower, The Everrich Building,
-        No. 968 3/2 Street, Word 15, District 11
-  justification: Hung Phat Maritime Trading is a company that owns or manages tankers
-    that are subject to restrictive measures imposed by the Union and by other countries
-    for being part of the Russia’s so-called “shadow fleet”, transporting crude oil
-    or petroleum products while practicing irregular and high-risk shipping practices.
+    - address_details: Service Zone No. 04, Level 06, R2 Tower, The Everrich Building, No. 968 3/2 Street, Word 15, District 11
+  justification: Hung Phat Maritime Trading is a company that owns or manages tankers that are subject to restrictive measures imposed by the Union and by other countries for being part of the Russia’s so-called “shadow fleet”, transporting crude oil or petroleum products while practicing irregular and high-risk shipping practices.

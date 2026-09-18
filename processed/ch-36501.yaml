@@ -1,4 +1,3 @@
----
 ssid: '36501'
 sanctions_set_id: '3978'
 individual:
@@ -17,6 +16,4 @@ individual:
       day: 25
       month: 6
       year: 1968
-  justification: Official for Korea Ryonbong General Corporation, specializes in acquisition
-    for DPRK’s defense industries and support to Pyongyang’s military-related sales.
-    Its procurements also probably support the DPRK’s chemical weapons programme.
+  justification: Official for Korea Ryonbong General Corporation, specializes in acquisition for DPRK’s defense industries and support to Pyongyang’s military-related sales. Its procurements also probably support the DPRK’s chemical weapons programme.

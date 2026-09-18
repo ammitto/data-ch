@@ -1,4 +1,3 @@
----
 ssid: '11969'
 sanctions_set_id: '3986'
 individual:
@@ -23,6 +22,4 @@ individual:
       - order: 1
         name_part_type: given-name
         value: Abdallah
-  justification: Head of the Berri family militia under the former al-Assad regime.
-    In charge of pro-government militia involved in the crackdown on the civilian
-    population in Aleppo.
+  justification: Head of the Berri family militia under the former al-Assad regime. In charge of pro-government militia involved in the crackdown on the civilian population in Aleppo.

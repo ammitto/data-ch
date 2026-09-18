@@ -1,4 +1,3 @@
----
 ssid: '61503'
 sanctions_set_id: '27286'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 14
       month: 10
       year: 1979
-  justification: Milosh Wagner is the deputy head of the Russian Federal Service for
-    Supervision of Communications Information Technology and Mass Media (Roskomnadzor).
-    Roskomnadzor is a Russian state agency responsible for communications, information
-    technology and mass media. It has implemented the state policy of censorship towards
-    independent media outlets.
+  justification: Milosh Wagner is the deputy head of the Russian Federal Service for Supervision of Communications Information Technology and Mass Media (Roskomnadzor). Roskomnadzor is a Russian state agency responsible for communications, information technology and mass media. It has implemented the state policy of censorship towards independent media outlets.

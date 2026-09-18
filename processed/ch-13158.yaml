@@ -1,4 +1,3 @@
----
 ssid: '13158'
 sanctions_set_id: '13065'
 individual:
@@ -23,9 +22,4 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Nasserian
-  justification: Judge at the Supreme Court since Nov 2020. Former head of Tehran
-    Revolutionary Court, branch 28. Also considered responsible for condemnations
-    of members of the Baha'i community. He has dealt with post-election cases. He
-    issued long prison sentences during unfair trials of social and political activists
-    and journalists, and several death sentences for protesters and social and political
-    activists.
+  justification: Judge at the Supreme Court since Nov 2020. Former head of Tehran Revolutionary Court, branch 28. Also considered responsible for condemnations of members of the Baha'i community. He has dealt with post-election cases. He issued long prison sentences during unfair trials of social and political activists and journalists, and several death sentences for protesters and social and political activists.

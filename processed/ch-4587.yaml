@@ -1,4 +1,3 @@
----
 ssid: '4587'
 sanctions_set_id: '4387'
 individual:
@@ -25,8 +24,4 @@ individual:
       year: 1978
     addresses:
     - address_details: UI. Goretskovo Maksima 53-16
-  justification: Public Prosecutor. In 2006, he dealt with the case of the Civic Initiative
-    "Partnership" for monitoring the Presidential elections in 2006. The accusation
-    presented by him against Nikolai Astreiko, Timofei Dranchuk, Aleksandr Shalaiko
-    and Enira Bronitskaya was politically motivated and included clear violations
-    of the Code of Criminal Procedure.
+  justification: Public Prosecutor. In 2006, he dealt with the case of the Civic Initiative "Partnership" for monitoring the Presidential elections in 2006. The accusation presented by him against Nikolai Astreiko, Timofei Dranchuk, Aleksandr Shalaiko and Enira Bronitskaya was politically motivated and included clear violations of the Code of Criminal Procedure.

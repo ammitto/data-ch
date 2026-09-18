@@ -1,4 +1,3 @@
----
 ssid: '51133'
 sanctions_set_id: '27286'
 individual:
@@ -19,5 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Mikhailovich
-  justification: Yuri Peyganovich holds the position of Deputy Commander of the Belarusian
-    Air Force and Air Defence Forces for Logistics and a Head of Department.
+  justification: Yuri Peyganovich holds the position of Deputy Commander of the Belarusian Air Force and Air Defence Forces for Logistics and a Head of Department.

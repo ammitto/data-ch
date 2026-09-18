@@ -1,4 +1,3 @@
----
 ssid: '27730'
 sanctions_set_id: '27286'
 individual:
@@ -46,7 +45,4 @@ individual:
       day: 2
       month: 6
       year: 1970
-  justification: Former Member of the Verkhovna Rada of Ukraine, as such publicly
-    called for the creation of the so-called “Federal Republic of Novorossiya”, composed
-    of south-eastern Ukrainian regions. Former “Speaker” of the so-called “Parliament
-    of the Union of the People’s Republics” (“Parliament of Novorossiya”).
+  justification: Former Member of the Verkhovna Rada of Ukraine, as such publicly called for the creation of the so-called “Federal Republic of Novorossiya”, composed of south-eastern Ukrainian regions. Former “Speaker” of the so-called “Parliament of the Union of the People’s Republics” (“Parliament of Novorossiya”).

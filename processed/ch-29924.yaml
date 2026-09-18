@@ -1,4 +1,3 @@
----
 ssid: '29924'
 sanctions_set_id: '3986'
 entity:
@@ -22,6 +21,4 @@ entity:
         value: Pangates
     addresses:
     - address_details: Sharjah Airport International Free Zone
-  justification: Acts as an intermediary in the supply of oil to the Syrian regime.
-    Therefore, it is providing support to and benefiting from the Syrian regime. It
-    is also associated with listed Syrian oil company Sytrol.
+  justification: Acts as an intermediary in the supply of oil to the Syrian regime. Therefore, it is providing support to and benefiting from the Syrian regime. It is also associated with listed Syrian oil company Sytrol.

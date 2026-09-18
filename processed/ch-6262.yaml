@@ -1,4 +1,3 @@
----
 ssid: '6262'
 sanctions_set_id: '6094'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Martin
-  justification: Provincial Governor associated with ZANU-PF faction of Government.
-    Involved in farm disruptions at Rockwood village concession 2009.
+  justification: Provincial Governor associated with ZANU-PF faction of Government. Involved in farm disruptions at Rockwood village concession 2009.

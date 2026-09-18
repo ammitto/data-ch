@@ -1,4 +1,3 @@
----
 ssid: '44298'
 sanctions_set_id: '4387'
 entity:
@@ -15,7 +14,4 @@ entity:
         value: Beltechexport
     addresses:
     - address_details: Nezavisimosti ave. 86-B
-  justification: Beltechexport is a private entity which exports weapons and military
-    equipment produced by Belarusian state-owned companies to countries in Africa,
-    South America, Asia and the Middle East. Beltechexport is closely associated with
-    the Ministry of Defence of Belarus.
+  justification: Beltechexport is a private entity which exports weapons and military equipment produced by Belarusian state-owned companies to countries in Africa, South America, Asia and the Middle East. Beltechexport is closely associated with the Ministry of Defence of Belarus.

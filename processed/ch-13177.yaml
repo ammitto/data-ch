@@ -1,4 +1,3 @@
----
 ssid: '13177'
 sanctions_set_id: '13065'
 individual:
@@ -16,7 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Abbas
-  justification: Judge at the Shahid Muftah Judicial Complex. Former magistrate of
-    a criminal chamber. Former judge, Tehran Revolutionary Court, branch 26. He was
-    in charge of post-election cases. He issued long prison sentences during unfair
-    trials against human rights activists and issued several death sentences for protesters.
+  justification: Judge at the Shahid Muftah Judicial Complex. Former magistrate of a criminal chamber. Former judge, Tehran Revolutionary Court, branch 26. He was in charge of post-election cases. He issued long prison sentences during unfair trials against human rights activists and issued several death sentences for protesters.

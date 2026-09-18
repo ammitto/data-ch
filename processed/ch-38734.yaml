@@ -1,4 +1,3 @@
----
 ssid: '38734'
 sanctions_set_id: '3978'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Korea Myongdok Shipping Co
     addresses:
     - address_details: Chilgol 2-dong, Mangyongdae-guyok
-  justification: Registered owner of the YU PHYONG 5. In late November 2017, the YU
-    PHYONG 5 conducted a ship-to-ship transfer of 1,721 metric tons of fuel oil.
+  justification: Registered owner of the YU PHYONG 5. In late November 2017, the YU PHYONG 5 conducted a ship-to-ship transfer of 1,721 metric tons of fuel oil.

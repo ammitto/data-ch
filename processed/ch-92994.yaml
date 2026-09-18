@@ -1,4 +1,3 @@
----
 ssid: '92994'
 sanctions_set_id: '27286'
 entity:
@@ -12,8 +11,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Open Joint Stock Company “Elektrostal Chemical and Mechanical Plant
-          named after N.D. Zelinsky”
+        value: Open Joint Stock Company “Elektrostal Chemical and Mechanical Plant named after N.D. Zelinsky”
     - name_type: alias
       quality: good
       lang: eng
@@ -42,10 +40,4 @@ entity:
     addresses:
     - address_details: Electrostal, Karl Marx St., 1
       zip_code: '144001'
-  justification: OJSC “EHMZ named after N. D. Zelinsky” is a Russian manufacturer
-    of filter-type personal and collective protective equipment, including for the
-    Ministry of Defence of the Russian Federation and other Russian government institutions.
-    In addition, the company produces filters for tanks, armoured vehicles and military
-    aircraft, used by the Russian military. OJSC “EHMZ named after N. D. Zelinsky”
-    is therefore supporting materially the Government of the Russian Federation, which
-    is responsible for the annexation of Crimea and the destabilisation of Ukraine.
+  justification: OJSC “EHMZ named after N. D. Zelinsky” is a Russian manufacturer of filter-type personal and collective protective equipment, including for the Ministry of Defence of the Russian Federation and other Russian government institutions. In addition, the company produces filters for tanks, armoured vehicles and military aircraft, used by the Russian military. OJSC “EHMZ named after N. D. Zelinsky” is therefore supporting materially the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.

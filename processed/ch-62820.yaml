@@ -1,4 +1,3 @@
----
 ssid: '62820'
 sanctions_set_id: '27286'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 13
       month: 2
       year: 1947
-  justification: Leonid Romanov is a director general of the Evgeny Primakov Children’s
-    Aid Foundation, which implements the project “Children of Donbas”, under which
-    Ukrainian children from Donbas are being relocated to the territory of the illegally
-    annexed Crimea and Russia. One of the goals of the “Children of Donbas” project
-    is to integrate children from the Donbas region of Ukraine into life in Russia.
+  justification: Leonid Romanov is a director general of the Evgeny Primakov Children’s Aid Foundation, which implements the project “Children of Donbas”, under which Ukrainian children from Donbas are being relocated to the territory of the illegally annexed Crimea and Russia. One of the goals of the “Children of Donbas” project is to integrate children from the Donbas region of Ukraine into life in Russia.

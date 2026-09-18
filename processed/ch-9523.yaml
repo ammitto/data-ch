@@ -1,4 +1,3 @@
----
 ssid: '9523'
 sanctions_set_id: '8174'
 entity:
@@ -42,8 +41,5 @@ entity:
         name_part_type: whole-name
         value: Soukht Atomi Reactorha-ye Iran
     addresses:
-    - address_details: 'Head Office: 61 Shahid Abtahi St, Karegar e Shomali, Tehran
-        Complex: Persian Gulf Boulevard, Km 20 SW Esfahan Road'
-  justification: A company subordinate to the UN-sanctioned Atomic Energy Organisation
-    of Iran (AEOI) consisting of the Uranium Conversion Facility, the Fuel Manufacturing
-    Plant and the Zirconium Production Plant.
+    - address_details: 'Head Office: 61 Shahid Abtahi St, Karegar e Shomali, Tehran Complex: Persian Gulf Boulevard, Km 20 SW Esfahan Road'
+  justification: A company subordinate to the UN-sanctioned Atomic Energy Organisation of Iran (AEOI) consisting of the Uranium Conversion Facility, the Fuel Manufacturing Plant and the Zirconium Production Plant.

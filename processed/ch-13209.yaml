@@ -1,4 +1,3 @@
----
 ssid: '13209'
 sanctions_set_id: '13065'
 individual:
@@ -26,6 +25,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Farajollah
-  justification: Assistant Secretary of the General Prison Administration in Tehran.
-    Head of Evin's prison, Tehran until Oct 2010 during which time torture took place.
-    He was warden, and threatened and exerted pressure on prisoners numerous times.
+  justification: Assistant Secretary of the General Prison Administration in Tehran. Head of Evin's prison, Tehran until Oct 2010 during which time torture took place. He was warden, and threatened and exerted pressure on prisoners numerous times.

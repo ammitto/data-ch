@@ -1,4 +1,3 @@
----
 ssid: '47940'
 sanctions_set_id: '27286'
 individual:
@@ -23,6 +22,4 @@ individual:
       day: 11
       month: 8
       year: 1962
-  justification: Lieutenant General Sergey Vladimirovich Dronov is Commander of the
-    Air Force and Deputy Commander-in-Chief of the Air and Space Forces. As such,
-    he is responsible for air operations in or to Ukraine.
+  justification: Lieutenant General Sergey Vladimirovich Dronov is Commander of the Air Force and Deputy Commander-in-Chief of the Air and Space Forces. As such, he is responsible for air operations in or to Ukraine.

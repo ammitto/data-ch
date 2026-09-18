@@ -1,4 +1,3 @@
----
 ssid: '55744'
 sanctions_set_id: '29445'
 entity:
@@ -33,8 +32,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company “Scientific Research Institute “Platan” with a
-          Plant at the Research Institute”
+        value: Joint Stock Company “Scientific Research Institute “Platan” with a Plant at the Research Institute”
     addresses:
     - address_details: Territory Vostochnaya Zavodskaya Promyshlennaya, 16
       zip_code: '141190'

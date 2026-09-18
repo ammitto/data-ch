@@ -1,4 +1,3 @@
----
 ssid: '77787'
 sanctions_set_id: '4387'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 24
       month: 10
       year: 1974
-  justification: Iryna Akulovich is a long-time supporter of Aliaksandr Lukashenka.
-    In 2018, she was appointed by him as director-general of the biggest State news
-    agency, Belarusian Telegraph Agency (BelTA), and still holds that position. BelTA,
-    through its publications and activities, such as photo exhibitions and public
-    events, extensively promotes Lukashenka and his regime.
+  justification: Iryna Akulovich is a long-time supporter of Aliaksandr Lukashenka. In 2018, she was appointed by him as director-general of the biggest State news agency, Belarusian Telegraph Agency (BelTA), and still holds that position. BelTA, through its publications and activities, such as photo exhibitions and public events, extensively promotes Lukashenka and his regime.

@@ -1,4 +1,3 @@
----
 ssid: '9053'
 sanctions_set_id: '8174'
 entity:
@@ -15,6 +14,4 @@ entity:
         value: ESNICO (Equipment Supplier for Nuclear Industries Corporation)
     addresses:
     - address_details: No 1, 37th Avenue, Asadabadi Street
-  justification: Procures industrial goods, specifically for the nuclear programme
-    activities carried out by AEOI, Novin Energy and EU-designated Kalaye Electric
-    Company. ESNICO’s Director is Haleh Bakhtiar.
+  justification: Procures industrial goods, specifically for the nuclear programme activities carried out by AEOI, Novin Energy and EU-designated Kalaye Electric Company. ESNICO’s Director is Haleh Bakhtiar.

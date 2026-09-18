@@ -1,4 +1,3 @@
----
 ssid: '72016'
 sanctions_set_id: '27286'
 entity:
@@ -23,5 +22,4 @@ entity:
     addresses:
     - address_details: Ploshchad’ Pervoy Pyatiletki
       zip_code: '620012'
-  justification: Zavod no 9 is a Russian military industry company. It is a supplier
-    of the Armed Forces of the Russian Federation.
+  justification: Zavod no 9 is a Russian military industry company. It is a supplier of the Armed Forces of the Russian Federation.

@@ -1,4 +1,3 @@
----
 ssid: '98889'
 sanctions_set_id: '27286'
 entity:
@@ -27,9 +26,4 @@ entity:
     addresses:
     - address_details: Valovaya Street, 14, Building 8, Room 1 Office 4
       zip_code: '115054'
-  justification: LLC Molot Arms, founded in 2011 in Moscow, is a Russian defence manufacturer
-    engaged in the production of firearms and unmanned aerial systems (UAVs). Its
-    flagship product is the “Zhmil-17” first-person view (FPV) combat UAV, manufactured
-    in Kirov Oblast since 2023 and supplied to Russian forces in Ukraine. The company’s
-    current monthly output exceeds 500 UAV units, with State-backed plans to increase
-    to 1 000 UAVs per month in 2025.
+  justification: LLC Molot Arms, founded in 2011 in Moscow, is a Russian defence manufacturer engaged in the production of firearms and unmanned aerial systems (UAVs). Its flagship product is the “Zhmil-17” first-person view (FPV) combat UAV, manufactured in Kirov Oblast since 2023 and supplied to Russian forces in Ukraine. The company’s current monthly output exceeds 500 UAV units, with State-backed plans to increase to 1 000 UAVs per month in 2025.

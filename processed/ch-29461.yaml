@@ -1,4 +1,3 @@
----
 ssid: '29461'
 sanctions_set_id: '29445'
 entity:
@@ -47,8 +46,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Kontsern “Tecmash” JSC Research and Production Concern Machine Building
-          Technologies
+        value: Kontsern “Tecmash” JSC Research and Production Concern Machine Building Technologies
     - name_type: alias
       quality: good
       lang: eng

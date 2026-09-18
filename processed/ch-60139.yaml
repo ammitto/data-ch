@@ -1,4 +1,3 @@
----
 ssid: '60139'
 sanctions_set_id: '39362'
 individual:
@@ -13,8 +12,4 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Maung Maung Aye
-  justification: General Maung Maung Aye was the Chief of the General Staff for the
-    Myanmar army, navy, and air force until December 2024. In December 2024, he was
-    appointed Minister of Defence. In those positions, Maung Maung Aye forms part
-    of the regime, which seized power and overthrew legitimately elected leaders in
-    Myanmar/Burma in February 2021.
+  justification: General Maung Maung Aye was the Chief of the General Staff for the Myanmar army, navy, and air force until December 2024. In December 2024, he was appointed Minister of Defence. In those positions, Maung Maung Aye forms part of the regime, which seized power and overthrew legitimately elected leaders in Myanmar/Burma in February 2021.

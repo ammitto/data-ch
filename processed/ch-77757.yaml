@@ -1,4 +1,3 @@
----
 ssid: '77757'
 sanctions_set_id: '4387'
 individual:
@@ -19,7 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Vasilevich
-  justification: Vasil Koleda is the deputy head of Prison No 1 in Grodno, where the
-    political prisoner Ales Pushkin and the artist Ruslan Karchauli died due to not
-    receiving proper medical care. Other prisoners detained in that institution testified
-    to the inhumane conditions.
+  justification: Vasil Koleda is the deputy head of Prison No 1 in Grodno, where the political prisoner Ales Pushkin and the artist Ruslan Karchauli died due to not receiving proper medical care. Other prisoners detained in that institution testified to the inhumane conditions.

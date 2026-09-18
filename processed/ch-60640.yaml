@@ -1,4 +1,3 @@
----
 ssid: '60640'
 sanctions_set_id: '27286'
 entity:
@@ -28,8 +27,4 @@ entity:
     - address_details: st. Khutorskaya 2nd, 38A, building 26
       zip_code: '127994'
     - zip_code: '102001'
-  justification: T-Bank is one of the three largest banks in Russia, based on the
-    number of its active clients. It holds a leading position in the field of financial
-    technologies, and the Central Bank of Russia has included Tinkoff Bank on the
-    list of systemically-important credit institutions. T-Bank was known as Tinkoff
-    Bank until 5 June 2024.
+  justification: T-Bank is one of the three largest banks in Russia, based on the number of its active clients. It holds a leading position in the field of financial technologies, and the Central Bank of Russia has included Tinkoff Bank on the list of systemically-important credit institutions. T-Bank was known as Tinkoff Bank until 5 June 2024.

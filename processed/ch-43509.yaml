@@ -1,4 +1,3 @@
----
 ssid: '43509'
 sanctions_set_id: '4387'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 5
       month: 5
       year: 1975
-  justification: In his former position as Head of the Main Internal Affairs Directorate
-    of the Minsk City Executive Committee, he is responsible for the repression and
-    intimidation campaign led by police forces in the wake of the 2020 presidential
-    election, in particular arbitrary arrests and ill-treatment of peaceful demonstrators
-    as well as intimidation and violence against journalists.
+  justification: In his former position as Head of the Main Internal Affairs Directorate of the Minsk City Executive Committee, he is responsible for the repression and intimidation campaign led by police forces in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment of peaceful demonstrators as well as intimidation and violence against journalists.

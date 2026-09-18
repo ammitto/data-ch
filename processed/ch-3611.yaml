@@ -1,4 +1,3 @@
----
 ssid: '3611'
 sanctions_set_id: '3978'
 individual:
@@ -18,6 +17,4 @@ individual:
       month: 2
       year: 1940
     addresses:
-  justification: 'Former director, Yongbyon Nuclear Research Centre, oversaw three
-    core facilities that assist in the production of weapons-grade plutonium: the
-    Fuel Fabrication Facility, the Nuclear Reactor, and the Reprocessing Plant.'
+  justification: 'Former director, Yongbyon Nuclear Research Centre, oversaw three core facilities that assist in the production of weapons-grade plutonium: the Fuel Fabrication Facility, the Nuclear Reactor, and the Reprocessing Plant.'

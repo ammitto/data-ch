@@ -1,4 +1,3 @@
----
 ssid: '60487'
 sanctions_set_id: '27286'
 entity:
@@ -26,6 +25,4 @@ entity:
       year: 2018
     addresses:
     - address_details: Rochdelskaya str. 15, bld. 8
-  justification: Limited Liability Company United Machine-Building Group is a Russian
-    industrial holding broadly engaged in the market for powertrains for allwheel
-    drive trucks and for motor graders.
+  justification: Limited Liability Company United Machine-Building Group is a Russian industrial holding broadly engaged in the market for powertrains for allwheel drive trucks and for motor graders.

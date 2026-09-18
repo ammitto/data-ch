@@ -1,4 +1,3 @@
----
 ssid: '90692'
 sanctions_set_id: '4387'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 29
       month: 5
       year: 1977
-  justification: Dzianis Duk is a member of the Belarusian Central Election Commission.
-    As CEC member, Dzianis Duk is responsible for the organisation of the 2025 presidential
-    election, which was neither free, nor fair. The election violated basic laws and
-    international standards of fairness and transparency, and the results were falsified.
+  justification: Dzianis Duk is a member of the Belarusian Central Election Commission. As CEC member, Dzianis Duk is responsible for the organisation of the 2025 presidential election, which was neither free, nor fair. The election violated basic laws and international standards of fairness and transparency, and the results were falsified.

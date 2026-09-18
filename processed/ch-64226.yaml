@@ -1,4 +1,3 @@
----
 ssid: '64226'
 sanctions_set_id: '29445'
 entity:
@@ -40,8 +39,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Rostov Helicopter Production Complex Public Joint Stock Company “Rostvertol”
-          named after B.N. Slyusar
+        value: Rostov Helicopter Production Complex Public Joint Stock Company “Rostvertol” named after B.N. Slyusar
     addresses:
     - address_details: Novatorov Str., 5
       zip_code: '344038'

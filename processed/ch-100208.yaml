@@ -1,4 +1,3 @@
----
 ssid: '100208'
 sanctions_set_id: '8174'
 individual:
@@ -16,7 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Behzad
-  justification: Former Deputy Head of the AEOI. Soltani is currently involved in
-    research activities relevant for the nuclear industry and is affiliated with government
-    entities like the Iranian Chemical Society (ICS). Therefore, Behzad Soltani provides
-    support for Iran’s proliferation-sensitive nuclear activities.
+  justification: Former Deputy Head of the AEOI. Soltani is currently involved in research activities relevant for the nuclear industry and is affiliated with government entities like the Iranian Chemical Society (ICS). Therefore, Behzad Soltani provides support for Iran’s proliferation-sensitive nuclear activities.

@@ -1,4 +1,3 @@
----
 ssid: '75456'
 sanctions_set_id: '27286'
 individual:
@@ -19,7 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Vyacheslavovich
-  justification: Alexander Voit is the General Director of Joint Stock Company “Ulyanovsk
-    Instrument Design Bureau” (JSC UKBP), a Russian leading developer and manufacturer
-    of airborne electronic equipment for aircraft and helicopters, automatic control
-    systems for hydropower, automotive components and medical equipment.
+  justification: Alexander Voit is the General Director of Joint Stock Company “Ulyanovsk Instrument Design Bureau” (JSC UKBP), a Russian leading developer and manufacturer of airborne electronic equipment for aircraft and helicopters, automatic control systems for hydropower, automotive components and medical equipment.

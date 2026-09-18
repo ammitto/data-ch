@@ -1,4 +1,3 @@
----
 ssid: '35609'
 sanctions_set_id: '3978'
 entity:
@@ -43,6 +42,4 @@ entity:
         value: Korea Daesong Trading Corporation
     addresses:
     - address_details: Pulgan Gori Dong 1
-  justification: Korea Daesong General Trading Corporation is affiliated with Office
-    39 through minerals (gold) exports, metals, machinery, agricultural products,
-    ginseng, jewelry, and light industry products.
+  justification: Korea Daesong General Trading Corporation is affiliated with Office 39 through minerals (gold) exports, metals, machinery, agricultural products, ginseng, jewelry, and light industry products.

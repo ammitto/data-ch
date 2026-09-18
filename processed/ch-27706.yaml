@@ -1,4 +1,3 @@
----
 ssid: '27706'
 sanctions_set_id: '27286'
 individual:
@@ -23,6 +22,4 @@ individual:
       day: 30
       month: 1
       year: 1971
-  justification: Former head of the Federal Migration Service office for Crimea. Responsible
-    for the systematic and expedited issuance of Russian passports for the residents
-    of Crimea.
+  justification: Former head of the Federal Migration Service office for Crimea. Responsible for the systematic and expedited issuance of Russian passports for the residents of Crimea.

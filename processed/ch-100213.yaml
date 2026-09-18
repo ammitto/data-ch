@@ -1,4 +1,3 @@
----
 ssid: '100213'
 sanctions_set_id: '8174'
 individual:
@@ -16,7 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Mohammad Reza
-  justification: Mohammad Reza Rezvanianzadeh is affiliated to the Atomic Energy Organization
-    of Iran and to the government entity Geology and Mineral Exploration Organization
-    of Iran. Therefore, he is associated with entities providing support to the Government
-    of Iran.
+  justification: Mohammad Reza Rezvanianzadeh is affiliated to the Atomic Energy Organization of Iran and to the government entity Geology and Mineral Exploration Organization of Iran. Therefore, he is associated with entities providing support to the Government of Iran.

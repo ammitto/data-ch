@@ -1,4 +1,3 @@
----
 ssid: '12074'
 sanctions_set_id: '3986'
 individual:
@@ -29,5 +28,4 @@ individual:
       - order: 1
         name_part_type: given-name
         value: Mohammad
-  justification: Ordered troops to shoot at protestors in and around Damascus, including
-    Mo’adamiyeh, Duma, Abasiyeh, Duma, under the former al-Assad regime.
+  justification: Ordered troops to shoot at protestors in and around Damascus, including Mo’adamiyeh, Duma, Abasiyeh, Duma, under the former al-Assad regime.

@@ -1,4 +1,3 @@
----
 ssid: '52364'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 6
       month: 2
       year: 1961
-  justification: Konstantin Ernst is the CEO of Channel One Russia – one of the largest
-    Russian media companies, which has been used for propaganda purposes by the Russian
-    authorities for many years. In this position, he is responsible for organising
-    and disseminating anti- Ukrainian propaganda of the Russian authorities.
+  justification: Konstantin Ernst is the CEO of Channel One Russia – one of the largest Russian media companies, which has been used for propaganda purposes by the Russian authorities for many years. In this position, he is responsible for organising and disseminating anti- Ukrainian propaganda of the Russian authorities.

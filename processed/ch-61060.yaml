@@ -1,4 +1,3 @@
----
 ssid: '61060'
 sanctions_set_id: '27286'
 individual:
@@ -23,9 +22,4 @@ individual:
       day: 9
       month: 1
       year: 1969
-  justification: Mikhail Teplinskiy is a Russian military leader, and the Head of
-    the Dnipro Group of Forces of the Russian Federation. The Dnipro Group of Forces
-    of the Russian Federation is conducting military offensives in southern Ukraine.
-    Mikhail Teplinskiy is therefore actively involved in shaping and implementing
-    the military campaign of the Russian forces in southern Ukraine.undermine the
-    territorial integrity, sovereignty and independence of Ukraine.
+  justification: Mikhail Teplinskiy is a Russian military leader, and the Head of the Dnipro Group of Forces of the Russian Federation. The Dnipro Group of Forces of the Russian Federation is conducting military offensives in southern Ukraine. Mikhail Teplinskiy is therefore actively involved in shaping and implementing the military campaign of the Russian forces in southern Ukraine.undermine the territorial integrity, sovereignty and independence of Ukraine.

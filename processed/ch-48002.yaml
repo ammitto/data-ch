@@ -1,4 +1,3 @@
----
 ssid: '48002'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 24
       month: 12
       year: 1975
-  justification: Maria Zakharova is the Director of the Information and Press Department
-    of the Ministry of Foreign Affairs of the Russian Federation. As a central figure
-    of the government propaganda, she promoted the deployment of Russian forces in
-    Ukraine.
+  justification: Maria Zakharova is the Director of the Information and Press Department of the Ministry of Foreign Affairs of the Russian Federation. As a central figure of the government propaganda, she promoted the deployment of Russian forces in Ukraine.

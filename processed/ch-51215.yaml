@@ -1,4 +1,3 @@
----
 ssid: '51215'
 sanctions_set_id: '27286'
 individual:
@@ -19,7 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Aleksandrovich
-  justification: Vyacheslav Lenkevich has been promoted to Head of the Fuel and Lubricants
-    Administration Department of the Ministry of Defence of Belarus in Sep 2022. He
-    previously held the position of the Deputy Commander in Charge of Logistics and
-    Head of Logistics of the North-Western Operational Command of Belarus.
+  justification: Vyacheslav Lenkevich has been promoted to Head of the Fuel and Lubricants Administration Department of the Ministry of Defence of Belarus in Sep 2022. He previously held the position of the Deputy Commander in Charge of Logistics and Head of Logistics of the North-Western Operational Command of Belarus.

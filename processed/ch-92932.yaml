@@ -1,4 +1,3 @@
----
 ssid: '92932'
 sanctions_set_id: '27286'
 entity:
@@ -12,8 +11,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Open Joint Stock Company “Special Design Bureau of Instrument Engineering
-          and Automation”
+        value: Open Joint Stock Company “Special Design Bureau of Instrument Engineering and Automation”
     - name_type: alias
       quality: good
       lang: eng
@@ -28,9 +26,4 @@ entity:
     addresses:
     - address_details: 55 Krupskoi Street
       zip_code: '601903'
-  justification: OJSC Special Design Bureau of Instrument Engineering and Automation
-    (OJSC “SKB PA”) is a company active in Russia’s military and industrial complex,
-    specialised in the development and creation of electrohydraulic, electromechanical,
-    navigation and control systems for mobile civil and special-purpose equipment.
-    OJSC “SKB PA” holds licences for handling state secrets and developing military
-    equipment.
+  justification: OJSC Special Design Bureau of Instrument Engineering and Automation (OJSC “SKB PA”) is a company active in Russia’s military and industrial complex, specialised in the development and creation of electrohydraulic, electromechanical, navigation and control systems for mobile civil and special-purpose equipment. OJSC “SKB PA” holds licences for handling state secrets and developing military equipment.

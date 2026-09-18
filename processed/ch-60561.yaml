@@ -1,4 +1,3 @@
----
 ssid: '60561'
 sanctions_set_id: '27286'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: JSC State Machine Building Design Bureau “Raduga”
     addresses:
     - address_details: Zhukovsky St. 2a
-  justification: JSC State Machine Building Design Bureau “Raduga” is a Russian developer
-    and manufacturer of missiles. It provides weapons to the Armed Forces of the Russian  Federation.
+  justification: JSC State Machine Building Design Bureau “Raduga” is a Russian developer and manufacturer of missiles. It provides weapons to the Armed Forces of the Russian  Federation.

@@ -1,4 +1,3 @@
----
 ssid: '50792'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 21
       month: 4
       year: 1964
-  justification: Mikhail Fridman is a Russian businessperson. He is one of the main
-    shareholders of ABH Holdings, which controlled a major Russian bank, Alfa Bank,
-    and still controls other companies in the Alfa Group. The transfer of his shares
-    in A1, which is part of the Alfa Group, is considered fictitious.
+  justification: Mikhail Fridman is a Russian businessperson. He is one of the main shareholders of ABH Holdings, which controlled a major Russian bank, Alfa Bank, and still controls other companies in the Alfa Group. The transfer of his shares in A1, which is part of the Alfa Group, is considered fictitious.

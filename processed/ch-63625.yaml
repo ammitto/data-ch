@@ -1,4 +1,3 @@
----
 ssid: '63625'
 sanctions_set_id: '27286'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 14
       month: 10
       year: 1975
-  justification: Vladimir Vladimirov is the Governor of the Stavropol Krai. In this
-    role, he has been responsible for the illegal deportation of Ukrainian children
-    to the Stavropol Krai region for their subsequent illegal adoption by Russian
-    families. His actions violate the rights of Ukrainian children and infringe Ukraine’s
-    law and administrative order.
+  justification: Vladimir Vladimirov is the Governor of the Stavropol Krai. In this role, he has been responsible for the illegal deportation of Ukrainian children to the Stavropol Krai region for their subsequent illegal adoption by Russian families. His actions violate the rights of Ukrainian children and infringe Ukraine’s law and administrative order.

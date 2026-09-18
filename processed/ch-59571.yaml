@@ -1,4 +1,3 @@
----
 ssid: '59571'
 sanctions_set_id: '29445'
 entity:
@@ -12,16 +11,14 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Open Joint Stock Company Volgograd Radio-Technical Equipment Plant
-          (VZ RTO)
+        value: Open Joint Stock Company Volgograd Radio-Technical Equipment Plant (VZ RTO)
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Акционерное Общество «Волгоградский Завод Радиотехнического Оборудования»
-          (АО «ВЗРТО»)
+        value: Акционерное Общество «Волгоградский Завод Радиотехнического Оборудования» (АО «ВЗРТО»)
     - name_type: alias
       quality: good
       lang: eng

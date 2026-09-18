@@ -1,4 +1,3 @@
----
 ssid: '29902'
 sanctions_set_id: '3986'
 individual:
@@ -37,7 +36,4 @@ individual:
       day: 25
       month: 5
       year: 1971
-  justification: As a senior officer in the Syrian Air Force Intelligence Service
-    under the former al-Assad regime, he supports the former al-Assad regime and is
-    responsible for the violent repression of the civilian population. He is also
-    associated with the listed Scientific Studies Research Centre (SSRC).
+  justification: As a senior officer in the Syrian Air Force Intelligence Service under the former al-Assad regime, he supports the former al-Assad regime and is responsible for the violent repression of the civilian population. He is also associated with the listed Scientific Studies Research Centre (SSRC).

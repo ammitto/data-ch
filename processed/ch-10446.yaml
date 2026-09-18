@@ -1,4 +1,3 @@
----
 ssid: '10446'
 sanctions_set_id: '8174'
 entity:
@@ -16,6 +15,4 @@ entity:
     addresses:
     - address_details: Schottweg 5
       zip_code: '22087'
-  justification: Owned by Ocean Capital Administration and IRISL Europe. Ahmad Sarkandi
-    is also the director of Ocean Capital Administration GmbH and Nari Shipping and
-    Chartering GmbH & Co. KG.
+  justification: Owned by Ocean Capital Administration and IRISL Europe. Ahmad Sarkandi is also the director of Ocean Capital Administration GmbH and Nari Shipping and Chartering GmbH & Co. KG.

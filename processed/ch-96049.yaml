@@ -1,4 +1,3 @@
----
 ssid: '96049'
 sanctions_set_id: '29445'
 entity:
@@ -14,5 +13,4 @@ entity:
         name_part_type: whole-name
         value: CUVEE Importers Limited
     addresses:
-    - address_details: Unit 1207B, 12/F, Wah Lai Industrial Centre, 10-14 Kwei Tei
-        Street, Fotan, NT
+    - address_details: Unit 1207B, 12/F, Wah Lai Industrial Centre, 10-14 Kwei Tei Street, Fotan, NT

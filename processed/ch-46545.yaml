@@ -1,4 +1,3 @@
----
 ssid: '46545'
 sanctions_set_id: '3986'
 individual:
@@ -16,6 +15,4 @@ individual:
       - order: 2
         name_part_type: family-name
         value: Al-Hallaq
-  justification: Minister of information under the former al-Assad regime. Appointed
-    in August 2021. As a Government Minister, shares responsibility for the former
-    al-Assad regime’s violent repression of the civilian population.
+  justification: Minister of information under the former al-Assad regime. Appointed in August 2021. As a Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.

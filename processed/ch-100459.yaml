@@ -1,4 +1,3 @@
----
 ssid: '100459'
 sanctions_set_id: '8174'
 entity:
@@ -14,8 +13,4 @@ entity:
         name_part_type: whole-name
         value: EMKA Company
     addresses:
-  justification: EMKA Company is active in Iran’s nuclear industry. EMKA Company is
-    a subsidiary of TAMAS Company which is a specialised company for the production
-    of raw materials and nuclear fuel in Iran. EMKA Company is specifically responsible
-    for exploration, mining, and mineral processing operations within the nuclear
-    fuel cycle.
+  justification: EMKA Company is active in Iran’s nuclear industry. EMKA Company is a subsidiary of TAMAS Company which is a specialised company for the production of raw materials and nuclear fuel in Iran. EMKA Company is specifically responsible for exploration, mining, and mineral processing operations within the nuclear fuel cycle.

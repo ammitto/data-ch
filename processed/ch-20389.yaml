@@ -1,4 +1,3 @@
----
 ssid: '20389'
 sanctions_set_id: '12787'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Al-Barrani
-  justification: 'Position: Deputy Director, Military Intelligence. Senior member
-    of regime.'
+  justification: 'Position: Deputy Director, Military Intelligence. Senior member of regime.'

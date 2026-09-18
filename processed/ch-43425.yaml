@@ -1,4 +1,3 @@
----
 ssid: '43425'
 sanctions_set_id: '27286'
 entity:
@@ -16,10 +15,4 @@ entity:
     addresses:
     - address_details: 34 Pavlenko St.
       zip_code: '95006'
-  justification: Federal State Unitary Enterprise Crimea Railway participated in the
-    project of connecting the railway infrastructures of the illegally annexed Crimea
-    and Russia by being owner and operator of the railway tracks on the bridge over
-    the Kerch Strait, connecting Russia and the illegally annexed Crimean peninsula.
-    Therefore, it supports the consolidation of the illegally annexed Crimean peninsula
-    into the Russian Federation, which in turn further undermines the territorial
-    integrity, sovereignty and independence of Ukraine.
+  justification: Federal State Unitary Enterprise Crimea Railway participated in the project of connecting the railway infrastructures of the illegally annexed Crimea and Russia by being owner and operator of the railway tracks on the bridge over the Kerch Strait, connecting Russia and the illegally annexed Crimean peninsula. Therefore, it supports the consolidation of the illegally annexed Crimean peninsula into the Russian Federation, which in turn further undermines the territorial integrity, sovereignty and independence of Ukraine.

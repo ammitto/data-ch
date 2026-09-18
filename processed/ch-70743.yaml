@@ -1,4 +1,3 @@
----
 ssid: '70743'
 sanctions_set_id: '27286'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 3
       month: 8
       year: 1995
-  justification: Ilya Medvedev is responsible for creating digital services in the
-    illegally occupied Ukrainian regions of Donetsk, Luhansk, Kherson and Zaporizhzhia.
-    He coordinated the project “I am Russian”, which aims to provide Russian governmental
-    services to the inhabitants of those regions, including making available the simplified
-    procedure for Russian citizenship, and social services.
+  justification: Ilya Medvedev is responsible for creating digital services in the illegally occupied Ukrainian regions of Donetsk, Luhansk, Kherson and Zaporizhzhia. He coordinated the project “I am Russian”, which aims to provide Russian governmental services to the inhabitants of those regions, including making available the simplified procedure for Russian citizenship, and social services.

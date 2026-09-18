@@ -1,4 +1,3 @@
----
 ssid: '55717'
 sanctions_set_id: '29445'
 entity:
@@ -26,8 +25,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company “Research and Development Institute of Communication
-          and Management Systems”
+        value: Joint Stock Company “Research and Development Institute of Communication and Management Systems”
     addresses:
     - address_details: Starokaluzhkoe Shosse, 58
       zip_code: '117630'

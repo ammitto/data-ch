@@ -1,4 +1,3 @@
----
 ssid: '11098'
 sanctions_set_id: '8174'
 individual:
@@ -16,6 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Ali
-  justification: Islamic Revolutionary Guard Corps (IRGC) Brigadier-General Ali Hoseynitash
-    has been the Head of the Strategic Directorate of the Supreme National Security
-    Council since his appointment in 2013.
+  justification: Islamic Revolutionary Guard Corps (IRGC) Brigadier-General Ali Hoseynitash has been the Head of the Strategic Directorate of the Supreme National Security Council since his appointment in 2013.

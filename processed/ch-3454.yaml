@@ -1,4 +1,3 @@
----
 ssid: '3454'
 sanctions_set_id: '3976'
 entity:
@@ -15,7 +14,4 @@ entity:
         value: Uganda Commercial Impex (UCI) LTD
     addresses:
     - address_details: Plot 22, Kanjokya Street, Kamwokya
-  justification: UCI bought gold through a regular commercial relationship with traders
-    in the DRC tightly linked to militias. This constitutes «provision of assistance»
-    to illegal armed groups in breach of the arms embargo of resolutions 1493 (2003)
-    and 1596 (2005).
+  justification: UCI bought gold through a regular commercial relationship with traders in the DRC tightly linked to militias. This constitutes «provision of assistance» to illegal armed groups in breach of the arms embargo of resolutions 1493 (2003) and 1596 (2005).

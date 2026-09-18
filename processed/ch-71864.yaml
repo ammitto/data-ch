@@ -1,4 +1,3 @@
----
 ssid: '71864'
 sanctions_set_id: '27286'
 entity:
@@ -16,6 +15,4 @@ entity:
     addresses:
     - address_details: Mashinostroiteley street 2
       zip_code: '454119'
-  justification: JSC NPO Elektromashina is a Russian military industry company. It
-    produces electrical equipment for military equipment, such as power supply kits,
-    power units and weapons control systems.
+  justification: JSC NPO Elektromashina is a Russian military industry company. It produces electrical equipment for military equipment, such as power supply kits, power units and weapons control systems.

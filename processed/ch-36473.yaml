@@ -1,4 +1,3 @@
----
 ssid: '36473'
 sanctions_set_id: '3978'
 individual:
@@ -24,6 +23,4 @@ individual:
       day: 21
       month: 3
       year: 1938
-  justification: Paek Se Bong is a former Chairman of the Second Economic Committee,
-    a former member of the National Defense Commission, and a former Vice Director
-    of Munitions Industry Department (MID).
+  justification: Paek Se Bong is a former Chairman of the Second Economic Committee, a former member of the National Defense Commission, and a former Vice Director of Munitions Industry Department (MID).

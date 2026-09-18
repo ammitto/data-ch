@@ -1,4 +1,3 @@
----
 ssid: '58364'
 sanctions_set_id: '27286'
 entity:
@@ -16,7 +15,4 @@ entity:
     addresses:
     - address_details: 39th Building, Kutuzovsky Prospekt
       zip_code: '121170'
-  justification: United Russia is a Kremlin-aligned political party. It is chaired
-    by former Russian president Dmitry Medvedev. It supported war of aggression against
-    Ukraine, and backed the illegal and unrecognised annexation of Ukraine’s Donetsk,
-    Luhansk, Zaporizhzhia and Kherson regions by Russia.
+  justification: United Russia is a Kremlin-aligned political party. It is chaired by former Russian president Dmitry Medvedev. It supported war of aggression against Ukraine, and backed the illegal and unrecognised annexation of Ukraine’s Donetsk, Luhansk, Zaporizhzhia and Kherson regions by Russia.

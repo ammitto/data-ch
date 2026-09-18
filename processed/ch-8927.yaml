@@ -1,4 +1,3 @@
----
 ssid: '8927'
 sanctions_set_id: '8174'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Assa Corporation Ltd
     addresses:
     - address_details: 6 Britannia Place, Bath Street, St Helier JE2 4SU
-  justification: Assa Corporation Ltd is the parent organization of Assa Corporation.
-    Owned or controlled by Bank Melli.
+  justification: Assa Corporation Ltd is the parent organization of Assa Corporation. Owned or controlled by Bank Melli.

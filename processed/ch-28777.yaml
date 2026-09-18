@@ -1,4 +1,3 @@
----
 ssid: '28777'
 sanctions_set_id: '3986'
 individual:
@@ -41,8 +40,4 @@ individual:
       day: 10
       month: 6
       year: 1970
-  justification: Officer of the rank of Major-General in the Syrian Army under the
-    former al-Assad regime after May 2011. Commander of army division known as “Tiger
-    Forces”. Since August 2019, “Tiger Forces” has been renamed “Division 25 Special
-    Mission Forces” and placed under the army’s central command. Responsible for the
-    violent repression of the civilian population in Syria.
+  justification: Officer of the rank of Major-General in the Syrian Army under the former al-Assad regime after May 2011. Commander of army division known as “Tiger Forces”. Since August 2019, “Tiger Forces” has been renamed “Division 25 Special Mission Forces” and placed under the army’s central command. Responsible for the violent repression of the civilian population in Syria.

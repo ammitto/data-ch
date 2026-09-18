@@ -1,4 +1,3 @@
----
 ssid: '106939'
 sanctions_set_id: '71360'
 individual:
@@ -26,5 +25,4 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Abu Omar Hassan
-  justification: Muhammad Ismail Darwish is a member of the Politburo. As a member
-    of that decision-making body, he is responsible for violent actions by Hamas.
+  justification: Muhammad Ismail Darwish is a member of the Politburo. As a member of that decision-making body, he is responsible for violent actions by Hamas.

@@ -1,4 +1,3 @@
----
 ssid: '105541'
 sanctions_set_id: '27286'
 entity:
@@ -20,8 +19,4 @@ entity:
     addresses:
     - address_details: Vostochnaya St. 45
       zip_code: 620 100
-  justification: LLC Unimatik is a Russian manufacturer, importer and wholesaler of
-    computer numerical control (CNC) machines, and related parts which it provides
-    to Russian defence companies, using also its subsidiary, LLC Unimatik MSK. Unimatik
-    has supplied JSC “Plant No 9”, JSC “Uralvagonzavod”, JSC “Almaz-Antey”, JSC “Corporation
-    Tactical Missile Weapons”, among others.
+  justification: LLC Unimatik is a Russian manufacturer, importer and wholesaler of computer numerical control (CNC) machines, and related parts which it provides to Russian defence companies, using also its subsidiary, LLC Unimatik MSK. Unimatik has supplied JSC “Plant No 9”, JSC “Uralvagonzavod”, JSC “Almaz-Antey”, JSC “Corporation Tactical Missile Weapons”, among others.

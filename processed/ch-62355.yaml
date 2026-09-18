@@ -1,4 +1,3 @@
----
 ssid: '62355'
 sanctions_set_id: '3986'
 entity:
@@ -22,6 +21,4 @@ entity:
         value: The General Company for Phosphate and Mines
     addresses:
     - address_details: Palmyra Road
-  justification: Gecopham is controlled by the Syrian Ministry of Petroleum and Mineral
-    Resources and provides financial support to the former al-Assad regime. It therefore
-    supports the former al-Assad regime.
+  justification: Gecopham is controlled by the Syrian Ministry of Petroleum and Mineral Resources and provides financial support to the former al-Assad regime. It therefore supports the former al-Assad regime.

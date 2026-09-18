@@ -1,4 +1,3 @@
----
 ssid: '71434'
 sanctions_set_id: '27286'
 entity:
@@ -27,9 +26,4 @@ entity:
     addresses:
     - address_details: Bolshaya Pochtovaya st., 22
       zip_code: '105082'
-  justification: JSC VNIIRT (a.k.a. All-Russian Research Institute of Radio Engineering)
-    is a Russian military-industrial state enterprise that develops radar systems
-    deployed by the Russian Armed Forces, including radar systems used for Russia’s
-    Pantsir-S1 missile system. Moreover, JSC VNIIRT is part of the Almaz-Antey concern,
-    a Russian state-owned arms manufacturer that develops anti-aircraft defence and
-    cruise missile systems for the Russian military.
+  justification: JSC VNIIRT (a.k.a. All-Russian Research Institute of Radio Engineering) is a Russian military-industrial state enterprise that develops radar systems deployed by the Russian Armed Forces, including radar systems used for Russia’s Pantsir-S1 missile system. Moreover, JSC VNIIRT is part of the Almaz-Antey concern, a Russian state-owned arms manufacturer that develops anti-aircraft defence and cruise missile systems for the Russian military.

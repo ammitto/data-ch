@@ -1,4 +1,3 @@
----
 ssid: '12259'
 sanctions_set_id: '3986'
 individual:
@@ -47,6 +46,4 @@ individual:
       day: 1
       month: 8
       year: 1961
-  justification: Former Prime Minister and Former Minister of Electricity under the
-    former al-Assad regime. As a former Government Minister, shares responsibility
-    for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Prime Minister and Former Minister of Electricity under the former al-Assad regime. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.

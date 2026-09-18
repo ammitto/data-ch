@@ -1,4 +1,3 @@
----
 ssid: '9301'
 sanctions_set_id: '8174'
 entity:
@@ -39,8 +38,4 @@ entity:
     - address_details: Pasdaran Ave.
     - address_details: located on the west side of Dabestan Street, Abbas Abad District
     - address_details: Pasdaran Street, South Noubonyand Square
-  justification: The Ministry Of Defense And Support For Armed Forces Logistics, which
-    includes the MODLEX Export Center (also referred to as the Ministry of Defense
-    Logistics Export (MODLEX)), is responsible for Iran’s defence research, development,
-    manufacturing and export programmes, including support to missile and nuclear
-    programmes.
+  justification: The Ministry Of Defense And Support For Armed Forces Logistics, which includes the MODLEX Export Center (also referred to as the Ministry of Defense Logistics Export (MODLEX)), is responsible for Iran’s defence research, development, manufacturing and export programmes, including support to missile and nuclear programmes.

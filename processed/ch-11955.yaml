@@ -1,4 +1,3 @@
----
 ssid: '11955'
 sanctions_set_id: '3986'
 individual:
@@ -44,6 +43,4 @@ individual:
       day: 1
       month: 1
       year: 1950
-  justification: Former Minister of Defence under the former al-Assad regime. As a
-    former Government Minister, shares responsibility for the former al-Assad regime’s
-    violent repression of the civilian population in Syria.
+  justification: Former Minister of Defence under the former al-Assad regime. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population in Syria.

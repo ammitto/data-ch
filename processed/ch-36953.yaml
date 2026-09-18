@@ -1,4 +1,3 @@
----
 ssid: '36953'
 sanctions_set_id: '3978'
 individual:
@@ -17,5 +16,4 @@ individual:
       day: 12
       month: 3
       year: 1967
-  justification: Jang Song Chol is a Korea Mining Development Corporation (KOMID)
-    representative overseas.
+  justification: Jang Song Chol is a Korea Mining Development Corporation (KOMID) representative overseas.

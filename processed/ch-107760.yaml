@@ -1,4 +1,3 @@
----
 ssid: '107760'
 sanctions_set_id: '27286'
 individual:
@@ -23,6 +22,4 @@ individual:
       day: 28
       month: 9
       year: 1972
-  justification: Bekhan Ozdoyev is the Industrial Director of the Conventional Arms,
-    Ammunition and Special Chemicals Complex of the Rostec State Corporation. Rostec
-    is the leading Russian arms manufacturer and supplier to the Russian armed forces.
+  justification: Bekhan Ozdoyev is the Industrial Director of the Conventional Arms, Ammunition and Special Chemicals Complex of the Rostec State Corporation. Rostec is the leading Russian arms manufacturer and supplier to the Russian armed forces.

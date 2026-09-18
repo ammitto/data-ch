@@ -1,4 +1,3 @@
----
 ssid: '85023'
 sanctions_set_id: '4387'
 individual:
@@ -23,9 +22,4 @@ individual:
       day: 26
       month: 3
       year: 1982
-  justification: Yauheni Bregan is a Belarusian judge of the Brest Regional Court.
-    He was appointed by Aliaksandr Lukashenka. He was formerly a judge of the Moskovsky
-    District Court of Brest and judge of the city of Baranovichi in the Brest region.
-    He issued sentences against a large number of citizens of Belarus accused, amongst
-    other things, of having taken part in the protests against the Belarusian regime
-    in August 2020.
+  justification: Yauheni Bregan is a Belarusian judge of the Brest Regional Court. He was appointed by Aliaksandr Lukashenka. He was formerly a judge of the Moskovsky District Court of Brest and judge of the city of Baranovichi in the Brest region. He issued sentences against a large number of citizens of Belarus accused, amongst other things, of having taken part in the protests against the Belarusian regime in August 2020.

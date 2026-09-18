@@ -1,4 +1,3 @@
----
 ssid: '100355'
 sanctions_set_id: '8174'
 entity:
@@ -33,8 +32,4 @@ entity:
     - address_details: Dr Beheshti Ave No. 289
       zip_code: '151446'
     - address_details: 289 Shahid Baheshti Ave.
-  justification: Shemal Cement Company is a cement company controlled by Bank Melli
-    Iran, which is owned and controlled by the Government of Iran and provides support
-    to it. Shemal Cement Company’s main shareholder is the Cement Industries Investment
-    and Development Company, which is majority-owned by the National Development Group
-    Investment, whose main shareholder is Bank Melli Iran.
+  justification: Shemal Cement Company is a cement company controlled by Bank Melli Iran, which is owned and controlled by the Government of Iran and provides support to it. Shemal Cement Company’s main shareholder is the Cement Industries Investment and Development Company, which is majority-owned by the National Development Group Investment, whose main shareholder is Bank Melli Iran.

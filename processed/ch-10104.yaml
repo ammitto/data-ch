@@ -1,4 +1,3 @@
----
 ssid: '10104'
 sanctions_set_id: '8174'
 entity:
@@ -16,6 +15,4 @@ entity:
     addresses:
     - address_details: Flat 1, 143 Tower Road
       zip_code: SLM 1604
-  justification: IRISL (Malta) Ltd is majority owned by IRISL, through IRISL Europe
-    GmbH, which is in turn owned by IRISL. Accordingly, IRISL Malta Ltd is controlled
-    by IRISL.
+  justification: IRISL (Malta) Ltd is majority owned by IRISL, through IRISL Europe GmbH, which is in turn owned by IRISL. Accordingly, IRISL Malta Ltd is controlled by IRISL.

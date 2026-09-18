@@ -1,4 +1,3 @@
----
 ssid: '77796'
 sanctions_set_id: '4387'
 individual:
@@ -19,8 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Aliaksandravich
-  justification: Ihar Shvedau is a judge who has served in the Mahiliou Regional Court
-    since 2020, having been appointed by Aliaksandr Lukashenka. He has issued politically
-    motivated sentences against opponents of the Lukashenka regime, including against
-    journalist Andrei Kuznechyk (6 years in prison), political prisoner Anton Shybut
-    (5 years) and others who criticised the Belarusian authorities.
+  justification: Ihar Shvedau is a judge who has served in the Mahiliou Regional Court since 2020, having been appointed by Aliaksandr Lukashenka. He has issued politically motivated sentences against opponents of the Lukashenka regime, including against journalist Andrei Kuznechyk (6 years in prison), political prisoner Anton Shybut (5 years) and others who criticised the Belarusian authorities.

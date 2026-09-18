@@ -1,4 +1,3 @@
----
 ssid: '29931'
 sanctions_set_id: '3986'
 entity:
@@ -29,6 +28,4 @@ entity:
         value: Al Karim Group
     addresses:
     - zip_code: '5797'
-  justification: Abdulkarim Group is an internationally recognised Syrian conglomerate
-    that is associated with Wael Abdulkarim, who is listed as a leading businessperson
-    operating in Syria.
+  justification: Abdulkarim Group is an internationally recognised Syrian conglomerate that is associated with Wael Abdulkarim, who is listed as a leading businessperson operating in Syria.

@@ -1,4 +1,3 @@
----
 ssid: '92776'
 sanctions_set_id: '27286'
 entity:
@@ -34,11 +33,4 @@ entity:
     addresses:
     - address_details: Red Army Ave., 212V, building 5, room 212
       zip_code: '141310'
-  justification: JSC “Zagorsk Optical and Mechanical Plant” (JSC ZOMZ) is a Russian
-    military industry entity. JSC ZOMZ manufactures optical devices, including binoculars
-    and thermal imagers, and components for military products. JSC ZOMZ is part of
-    the State-owned military industry entity JSC “Shvabe”, ultimately part of the
-    State Corporation Rostec, and provides products incorporated into equipment used
-    by the Russian military. JSC ZOMZ is therefore supporting Russia’s military and
-    industrial complex and the Government of the Russian Federation, which is responsible
-    for the annexation of Crimea and the destabilisation of Ukraine.
+  justification: JSC “Zagorsk Optical and Mechanical Plant” (JSC ZOMZ) is a Russian military industry entity. JSC ZOMZ manufactures optical devices, including binoculars and thermal imagers, and components for military products. JSC ZOMZ is part of the State-owned military industry entity JSC “Shvabe”, ultimately part of the State Corporation Rostec, and provides products incorporated into equipment used by the Russian military. JSC ZOMZ is therefore supporting Russia’s military and industrial complex and the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.

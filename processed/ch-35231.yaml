@@ -1,4 +1,3 @@
----
 ssid: '35231'
 sanctions_set_id: '3986'
 individual:
@@ -40,8 +39,4 @@ individual:
       - order: 1
         name_part_type: family-name
         value: as-Sayyed
-  justification: Former Governor of Idlib, associated with and appointed by former
-    President Bashar al-Assad. Benefits from and supports the former al-Assad regime,
-    including by providing support for Syrian Armed Forces and pro-regime militia.
-    Associated with the former al-Assad regime’s Minister of Awqaf, Dr. Mohammad Abdul-Sattar
-    al-Sayyed, who is his brother.
+  justification: Former Governor of Idlib, associated with and appointed by former President Bashar al-Assad. Benefits from and supports the former al-Assad regime, including by providing support for Syrian Armed Forces and pro-regime militia. Associated with the former al-Assad regime’s Minister of Awqaf, Dr. Mohammad Abdul-Sattar al-Sayyed, who is his brother.

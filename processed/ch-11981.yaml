@@ -1,4 +1,3 @@
----
 ssid: '11981'
 sanctions_set_id: '3986'
 individual:
@@ -34,6 +33,4 @@ individual:
       day: 3
       month: 4
       year: 1973
-  justification: Civilian - Head of Syrian electronic army (territorial army intelligence
-    service) under the former al-Assad regime. Involved in the violent crackdown and
-    call for violence against the civilian population across Syria.
+  justification: Civilian - Head of Syrian electronic army (territorial army intelligence service) under the former al-Assad regime. Involved in the violent crackdown and call for violence against the civilian population across Syria.

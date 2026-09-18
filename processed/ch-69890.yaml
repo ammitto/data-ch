@@ -1,4 +1,3 @@
----
 ssid: '69890'
 sanctions_set_id: '27286'
 entity:
@@ -38,14 +37,4 @@ entity:
       day: 28
       month: 10
       year: 2015
-  justification: The All-Russian Public Movement “Volunteers of Victory” is a Russian
-    government-funded organisation that aims to “popularise Russia’s modern achievements”.
-    The organisation organises pro-Russian “victory day parades” in the occupied territories
-    of Ukraine and Russia, as well as rallies in support of Russian soldiers contributing
-    to Russia’s war of aggression against Ukraine. Moreover, the “Volunteers of Victory”
-    movement has been directly involved in Russia’s re-education efforts by recruiting
-    children in the occupied territories of Ukraine to join their pro-Russian movement.
-    The organisation is under control of Rosmolodezh, the federal youth agency of
-    the Russian Federation, and its patriotic education division, Rospatriotcenter.
-    The “Volunteers of Victory” movement receives funding through Russian presidential
-    grants.
+  justification: The All-Russian Public Movement “Volunteers of Victory” is a Russian government-funded organisation that aims to “popularise Russia’s modern achievements”. The organisation organises pro-Russian “victory day parades” in the occupied territories of Ukraine and Russia, as well as rallies in support of Russian soldiers contributing to Russia’s war of aggression against Ukraine. Moreover, the “Volunteers of Victory” movement has been directly involved in Russia’s re-education efforts by recruiting children in the occupied territories of Ukraine to join their pro-Russian movement. The organisation is under control of Rosmolodezh, the federal youth agency of the Russian Federation, and its patriotic education division, Rospatriotcenter. The “Volunteers of Victory” movement receives funding through Russian presidential grants.

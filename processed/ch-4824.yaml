@@ -1,4 +1,3 @@
----
 ssid: '4824'
 sanctions_set_id: '4387'
 individual:
@@ -19,7 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Anatolievich
-  justification: Has been actively involved in the repression of civil society in
-    Belarus. As former first Deputy Minister of Interior (until December 2012), he
-    was responsible for the repression of civil society following the December 2010
-    elections. Colonel in the reserve forces.
+  justification: Has been actively involved in the repression of civil society in Belarus. As former first Deputy Minister of Interior (until December 2012), he was responsible for the repression of civil society following the December 2010 elections. Colonel in the reserve forces.

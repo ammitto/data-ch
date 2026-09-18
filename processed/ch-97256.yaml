@@ -1,4 +1,3 @@
----
 ssid: '97256'
 sanctions_set_id: '3984'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Mohammad Fedai
-  justification: Designated for involvement in the production of ammonium uranyl carbonate
-    and management of the Natanz enrichment complex.
+  justification: Designated for involvement in the production of ammonium uranyl carbonate and management of the Natanz enrichment complex.

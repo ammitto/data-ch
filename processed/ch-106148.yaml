@@ -1,4 +1,3 @@
----
 ssid: '106148'
 sanctions_set_id: '29445'
 entity:
@@ -14,7 +13,5 @@ entity:
         name_part_type: whole-name
         value: New Wally Target
     addresses:
-    - address_details: Room 4, 16/F, Ho King Commercial Centre, 2-16 Fayuen Str.,
-        Mongkok Kowloon
-    - address_details: Room B3, 19/F Tung Lee Commercial Building, 91-97 Jervois Str.,
-        Sheung Wan
+    - address_details: Room 4, 16/F, Ho King Commercial Centre, 2-16 Fayuen Str., Mongkok Kowloon
+    - address_details: Room B3, 19/F Tung Lee Commercial Building, 91-97 Jervois Str., Sheung Wan

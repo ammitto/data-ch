@@ -1,4 +1,3 @@
----
 ssid: '104249'
 sanctions_set_id: '27286'
 entity:
@@ -30,8 +29,4 @@ entity:
     addresses:
     - address_details: st. Karla Marksa, 30/1
       zip_code: '450052'
-  justification: PJSC Bashneft Oil Company is a Russian entity active in the exploration,
-    development, production, and marketing of oil and gas, as well as the production
-    and sale of refined gas and oil products. The energy sector, in particular the
-    oil sector, is a sector providing a substantial source of revenue to the Government
-    of the Russian Federation.
+  justification: PJSC Bashneft Oil Company is a Russian entity active in the exploration, development, production, and marketing of oil and gas, as well as the production and sale of refined gas and oil products. The energy sector, in particular the oil sector, is a sector providing a substantial source of revenue to the Government of the Russian Federation.

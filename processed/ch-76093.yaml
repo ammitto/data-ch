@@ -1,4 +1,3 @@
----
 ssid: '76093'
 sanctions_set_id: '27286'
 entity:
@@ -19,10 +18,4 @@ entity:
       year: 1993
     addresses:
     - address_details: Per. Utrenniy 1G, 620025
-  justification: Ural Airlines is a civil Russian airline. Since the start of Russia’s
-    war of aggression against Ukraine, Ural Airlines has provided logistical support,
-    in particular by transporting military personnel towards the war zone during the
-    mobilisation phase. In this capacity, Ural Airlines also established a special
-    ticket-selling scheme with the Russian Ministry of Defence. Ural Airlines is supporting
-    materially and benefitting from the Government of the Russian Federation, which
-    is responsible for the annexation of Crimea and the destabilisation of Ukraine.
+  justification: Ural Airlines is a civil Russian airline. Since the start of Russia’s war of aggression against Ukraine, Ural Airlines has provided logistical support, in particular by transporting military personnel towards the war zone during the mobilisation phase. In this capacity, Ural Airlines also established a special ticket-selling scheme with the Russian Ministry of Defence. Ural Airlines is supporting materially and benefitting from the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.

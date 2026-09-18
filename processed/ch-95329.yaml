@@ -1,4 +1,3 @@
----
 ssid: '95329'
 sanctions_set_id: '27286'
 entity:
@@ -34,6 +33,4 @@ entity:
     addresses:
     - address_details: Andreevka urban settlement, building 3A/4
       zip_code: '141551'
-  justification: JSC “NPO Stekloplastik named after N.N. Trofimov” is the largest
-    scientific and production centre in Russia dedicated to creating glass fibre materials
-    and their composites.
+  justification: JSC “NPO Stekloplastik named after N.N. Trofimov” is the largest scientific and production centre in Russia dedicated to creating glass fibre materials and their composites.

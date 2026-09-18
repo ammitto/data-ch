@@ -1,4 +1,3 @@
----
 ssid: '52702'
 sanctions_set_id: '29445'
 entity:
@@ -40,17 +39,14 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Branch “Astrakhansky Sudoremontny Zavod” – Joint Stock Company “Ship
-          Repair Center “Zvyozdochka”
+        value: Branch “Astrakhansky Sudoremontny Zavod” – Joint Stock Company “Ship Repair Center “Zvyozdochka”
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Филиал «Астраханский Судоремонтный Завод» – Акционерное Общество «Центр
-          Судоремонта «Звёздочка» (ФЛ «Астраханский Судоремонтный Завод» – АО «ЦС
-          «Звёздочка»)
+        value: Филиал «Астраханский Судоремонтный Завод» – Акционерное Общество «Центр Судоремонта «Звёздочка» (ФЛ «Астраханский Судоремонтный Завод» – АО «ЦС «Звёздочка»)
     addresses:
     - address_details: Atarbekova Str., 37
       zip_code: '414009'

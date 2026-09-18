@@ -1,4 +1,3 @@
----
 ssid: '98226'
 sanctions_set_id: '27286'
 individual:
@@ -23,5 +22,4 @@ individual:
       day: 20
       month: 2
       year: 1978
-  justification: Nikita Anisimov is the Rector of the National Research University
-    Higher School of Economics (HSE University).
+  justification: Nikita Anisimov is the Rector of the National Research University Higher School of Economics (HSE University).

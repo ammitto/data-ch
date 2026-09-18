@@ -1,4 +1,3 @@
----
 ssid: '20393'
 sanctions_set_id: '12787'
 individual:
@@ -16,6 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Omar
-  justification: 'Position: Head, Revolutionary Committees Movement. Revolutionary
-    Committees involved in violence against demonstrators. Closely associated with
-    the former regime of Muammar Qadhafi.'
+  justification: 'Position: Head, Revolutionary Committees Movement. Revolutionary Committees involved in violence against demonstrators. Closely associated with the former regime of Muammar Qadhafi.'

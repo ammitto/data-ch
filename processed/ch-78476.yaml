@@ -1,4 +1,3 @@
----
 ssid: '78476'
 sanctions_set_id: '68945'
 entity:
@@ -15,7 +14,4 @@ entity:
         value: Saha Airlines
     addresses:
     - address_details: Ayat Saeedi St., 65 meters from Fatah
-  justification: Saha Airlines is an Iranian state airline, wholly owned by the Islamic
-    Republic of Iran Air Force. It has been used repeatedly to transfer Iranian-made
-    unmanned aerial vehicles (UAVs) and related technologies to Russia, which have
-    been used in Russia’s war of aggression against Ukraine.
+  justification: Saha Airlines is an Iranian state airline, wholly owned by the Islamic Republic of Iran Air Force. It has been used repeatedly to transfer Iranian-made unmanned aerial vehicles (UAVs) and related technologies to Russia, which have been used in Russia’s war of aggression against Ukraine.

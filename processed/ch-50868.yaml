@@ -1,4 +1,3 @@
----
 ssid: '50868'
 sanctions_set_id: '27286'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 11
       month: 12
       year: 1984
-  justification: Ms. Olga Skabeyeva is a journalist of the state-owned TV station
-    Rossiya-1. Together with her husband Yevgeniy Popov, she hosts the most popular
-    political talk-show in Russia, “60 Minutes”, where she has spread anti-Ukrainian
-    propaganda, and promoted a positive attitude to the annexation of Crimea and the
-    actions of separatists in Donbas.
+  justification: Ms. Olga Skabeyeva is a journalist of the state-owned TV station Rossiya-1. Together with her husband Yevgeniy Popov, she hosts the most popular political talk-show in Russia, “60 Minutes”, where she has spread anti-Ukrainian propaganda, and promoted a positive attitude to the annexation of Crimea and the actions of separatists in Donbas.

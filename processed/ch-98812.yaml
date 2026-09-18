@@ -1,4 +1,3 @@
----
 ssid: '98812'
 sanctions_set_id: '27286'
 entity:
@@ -39,14 +38,6 @@ entity:
       month: 7
       year: 2002
     addresses:
-    - address_details: 7/11 Novokuznetskaya St., Bld. 1, floor 3, office 338, Zamoskvorechye
-        Municipal District
+    - address_details: 7/11 Novokuznetskaya St., Bld. 1, floor 3, office 338, Zamoskvorechye Municipal District
       zip_code: '115184'
-  justification: PJSC “Far Eastern Shipping Company” (FESCO) is one of Russia’s largest
-    transportation and logistics firms, and the largest port container operator in
-    the Russian Far East. The company specialises in container shipping, port operations,
-    and intermodal transport across sea, rail and road. Its core operations are concentrated
-    in the Russian Far East, with key assets including the Commercial Port of Vladivostok
-    and a fleet of 30 vessels. The company plays a vital role in connecting Russia
-    with Asia and the Middle East, offering services for general, chemical and petroleum
-    cargo.
+  justification: PJSC “Far Eastern Shipping Company” (FESCO) is one of Russia’s largest transportation and logistics firms, and the largest port container operator in the Russian Far East. The company specialises in container shipping, port operations, and intermodal transport across sea, rail and road. Its core operations are concentrated in the Russian Far East, with key assets including the Commercial Port of Vladivostok and a fleet of 30 vessels. The company plays a vital role in connecting Russia with Asia and the Middle East, offering services for general, chemical and petroleum cargo.

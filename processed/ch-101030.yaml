@@ -1,4 +1,3 @@
----
 ssid: '101030'
 sanctions_set_id: '8174'
 entity:
@@ -36,6 +35,4 @@ entity:
         value: Santex Lines Limited
     addresses:
     - address_details: Suite 1501, Shanghai Zhong Rong Plaza, 1088 Pudong South Road
-  justification: E-Sail, alias IRISL Shipping Company Limited, is a company acting
-    on behalf of IRISL, and is active in transporting sensitive cargo linked to Iran’s
-    nuclear and ballistic missile programmes.
+  justification: E-Sail, alias IRISL Shipping Company Limited, is a company acting on behalf of IRISL, and is active in transporting sensitive cargo linked to Iran’s nuclear and ballistic missile programmes.

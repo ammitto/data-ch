@@ -1,4 +1,3 @@
----
 ssid: '12133'
 sanctions_set_id: '3986'
 individual:
@@ -19,5 +18,4 @@ individual:
       - order: 3
         name_part_type: title
         value: Brigadier General
-  justification: Gave orders to troops to shoot protestors in Al-Herak under the former
-    al-Assad regime.
+  justification: Gave orders to troops to shoot protestors in Al-Herak under the former al-Assad regime.

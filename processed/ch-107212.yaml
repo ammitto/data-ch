@@ -1,4 +1,3 @@
----
 ssid: '107212'
 sanctions_set_id: '27286'
 entity:
@@ -15,8 +14,4 @@ entity:
         value: Rustakt LLC
     addresses:
     - zip_code: '123290'
-  justification: Rustakt LLC is a Russian entity involved in the import of components
-    for Unmanned Aerial Vehicles (UAVs), and in the assembly of UAVs. Rustakt LLC
-    manufactures VT-40 First Person View (FPV) drones and supplies them to the Russian
-    Armed Forces for use in Ukraine. Therefore, Rustakt LLC is supporting Russia’s
-    military and industrial complex.
+  justification: Rustakt LLC is a Russian entity involved in the import of components for Unmanned Aerial Vehicles (UAVs), and in the assembly of UAVs. Rustakt LLC manufactures VT-40 First Person View (FPV) drones and supplies them to the Russian Armed Forces for use in Ukraine. Therefore, Rustakt LLC is supporting Russia’s military and industrial complex.

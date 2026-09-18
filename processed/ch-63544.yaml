@@ -1,4 +1,3 @@
----
 ssid: '63544'
 sanctions_set_id: '27286'
 entity:
@@ -12,8 +11,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company “State Scientific Center of the Russian Federation
-          Troitsk Institute for Innovative and Thermonuclear Research”
+        value: Joint Stock Company “State Scientific Center of the Russian Federation Troitsk Institute for Innovative and Thermonuclear Research”
     - name_type: alias
       quality: good
       lang: eng
@@ -28,10 +26,4 @@ entity:
     addresses:
     - address_details: Troitsk, st. Pushkov, vl. 12
       zip_code: '108840'
-  justification: JSC “SSC RF TRINITY” is a Russian scientific company whose main scientific
-    activities are in the field of plasma physics, laser physics and technology, physics
-    of the extreme state of matter, physics of energy conversion processes, and research
-    and technological development related to the implementation of the State Defense
-    Order. JSC “SSC RF TRINITY” carries out research for the Ministry of Defense of
-    the Government of the Russian Federation and has developed a technology for coating
-    the internal surfaces of the barrels of artillery guns.
+  justification: JSC “SSC RF TRINITY” is a Russian scientific company whose main scientific activities are in the field of plasma physics, laser physics and technology, physics of the extreme state of matter, physics of energy conversion processes, and research and technological development related to the implementation of the State Defense Order. JSC “SSC RF TRINITY” carries out research for the Ministry of Defense of the Government of the Russian Federation and has developed a technology for coating the internal surfaces of the barrels of artillery guns.

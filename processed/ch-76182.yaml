@@ -1,4 +1,3 @@
----
 ssid: '76182'
 sanctions_set_id: '27286'
 entity:
@@ -27,12 +26,4 @@ entity:
     addresses:
     - address_details: Patsaeva Ave., 7 building 1, office 28/1
       zip_code: '141707'
-  justification: LLC TC “Fly Bridge” is an electronics importer. Thanks to an established
-    logistics scheme, the company delivers sanctioned goods (microchips) from abroad
-    to the Russian military-industrial complex that manufactures equipment used in
-    Russia’s war of aggression against Ukraine. In view of the western sanctions,
-    the Russian Government has provided substantial support to all Russian companies
-    involved in the microelectronics industry, which is of strategic importance for
-    Russia’s efforts in the war. Therefore, LLC TC Fly Bridge is supporting materially
-    the Government of the Russian Federation, which is responsible for the annexation
-    of Crimea and the destabilisation of Ukraine.
+  justification: LLC TC “Fly Bridge” is an electronics importer. Thanks to an established logistics scheme, the company delivers sanctioned goods (microchips) from abroad to the Russian military-industrial complex that manufactures equipment used in Russia’s war of aggression against Ukraine. In view of the western sanctions, the Russian Government has provided substantial support to all Russian companies involved in the microelectronics industry, which is of strategic importance for Russia’s efforts in the war. Therefore, LLC TC Fly Bridge is supporting materially the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.

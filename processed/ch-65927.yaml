@@ -1,4 +1,3 @@
----
 ssid: '65927'
 sanctions_set_id: '8174'
 entity:
@@ -21,11 +20,6 @@ entity:
         name_part_type: whole-name
         value: Technology of Centrifuge of Iran Company
     addresses:
-    - address_details: Saadat Abad, Kaj Square, Sarv Gharbi, Sina Medical Building,
-        first floor, unit 8
-    - address_details: Zobe-Ahan Highway, after highway police station, Siman Road,
-        Ashtarjan industrial city, Sixth Avenue, building of the board of trustees
-        of the industrial city, number 59
-  justification: Farayand Technique is owned or linked to the Atomic Energy Organization
-    of Iran (AEOI) and is therefore directly associated with Iran’s proliferation-sensitive
-    nuclear activities.
+    - address_details: Saadat Abad, Kaj Square, Sarv Gharbi, Sina Medical Building, first floor, unit 8
+    - address_details: Zobe-Ahan Highway, after highway police station, Siman Road, Ashtarjan industrial city, Sixth Avenue, building of the board of trustees of the industrial city, number 59
+  justification: Farayand Technique is owned or linked to the Atomic Energy Organization of Iran (AEOI) and is therefore directly associated with Iran’s proliferation-sensitive nuclear activities.

@@ -1,4 +1,3 @@
----
 ssid: '89236'
 sanctions_set_id: '29445'
 entity:
@@ -14,5 +13,4 @@ entity:
         name_part_type: whole-name
         value: Wellgo International Industrial Limited
     addresses:
-    - address_details: Flat 28, Block B2, 7/F., Eastern Sea Industrial Building, 48-56
-        Tai Lin Pai Road, Kwai Chung, N.T.
+    - address_details: Flat 28, Block B2, 7/F., Eastern Sea Industrial Building, 48-56 Tai Lin Pai Road, Kwai Chung, N.T.

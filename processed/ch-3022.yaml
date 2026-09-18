@@ -1,4 +1,3 @@
----
 ssid: '3022'
 sanctions_set_id: '3974'
 entity:
@@ -29,5 +28,4 @@ entity:
         value: Alfa Investment And International Trading
     addresses:
     - zip_code: '11191'
-  justification: The Alfa Company Limited for International Trading and Marketing
-    was directed by Nabil Victor Karam.
+  justification: The Alfa Company Limited for International Trading and Marketing was directed by Nabil Victor Karam.

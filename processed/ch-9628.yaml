@@ -1,4 +1,3 @@
----
 ssid: '9628'
 sanctions_set_id: '8174'
 entity:
@@ -22,5 +21,4 @@ entity:
         value: T.E.M. Co.
     addresses:
     - address_details: Shishesh Mina Street, Karaj Special Road
-  justification: Used as a front company by designated Iran Aircraft Industries (IACI)
-    for covert procurement activities.
+  justification: Used as a front company by designated Iran Aircraft Industries (IACI) for covert procurement activities.

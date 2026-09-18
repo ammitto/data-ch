@@ -1,4 +1,3 @@
----
 ssid: '61728'
 sanctions_set_id: '29445'
 entity:
@@ -58,6 +57,5 @@ entity:
     addresses:
     - address_details: Panfilovsky Propsekt, 10, Zelenograd
       zip_code: '124460'
-    - address_details: Panfilovsky Prospekt, 4, Building 1, Premises V, Room 1-9,
-        Zelenograd
+    - address_details: Panfilovsky Prospekt, 4, Building 1, Premises V, Room 1-9, Zelenograd
       zip_code: '124460'

@@ -1,4 +1,3 @@
----
 ssid: '100378'
 sanctions_set_id: '8174'
 entity:
@@ -23,10 +22,5 @@ entity:
     addresses:
     - address_details: No 20, 13th St., Vozara Ave.
       zip_code: '1513753411'
-    - address_details: Tose’e Tower, corner of 15th St., Ahmad Qasir Ave.; Argentine
-        Square
-  justification: EDBI Exchange Company is a subsidiary of the Export Development Bank
-    of Iran (EDBI). It provides foreign exchange services to its customers. EDBI is
-    a state-owned bank which provides support to the Government of Iran. Therefore,
-    EDBI Exchange Company is owned or controlled by an entity providing support to
-    the Government of Iran.
+    - address_details: Tose’e Tower, corner of 15th St., Ahmad Qasir Ave.; Argentine Square
+  justification: EDBI Exchange Company is a subsidiary of the Export Development Bank of Iran (EDBI). It provides foreign exchange services to its customers. EDBI is a state-owned bank which provides support to the Government of Iran. Therefore, EDBI Exchange Company is owned or controlled by an entity providing support to the Government of Iran.

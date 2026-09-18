@@ -1,4 +1,3 @@
----
 ssid: '28279'
 sanctions_set_id: '27286'
 individual:
@@ -48,8 +47,4 @@ individual:
       day: 19
       month: 2
       year: 1951
-  justification: Former “Minister of State Security” in the separatist region of Transnistria.
-    Former vice-prime minister of the “Donetsk People’s Republic”, responsible for
-    security and law enforcement. In this capacity, he was responsible for the separatist
-    “governmental” activities of the so-called “government of the Donetsk People’s
-    Republic”.
+  justification: Former “Minister of State Security” in the separatist region of Transnistria. Former vice-prime minister of the “Donetsk People’s Republic”, responsible for security and law enforcement. In this capacity, he was responsible for the separatist “governmental” activities of the so-called “government of the Donetsk People’s Republic”.

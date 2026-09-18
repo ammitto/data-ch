@@ -1,4 +1,3 @@
----
 ssid: '80315'
 sanctions_set_id: '3975'
 individual:
@@ -26,5 +25,4 @@ individual:
       day: 1
       month: 1
       year: 1966
-  justification: Rapid Support Forces (RSF) Major General and Head of RSF Operations
-    Department
+  justification: Rapid Support Forces (RSF) Major General and Head of RSF Operations Department

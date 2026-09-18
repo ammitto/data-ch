@@ -1,4 +1,3 @@
----
 ssid: '102150'
 sanctions_set_id: '13065'
 entity:
@@ -16,5 +15,4 @@ entity:
     day_month_year:
       month: 6
       year: 2011
-  justification: The Masaf Institute is an organisation founded in 2011 by Ali Akbar
-    Raefipour.
+  justification: The Masaf Institute is an organisation founded in 2011 by Ali Akbar Raefipour.

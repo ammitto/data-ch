@@ -1,4 +1,3 @@
----
 ssid: '100390'
 sanctions_set_id: '8174'
 entity:
@@ -14,10 +13,6 @@ entity:
         name_part_type: whole-name
         value: Banco Internacional De Desarrollo CA
     addresses:
-    - address_details: Urb. El Rosal, Avenida Francesco de Miranda, Edificio Dozsa,
-        Piso 8
+    - address_details: Urb. El Rosal, Avenida Francesco de Miranda, Edificio Dozsa, Piso 8
       zip_code: C.P. 1060
-  justification: The Banco Internacional de Desarrollo (BID) is a Venezuelan entity
-    owned by Export Development Bank of Iran (EDBI), an Iranian entity whose objective
-    is to provide support to the Iranian government. Therefore, BID is owned and controlled
-    by an entity providing support to the Government of Iran.
+  justification: The Banco Internacional de Desarrollo (BID) is a Venezuelan entity owned by Export Development Bank of Iran (EDBI), an Iranian entity whose objective is to provide support to the Iranian government. Therefore, BID is owned and controlled by an entity providing support to the Government of Iran.

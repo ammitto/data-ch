@@ -1,4 +1,3 @@
----
 ssid: '6633'
 sanctions_set_id: '6094'
 individual:
@@ -19,5 +18,4 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Bussie
-  justification: Directly involved in the campaign of terror waged before and after
-    the elections, including the murder of MDC supporters.
+  justification: Directly involved in the campaign of terror waged before and after the elections, including the murder of MDC supporters.

@@ -1,4 +1,3 @@
----
 ssid: '10812'
 sanctions_set_id: '8174'
 entity:
@@ -16,5 +15,4 @@ entity:
     addresses:
     - address_details: 200 Middle Road 14-03/04, Prime Centre
       zip_code: '188980'
-  justification: IRISL’s head office in Singapore and acts as the exclusive agent
-    of Asia Marine Network. Acts for HDSL in Singapore.
+  justification: IRISL’s head office in Singapore and acts as the exclusive agent of Asia Marine Network. Acts for HDSL in Singapore.

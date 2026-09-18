@@ -1,4 +1,3 @@
----
 ssid: '9692'
 sanctions_set_id: '3984'
 entity:
@@ -15,8 +14,4 @@ entity:
         value: Yas Air
     addresses:
     - address_details: Mehrabad International Airport, Next to Terminal No. 6
-  justification: Yas Air is the new name for Pars Air, a company that was owned by
-    Pars Aviation Services Company, which in turn was designated by the United Nations
-    Security Council in resolution 1747 (2007). Yas Air has assisted Pars Aviation
-    Services Company, a United Nations designated entity, in violating paragraph 5
-    of resolution 1747 (2007).
+  justification: Yas Air is the new name for Pars Air, a company that was owned by Pars Aviation Services Company, which in turn was designated by the United Nations Security Council in resolution 1747 (2007). Yas Air has assisted Pars Aviation Services Company, a United Nations designated entity, in violating paragraph 5 of resolution 1747 (2007).

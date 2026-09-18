@@ -1,4 +1,3 @@
----
 ssid: '98614'
 sanctions_set_id: '27286'
 entity:
@@ -19,8 +18,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Public Joint Stock Company Odk-Ufimskoye Motorostroitelnoye Production
-          Association
+        value: Public Joint Stock Company Odk-Ufimskoye Motorostroitelnoye Production Association
     - name_type: alias
       quality: good
       lang: eng
@@ -49,9 +47,4 @@ entity:
     addresses:
     - address_details: Ferina street 2
       zip_code: '450039'
-  justification: ODK-Ufa Engine-Building Production Association (ODK-UMPO) is Russia’s
-    largest gas turbine engine manufacturer and a key subsidiary of the State-owned
-    United Engine Corporation (UEC), which plays a central role in the country’s military-industrial
-    complex. During the Army-2024 military forum, ODK-UMPO made a deal on a 27,5 billion
-    rouble injection from Rostec State Corporation to support its ongoing operations,
-    further reinforcing its strategic importance.
+  justification: ODK-Ufa Engine-Building Production Association (ODK-UMPO) is Russia’s largest gas turbine engine manufacturer and a key subsidiary of the State-owned United Engine Corporation (UEC), which plays a central role in the country’s military-industrial complex. During the Army-2024 military forum, ODK-UMPO made a deal on a 27,5 billion rouble injection from Rostec State Corporation to support its ongoing operations, further reinforcing its strategic importance.

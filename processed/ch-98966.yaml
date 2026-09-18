@@ -1,4 +1,3 @@
----
 ssid: '98966'
 sanctions_set_id: '27286'
 entity:
@@ -23,9 +22,4 @@ entity:
     addresses:
     - address_details: Novorossiyskaya st., 2
       zip_code: '454139'
-  justification: JSC Signal is a Russian defence company which manufactures weapons,
-    ammunition and explosives. The company is part of the holding company NPK Tekhmash
-    JSC, which produces conventional weapons, ammunition and special chemicals and
-    is part of the State Corporation Rostec. As part of Tekhmash, JSC Signal provides
-    special products under the Russian State defence order. It participated in the
-    International Military-Technical Forum “Army-2023”.
+  justification: JSC Signal is a Russian defence company which manufactures weapons, ammunition and explosives. The company is part of the holding company NPK Tekhmash JSC, which produces conventional weapons, ammunition and special chemicals and is part of the State Corporation Rostec. As part of Tekhmash, JSC Signal provides special products under the Russian State defence order. It participated in the International Military-Technical Forum “Army-2023”.

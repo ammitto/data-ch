@@ -1,4 +1,3 @@
----
 ssid: '35567'
 sanctions_set_id: '3978'
 entity:
@@ -14,7 +13,4 @@ entity:
         name_part_type: whole-name
         value: Singwang Economics and Trading General Corporation
     addresses:
-  justification: Singwang Economics and Trading General Corporation is a DPRK firm
-    for trading in coal. DPRK generates a significant share of the money for its nuclear
-    and ballistic missile programmes by mining natural resources and selling those
-    resources abroad.
+  justification: Singwang Economics and Trading General Corporation is a DPRK firm for trading in coal. DPRK generates a significant share of the money for its nuclear and ballistic missile programmes by mining natural resources and selling those resources abroad.

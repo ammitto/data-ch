@@ -1,4 +1,3 @@
----
 ssid: '44885'
 sanctions_set_id: '39362'
 individual:
@@ -15,7 +14,4 @@ individual:
         value: Than Hlaing
     day_month_year:
       year: 1965
-  justification: Lieutenant General Than Hlaing is a member of the Myanmar Armed Forces
-    (Tatmadaw). He was appointed Deputy Minister of Home Affairs and Chief of Police
-    on 2 February 2021 and stepped down from those positions on 5 May 2022. He is
-    currently part of the reserve forces.
+  justification: Lieutenant General Than Hlaing is a member of the Myanmar Armed Forces (Tatmadaw). He was appointed Deputy Minister of Home Affairs and Chief of Police on 2 February 2021 and stepped down from those positions on 5 May 2022. He is currently part of the reserve forces.

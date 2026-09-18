@@ -1,4 +1,3 @@
----
 ssid: '90404'
 sanctions_set_id: '90371'
 entity:
@@ -13,6 +12,4 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Perm International Airport
-  justification: Used for the transport of goods and technology used in the defence
-    and security sector, from or to Russia, for use in Russia or for Russia’s warfare
-    in Ukraine
+  justification: Used for the transport of goods and technology used in the defence and security sector, from or to Russia, for use in Russia or for Russia’s warfare in Ukraine

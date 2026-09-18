@@ -1,4 +1,3 @@
----
 ssid: '52880'
 sanctions_set_id: '27286'
 individual:
@@ -23,12 +22,4 @@ individual:
       day: 15
       month: 2
       year: 1960
-  justification: Igor Korotchenko, the Chairman of the Public Council under the Ministry
-    of Defence of the Russian Federation, is a regular contributor to the main Russian
-    propaganda TV shows as a defence and foreign policy expert. Igor Korotchenko is
-    known for his aggressive and derogatory statements against Ukraine territorial
-    integrity and provokes military confrontation between the Russian Federation and
-    the West, including Ukraine. On his social media platforms or in his TV shows
-    he makes calls to “denazify” and demilitarise Ukraine as well as to unite Ukraine
-    with Russia (“its historical fraternal union”), stating that Ukraine is part of
-    the big “Russian world”.
+  justification: Igor Korotchenko, the Chairman of the Public Council under the Ministry of Defence of the Russian Federation, is a regular contributor to the main Russian propaganda TV shows as a defence and foreign policy expert. Igor Korotchenko is known for his aggressive and derogatory statements against Ukraine territorial integrity and provokes military confrontation between the Russian Federation and the West, including Ukraine. On his social media platforms or in his TV shows he makes calls to “denazify” and demilitarise Ukraine as well as to unite Ukraine with Russia (“its historical fraternal union”), stating that Ukraine is part of the big “Russian world”.

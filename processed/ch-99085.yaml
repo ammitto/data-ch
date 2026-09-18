@@ -1,4 +1,3 @@
----
 ssid: '99085'
 sanctions_set_id: '27286'
 entity:
@@ -16,9 +15,4 @@ entity:
     addresses:
     - address_details: Office 986, 321-323 High Road
       zip_code: RM6 6AX
-  justification: International Maritime Ship Registry is an entity that claims to
-    provide the flag of Curaçao to vessels. That false flag of Curaçao is provided
-    to an oil tanker subject to Union restrictive measures under Regulation (EU) No
-    833/2014 for transporting crude oil or petroleum products from Russia while practicing
-    irregular and high-risk shipping practices. That false flag provides the appearance
-    of certification, thereby enabling that vessel to continue operating.
+  justification: International Maritime Ship Registry is an entity that claims to provide the flag of Curaçao to vessels. That false flag of Curaçao is provided to an oil tanker subject to Union restrictive measures under Regulation (EU) No 833/2014 for transporting crude oil or petroleum products from Russia while practicing irregular and high-risk shipping practices. That false flag provides the appearance of certification, thereby enabling that vessel to continue operating.

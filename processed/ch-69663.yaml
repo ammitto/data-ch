@@ -1,4 +1,3 @@
----
 ssid: '69663'
 sanctions_set_id: '27286'
 entity:
@@ -26,8 +25,4 @@ entity:
       year: 1993
     addresses:
     - address_details: st. Nartova, d. 6 k. 6, room 25 cab. 96
-  justification: JSC Design Office for Shipbuilding Vympel (JSC DO Vympel) is one
-    of Russia’s industrial and defence complexes that builds a wide range of ships
-    of various classes and purposes, including carriers, tankers and support vessels
-    for the Russian Navy. JSC DO Vympel is part of the State-owned shipbuilding company
-    JSC United Shipbuilding Corporation.
+  justification: JSC Design Office for Shipbuilding Vympel (JSC DO Vympel) is one of Russia’s industrial and defence complexes that builds a wide range of ships of various classes and purposes, including carriers, tankers and support vessels for the Russian Navy. JSC DO Vympel is part of the State-owned shipbuilding company JSC United Shipbuilding Corporation.

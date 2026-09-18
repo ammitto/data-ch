@@ -1,4 +1,3 @@
----
 ssid: '12188'
 sanctions_set_id: '3986'
 individual:
@@ -37,6 +36,4 @@ individual:
       day: 15
       month: 3
       year: 1960
-  justification: Minister for Presidency Affairs under the former al-Assad regime.
-    As a Government Minister, shares responsibility for the former al-Assad regime’s
-    violent repression of the civilian population.
+  justification: Minister for Presidency Affairs under the former al-Assad regime. As a Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.

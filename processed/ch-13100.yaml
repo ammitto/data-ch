@@ -1,4 +1,3 @@
----
 ssid: '13100'
 sanctions_set_id: '13065'
 individual:
@@ -22,9 +21,4 @@ individual:
       - order: 4
         name_part_type: title
         value: Brigadier-General
-  justification: Member of the teaching staff of Imam Hossein University (Guardians
-    of the Revolution) and Head of the planning and operations department of the General
-    Staff of the Armed Forces. Former Head of the Army Command and General Staff College
-    (DAFOOS). Former Head of the Seyyed al-Shohada Corps of the Islamic Revolutionary
-    Guard Corps, Tehran province. The Seyyed al-Shohada Corps played a key role in
-    organising the repression of protests in 2009.
+  justification: Member of the teaching staff of Imam Hossein University (Guardians of the Revolution) and Head of the planning and operations department of the General Staff of the Armed Forces. Former Head of the Army Command and General Staff College (DAFOOS). Former Head of the Seyyed al-Shohada Corps of the Islamic Revolutionary Guard Corps, Tehran province. The Seyyed al-Shohada Corps played a key role in organising the repression of protests in 2009.

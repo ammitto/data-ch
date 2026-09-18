@@ -1,4 +1,3 @@
----
 ssid: '11013'
 sanctions_set_id: '8174'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Javad
-  justification: Head of the Research Centre for Explosion and Impact, also known
-    as METFAZ.
+  justification: Head of the Research Centre for Explosion and Impact, also known as METFAZ.

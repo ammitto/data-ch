@@ -1,4 +1,3 @@
----
 ssid: '40037'
 sanctions_set_id: '3986'
 individual:
@@ -43,10 +42,4 @@ individual:
       year: 1973
     addresses:
     - address_details: Platinum Tower, office No 2405, Jumeirah Lake Towers
-  justification: Leading businessperson operating in Syria linked to the former al-Assad
-    regime, with interests and activities in multiple sectors of Syria’s economy.
-    Samer Foz provides financial and other support to the former al-Assad regime,
-    including funding the Military Security Shield Forces in Syria and brokering grain
-    deals. He also benefits financially from access to commercial opportunities through
-    the wheat trade and reconstruction projects as a result of his links to the former
-    regime.
+  justification: Leading businessperson operating in Syria linked to the former al-Assad regime, with interests and activities in multiple sectors of Syria’s economy. Samer Foz provides financial and other support to the former al-Assad regime, including funding the Military Security Shield Forces in Syria and brokering grain deals. He also benefits financially from access to commercial opportunities through the wheat trade and reconstruction projects as a result of his links to the former regime.

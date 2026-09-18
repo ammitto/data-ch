@@ -1,4 +1,3 @@
----
 ssid: '73705'
 sanctions_set_id: '73477'
 entity:
@@ -16,6 +15,4 @@ entity:
     day_month_year:
       year: 2018
     addresses:
-  justification: Tradive General Trading Co (Tradive) is a company based in the UAE
-    whose director and ultimate beneficial owner is RSF Major Algoney Hamdan Dagalo,
-    the youngest brother of Mohammed Hamdan Dagalo (Hemedti).
+  justification: Tradive General Trading Co (Tradive) is a company based in the UAE whose director and ultimate beneficial owner is RSF Major Algoney Hamdan Dagalo, the youngest brother of Mohammed Hamdan Dagalo (Hemedti).

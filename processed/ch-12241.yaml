@@ -1,4 +1,3 @@
----
 ssid: '12241'
 sanctions_set_id: '3986'
 individual:
@@ -34,7 +33,4 @@ individual:
       day: 11
       month: 8
       year: 1975
-  justification: Member of the Assad family and closely connected to key regime figures;
-    wife of former President Bashar al-Assad. Given the close personal relationship
-    and intrinsic financial relationship to former President Bashar al-Assad, she
-    benefits from and is associated with the former al-Assad regime.
+  justification: Member of the Assad family and closely connected to key regime figures; wife of former President Bashar al-Assad. Given the close personal relationship and intrinsic financial relationship to former President Bashar al-Assad, she benefits from and is associated with the former al-Assad regime.

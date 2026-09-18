@@ -1,4 +1,3 @@
----
 ssid: '11225'
 sanctions_set_id: '8174'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Naser
-  justification: Engineer; Deputy Head of the AEOI. The AEOI oversees Iran’s nuclear
-    programme and is designated under UNSCR 1737 (2006).
+  justification: Engineer; Deputy Head of the AEOI. The AEOI oversees Iran’s nuclear programme and is designated under UNSCR 1737 (2006).

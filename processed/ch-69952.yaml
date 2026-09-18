@@ -1,4 +1,3 @@
----
 ssid: '69952'
 sanctions_set_id: '27286'
 entity:
@@ -27,6 +26,4 @@ entity:
     addresses:
     - address_details: Severnaya st., 1a
       zip_code: '600007'
-  justification: JSC VPO Tochmash manufactures high-precision instrumentation and
-    mechanical engineering products. In addition, the company supplies special purpose
-    components and produces ammunition used by the Russian Armed Forces.
+  justification: JSC VPO Tochmash manufactures high-precision instrumentation and mechanical engineering products. In addition, the company supplies special purpose components and produces ammunition used by the Russian Armed Forces.

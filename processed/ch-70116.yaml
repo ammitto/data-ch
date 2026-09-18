@@ -1,4 +1,3 @@
----
 ssid: '70116'
 sanctions_set_id: '27286'
 entity:
@@ -23,7 +22,4 @@ entity:
     addresses:
     - address_details: Leningradsky Prospect 45-G
       zip_code: '125190'
-  justification: PJSC Aviation Complex named after S.V. Ilyushin is a major Russian
-    aircraft manufacturer. It is a supplier of the Government of the Russian Federation.
-    PJSC Aviation Complex named after S.V. Ilyushin is a parent company of Aviastar
-    and Voronezh Aircraft Manufacturing Company.
+  justification: PJSC Aviation Complex named after S.V. Ilyushin is a major Russian aircraft manufacturer. It is a supplier of the Government of the Russian Federation. PJSC Aviation Complex named after S.V. Ilyushin is a parent company of Aviastar and Voronezh Aircraft Manufacturing Company.

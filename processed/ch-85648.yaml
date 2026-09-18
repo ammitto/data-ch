@@ -1,4 +1,3 @@
----
 ssid: '85648'
 sanctions_set_id: '4387'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 9
       month: 12
       year: 1960
-  justification: Vasily Biagun is a Belarusian judge who has served in the Gomel Regional
-    Court since 2003. He was appointed by Aliaksandr Lukashenka. Biagun issued numerous
-    rulings against opponents of the Belarusian authorities, including sentences against
-    individuals for their activity on social media. He also issued politically motivated
-    prison sentences against Nikita Slepenka (3 years) and Pavel Bobchenko (2 years).
+  justification: Vasily Biagun is a Belarusian judge who has served in the Gomel Regional Court since 2003. He was appointed by Aliaksandr Lukashenka. Biagun issued numerous rulings against opponents of the Belarusian authorities, including sentences against individuals for their activity on social media. He also issued politically motivated prison sentences against Nikita Slepenka (3 years) and Pavel Bobchenko (2 years).

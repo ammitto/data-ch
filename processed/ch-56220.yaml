@@ -1,4 +1,3 @@
----
 ssid: '56220'
 sanctions_set_id: '27286'
 individual:
@@ -23,6 +22,4 @@ individual:
       day: 17
       month: 3
       year: 1959
-  justification: Andrey Removich Belousov has been the Russian Federation Defence
-    Minister since 14 May 2024. As Defence Minister, he is ultimately responsible
-    for any military action against Ukraine.
+  justification: Andrey Removich Belousov has been the Russian Federation Defence Minister since 14 May 2024. As Defence Minister, he is ultimately responsible for any military action against Ukraine.

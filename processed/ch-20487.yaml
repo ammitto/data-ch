@@ -1,4 +1,3 @@
----
 ssid: '20487'
 sanctions_set_id: '12787'
 individual:
@@ -16,6 +15,4 @@ individual:
       - order: 2
         name_part_type: title
         value: Colonel
-  justification: 'Position: Fourth in Revolutionary Guard chain of command. Colonel.
-    Key Member of the Qadhafi regime. As such, closely associated with the former
-    regime of Muammar Qadhafi.'
+  justification: 'Position: Fourth in Revolutionary Guard chain of command. Colonel. Key Member of the Qadhafi regime. As such, closely associated with the former regime of Muammar Qadhafi.'

@@ -1,4 +1,3 @@
----
 ssid: '55702'
 sanctions_set_id: '29445'
 entity:
@@ -26,8 +25,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal Research and Development Center JSC Scientific Production Association
-          “Mars”
+        value: Federal Research and Development Center JSC Scientific Production Association “Mars”
     - name_type: alias
       quality: good
       lang: eng

@@ -1,4 +1,3 @@
----
 ssid: '94708'
 sanctions_set_id: '4387'
 entity:
@@ -20,11 +19,4 @@ entity:
     addresses:
     - address_details: Dimitrova street, 36/7
       zip_code: '210627'
-  justification: JSC Vistan is a Belarusian manufacturer of machine tools, including
-    CNC machining centres, cylindrical grinders, centreless grinding machines, gear
-    processing equipment, and lathes. These are dual-use technologies used in the
-    production of military goods. JSC Vistan exports over 60 % of its products to
-    Russia and supplies machine tools to Russian defence-related enterprises, including
-    JSC “Krasny Oktyabr”. The company is part of a Belarus-Russia import-substitution
-    program and is receiving US$15 000 000 in funding backed by Russian state financial
-    support, to expand gear-processing machine production.
+  justification: JSC Vistan is a Belarusian manufacturer of machine tools, including CNC machining centres, cylindrical grinders, centreless grinding machines, gear processing equipment, and lathes. These are dual-use technologies used in the production of military goods. JSC Vistan exports over 60 % of its products to Russia and supplies machine tools to Russian defence-related enterprises, including JSC “Krasny Oktyabr”. The company is part of a Belarus-Russia import-substitution program and is receiving US$15 000 000 in funding backed by Russian state financial support, to expand gear-processing machine production.

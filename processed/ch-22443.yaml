@@ -1,4 +1,3 @@
----
 ssid: '22443'
 sanctions_set_id: '3986'
 individual:
@@ -38,7 +37,4 @@ individual:
         value: Sarkis
     day_month_year:
       year: 1962
-  justification: Former State Minister for Environmental Affairs under the former
-    al-Assad regime, in power after May 2011. As a former Government Minister, shares
-    responsibility for the former al-Assad regime’s violent repression of the civilian
-    population.
+  justification: Former State Minister for Environmental Affairs under the former al-Assad regime, in power after May 2011. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.

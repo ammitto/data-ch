@@ -1,4 +1,3 @@
----
 ssid: '12549'
 sanctions_set_id: '3986'
 entity:
@@ -15,8 +14,4 @@ entity:
         value: General Organisation of Tobacco
     addresses:
     - address_details: Salhieh Street 616
-  justification: Provides financial support to the Syrian regime. The General Organisation
-    of Tobacco is wholly owned by the Syrian state. The profits that the organisation
-    makes, including through the sale of licences to market foreign brands of tobacco
-    and taxes levied on imports of foreign brands of tobacco, are transferred to the
-    Syrian state.
+  justification: Provides financial support to the Syrian regime. The General Organisation of Tobacco is wholly owned by the Syrian state. The profits that the organisation makes, including through the sale of licences to market foreign brands of tobacco and taxes levied on imports of foreign brands of tobacco, are transferred to the Syrian state.

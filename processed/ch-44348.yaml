@@ -1,4 +1,3 @@
----
 ssid: '44348'
 sanctions_set_id: '4387'
 entity:
@@ -23,9 +22,4 @@ entity:
     addresses:
     - address_details: 150 Partizansky Ave.
       zip_code: '220021'
-  justification: MZKT (a.k.a. VOLAT) is part of the Belarusian State Authority for
-    Military Industry of the Republic of Belarus (a.k.a. SAMI or State Military Industrial
-    Committee), which is responsible for implementing the military-technical policy
-    of the State and a subordinate to the Council of Ministers and the President of
-    Belarus. MZKT (a.k.a. VOLAT) is therefore benefitting from its association with
-    and supporting the Lukashenka regime.
+  justification: MZKT (a.k.a. VOLAT) is part of the Belarusian State Authority for Military Industry of the Republic of Belarus (a.k.a. SAMI or State Military Industrial Committee), which is responsible for implementing the military-technical policy of the State and a subordinate to the Council of Ministers and the President of Belarus. MZKT (a.k.a. VOLAT) is therefore benefitting from its association with and supporting the Lukashenka regime.

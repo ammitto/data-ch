@@ -1,4 +1,3 @@
----
 ssid: '92060'
 sanctions_set_id: '29445'
 entity:
@@ -14,5 +13,4 @@ entity:
         name_part_type: whole-name
         value: Stimul Engineering Ltd.
     addresses:
-    - address_details: Aktim 3 Ticaret ve İş Merkezi Cihangir Mah. Güvercin Cad. No:2
-        Ic Kapi No:4
+    - address_details: Aktim 3 Ticaret ve İş Merkezi Cihangir Mah. Güvercin Cad. No:2 Ic Kapi No:4

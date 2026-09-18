@@ -1,4 +1,3 @@
----
 ssid: '85041'
 sanctions_set_id: '4387'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 16
       month: 4
       year: 1986
-  justification: Aliaksandr Mokhorau a Belarusian judge who has served in the Soviet
-    District Court of the city of Gomel since 2021. He was appointed by Aliaksandr
-    Lukashenka. He issued sentences against citizens of Belarus who voiced their opinions
-    against the President, the system and brutality of Belarusian law enforcement
-    structures.
+  justification: Aliaksandr Mokhorau a Belarusian judge who has served in the Soviet District Court of the city of Gomel since 2021. He was appointed by Aliaksandr Lukashenka. He issued sentences against citizens of Belarus who voiced their opinions against the President, the system and brutality of Belarusian law enforcement structures.

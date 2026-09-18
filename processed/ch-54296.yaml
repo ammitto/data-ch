@@ -1,4 +1,3 @@
----
 ssid: '54296'
 sanctions_set_id: '27286'
 entity:
@@ -30,7 +29,4 @@ entity:
     addresses:
     - address_details: 1 Guskova square
       zip_code: '236005'
-  justification: JSC Baltic Shipbuilding Plant “Yantar” (a.k.a. Yantar Shipyard) is
-    part of the United Shipbuilding Corporation, a Russian state-owned shipbuilding
-    conglomerate which is the main provider of the military warships to the Russian
-    Navy.
+  justification: JSC Baltic Shipbuilding Plant “Yantar” (a.k.a. Yantar Shipyard) is part of the United Shipbuilding Corporation, a Russian state-owned shipbuilding conglomerate which is the main provider of the military warships to the Russian Navy.

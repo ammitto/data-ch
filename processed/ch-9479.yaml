@@ -1,4 +1,3 @@
----
 ssid: '9479'
 sanctions_set_id: '8174'
 entity:
@@ -13,7 +12,4 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Shahid Ahmad Kazemi Industrial Group (SAKIG)
-  justification: Entity subordinate to Iran’s Aerospace Industries Organisation (AIO).
-    SAKIG develops and produces surface-to-air missiles systems for Iran’s military.
-    It maintains military, missile, and air defense projects and procures goods from
-    Russia, Belarus, and North Korea.
+  justification: Entity subordinate to Iran’s Aerospace Industries Organisation (AIO). SAKIG develops and produces surface-to-air missiles systems for Iran’s military. It maintains military, missile, and air defense projects and procures goods from Russia, Belarus, and North Korea.

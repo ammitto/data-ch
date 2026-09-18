@@ -1,4 +1,3 @@
----
 ssid: '12342'
 sanctions_set_id: '3986'
 entity:
@@ -15,6 +14,4 @@ entity:
         value: Bena Properties
     addresses:
     - address_details: Cham Holding Building, Daraa Highway
-  justification: Held by Rami Makhlouf. Syria’s largest real estate company and the
-    real estate and investment arm of Cham Holding; provides funding to the former
-    al-Assad regime.
+  justification: Held by Rami Makhlouf. Syria’s largest real estate company and the real estate and investment arm of Cham Holding; provides funding to the former al-Assad regime.

@@ -1,4 +1,3 @@
----
 ssid: '95110'
 sanctions_set_id: '27286'
 entity:
@@ -33,8 +32,4 @@ entity:
       year: 2003
     addresses:
     - address_details: krasnoarmeyskaya street 99A
-  justification: JSC “Research Institute of Semiconductor Devices” is a military industrial
-    company. It develops technologies and produces electronic components, primarily
-    for the military industry. For instance, the company creates miniature LEDs that
-    can be used as part of special-purpose equipment, including to enable operations
-    in extreme conditions.
+  justification: JSC “Research Institute of Semiconductor Devices” is a military industrial company. It develops technologies and produces electronic components, primarily for the military industry. For instance, the company creates miniature LEDs that can be used as part of special-purpose equipment, including to enable operations in extreme conditions.

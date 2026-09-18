@@ -1,4 +1,3 @@
----
 ssid: '35583'
 sanctions_set_id: '3978'
 entity:
@@ -37,7 +36,4 @@ entity:
     addresses:
     - address_details: Man gyongdae-kuyok
     - address_details: Mangyungdae-gu
-  justification: Korea International Chemical Joint Venture Company is a subsidiary
-    of Korea Ryonbong General Corporation — DPRK’s defense conglomerate specializing
-    in acquisition for DPRK defense industries and support to Pyongyang’s military
-    related sales — and has engaged in proliferation-related transactions.
+  justification: Korea International Chemical Joint Venture Company is a subsidiary of Korea Ryonbong General Corporation — DPRK’s defense conglomerate specializing in acquisition for DPRK defense industries and support to Pyongyang’s military related sales — and has engaged in proliferation-related transactions.

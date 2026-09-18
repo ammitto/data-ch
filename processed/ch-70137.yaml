@@ -1,4 +1,3 @@
----
 ssid: '70137'
 sanctions_set_id: '27286'
 entity:
@@ -16,5 +15,4 @@ entity:
     addresses:
     - address_details: Ulitsa Sovetskaya 1
       zip_code: '681018'
-  justification: Komsomolsk-on-Amur Aircraft Plant is a Russian aircraft manufacturing
-    company. It provides warplanes to the Armed Forces of the Russian Federation.
+  justification: Komsomolsk-on-Amur Aircraft Plant is a Russian aircraft manufacturing company. It provides warplanes to the Armed Forces of the Russian Federation.

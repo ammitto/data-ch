@@ -1,4 +1,3 @@
----
 ssid: '58325'
 sanctions_set_id: '27286'
 entity:
@@ -14,13 +13,6 @@ entity:
         name_part_type: whole-name
         value: ANO TV-Novosti
     addresses:
-    - address_details: Autonomous nonprofit organization (ANO) “TV-Novosti”, BOROVAYA
-        ULITSA, D.3, K.1
+    - address_details: Autonomous nonprofit organization (ANO) “TV-Novosti”, BOROVAYA ULITSA, D.3, K.1
       zip_code: '111020'
-  justification: TV-Novosti is a Russian-government-linked media organisation. It
-    is funded from the federal budget of the Russian Federation. Through its subordinate
-    media outlets, including RT, it has consistently spread pro-Kremlin propaganda
-    and disinformation, and supported Russia’s war of aggression against Ukraine.
-    Through its content, RT spreads false narratives of the Russian regime to undermine
-    Ukraine and is thus supporting a large-scale disinformation campaign to erode
-    international support for Ukraine.
+  justification: TV-Novosti is a Russian-government-linked media organisation. It is funded from the federal budget of the Russian Federation. Through its subordinate media outlets, including RT, it has consistently spread pro-Kremlin propaganda and disinformation, and supported Russia’s war of aggression against Ukraine. Through its content, RT spreads false narratives of the Russian regime to undermine Ukraine and is thus supporting a large-scale disinformation campaign to erode international support for Ukraine.

@@ -1,4 +1,3 @@
----
 ssid: '10872'
 sanctions_set_id: '8174'
 entity:
@@ -15,7 +14,4 @@ entity:
         value: Sanford Group
     addresses:
     - address_details: 15th Floor, Tower One, Lippo Centre, 89 Queensway
-  justification: Sanford Group is a Hong Kong based company, owned by Springthorpe
-    Limited, whose ships are operated by Safiran Payam Darya Shipping Lines (SAPID)
-    that took over IRISL’s bulk services and routes and uses vessels previously owned
-    and operated by IRISL.
+  justification: Sanford Group is a Hong Kong based company, owned by Springthorpe Limited, whose ships are operated by Safiran Payam Darya Shipping Lines (SAPID) that took over IRISL’s bulk services and routes and uses vessels previously owned and operated by IRISL.

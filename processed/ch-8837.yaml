@@ -1,4 +1,3 @@
----
 ssid: '8837'
 sanctions_set_id: '3984'
 individual:
@@ -68,6 +67,4 @@ individual:
         value: Ali Akbar
     day_month_year:
       year: 1967
-  justification: Member of the IRGC Qods Force operating under the direction of Qods
-    Force Commander, Major General Qasem Soleimani who was designated by the UN Security
-    Council in resolution 1747 (2007) (designated under IRi.039).
+  justification: Member of the IRGC Qods Force operating under the direction of Qods Force Commander, Major General Qasem Soleimani who was designated by the UN Security Council in resolution 1747 (2007) (designated under IRi.039).

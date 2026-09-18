@@ -1,4 +1,3 @@
----
 ssid: '22415'
 sanctions_set_id: '3986'
 individual:
@@ -35,6 +34,4 @@ individual:
         value: Mshaweh
     day_month_year:
       year: 1955
-  justification: Former Minister of Culture in power after May 2011 under the former
-    al-Assad regime. As a former Government Minister, shares responsibility for the
-    former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Minister of Culture in power after May 2011 under the former al-Assad regime. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.

@@ -1,4 +1,3 @@
----
 ssid: '11894'
 sanctions_set_id: '3986'
 individual:
@@ -33,6 +32,4 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Zamreni
-  justification: Branch Chief for Syrian Military Intelligence (SMI) in Homs under
-    the former al-Assad regime. Directly involved in repression of and violence against
-    the civilian population in Homs.
+  justification: Branch Chief for Syrian Military Intelligence (SMI) in Homs under the former al-Assad regime. Directly involved in repression of and violence against the civilian population in Homs.

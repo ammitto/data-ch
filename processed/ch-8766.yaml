@@ -1,4 +1,3 @@
----
 ssid: '8766'
 sanctions_set_id: '3984'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Jafar
-  justification: Technical Adviser to the AEOI (E.37.A.1.), in charge of managing
-    the production of valves for centrifuges.
+  justification: Technical Adviser to the AEOI (E.37.A.1.), in charge of managing the production of valves for centrifuges.

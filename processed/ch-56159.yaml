@@ -1,4 +1,3 @@
----
 ssid: '56159'
 sanctions_set_id: '27286'
 individual:
@@ -20,9 +19,4 @@ individual:
       day: 31
       month: 8
       year: 1973
-  justification: Oleg Kryuchkov is the spokesperson for the Russian occupation authority
-    in Crimea and advisor to the Head of Crimea. In his public statements, he confirmed
-    the theft of grain from the Ukrainian state and Ukrainian farmers on the territories
-    occupied by Russia, confirmed the russification of Ukrainian schools in occupied
-    territories, and stated that Russia plans to annex the occupied territories in
-    the south of Ukraine.
+  justification: Oleg Kryuchkov is the spokesperson for the Russian occupation authority in Crimea and advisor to the Head of Crimea. In his public statements, he confirmed the theft of grain from the Ukrainian state and Ukrainian farmers on the territories occupied by Russia, confirmed the russification of Ukrainian schools in occupied territories, and stated that Russia plans to annex the occupied territories in the south of Ukraine.

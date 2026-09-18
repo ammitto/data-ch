@@ -1,4 +1,3 @@
----
 ssid: '43666'
 sanctions_set_id: '4387'
 individual:
@@ -23,10 +22,4 @@ individual:
       day: 3
       month: 1
       year: 1969
-  justification: As a member of the CEC college, he is responsible for its misconduct
-    of the 2020 presidential electoral, its non-compliance with basic international
-    standards of fairness and transparency and its falsification of election results.
-    The CEC and its college have, in particular, organised the dismissal of certain
-    opposition candidates on spurious grounds and placed disproportionate restrictions
-    on observers in polling stations. The CEC has also ensured that the election commissions
-    under its supervision are composed in a biased manner.
+  justification: As a member of the CEC college, he is responsible for its misconduct of the 2020 presidential electoral, its non-compliance with basic international standards of fairness and transparency and its falsification of election results. The CEC and its college have, in particular, organised the dismissal of certain opposition candidates on spurious grounds and placed disproportionate restrictions on observers in polling stations. The CEC has also ensured that the election commissions under its supervision are composed in a biased manner.

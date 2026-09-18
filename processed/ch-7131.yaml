@@ -1,4 +1,3 @@
----
 ssid: '7131'
 sanctions_set_id: '6093'
 entity:
@@ -21,5 +20,4 @@ entity:
         name_part_type: whole-name
         value: Zidco Holdings (PVT) Ltd
     addresses:
-  justification: Financial holding company associated with the ZANU-PF faction of
-    the Government.
+  justification: Financial holding company associated with the ZANU-PF faction of the Government.

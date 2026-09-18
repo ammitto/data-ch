@@ -1,4 +1,3 @@
----
 ssid: '3072'
 sanctions_set_id: '3975'
 individual:
@@ -30,5 +29,4 @@ individual:
       day: 24
       month: 6
       year: 1952
-  justification: Major-General and Commander of the Western Military Region for the
-    Sudanese Armed Forces (SAF).
+  justification: Major-General and Commander of the Western Military Region for the Sudanese Armed Forces (SAF).

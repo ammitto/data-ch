@@ -1,4 +1,3 @@
----
 ssid: '99224'
 sanctions_set_id: '29445'
 entity:
@@ -35,6 +34,5 @@ entity:
         name_part_type: whole-name
         value: LLC Experimental Motor Design Bureau
     addresses:
-    - address_details: Aidarovskoye rural settlement, Promyshlennaya Street, Zone
-        2, plot No. 4
+    - address_details: Aidarovskoye rural settlement, Promyshlennaya Street, Zone 2, plot No. 4
     - address_details: 22 Voroshilova St., 394055

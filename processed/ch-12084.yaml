@@ -1,4 +1,3 @@
----
 ssid: '12084'
 sanctions_set_id: '3986'
 individual:
@@ -43,5 +42,4 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Jarrad
-  justification: Ordered troops to shoot at protestors in Deraa, including the use
-    of machine guns and anti-aircraft guns.
+  justification: Ordered troops to shoot at protestors in Deraa, including the use of machine guns and anti-aircraft guns.

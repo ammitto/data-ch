@@ -1,4 +1,3 @@
----
 ssid: '5272'
 sanctions_set_id: '4387'
 individual:
@@ -22,9 +21,4 @@ individual:
     addresses:
     - address_details: ул.Авакяна, 32
       zip_code: '220039'
-  justification: Deputy Prosecutor of the Oktiabrski (Kastrichnitski) District of
-    Minsk. He dealt with the case of Pavel Vinogradov, Dmitri Drozd, Ales Kirkevich,
-    Vladimir Homichenko. The accusation presented by him had a clear and imminent
-    political motivation and was a clear violation of the Code of Criminal Procedure.
-    It was based on an incorrect classification of the events of 19 Dec 2010, not
-    sustained by evidence, proof or testimonies of witnesses.
+  justification: Deputy Prosecutor of the Oktiabrski (Kastrichnitski) District of Minsk. He dealt with the case of Pavel Vinogradov, Dmitri Drozd, Ales Kirkevich, Vladimir Homichenko. The accusation presented by him had a clear and imminent political motivation and was a clear violation of the Code of Criminal Procedure. It was based on an incorrect classification of the events of 19 Dec 2010, not sustained by evidence, proof or testimonies of witnesses.

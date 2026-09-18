@@ -1,4 +1,3 @@
----
 ssid: '100199'
 sanctions_set_id: '8174'
 individual:
@@ -16,8 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Ali Akbar
-  justification: Former Minister for Foreign Affairs. Former Head of the Atomic Energy
-    Organisation of Iran (AEOI). He continues to operate at the intersection of academics
-    and politics and in recent public appearances he has defended and promoted the
-    nuclear industry of Iran. He therefore provides support to the Government of Iran
-    and is providing support for Iran’s proliferation-sensitive nuclear activities.
+  justification: Former Minister for Foreign Affairs. Former Head of the Atomic Energy Organisation of Iran (AEOI). He continues to operate at the intersection of academics and politics and in recent public appearances he has defended and promoted the nuclear industry of Iran. He therefore provides support to the Government of Iran and is providing support for Iran’s proliferation-sensitive nuclear activities.

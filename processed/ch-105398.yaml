@@ -1,4 +1,3 @@
----
 ssid: '105398'
 sanctions_set_id: '27286'
 entity:
@@ -14,7 +13,5 @@ entity:
         name_part_type: whole-name
         value: Lumen Ship Management – FZCO
     addresses:
-    - address_details: Unit 405, 4th Floor, Jumeirah Business Center 5, Jumeirah Lakes
-        Towers
-  justification: Lumen Ship Management – FZCO is a UAE-based shipping company, which
-    manages tankers transporting Russian crude oil, including for export purposes.
+    - address_details: Unit 405, 4th Floor, Jumeirah Business Center 5, Jumeirah Lakes Towers
+  justification: Lumen Ship Management – FZCO is a UAE-based shipping company, which manages tankers transporting Russian crude oil, including for export purposes.

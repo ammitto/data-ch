@@ -1,4 +1,3 @@
----
 ssid: '45083'
 sanctions_set_id: '39362'
 entity:
@@ -16,10 +15,4 @@ entity:
     addresses:
     - address_details: 51 Mahabandoola road, 189/191 Botataung
       zip_code: 11 161
-  justification: Myanmar Economic Holdings Public Company Ltd (MEHL) is a conglomerate
-    owned and controlled by the Myanmar Armed Forces (Tatmadaw), having subsidiaries
-    and affiliated companies in diverse sectors of the economy, including banking,
-    insurance, construction, trade, transportation, mining, gem extraction, manufacturing
-    and tourism. MEHL and its subsidiaries generate revenue for the Tatmadaw, therefore
-    contributing to its capabilities to carry out activities undermining democracy
-    and the rule of law and to serious human rights violations in Myanmar/Burma.
+  justification: Myanmar Economic Holdings Public Company Ltd (MEHL) is a conglomerate owned and controlled by the Myanmar Armed Forces (Tatmadaw), having subsidiaries and affiliated companies in diverse sectors of the economy, including banking, insurance, construction, trade, transportation, mining, gem extraction, manufacturing and tourism. MEHL and its subsidiaries generate revenue for the Tatmadaw, therefore contributing to its capabilities to carry out activities undermining democracy and the rule of law and to serious human rights violations in Myanmar/Burma.

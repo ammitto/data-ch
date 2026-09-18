@@ -1,4 +1,3 @@
----
 ssid: '56097'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 10
       month: 6
       year: 1971
-  justification: Alexey Kuzmenkov is a deputy head of the National Guard of the Russian
-    Federation and formerly Deputy Defence Minister for logistics. He is former deputy
-    Director of the Federal Service of the National Guard of the Russian Federation
-    (Rosgvardia) – deputy Commander-in-Chief of Rosgvardia.
+  justification: Alexey Kuzmenkov is a deputy head of the National Guard of the Russian Federation and formerly Deputy Defence Minister for logistics. He is former deputy Director of the Federal Service of the National Guard of the Russian Federation (Rosgvardia) – deputy Commander-in-Chief of Rosgvardia.

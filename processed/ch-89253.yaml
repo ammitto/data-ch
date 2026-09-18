@@ -1,4 +1,3 @@
----
 ssid: '89253'
 sanctions_set_id: '29445'
 entity:
@@ -14,7 +13,5 @@ entity:
         name_part_type: whole-name
         value: Grun Group Co., Ltd
     addresses:
-    - address_details: Room 04, 16th Floor, Ho King Commercial Centre, 2-16 Fa Yuen
-        St, Mong Kok
-    - address_details: Room D06, Flat A, 10th Floor, Tai King Industrial Building,
-        No.100-102 King Fuk Street, Sanpokong, Kowloon
+    - address_details: Room 04, 16th Floor, Ho King Commercial Centre, 2-16 Fa Yuen St, Mong Kok
+    - address_details: Room D06, Flat A, 10th Floor, Tai King Industrial Building, No.100-102 King Fuk Street, Sanpokong, Kowloon

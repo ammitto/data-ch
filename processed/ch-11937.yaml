@@ -1,4 +1,3 @@
----
 ssid: '11937'
 sanctions_set_id: '3986'
 individual:
@@ -21,7 +20,4 @@ individual:
         value: Mahmoud
     day_month_year:
       year: 1966
-  justification: Former Syrian Ambassador to Iran until 2020. Former Minister of Information
-    in power after May 2011 under the former al-Assad regime. As a former Government
-    Minister, shares responsibility for the former al-Assad regime’s violent repression
-    of the civilian population.
+  justification: Former Syrian Ambassador to Iran until 2020. Former Minister of Information in power after May 2011 under the former al-Assad regime. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.

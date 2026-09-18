@@ -1,4 +1,3 @@
----
 ssid: '28300'
 sanctions_set_id: '27286'
 entity:
@@ -13,5 +12,4 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: So-called "Donetsk People's Republic"
-  justification: The so-called “Donetsk People’s Republic” was declared on 7 April
-    2014.
+  justification: The so-called “Donetsk People’s Republic” was declared on 7 April 2014.

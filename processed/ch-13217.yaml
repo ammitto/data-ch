@@ -1,4 +1,3 @@
----
 ssid: '13217'
 sanctions_set_id: '13065'
 individual:
@@ -16,7 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Mahmoud
-  justification: Member of Parliament from February 2020 to 2024 and Speaker of the
-    Parliament’s Committee for National Security and Foreign Affairs who continues
-    to support the Iranian regime, including by justifying the abuses committed by
-    the regime against the “Women, Life, Freedom” movement.
+  justification: Member of Parliament from February 2020 to 2024 and Speaker of the Parliament’s Committee for National Security and Foreign Affairs who continues to support the Iranian regime, including by justifying the abuses committed by the regime against the “Women, Life, Freedom” movement.

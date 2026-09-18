@@ -1,4 +1,3 @@
----
 ssid: '4504'
 sanctions_set_id: '4387'
 individual:
@@ -19,7 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Zalauna
-  justification: Judge of the Moscow district of Minsk. Responsible for the repression
-    of civil society and of the democratic opposition. The way she has imple­mented
-    her role has contributed to the creation of an atmosphere of fear within society,
-    in particular in relation to the 2006 elections.
+  justification: Judge of the Moscow district of Minsk. Responsible for the repression of civil society and of the democratic opposition. The way she has imple­mented her role has contributed to the creation of an atmosphere of fear within society, in particular in relation to the 2006 elections.

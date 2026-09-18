@@ -1,4 +1,3 @@
----
 ssid: '89341'
 sanctions_set_id: '27286'
 entity:
@@ -26,11 +25,4 @@ entity:
       year: 2023
     addresses:
     - address_details: Vasi Alexeeva 14
-  justification: LLC Invest Flot (Invest Fleet) is a company managed by SKF Arktika,
-    a company belonging to the Sovcomflot group. LLC Invest Flot carries out transportation
-    of crude oil and oil products by sea, including for export purposes, by managing
-    numerous tankers involved in such export. The energy sector, especially oil, provides
-    substantial revenue to the Government of the Russian Federation. Therefore, LLC
-    Invest Flot is involved in an economic sector providing a substantial source of
-    revenue to the Government of the Russian Federation, which is responsible for
-    the annexation of Crimea and the destabilisation of Ukraine.
+  justification: LLC Invest Flot (Invest Fleet) is a company managed by SKF Arktika, a company belonging to the Sovcomflot group. LLC Invest Flot carries out transportation of crude oil and oil products by sea, including for export purposes, by managing numerous tankers involved in such export. The energy sector, especially oil, provides substantial revenue to the Government of the Russian Federation. Therefore, LLC Invest Flot is involved in an economic sector providing a substantial source of revenue to the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.

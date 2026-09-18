@@ -1,4 +1,3 @@
----
 ssid: '98184'
 sanctions_set_id: '27286'
 individual:
@@ -19,8 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Artemovich
-  justification: Mikhail Golubovich is the current Minister of Youth Policy of the
-    so-called “Luhansk People’s Republic”, in which capacity he actively supports
-    and implements Russian education policies relating to Ukrainian children, including
-    promoting Russian national propaganda and military education. He also facilitated
-    the issuance of Russian passports to Ukrainian children in the region of Luhansk.
+  justification: Mikhail Golubovich is the current Minister of Youth Policy of the so-called “Luhansk People’s Republic”, in which capacity he actively supports and implements Russian education policies relating to Ukrainian children, including promoting Russian national propaganda and military education. He also facilitated the issuance of Russian passports to Ukrainian children in the region of Luhansk.

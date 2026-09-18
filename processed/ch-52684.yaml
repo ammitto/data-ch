@@ -1,4 +1,3 @@
----
 ssid: '52684'
 sanctions_set_id: '29445'
 entity:
@@ -12,8 +11,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: State Scientific Center AO GNTs RF—FEI A.I. Leypunskiy Physico-Energy
-          Institute
+        value: State Scientific Center AO GNTs RF—FEI A.I. Leypunskiy Physico-Energy Institute
     - name_type: alias
       quality: good
       lang: eng
@@ -34,8 +32,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company “State Scientific Centre of the Russian Federation
-          - Leipunsky Institute of Physics and Energy”
+        value: Joint Stock Company “State Scientific Centre of the Russian Federation - Leipunsky Institute of Physics and Energy”
     - name_type: alias
       quality: good
       lang: eng

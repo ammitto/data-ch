@@ -1,4 +1,3 @@
----
 ssid: '63686'
 sanctions_set_id: '27286'
 entity:
@@ -24,10 +23,4 @@ entity:
       day: 10
       month: 10
       year: 2010
-  justification: Tactical Missile Corporation Akhtubinsk is a Russian military-industrial
-    state enterprise that develops air-launched weapons for combat jets, attack helicopters
-    and strategic bombers deployed by the Russian Armed Forces. Military equipment
-    designed by Tactical Missile Corporation Akhtubinsk is directly used in Russia’s
-    war of aggression against Ukraine. Notably, Tactical Missile Corporation Akhtubinsk
-    is a subsidiary of the Russian state enterprise, Tactical Missile Corporation,
-    which has previously been placed under EU restrictive measures.
+  justification: Tactical Missile Corporation Akhtubinsk is a Russian military-industrial state enterprise that develops air-launched weapons for combat jets, attack helicopters and strategic bombers deployed by the Russian Armed Forces. Military equipment designed by Tactical Missile Corporation Akhtubinsk is directly used in Russia’s war of aggression against Ukraine. Notably, Tactical Missile Corporation Akhtubinsk is a subsidiary of the Russian state enterprise, Tactical Missile Corporation, which has previously been placed under EU restrictive measures.

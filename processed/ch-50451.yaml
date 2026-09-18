@@ -1,4 +1,3 @@
----
 ssid: '50451'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 6
       month: 8
       year: 1969
-  justification: Andrey Zhuk is the former Deputy Minister of Defence of the Republic
-    of Belarus. In this capacity he participated in the joint military exercises of
-    Russia and Belarus preceding the military build-up at the Ukrainian border which
-    prepared and facilitated the Russian military aggression of 24 February 2022.
+  justification: Andrey Zhuk is the former Deputy Minister of Defence of the Republic of Belarus. In this capacity he participated in the joint military exercises of Russia and Belarus preceding the military build-up at the Ukrainian border which prepared and facilitated the Russian military aggression of 24 February 2022.

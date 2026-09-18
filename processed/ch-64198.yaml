@@ -1,4 +1,3 @@
----
 ssid: '64198'
 sanctions_set_id: '29445'
 entity:
@@ -44,6 +43,5 @@ entity:
     addresses:
     - address_details: Rochdelskaya Str., 15, Building 1
       zip_code: '123376'
-    - address_details: Rochdelskaya Str., 15, Building 8, Floor 2, Premises II, Room
-        45
+    - address_details: Rochdelskaya Str., 15, Building 8, Floor 2, Premises II, Room 45
       zip_code: '123022'

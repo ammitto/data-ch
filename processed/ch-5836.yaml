@@ -1,4 +1,3 @@
----
 ssid: '5836'
 sanctions_set_id: '4387'
 entity:
@@ -13,7 +12,4 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Beltech Holding
-  justification: Beltech Holding benefits from the regime, in particular through Beltechexport,
-    which is part of Beltech Holding. Beltechexport benefits from the regime as a
-    main exporter of arms and military equipment in Belarus, which requires authorisation
-    from the Belarusian authorities.
+  justification: Beltech Holding benefits from the regime, in particular through Beltechexport, which is part of Beltech Holding. Beltechexport benefits from the regime as a main exporter of arms and military equipment in Belarus, which requires authorisation from the Belarusian authorities.

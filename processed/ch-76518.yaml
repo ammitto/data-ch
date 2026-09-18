@@ -1,4 +1,3 @@
----
 ssid: '76518'
 sanctions_set_id: '27286'
 individual:
@@ -23,9 +22,4 @@ individual:
       day: 18
       month: 2
       year: 1968
-  justification: Dimitry Beloglazov is the owner of LLC Titul (based in Russia) which
-    established a subsidiary, Joint Stock Company (JSC) Iliadis (based in Russia),
-    to acquire Oleg Deripaska’s share in the International LLC Rasperia Trading Limited
-    (“Rasperia”, based in Russia). Rasperia owns 28,5  million shares in the European
-    company STRABAG SE. Those shares were frozen because Rasperia was controlled by
-    Oleg Vladimirovich Deripaska, an individual subject to Union restrictive measures.
+  justification: Dimitry Beloglazov is the owner of LLC Titul (based in Russia) which established a subsidiary, Joint Stock Company (JSC) Iliadis (based in Russia), to acquire Oleg Deripaska’s share in the International LLC Rasperia Trading Limited (“Rasperia”, based in Russia). Rasperia owns 28,5  million shares in the European company STRABAG SE. Those shares were frozen because Rasperia was controlled by Oleg Vladimirovich Deripaska, an individual subject to Union restrictive measures.

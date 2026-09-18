@@ -1,4 +1,3 @@
----
 ssid: '106955'
 sanctions_set_id: '71360'
 individual:
@@ -19,6 +18,4 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Khalil
-  justification: Abu Khalil al-Quds has been a member of the Politburo since 2021.
-    As a member of that decision-making body, he is responsible for violent actions
-    by Hamas.
+  justification: Abu Khalil al-Quds has been a member of the Politburo since 2021. As a member of that decision-making body, he is responsible for violent actions by Hamas.

@@ -1,4 +1,3 @@
----
 ssid: '12352'
 sanctions_set_id: '3986'
 entity:
@@ -22,5 +21,4 @@ entity:
         value: Hamsho International Group
     addresses:
     - address_details: Baghdad Street
-  justification: Hamcho International is a large Syrian holding company owned by Mohammed
-    Hamcho.
+  justification: Hamcho International is a large Syrian holding company owned by Mohammed Hamcho.

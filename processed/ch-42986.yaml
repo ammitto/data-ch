@@ -1,4 +1,3 @@
----
 ssid: '42986'
 sanctions_set_id: '38373'
 individual:
@@ -23,9 +22,4 @@ individual:
       day: 14
       month: 1
       year: 1975
-  justification: Prosecutor serving at the Venezuelan First Special Court of First
-    Instance, with an office within the Directorate-General of Military Counter-Intelligence
-    (Dirección General de Contrainteligencia Militar (DGCIM)). Her actions have undermined
-    democracy and the rule of law in Venezuela, including by initiating politically
-    motivated prosecutions which resulted in the arbitrary detention of members of
-    the National Assembly and other officials opposing the Maduro regime.
+  justification: Prosecutor serving at the Venezuelan First Special Court of First Instance, with an office within the Directorate-General of Military Counter-Intelligence (Dirección General de Contrainteligencia Militar (DGCIM)). Her actions have undermined democracy and the rule of law in Venezuela, including by initiating politically motivated prosecutions which resulted in the arbitrary detention of members of the National Assembly and other officials opposing the Maduro regime.

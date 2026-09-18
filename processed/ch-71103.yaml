@@ -1,4 +1,3 @@
----
 ssid: '71103'
 sanctions_set_id: '3986'
 individual:
@@ -20,8 +19,4 @@ individual:
       day: 1
       month: 3
       year: 1978
-  justification: Firas al-Akhras is the brother of Asma al-Assad. He is co-owner of
-    the Takamol LLC company responsible for managing the electronic “smart card program”
-    used since 2014 to distribute subsidised food and other products in Syria, under
-    the umbrella of the Ministry of Domestic Trade and Consumer Protection. In particular,
-    Takamol LLC earns a fee for every transaction operated through the smart card.
+  justification: Firas al-Akhras is the brother of Asma al-Assad. He is co-owner of the Takamol LLC company responsible for managing the electronic “smart card program” used since 2014 to distribute subsidised food and other products in Syria, under the umbrella of the Ministry of Domestic Trade and Consumer Protection. In particular, Takamol LLC earns a fee for every transaction operated through the smart card.

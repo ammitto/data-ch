@@ -1,4 +1,3 @@
----
 ssid: '12094'
 sanctions_set_id: '3986'
 individual:
@@ -29,5 +28,4 @@ individual:
       - order: 1
         name_part_type: further-given-name
         value: Mohammad
-  justification: Gave orders to troops to shoot protestors in Duma, under the former
-    al-Assad regime.
+  justification: Gave orders to troops to shoot protestors in Duma, under the former al-Assad regime.

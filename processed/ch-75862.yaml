@@ -1,4 +1,3 @@
----
 ssid: '75862'
 sanctions_set_id: '27286'
 individual:
@@ -19,5 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Vladimirovich
-  justification: Andrey Gudin is the General Director of Joint Stock Company (JSC)
-    MZ RIP, part of the Almaz-Antey concern.
+  justification: Andrey Gudin is the General Director of Joint Stock Company (JSC) MZ RIP, part of the Almaz-Antey concern.

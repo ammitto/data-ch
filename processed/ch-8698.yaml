@@ -1,4 +1,3 @@
----
 ssid: '8698'
 sanctions_set_id: '3984'
 individual:
@@ -19,5 +18,4 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Fedai
-  justification: Involved in the production of ammonium uranyl carbonate and management
-    of the Natanz enrichment complex.
+  justification: Involved in the production of ammonium uranyl carbonate and management of the Natanz enrichment complex.

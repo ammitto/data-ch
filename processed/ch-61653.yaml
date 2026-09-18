@@ -1,4 +1,3 @@
----
 ssid: '61653'
 sanctions_set_id: '29445'
 entity:
@@ -49,5 +48,4 @@ entity:
         name_part_type: whole-name
         value: Pravarpars Engineering Research and Design Company
     addresses:
-    - address_details: 13 km of Shahid Babaei Highway, after Imam Hossein University,
-        next to Telo Road
+    - address_details: 13 km of Shahid Babaei Highway, after Imam Hossein University, next to Telo Road

@@ -1,4 +1,3 @@
----
 ssid: '8318'
 sanctions_set_id: '3984'
 entity:
@@ -16,6 +15,4 @@ entity:
     addresses:
     - address_details: Sepah Islam Road, Karaj Special Road Km 10
     - address_details: Pasdaran Ave.
-  justification: Manufacturers and services a variety of small arms and light weapons,
-    including large- and medium-calibre guns and related technology. AIG conducts
-    the majority of its procurement activity through Hadid Industries Complex.
+  justification: Manufacturers and services a variety of small arms and light weapons, including large- and medium-calibre guns and related technology. AIG conducts the majority of its procurement activity through Hadid Industries Complex.

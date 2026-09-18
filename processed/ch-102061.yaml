@@ -1,4 +1,3 @@
----
 ssid: '102061'
 sanctions_set_id: '13065'
 individual:
@@ -30,8 +29,4 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Masoud Mosaddeq
-  justification: Masoud Mosadegh is the Commander of the Special Units of Iran’s Law
-    Enforcement Forces (LEF Special Units). The LEF Special Units have on many occasions
-    been deployed to violently supress peaceful protests, killing and injuring civilians.
-    This was also the case in the nationwide protests in Iran that began in December
-    2025.
+  justification: Masoud Mosadegh is the Commander of the Special Units of Iran’s Law Enforcement Forces (LEF Special Units). The LEF Special Units have on many occasions been deployed to violently supress peaceful protests, killing and injuring civilians. This was also the case in the nationwide protests in Iran that began in December 2025.

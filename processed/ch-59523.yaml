@@ -1,4 +1,3 @@
----
 ssid: '59523'
 sanctions_set_id: '29445'
 entity:
@@ -19,8 +18,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: PJSC “Yaroslavl Radiozavod”; Aktsionernoe Obschestvo Yaroslavskiy Radiozavod;
-          JSC Yaroslavl Radio Plant; YRZ; YARZ
+        value: PJSC “Yaroslavl Radiozavod”; Aktsionernoe Obschestvo Yaroslavskiy Radiozavod; JSC Yaroslavl Radio Plant; YRZ; YARZ
     addresses:
     - address_details: Yaroslavl, Margolina Str., 13
       zip_code: '150010'

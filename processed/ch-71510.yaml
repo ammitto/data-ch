@@ -1,4 +1,3 @@
----
 ssid: '71510'
 sanctions_set_id: '27286'
 entity:
@@ -19,10 +18,4 @@ entity:
       year: 2020
     addresses:
     - address_details: st. Embankment of the Tsarev River, 1, office 2
-  justification: Marine Trans Shipping LLC is a Russian shipping company providing
-    logistical support to the Ministry of Defence of the Russian Federation. In particular,
-    Marine Trans Shipping LLC is involved in a military transportation network of
-    Russian cargo vessels shipping North Korean armaments from Pyongyang to military
-    facilities in the Russian port of Dunai. Subsequently, North Korean munitions
-    transported by Marine Trans Shipping LLC are transferred to depots on Russia’s
-    western border to be deployed in Russia’s war of aggression against Ukraine.
+  justification: Marine Trans Shipping LLC is a Russian shipping company providing logistical support to the Ministry of Defence of the Russian Federation. In particular, Marine Trans Shipping LLC is involved in a military transportation network of Russian cargo vessels shipping North Korean armaments from Pyongyang to military facilities in the Russian port of Dunai. Subsequently, North Korean munitions transported by Marine Trans Shipping LLC are transferred to depots on Russia’s western border to be deployed in Russia’s war of aggression against Ukraine.

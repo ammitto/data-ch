@@ -1,4 +1,3 @@
----
 ssid: '20824'
 sanctions_set_id: '3980'
 entity:
@@ -29,5 +28,4 @@ entity:
         value: LAP Green Holding Company
     addresses:
     - address_details: 9th Floor, Ebene Tower, 52, Cybercity
-  justification: Libyan subsidiary of the Libyan Africa Investment Portfolio. Closely
-    associated with the former regime of Muammar Qadhafi.
+  justification: Libyan subsidiary of the Libyan Africa Investment Portfolio. Closely associated with the former regime of Muammar Qadhafi.

@@ -1,4 +1,3 @@
----
 ssid: '88536'
 sanctions_set_id: '27286'
 individual:
@@ -26,9 +25,4 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Sim Kum-Chol
-  justification: Shin Geum Cheol is the Head of the Main Operational Directorate of
-    the General Staff of the Korean People’s Army of the Democratic People’s Republic
-    of Korea. He is a high-level military officer overseeing the practical conduct
-    of operations, such as military coordination. He is tasked with disseminating
-    Russian and modern warfare tactics, such as drone operations, artillery tactics
-    and electronic warfare technologies, to the North Korean army.
+  justification: Shin Geum Cheol is the Head of the Main Operational Directorate of the General Staff of the Korean People’s Army of the Democratic People’s Republic of Korea. He is a high-level military officer overseeing the practical conduct of operations, such as military coordination. He is tasked with disseminating Russian and modern warfare tactics, such as drone operations, artillery tactics and electronic warfare technologies, to the North Korean army.

@@ -1,4 +1,3 @@
----
 ssid: '12478'
 sanctions_set_id: '3986'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Syria Trading Oil Company (Sytrol)
     addresses:
     - address_details: Prime Minister Building, 17 Street Nissan
-  justification: State-owned company responsible for all oil exports from Syria. Provides
-    financial support to the Syrian regime.
+  justification: State-owned company responsible for all oil exports from Syria. Provides financial support to the Syrian regime.

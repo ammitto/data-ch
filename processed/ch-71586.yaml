@@ -1,4 +1,3 @@
----
 ssid: '71586'
 sanctions_set_id: '27286'
 entity:
@@ -41,12 +40,4 @@ entity:
     addresses:
     - address_details: st. Lenina, 18 “d”, premises. 1
       zip_code: '368730'
-  justification: MG-Flot LLC (previously known as TransMorFlot LLC) is a Russian shipping
-    company providing logistical support to the Ministry of Defence of the Russian
-    Federation. In particular, MG-Flot LLC is involved in a military transportation
-    network of Russian cargo vessels shipping North Korean armaments from Pyongyang
-    to military facilities in the Russian port of Dunai. Subsequently, North Korean
-    munitions transported by MG-Flot LLC are transferred to depots on Russia’s western
-    border to be deployed in Russia’s war of aggression against Ukraine. Additionally,
-    vessels owned by MG-Flot LLC have been involved in weapons shipments from Iran
-    to aid Russia’s full-scale invasion of Ukraine.
+  justification: MG-Flot LLC (previously known as TransMorFlot LLC) is a Russian shipping company providing logistical support to the Ministry of Defence of the Russian Federation. In particular, MG-Flot LLC is involved in a military transportation network of Russian cargo vessels shipping North Korean armaments from Pyongyang to military facilities in the Russian port of Dunai. Subsequently, North Korean munitions transported by MG-Flot LLC are transferred to depots on Russia’s western border to be deployed in Russia’s war of aggression against Ukraine. Additionally, vessels owned by MG-Flot LLC have been involved in weapons shipments from Iran to aid Russia’s full-scale invasion of Ukraine.

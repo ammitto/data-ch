@@ -1,4 +1,3 @@
----
 ssid: '57575'
 sanctions_set_id: '27286'
 entity:
@@ -20,7 +19,4 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: IRGC Air Force
-  justification: The Islamic Revolutionary Guard Corps - Aerospace Force (IRGC ASF)
-    is responsible for the development of Iran’s Unmanned Aerial Vehicles (UAVs) programme,
-    including the Shahed-136 and Mohajer-6, which are used by the Russian Federation
-    in the war of aggression against Ukraine.
+  justification: The Islamic Revolutionary Guard Corps - Aerospace Force (IRGC ASF) is responsible for the development of Iran’s Unmanned Aerial Vehicles (UAVs) programme, including the Shahed-136 and Mohajer-6, which are used by the Russian Federation in the war of aggression against Ukraine.

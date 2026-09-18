@@ -1,4 +1,3 @@
----
 ssid: '59348'
 sanctions_set_id: '27286'
 individual:
@@ -19,9 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Yurievich
-  justification: Igor Yurievich Churbanov is the General Director of the Votkinsk
-    Plant, which manufactures missiles and ammunitions for theIskander and Tochka-U
-    complexes, which Russia has used in its war of aggression against Ukraine. Churbanov
-    has also publicly supported the Russian war of aggression and is responsible for
-    spreading propaganda in support of the war through the publication of the Votkinsk
-    Plant magazine.
+  justification: Igor Yurievich Churbanov is the General Director of the Votkinsk Plant, which manufactures missiles and ammunitions for theIskander and Tochka-U complexes, which Russia has used in its war of aggression against Ukraine. Churbanov has also publicly supported the Russian war of aggression and is responsible for spreading propaganda in support of the war through the publication of the Votkinsk Plant magazine.

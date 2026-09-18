@@ -1,4 +1,3 @@
----
 ssid: '9127'
 sanctions_set_id: '8174'
 entity:
@@ -29,5 +28,4 @@ entity:
         value: Sherkat-e Ghanisazi-ye Uranium
     addresses:
     - address_details: 3, Qarqavol Close, 20th Street
-  justification: Ghani Sazi Uranium Company has production contracts with EU-designated
-    Kalaye Electric Company (KEC) and EU-designated Iran Centrifuge Technology Company.
+  justification: Ghani Sazi Uranium Company has production contracts with EU-designated Kalaye Electric Company (KEC) and EU-designated Iran Centrifuge Technology Company.

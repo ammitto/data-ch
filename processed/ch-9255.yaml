@@ -1,4 +1,3 @@
----
 ssid: '9255'
 sanctions_set_id: '8174'
 entity:
@@ -37,5 +36,4 @@ entity:
     addresses:
     - address_details: Unit 5, 2nd Floor, No 75, Mehran Afrand St, Sattarkhan St
     - address_details: No. 94, 4th Floor, Unit 16, Bagherkhan St., Sattarkhan St.
-  justification: Involved in purchasing equipment and materials which have direct
-    applications in the Iranian nuclear programme.
+  justification: Involved in purchasing equipment and materials which have direct applications in the Iranian nuclear programme.

@@ -1,4 +1,3 @@
----
 ssid: '8420'
 sanctions_set_id: '3984'
 entity:
@@ -14,9 +13,6 @@ entity:
         name_part_type: whole-name
         value: Irano Hind Shipping Company
     addresses:
-    - address_details: 18 Mehrshad Street, Sadaghat Street, Opposite of Park Mellat,
-        Vali-e-Asr Ave.
-    - address_details: 265, Next to Mehrshad, Sedaghat St., Opposite of Mellat Park,
-        Vali Asr Ave
-  justification: Entity owned, controlled, or acting on behalf of the Islamic Republic
-    of Iran Shipping Lines (IRISL).
+    - address_details: 18 Mehrshad Street, Sadaghat Street, Opposite of Park Mellat, Vali-e-Asr Ave.
+    - address_details: 265, Next to Mehrshad, Sedaghat St., Opposite of Mellat Park, Vali Asr Ave
+  justification: Entity owned, controlled, or acting on behalf of the Islamic Republic of Iran Shipping Lines (IRISL).

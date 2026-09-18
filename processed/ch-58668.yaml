@@ -1,4 +1,3 @@
----
 ssid: '58668'
 sanctions_set_id: '27286'
 entity:
@@ -20,5 +19,4 @@ entity:
     addresses:
     - address_details: square Im. Dzerzhinskogo 1
       zip_code: '400006'
-  justification: LLC ‘Volgograd Machine Building Company “VGTZ”’ is a Russian developer
-    and manufacturer of landing combat vehicles.
+  justification: LLC ‘Volgograd Machine Building Company “VGTZ”’ is a Russian developer and manufacturer of landing combat vehicles.

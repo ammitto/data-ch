@@ -1,4 +1,3 @@
----
 ssid: '3563'
 sanctions_set_id: '3978'
 entity:
@@ -43,5 +42,4 @@ entity:
         value: KOMID
     addresses:
     - address_details: Central District
-  justification: Primary arms dealer and main exporter of goods and equipment related
-    to ballistic missiles and conventional weapons.
+  justification: Primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons.

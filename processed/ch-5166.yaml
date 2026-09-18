@@ -1,4 +1,3 @@
----
 ssid: '5166'
 sanctions_set_id: '4387'
 individual:
@@ -26,9 +25,4 @@ individual:
     addresses:
     - address_details: Коллекторная, 10
       zip_code: '220004'
-  justification: Deputy Minister of Justice, in charge of the supervision of, and
-    control over, the Legal Bar, formerly in charge of legal support to the institutions
-    that draft legislative and regulatory acts. She was responsible for the role and
-    the action of the Ministry of Justice and the judiciary of Belarus, which are
-    major instruments of repression of the population, by elaborating laws that are
-    repressive towards civil society and the democratic opposition.
+  justification: Deputy Minister of Justice, in charge of the supervision of, and control over, the Legal Bar, formerly in charge of legal support to the institutions that draft legislative and regulatory acts. She was responsible for the role and the action of the Ministry of Justice and the judiciary of Belarus, which are major instruments of repression of the population, by elaborating laws that are repressive towards civil society and the democratic opposition.

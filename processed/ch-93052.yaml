@@ -1,4 +1,3 @@
----
 ssid: '93052'
 sanctions_set_id: '27286'
 entity:
@@ -32,10 +31,6 @@ entity:
       month: 1
       year: 2009
     addresses:
-    - address_details: Novoslobodskaya str., 37, bldg. 1, floor. 2, pom. 1, room.
-        8-9
+    - address_details: Novoslobodskaya str., 37, bldg. 1, floor. 2, pom. 1, room. 8-9
       zip_code: '127055'
-  justification: JSC “Scientific Research Institute of Engines” (JSC NIID) is a developer
-    of technologies and equipment for the production and repair of aircraft gas-turbine
-    engines and units. The company is part of PJSC “United Engine Corporation” and
-    supplies the Russian defence ministry.
+  justification: JSC “Scientific Research Institute of Engines” (JSC NIID) is a developer of technologies and equipment for the production and repair of aircraft gas-turbine engines and units. The company is part of PJSC “United Engine Corporation” and supplies the Russian defence ministry.

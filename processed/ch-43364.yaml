@@ -1,4 +1,3 @@
----
 ssid: '43364'
 sanctions_set_id: '3980'
 entity:
@@ -23,6 +22,4 @@ entity:
     addresses:
     - address_details: Markov Str. 11
       zip_code: '050013'
-  justification: Sigma Airlines is a commercial cargo air company which operates aircrafts
-    found to have violated the arms embargo in Libya established in UNSCR 1970 (2011)  and
-    transposed in Article 1 of Decision (CFSP) 2015/1333.
+  justification: Sigma Airlines is a commercial cargo air company which operates aircrafts found to have violated the arms embargo in Libya established in UNSCR 1970 (2011)  and transposed in Article 1 of Decision (CFSP) 2015/1333.

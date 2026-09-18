@@ -1,4 +1,3 @@
----
 ssid: '53155'
 sanctions_set_id: '27286'
 individual:
@@ -20,8 +19,4 @@ individual:
       day: 6
       month: 7
       year: 1995
-  justification: Said Kerimov is the son of Suleiman Kerimov. Suleiman Kerimov is
-    a Russia-based billionaire, founder of the Suleiman Kerimov Foundation and representative
-    of the Republic of Dagestan in the Federation Council of Russia. Suleiman Kerimov
-    transferred a large part of his assets, including his shares in Russia’s largest
-    gold producer, Polyus Gold, to his son, Said Kerimov.
+  justification: Said Kerimov is the son of Suleiman Kerimov. Suleiman Kerimov is a Russia-based billionaire, founder of the Suleiman Kerimov Foundation and representative of the Republic of Dagestan in the Federation Council of Russia. Suleiman Kerimov transferred a large part of his assets, including his shares in Russia’s largest gold producer, Polyus Gold, to his son, Said Kerimov.

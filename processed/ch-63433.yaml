@@ -1,4 +1,3 @@
----
 ssid: '63433'
 sanctions_set_id: '27286'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 1
       month: 1
       year: 1970
-  justification: Colonel General Yevgeny Nikiforov, former Commander of the Western
-    Military District of the Russian Federation, is currently serving as Chief of
-    the General Staff of the Ground Forces of the Russian Federation. Under his command,
-    the Russian Armed Forces are continuing their attacks against Ukraine, in the
-    context of Russia’s war of aggression against Ukraine.
+  justification: Colonel General Yevgeny Nikiforov, former Commander of the Western Military District of the Russian Federation, is currently serving as Chief of the General Staff of the Ground Forces of the Russian Federation. Under his command, the Russian Armed Forces are continuing their attacks against Ukraine, in the context of Russia’s war of aggression against Ukraine.

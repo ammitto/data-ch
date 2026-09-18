@@ -1,4 +1,3 @@
----
 ssid: '102017'
 sanctions_set_id: '13065'
 individual:
@@ -23,5 +22,4 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Heydar Olfati
-  justification: Haidar Olfati is Commander of the Islamic Revolutionary Guard Corps
-    (IRGC) in Ilam Province.
+  justification: Haidar Olfati is Commander of the Islamic Revolutionary Guard Corps (IRGC) in Ilam Province.

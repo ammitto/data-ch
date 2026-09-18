@@ -1,4 +1,3 @@
----
 ssid: '9328'
 sanctions_set_id: '8174'
 entity:
@@ -23,5 +22,4 @@ entity:
     addresses:
     - address_details: Unit 7, No 12, 13th Street, Mir-Emad St, Motahary Avenue
       zip_code: 15875-6653
-  justification: Involved in procurement of specialist equipment and materials that
-    have direct application in Iranian nuclear programme.
+  justification: Involved in procurement of specialist equipment and materials that have direct application in Iranian nuclear programme.

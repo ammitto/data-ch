@@ -1,4 +1,3 @@
----
 ssid: '61156'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 10
       month: 10
       year: 1960
-  justification: Valery Fadeyev is a chairman of the Presidential Council for Civil
-    Society and Human Rights. He helped to subordinate that body to the political
-    line of the Government of the Russian Federation upon Russia’s invasion of Ukraine.
-    He is an advisor to Vladimir Putin.
+  justification: Valery Fadeyev is a chairman of the Presidential Council for Civil Society and Human Rights. He helped to subordinate that body to the political line of the Government of the Russian Federation upon Russia’s invasion of Ukraine. He is an advisor to Vladimir Putin.

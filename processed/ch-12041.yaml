@@ -1,4 +1,3 @@
----
 ssid: '12041'
 sanctions_set_id: '3986'
 individual:
@@ -30,6 +29,4 @@ individual:
       - order: 1
         name_part_type: further-given-name
         value: Ali
-  justification: Military official under the former al-Assad regime involved in the
-    violence in Homs. Part of the 30th Mobile Infantry Division of the Republican
-    Guard.
+  justification: Military official under the former al-Assad regime involved in the violence in Homs. Part of the 30th Mobile Infantry Division of the Republican Guard.

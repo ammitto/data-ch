@@ -1,4 +1,3 @@
----
 ssid: '5276'
 sanctions_set_id: '4387'
 individual:
@@ -19,8 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Valerevich
-  justification: Public Prosecutor of the Pervomaiski District of Minsk. He dealt
-    with the case of Dmitri Bondarenko. The accusation presented by him has a clear
-    and imminent political motivation and it is a clear violation of the Code of Criminal
-    Procedure. It is based on wrong classification of the events of 19 Dec 2010, not
-    sustained by evidences, proofs and testimonies of witnesses.
+  justification: Public Prosecutor of the Pervomaiski District of Minsk. He dealt with the case of Dmitri Bondarenko. The accusation presented by him has a clear and imminent political motivation and it is a clear violation of the Code of Criminal Procedure. It is based on wrong classification of the events of 19 Dec 2010, not sustained by evidences, proofs and testimonies of witnesses.

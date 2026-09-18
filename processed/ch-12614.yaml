@@ -1,4 +1,3 @@
----
 ssid: '12614'
 sanctions_set_id: '3986'
 individual:
@@ -19,5 +18,4 @@ individual:
       - order: 3
         name_part_type: title
         value: Brigadier General
-  justification: Deputy Head of Branch 291 of the army’s intelligence service under
-    the former al-Assad regime. Responsible for the torture of opponents in custody.
+  justification: Deputy Head of Branch 291 of the army’s intelligence service under the former al-Assad regime. Responsible for the torture of opponents in custody.

@@ -1,4 +1,3 @@
----
 ssid: '13418'
 sanctions_set_id: '13065'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Malek Ajdar
-  justification: Head of the judiciary in East Azerbaijan. Responsible for grave violations
-    of the right to due process.
+  justification: Head of the judiciary in East Azerbaijan. Responsible for grave violations of the right to due process.

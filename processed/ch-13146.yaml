@@ -1,4 +1,3 @@
----
 ssid: '13146'
 sanctions_set_id: '13065'
 individual:
@@ -22,8 +21,4 @@ individual:
       - order: 4
         name_part_type: further-given-name
         value: Mohammad
-  justification: Head of the Organisation for Islamic Propaganda in the province of
-    Khorasan-Razavi. Judge, Mashhad Revolutionary Court until 2013. Trials under his
-    jurisdiction have been conducted summarily and inside closed session, without
-    adherence to basic rights of the accused. As execution rulings were issued en
-    masse, death sentences were issued without proper observance of fair hearing procedures.
+  justification: Head of the Organisation for Islamic Propaganda in the province of Khorasan-Razavi. Judge, Mashhad Revolutionary Court until 2013. Trials under his jurisdiction have been conducted summarily and inside closed session, without adherence to basic rights of the accused. As execution rulings were issued en masse, death sentences were issued without proper observance of fair hearing procedures.

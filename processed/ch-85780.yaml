@@ -1,4 +1,3 @@
----
 ssid: '85780'
 sanctions_set_id: '73477'
 individual:
@@ -44,8 +43,4 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Al-Tijani Al-Tahir Karshoum
-  justification: Tijani Karshom is a leading member of the Mahamid tribe and was Deputy
-    Governor of West Darfur at the time of the massacre of the Massalit tribe in El
-    Geneina, the capital of West Darfur, in June 2023. He is also a member of the
-    Gathering of Sudan Liberation Forces (GSLF), which facilitated the recruitment
-    of militia to fight alongside the Rapid Support Forces (RSF).
+  justification: Tijani Karshom is a leading member of the Mahamid tribe and was Deputy Governor of West Darfur at the time of the massacre of the Massalit tribe in El Geneina, the capital of West Darfur, in June 2023. He is also a member of the Gathering of Sudan Liberation Forces (GSLF), which facilitated the recruitment of militia to fight alongside the Rapid Support Forces (RSF).

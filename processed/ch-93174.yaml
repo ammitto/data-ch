@@ -1,4 +1,3 @@
----
 ssid: '93174'
 sanctions_set_id: '27286'
 entity:
@@ -36,8 +35,4 @@ entity:
       zip_code: '109390'
     - address_details: 7 Plekhanova St., floor 6
       zip_code: '111141'
-  justification: LLC Intervesp Company is a Russian company involved in the industrial
-    sector. As part of the “Intervesp Company” group, it supplies machine tools to
-    the Russian market, including to entities active in the Russian military and industrial
-    complex. Therefore, LLC Intervesp Company is supporting Russia’s military and
-    industrial complex and is associated with Intervesp-M LLC.
+  justification: LLC Intervesp Company is a Russian company involved in the industrial sector. As part of the “Intervesp Company” group, it supplies machine tools to the Russian market, including to entities active in the Russian military and industrial complex. Therefore, LLC Intervesp Company is supporting Russia’s military and industrial complex and is associated with Intervesp-M LLC.

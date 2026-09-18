@@ -1,4 +1,3 @@
----
 ssid: '8676'
 sanctions_set_id: '3984'
 individual:
@@ -36,6 +35,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Azim
-  justification: Member of the IRGC-Qods Force operating under the direction of Qods
-    Force Commander, Major General Qasem Soleimani, who was designated by the UN Security
-    Council in resolution 1747 (2007); .
+  justification: Member of the IRGC-Qods Force operating under the direction of Qods Force Commander, Major General Qasem Soleimani, who was designated by the UN Security Council in resolution 1747 (2007); .

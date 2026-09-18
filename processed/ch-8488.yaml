@@ -1,4 +1,3 @@
----
 ssid: '8488'
 sanctions_set_id: '3984'
 entity:
@@ -22,6 +21,4 @@ entity:
         value: MODLEX
     addresses:
     - address_details: Located on the west side of Dabestan Street, Abbas Abad District
-  justification: MODLEX sells Iranian-produced arms to customers around the world
-    in contravention of resolution 1747 (2007), which prohibits Iran from selling
-    arms or related materiel.
+  justification: MODLEX sells Iranian-produced arms to customers around the world in contravention of resolution 1747 (2007), which prohibits Iran from selling arms or related materiel.

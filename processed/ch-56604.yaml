@@ -1,4 +1,3 @@
----
 ssid: '56604'
 sanctions_set_id: '27286'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 9
       month: 7
       year: 1950
-  justification: From 2010 until 2014, Viktor Yanukovych was President of Ukraine.
-    He pursued a pro-Russian policy when in office. A Ukrainian court found Viktor
-    Yanukovych guilty of treason for having invited the Russian Federation to invade
-    Ukraine. After being removed from power, he relocated to Russia, from where he
-    has continued his activities aimed at destabilising Ukraine.
+  justification: From 2010 until 2014, Viktor Yanukovych was President of Ukraine. He pursued a pro-Russian policy when in office. A Ukrainian court found Viktor Yanukovych guilty of treason for having invited the Russian Federation to invade Ukraine. After being removed from power, he relocated to Russia, from where he has continued his activities aimed at destabilising Ukraine.

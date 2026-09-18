@@ -1,4 +1,3 @@
----
 ssid: '1922'
 sanctions_set_id: '3974'
 individual:
@@ -33,8 +32,4 @@ individual:
       year: 1988
     addresses:
     - address_details: Al-Shahid Street
-  justification: Immediate Family Member of Senior Former Iraqi Regime Official. Sa’d
-    Sabawi Ibrahim Hasan Al-Tikriti falls under the requirements of Security Council
-    resolution 1483 (2003) by virtue of him being an «immediate family member» of
-    a senior former Iraqi regime official. His father, Sabawi Ibrahim Hasan Al-Tikriti,
-    was former Presidential Advisor to Saddam Hussein.
+  justification: Immediate Family Member of Senior Former Iraqi Regime Official. Sa’d Sabawi Ibrahim Hasan Al-Tikriti falls under the requirements of Security Council resolution 1483 (2003) by virtue of him being an «immediate family member» of a senior former Iraqi regime official. His father, Sabawi Ibrahim Hasan Al-Tikriti, was former Presidential Advisor to Saddam Hussein.

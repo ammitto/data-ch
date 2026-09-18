@@ -1,4 +1,3 @@
----
 ssid: '100943'
 sanctions_set_id: '8174'
 entity:
@@ -22,8 +21,4 @@ entity:
         value: POSCO
     addresses:
     - address_details: Kish harbor, PPI Bldg
-  justification: Petropars Oilfield Services Company (POSCO) is a wholly-owned subsidiary
-    of Petropars Iran, which is in turn a wholly-owned subsidiary of Petropars Ltd
-    (PPL). PPL is wholly-owned by Naftiran Intertrade Company Ltd (NICO), which belongs
-    to the National Iranian Oil Company (NIOC). NIOC is a State-owned company which
-    provides support to the Government of Iran.
+  justification: Petropars Oilfield Services Company (POSCO) is a wholly-owned subsidiary of Petropars Iran, which is in turn a wholly-owned subsidiary of Petropars Ltd (PPL). PPL is wholly-owned by Naftiran Intertrade Company Ltd (NICO), which belongs to the National Iranian Oil Company (NIOC). NIOC is a State-owned company which provides support to the Government of Iran.

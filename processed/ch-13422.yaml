@@ -1,4 +1,3 @@
----
 ssid: '13422'
 sanctions_set_id: '13065'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Mousa Khalil
-  justification: Prosecutor of Tabriz. Responsible for directing grave human rights
-    violations of the right to due process.
+  justification: Prosecutor of Tabriz. Responsible for directing grave human rights violations of the right to due process.

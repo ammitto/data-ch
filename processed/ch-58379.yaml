@@ -1,4 +1,3 @@
----
 ssid: '58379'
 sanctions_set_id: '27286'
 entity:
@@ -16,6 +15,4 @@ entity:
     addresses:
     - address_details: Frunzenskaya Naberezhnaya 22
       zip_code: '119160'
-  justification: Armed Forces of the Russian Federation are the military forces of
-    the Russian Federation. On 24 February 2022, they launched the war of aggression
-    against Ukraine.
+  justification: Armed Forces of the Russian Federation are the military forces of the Russian Federation. On 24 February 2022, they launched the war of aggression against Ukraine.

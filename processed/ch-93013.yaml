@@ -1,4 +1,3 @@
----
 ssid: '93013'
 sanctions_set_id: '27286'
 entity:
@@ -34,8 +33,4 @@ entity:
     addresses:
     - address_details: Kalinina str., 50 A
       zip_code: '198099'
-  justification: JSC Elektrotyaga is part of the Russian military-industrial state
-    concern JSC “MPO-Gidropribor”, which is a part of JSC “Tactical Missiles Corporation”,
-    and provides its products to the military-industrial sector. In particular, JSC
-    Elektrotyaga is a manufacturer of batteries, including emergency standby and rechargeable
-    lead-acid batteries for submarines of the Russian Navy.
+  justification: JSC Elektrotyaga is part of the Russian military-industrial state concern JSC “MPO-Gidropribor”, which is a part of JSC “Tactical Missiles Corporation”, and provides its products to the military-industrial sector. In particular, JSC Elektrotyaga is a manufacturer of batteries, including emergency standby and rechargeable lead-acid batteries for submarines of the Russian Navy.

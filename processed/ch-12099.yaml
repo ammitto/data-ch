@@ -1,4 +1,3 @@
----
 ssid: '12099'
 sanctions_set_id: '3986'
 individual:
@@ -37,5 +36,4 @@ individual:
       day: 3
       month: 10
       year: 1955
-  justification: Gave orders to troops to shoot protestors in Idlib at the beginning
-    of September 2011, under the former al-Assad regime.
+  justification: Gave orders to troops to shoot protestors in Idlib at the beginning of September 2011, under the former al-Assad regime.

@@ -1,4 +1,3 @@
----
 ssid: '51207'
 sanctions_set_id: '27286'
 individual:
@@ -19,6 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Ivanovich
-  justification: Valery Ivanovich Yanushkevich holds the position of Deputy Troops
-    Commander for Ideological Work – Head of the Ideological Work Department of the
-    North-Western Operational Command of Belarus.
+  justification: Valery Ivanovich Yanushkevich holds the position of Deputy Troops Commander for Ideological Work – Head of the Ideological Work Department of the North-Western Operational Command of Belarus.

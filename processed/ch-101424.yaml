@@ -1,4 +1,3 @@
----
 ssid: '101424'
 sanctions_set_id: '97845'
 individual:
@@ -26,10 +25,4 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Sweet Micky
-  justification: Michel Martelly, the former President of the Republic of Haiti (2011-2016),
-    participated directly in the creation of the gang Base 257. He financed, sponsored
-    and supported several gangs, in particular Base 257, but also Village de Dieu,
-    Ti Bois and Grand Ravine, to defend his economic interests, advance his political
-    agenda and control territories, notably by providing them with firearms and guns.
-    By financing those groups, he is also responsible for the abuses they have committed
-    and has therefore contributed financially to insecurity and instability in Haiti.
+  justification: Michel Martelly, the former President of the Republic of Haiti (2011-2016), participated directly in the creation of the gang Base 257. He financed, sponsored and supported several gangs, in particular Base 257, but also Village de Dieu, Ti Bois and Grand Ravine, to defend his economic interests, advance his political agenda and control territories, notably by providing them with firearms and guns. By financing those groups, he is also responsible for the abuses they have committed and has therefore contributed financially to insecurity and instability in Haiti.

@@ -1,4 +1,3 @@
----
 ssid: '98988'
 sanctions_set_id: '27286'
 entity:
@@ -26,10 +25,4 @@ entity:
       year: 2004
     addresses:
     - address_details: Unit 1801-A, Plot DMCC-UD-T2, Uptown Tower
-  justification: Litasco Middle East DMCC is a Dubai-based subsidiary of PJSC Lukoil,
-    with strong ties to the Russian energy industry. Litasco Middle East DMCC and
-    an entity which it controls, Eiger Shipping DMCC, have enabled the procurement
-    of numerous vessels forming part of the so-called “shadow fleet”. Those vessels
-    have transported oil from Russia while turning off or manipulating their AIS transponders,
-    while not maintaining adequate liability insurance or other financial security,
-    and while carrying out unsafe maritime operations.
+  justification: Litasco Middle East DMCC is a Dubai-based subsidiary of PJSC Lukoil, with strong ties to the Russian energy industry. Litasco Middle East DMCC and an entity which it controls, Eiger Shipping DMCC, have enabled the procurement of numerous vessels forming part of the so-called “shadow fleet”. Those vessels have transported oil from Russia while turning off or manipulating their AIS transponders, while not maintaining adequate liability insurance or other financial security, and while carrying out unsafe maritime operations.

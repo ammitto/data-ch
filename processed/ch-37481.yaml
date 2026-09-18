@@ -1,4 +1,3 @@
----
 ssid: '37481'
 sanctions_set_id: '3978'
 entity:
@@ -14,8 +13,4 @@ entity:
         name_part_type: whole-name
         value: Organization and Guidance Department (OGD)
     addresses:
-  justification: The Organization and Guidance Department is a very powerful body
-    of the Worker’s Party of Korea. It directs key personnel appointments for the
-    Workers’ Party of Korea, the DPRK’s military, and the DPRK’s government administration.
-    It also purports to control the political affairs of all of the DPRK and is instrumental
-    in implementing the DPRK’s censorship policies.
+  justification: The Organization and Guidance Department is a very powerful body of the Worker’s Party of Korea. It directs key personnel appointments for the Workers’ Party of Korea, the DPRK’s military, and the DPRK’s government administration. It also purports to control the political affairs of all of the DPRK and is instrumental in implementing the DPRK’s censorship policies.

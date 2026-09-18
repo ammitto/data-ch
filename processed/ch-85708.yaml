@@ -1,4 +1,3 @@
----
 ssid: '85708'
 sanctions_set_id: '27286'
 entity:
@@ -41,12 +40,4 @@ entity:
     addresses:
     - address_details: Saprygina Street 8
       zip_code: '347801'
-  justification: FSE “Kamensky ‘Combine’” is a chemical plant, mainly producing special-purpose
-    chemical products for Russia’s military industry, which produces weapons used
-    by the Russian military. It is state-owned through Rostec (State Corporation for
-    the Promotion of the Development, Manufacture and Export of High-Tech Products).
-    It holds patents for technologies related to rockets and explosives. FSE “Kamensky
-    ‘Combine’” has been involved in the implementation of the Russian state defence
-    orders and since 2022 the volume of state defence orders it receives has increased
-    significantly. FSE “Kamensky ‘Combine’” therefore materially supports actions
-    which undermine the territorial integrity, sovereignty and independence of Ukraine.
+  justification: FSE “Kamensky ‘Combine’” is a chemical plant, mainly producing special-purpose chemical products for Russia’s military industry, which produces weapons used by the Russian military. It is state-owned through Rostec (State Corporation for the Promotion of the Development, Manufacture and Export of High-Tech Products). It holds patents for technologies related to rockets and explosives. FSE “Kamensky ‘Combine’” has been involved in the implementation of the Russian state defence orders and since 2022 the volume of state defence orders it receives has increased significantly. FSE “Kamensky ‘Combine’” therefore materially supports actions which undermine the territorial integrity, sovereignty and independence of Ukraine.

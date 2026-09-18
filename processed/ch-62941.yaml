@@ -1,4 +1,3 @@
----
 ssid: '62941'
 sanctions_set_id: '27286'
 entity:
@@ -16,11 +15,4 @@ entity:
     day_month_year:
       year: 1947
     addresses:
-  justification: JSC Makeyev State Rocket Center is a Russian company that designs
-    and produces missiles and other weapons for the Russian Ministry of Defence. Missiles
-    produced by Makeyev State are used in the Russian war of aggression against Ukraine.
-    Furthermore, JSC Makeyev State Rocket Center organises “patriotic” concerts and
-    fundraisers in support of Russian soldiers fighting in Russia’s war of aggression
-    against Ukraine. Therefore, JSC Makeyev State Rocket Center is responsible for
-    supporting materially actions which undermine and threaten the territorial integrity,
-    sovereignty and independence of Ukraine.
+  justification: JSC Makeyev State Rocket Center is a Russian company that designs and produces missiles and other weapons for the Russian Ministry of Defence. Missiles produced by Makeyev State are used in the Russian war of aggression against Ukraine. Furthermore, JSC Makeyev State Rocket Center organises “patriotic” concerts and fundraisers in support of Russian soldiers fighting in Russia’s war of aggression against Ukraine. Therefore, JSC Makeyev State Rocket Center is responsible for supporting materially actions which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.

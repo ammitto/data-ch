@@ -1,4 +1,3 @@
----
 ssid: '38365'
 sanctions_set_id: '38340'
 individual:
@@ -20,8 +19,4 @@ individual:
       day: 1
       month: 1
       year: 1960
-  justification: Malek Reuben Riak has served as Deputy Chief of Defence Staff and
-    Inspector General of the government's army since May 2017. Prior to that, he served
-    as Deputy Chief of Staff of the SPLA for Training (March 2016 – May 2017), and
-    Deputy Chief of the SPLA (Jan 2013- March 2016). As Deputy Chief of Defence Staff,
-    he played a key role in procuring weapons for the army.
+  justification: Malek Reuben Riak has served as Deputy Chief of Defence Staff and Inspector General of the government's army since May 2017. Prior to that, he served as Deputy Chief of Staff of the SPLA for Training (March 2016 – May 2017), and Deputy Chief of the SPLA (Jan 2013- March 2016). As Deputy Chief of Defence Staff, he played a key role in procuring weapons for the army.

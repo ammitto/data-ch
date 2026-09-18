@@ -1,4 +1,3 @@
----
 ssid: '8702'
 sanctions_set_id: '3984'
 individual:
@@ -19,5 +18,4 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Rezaee
-  justification: A senior official at the AEOI (E.37.A.1.) Office of Exploration and
-    Mining Affairs.
+  justification: A senior official at the AEOI (E.37.A.1.) Office of Exploration and Mining Affairs.

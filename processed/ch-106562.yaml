@@ -1,4 +1,3 @@
----
 ssid: '106562'
 sanctions_set_id: '27286'
 entity:
@@ -30,6 +29,4 @@ entity:
     addresses:
     - address_details: street Vilna, 9
       zip_code: '297408'
-  justification: The Military-Patriotic Club “Patriot” is an entity operating in the
-    temporarily occupied territory of Crimea and within the framework of Russian state-supported
-    military-patriotic education initiatives.
+  justification: The Military-Patriotic Club “Patriot” is an entity operating in the temporarily occupied territory of Crimea and within the framework of Russian state-supported military-patriotic education initiatives.

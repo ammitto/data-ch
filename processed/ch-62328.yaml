@@ -1,4 +1,3 @@
----
 ssid: '62328'
 sanctions_set_id: '3986'
 entity:
@@ -22,5 +21,4 @@ entity:
         value: Neptune LLC company
     day_month_year:
       year: 2017
-  justification: Neptunus LLC is involved in drug operations in the port of Latakia.
-    Neptunus LLC therefore benefits from and supports the former al-Assad regime.
+  justification: Neptunus LLC is involved in drug operations in the port of Latakia. Neptunus LLC therefore benefits from and supports the former al-Assad regime.

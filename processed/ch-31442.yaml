@@ -1,4 +1,3 @@
----
 ssid: '31442'
 sanctions_set_id: '3986'
 individual:
@@ -16,5 +15,4 @@ individual:
     addresses:
     - address_details: 35b Saray El Maadi Tower, Corniche El Nile
       zip_code: '11431'
-  justification: Providing support to the Syrian regime and benefiting from the regime
-    by organising covert shipments of oil to the Syrian regime.
+  justification: Providing support to the Syrian regime and benefiting from the regime by organising covert shipments of oil to the Syrian regime.

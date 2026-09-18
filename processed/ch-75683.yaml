@@ -1,4 +1,3 @@
----
 ssid: '75683'
 sanctions_set_id: '27286'
 individual:
@@ -16,10 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Anatoliy
-  justification: Anatoliy Solin is a judge of the Military Court of Appeal of the
-    Russian Federation. In his position, he took multiple politically motivated decisions
-    against opponents of the illegal annexation of Crimea and Sevastopol, as well
-    as decisions based on religious grounds. In particular, Anatoliy Solin prosecuted
-    Amet Suleymanov and other political prisoners. He is therefore supporting and
-    implementing actions and policies which undermine and threaten the territorial
-    integrity, sovereignty and independence of Ukraine.
+  justification: Anatoliy Solin is a judge of the Military Court of Appeal of the Russian Federation. In his position, he took multiple politically motivated decisions against opponents of the illegal annexation of Crimea and Sevastopol, as well as decisions based on religious grounds. In particular, Anatoliy Solin prosecuted Amet Suleymanov and other political prisoners. He is therefore supporting and implementing actions and policies which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.

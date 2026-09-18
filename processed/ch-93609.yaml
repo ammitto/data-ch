@@ -1,4 +1,3 @@
----
 ssid: '93609'
 sanctions_set_id: '27286'
 entity:
@@ -26,9 +25,4 @@ entity:
       year: 2020
     addresses:
     - address_details: Aviamotornaya 53
-  justification: JSC Research Institute of Space Instrumentation is a Russian research
-    and manufacturing company which has won a government procurement contract for
-    developing and producing high-tech electronic components for the Russian defence
-    industry. Therefore, JSC Research Institute of Space Instrumentation is forming
-    part of Russia’s military and industrial complex, including by being involved
-    in the development, production or supply of military technology and equipment.
+  justification: JSC Research Institute of Space Instrumentation is a Russian research and manufacturing company which has won a government procurement contract for developing and producing high-tech electronic components for the Russian defence industry. Therefore, JSC Research Institute of Space Instrumentation is forming part of Russia’s military and industrial complex, including by being involved in the development, production or supply of military technology and equipment.

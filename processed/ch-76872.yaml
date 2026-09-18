@@ -1,4 +1,3 @@
----
 ssid: '76872'
 sanctions_set_id: '29445'
 entity:
@@ -28,7 +27,5 @@ entity:
         name_part_type: whole-name
         value: Win Ket Ltd
     addresses:
-    - address_details: Room 1606, 16/F Workingbond Commercial Centre, 162-164 Prince
-        Edward Road West, Mong Kok
-    - address_details: Unit 1008, 10/F, Sun Cheong Industrial Building, 2-4 Cheung
-        Yee Street
+    - address_details: Room 1606, 16/F Workingbond Commercial Centre, 162-164 Prince Edward Road West, Mong Kok
+    - address_details: Unit 1008, 10/F, Sun Cheong Industrial Building, 2-4 Cheung Yee Street

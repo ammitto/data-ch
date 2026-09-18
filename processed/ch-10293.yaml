@@ -1,4 +1,3 @@
----
 ssid: '10293'
 sanctions_set_id: '8174'
 entity:
@@ -14,8 +13,6 @@ entity:
         name_part_type: whole-name
         value: Lancelin Shipping Company Ltd
     addresses:
-    - address_details: Fortuna Court, Block B, 284 Archiepiskopou Makariou C’ Avenue,
-        2nd Floor
+    - address_details: Fortuna Court, Block B, 284 Archiepiskopou Makariou C’ Avenue, 2nd Floor
       zip_code: '3105'
-  justification: Lancelin Shipping Company Ltd is wholly-owned by IRISL. Ahmad Sarkandi
-    is the manager of Lancelin Shipping.
+  justification: Lancelin Shipping Company Ltd is wholly-owned by IRISL. Ahmad Sarkandi is the manager of Lancelin Shipping.

@@ -1,4 +1,3 @@
----
 ssid: '73454'
 sanctions_set_id: '27286'
 entity:
@@ -27,6 +26,4 @@ entity:
     addresses:
     - address_details: 54, Gagarin St.
       zip_code: '222511'
-  justification: OJSC 2566 Radioelectronic Armament Repair Plant is an enterprise
-    that specialises in the repair and modernisation of weapons and air defence equipment,
-    as well as other complex radio-electronic equipment and military products.
+  justification: OJSC 2566 Radioelectronic Armament Repair Plant is an enterprise that specialises in the repair and modernisation of weapons and air defence equipment, as well as other complex radio-electronic equipment and military products.

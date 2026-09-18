@@ -1,4 +1,3 @@
----
 ssid: '52913'
 sanctions_set_id: '27286'
 individual:
@@ -20,9 +19,4 @@ individual:
       day: 15
       month: 9
       year: 1955
-  justification: Farkhad Akhmedov is a Russian businessman involved in the energy
-    sector and in Russian local politics. He founded Tansley Trading, which supplied
-    equipment to Russian gas producers and became a minority shareholder in Nortgas,
-    an oil and gas company in Siberia, as well as Chairman of Bechtel Energy. He is
-    close to the Kremlin and is a leading businessperson involved in economic sectors
-    providing a substantial source of revenue to the Government of the Russian Federation.
+  justification: Farkhad Akhmedov is a Russian businessman involved in the energy sector and in Russian local politics. He founded Tansley Trading, which supplied equipment to Russian gas producers and became a minority shareholder in Nortgas, an oil and gas company in Siberia, as well as Chairman of Bechtel Energy. He is close to the Kremlin and is a leading businessperson involved in economic sectors providing a substantial source of revenue to the Government of the Russian Federation.

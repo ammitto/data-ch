@@ -1,4 +1,3 @@
----
 ssid: '41361'
 sanctions_set_id: '3986'
 individual:
@@ -44,7 +43,4 @@ individual:
       day: 10
       month: 1
       year: 1976
-  justification: Leading businessperson benefitting from and supporting the former
-    al-Assad regime. Chairperson of Damascus Cham Holding Company (DCHC), the investment
-    arm of the Governorate of Damascus managing the properties of the Governorate
-    of Damascus and implementing the Marota City project.
+  justification: Leading businessperson benefitting from and supporting the former al-Assad regime. Chairperson of Damascus Cham Holding Company (DCHC), the investment arm of the Governorate of Damascus managing the properties of the Governorate of Damascus and implementing the Marota City project.

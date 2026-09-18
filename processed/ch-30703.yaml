@@ -1,4 +1,3 @@
----
 ssid: '30703'
 sanctions_set_id: '3986'
 entity:
@@ -14,7 +13,4 @@ entity:
         name_part_type: whole-name
         value: Syrian Company for Information Technology (SCIT)
     addresses:
-  justification: Subsidiary of the Organisation for Technological Industries (OTI)
-    and therefore the Syrian Ministry of Defence, which have been designated by the
-    Council. It also works with the Central Bank of Syria which has been designated
-    by the Council.
+  justification: Subsidiary of the Organisation for Technological Industries (OTI) and therefore the Syrian Ministry of Defence, which have been designated by the Council. It also works with the Central Bank of Syria which has been designated by the Council.

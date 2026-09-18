@@ -1,4 +1,3 @@
----
 ssid: '9509'
 sanctions_set_id: '8174'
 entity:
@@ -27,5 +26,4 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: State Purchasing Organization
-  justification: The SPO appears to facilitate the import of whole weapons. It appears
-    to be a subsidiary of MODAFL.
+  justification: The SPO appears to facilitate the import of whole weapons. It appears to be a subsidiary of MODAFL.

@@ -1,4 +1,3 @@
----
 ssid: '75523'
 sanctions_set_id: '27286'
 individual:
@@ -21,9 +20,4 @@ individual:
         value: Mahomedovich
     day_month_year:
       year: 1948
-  justification: Ibrahim Achmatov is the General Director of JSC Kizlyar Electromechanical
-    Plant, a Russian military industry company. The plant specialises in the development
-    and manufacture of aircraft ground control and diagnostic systems, and the production
-    of attachments and on-board equipment. The company produces DZ-UM lock for SU-25
-    fighters, which are used by Russian military forces to attack Ukraine. JSC Kizlyar
-    Electromechanical Plant fulfils Russia’s state defence orders.
+  justification: Ibrahim Achmatov is the General Director of JSC Kizlyar Electromechanical Plant, a Russian military industry company. The plant specialises in the development and manufacture of aircraft ground control and diagnostic systems, and the production of attachments and on-board equipment. The company produces DZ-UM lock for SU-25 fighters, which are used by Russian military forces to attack Ukraine. JSC Kizlyar Electromechanical Plant fulfils Russia’s state defence orders.

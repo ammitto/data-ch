@@ -1,4 +1,3 @@
----
 ssid: '100475'
 sanctions_set_id: '8174'
 entity:
@@ -15,7 +14,4 @@ entity:
         value: Bonab Research Center (BRC)
     addresses:
     - address_details: Jade ye Tabriz (km 7)
-  justification: The Bonab Research Center is providing research for the design and
-    manufacturing of nuclear components and equipment by Iranian organisations. Therefore,
-    the Bonab Research Center is providing support for Iran’s proliferation-sensitive
-    nuclear activities.
+  justification: The Bonab Research Center is providing research for the design and manufacturing of nuclear components and equipment by Iranian organisations. Therefore, the Bonab Research Center is providing support for Iran’s proliferation-sensitive nuclear activities.

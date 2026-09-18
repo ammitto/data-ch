@@ -1,4 +1,3 @@
----
 ssid: '74969'
 sanctions_set_id: '73477'
 individual:
@@ -42,5 +41,4 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Rahman
-  justification: Abdulrahman Juma Barakallah is a prominent General among the RSF,
-    who commands the RSF’s military force in West Darfur.
+  justification: Abdulrahman Juma Barakallah is a prominent General among the RSF, who commands the RSF’s military force in West Darfur.

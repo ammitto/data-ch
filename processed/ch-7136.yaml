@@ -1,4 +1,3 @@
----
 ssid: '7136'
 sanctions_set_id: '6093'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Zimbabwe Defence Industries
     addresses:
     - address_details: 10th floor, Trustee House, 55 Samora Machel Avenue
-  justification: Associated with the Ministry of Defence and the ZANU-PF faction of
-    Government.
+  justification: Associated with the Ministry of Defence and the ZANU-PF faction of Government.

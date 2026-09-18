@@ -1,4 +1,3 @@
----
 ssid: '61818'
 sanctions_set_id: '29445'
 entity:
@@ -19,8 +18,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federalnoe Gosudarstvennoe Byudzhetnoe Uchrezhdenie Vserossiiskii Nauchno-Issledovatelskii
-          Institut Radioelektroniki
+        value: Federalnoe Gosudarstvennoe Byudzhetnoe Uchrezhdenie Vserossiiskii Nauchno-Issledovatelskii Institut Radioelektroniki
     - name_type: alias
       quality: good
       lang: eng
@@ -69,8 +67,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal State Budgetary Institution All-Russian Scientific Research
-          Institute of Radio Electronics
+        value: Federal State Budgetary Institution All-Russian Scientific Research Institute of Radio Electronics
     addresses:
     - address_details: Kolpakova Str., 2A, Building B1, Floor 3, Offices 66, 87
       zip_code: '141002'

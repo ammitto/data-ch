@@ -1,4 +1,3 @@
----
 ssid: '11810'
 sanctions_set_id: '3986'
 individual:
@@ -30,6 +29,4 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Qadour
-  justification: Leading businessperson operating in Syria, with interests and/or
-    activities in the telecommunications, oil, plastic and tobacco industry sectors
-    and close business relations with Maher al-Assad. He is linked to smuggling activities.
+  justification: Leading businessperson operating in Syria, with interests and/or activities in the telecommunications, oil, plastic and tobacco industry sectors and close business relations with Maher al-Assad. He is linked to smuggling activities.

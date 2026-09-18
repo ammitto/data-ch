@@ -1,4 +1,3 @@
----
 ssid: '47901'
 sanctions_set_id: '27286'
 individual:
@@ -23,5 +22,4 @@ individual:
       day: 17
       month: 6
       year: 1952
-  justification: Vladimir Kasatonov is the Deputy Commander-in-Chief of the Russian
-    Navy. As such, he is responsible for naval operations in or to Ukraine.
+  justification: Vladimir Kasatonov is the Deputy Commander-in-Chief of the Russian Navy. As such, he is responsible for naval operations in or to Ukraine.

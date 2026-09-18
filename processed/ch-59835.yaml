@@ -1,4 +1,3 @@
----
 ssid: '59835'
 sanctions_set_id: '29445'
 entity:
@@ -26,8 +25,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Акционерное Общество «Холдинговая Компания «Ак Барс» (АО «Холдинговая
-          Компания «Ак Барс»)
+        value: Акционерное Общество «Холдинговая Компания «Ак Барс» (АО «Холдинговая Компания «Ак Барс»)
     addresses:
     - address_details: Korolenko Str., 58a
       zip_code: '420094'

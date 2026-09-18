@@ -1,4 +1,3 @@
----
 ssid: '70828'
 sanctions_set_id: '29445'
 entity:
@@ -37,9 +36,7 @@ entity:
     addresses:
     - address_details: Volgogdradsky Avenue, 28A, Building I, Room 6
       zip_code: '109316'
-    - address_details: Novokhokhlovskaya Str. 23, Building 1 (Ring Park Business Park),
-        3rd Floor
+    - address_details: Novokhokhlovskaya Str. 23, Building 1 (Ring Park Business Park), 3rd Floor
       zip_code: '109052'
-    - address_details: Bolshoy Prospekt, 18, lit. A (Andriyivskyi Shopping and Office
-        Center)
+    - address_details: Bolshoy Prospekt, 18, lit. A (Andriyivskyi Shopping and Office Center)
       zip_code: '199034'

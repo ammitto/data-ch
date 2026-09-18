@@ -1,4 +1,3 @@
----
 ssid: '8462'
 sanctions_set_id: '3984'
 entity:
@@ -13,7 +12,4 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Khatam al-Anbiya Construction Headquarters (KAA)
-  justification: KAA is an IRGC-owned company involved in large scale civil and military
-    construction projects and other engineering activities. It undertakes a significant
-    amount of work on Passive Defense Organization projects. In particular, KAA subsidiaries
-    were heavily involved in the construction of the uranium enrichment site at Qom/Fordow.
+  justification: KAA is an IRGC-owned company involved in large scale civil and military construction projects and other engineering activities. It undertakes a significant amount of work on Passive Defense Organization projects. In particular, KAA subsidiaries were heavily involved in the construction of the uranium enrichment site at Qom/Fordow.

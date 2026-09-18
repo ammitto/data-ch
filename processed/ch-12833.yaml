@@ -1,4 +1,3 @@
----
 ssid: '12833'
 sanctions_set_id: '12786'
 individual:
@@ -35,5 +34,4 @@ individual:
       month: 4
       year: 1944
     addresses:
-  justification: Director, External Security Organisation. Head of external intelligence
-    agency.
+  justification: Director, External Security Organisation. Head of external intelligence agency.

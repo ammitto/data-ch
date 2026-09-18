@@ -1,4 +1,3 @@
----
 ssid: '62276'
 sanctions_set_id: '3986'
 individual:
@@ -32,6 +31,4 @@ individual:
         value: Sakr
     day_month_year:
       year: 1975
-  justification: Fadi Saqr is a leader of the “National Defense Forces” (NDF) militia
-    in Damascus that has fought on behalf of the former al-Assad regime since at least
-    2012. Fadi Saqr therefore is a member of an al-Assad-regime-affiliated militia.
+  justification: Fadi Saqr is a leader of the “National Defense Forces” (NDF) militia in Damascus that has fought on behalf of the former al-Assad regime since at least 2012. Fadi Saqr therefore is a member of an al-Assad-regime-affiliated militia.

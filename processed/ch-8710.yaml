@@ -1,4 +1,3 @@
----
 ssid: '8710'
 sanctions_set_id: '3984'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Haleh
-  justification: Involved in the production of magnesium at a concentration of 99.9
-    %.
+  justification: Involved in the production of magnesium at a concentration of 99.9 %.

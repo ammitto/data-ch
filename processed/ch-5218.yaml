@@ -1,4 +1,3 @@
----
 ssid: '5218'
 sanctions_set_id: '4387'
 individual:
@@ -23,6 +22,4 @@ individual:
       day: 16
       month: 5
       year: 1950
-  justification: Rector of Minsk State University of Informatics and Radioelectronics.
-    Responsible for the expulsion of students involved in protests following the December
-    2010 elections.
+  justification: Rector of Minsk State University of Informatics and Radioelectronics. Responsible for the expulsion of students involved in protests following the December 2010 elections.

@@ -1,4 +1,3 @@
----
 ssid: '69901'
 sanctions_set_id: '27286'
 entity:
@@ -34,11 +33,4 @@ entity:
     addresses:
     - address_details: Gagarina street, 3
       zip_code: '140180'
-  justification: JSC “V.V. Tikhomirov Research Institute of Instrument Engineering”
-    is a military-industrial complex of Russia. It develops weapon control systems
-    for fighter aircraft and medium-range anti-aircraft missile systems for ground
-    forces. Its medium-range anti-aircraft missile system 9K317M “Buk-M3” is used
-    in Russia’s war of aggression against Ukraine. Therefore, JSC “V.V. Tikhomirov
-    Research Institute of Instrument Engineering” is supporting materially actions
-    which undermine and threaten the territorial integrity, sovereignty and independence
-    of Ukraine.
+  justification: JSC “V.V. Tikhomirov Research Institute of Instrument Engineering” is a military-industrial complex of Russia. It develops weapon control systems for fighter aircraft and medium-range anti-aircraft missile systems for ground forces. Its medium-range anti-aircraft missile system 9K317M “Buk-M3” is used in Russia’s war of aggression against Ukraine. Therefore, JSC “V.V. Tikhomirov Research Institute of Instrument Engineering” is supporting materially actions which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.

@@ -1,4 +1,3 @@
----
 ssid: '75023'
 sanctions_set_id: '73477'
 individual:
@@ -65,7 +64,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Masar
-  justification: Masar Abdurahman Aseel is a prominent tribal leader of the Mahamid
-    clan in West Darfur. The Mahamid clan belongs to the Rizeigat tribe which gathers
-    Arab communities inhabiting Darfur and Chad. He holds the title of Amir and is
-    a member of the Native Administration in West Darfur.
+  justification: Masar Abdurahman Aseel is a prominent tribal leader of the Mahamid clan in West Darfur. The Mahamid clan belongs to the Rizeigat tribe which gathers Arab communities inhabiting Darfur and Chad. He holds the title of Amir and is a member of the Native Administration in West Darfur.

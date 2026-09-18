@@ -1,4 +1,3 @@
----
 ssid: '50949'
 sanctions_set_id: '27286'
 individual:
@@ -23,5 +22,4 @@ individual:
       day: 17
       month: 5
       year: 1967
-  justification: Alexey Avdeev is Deputy Commander of Russia’s Southern Military District,
-    which has been involved in military actions against Ukraine.
+  justification: Alexey Avdeev is Deputy Commander of Russia’s Southern Military District, which has been involved in military actions against Ukraine.

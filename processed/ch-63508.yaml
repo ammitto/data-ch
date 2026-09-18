@@ -1,4 +1,3 @@
----
 ssid: '63508'
 sanctions_set_id: '27286'
 entity:
@@ -27,10 +26,4 @@ entity:
     addresses:
     - address_details: St. Academician Vedeneeva, 28
       zip_code: '614038'
-  justification: PJSC “Research and Production Association ‘ISKRA’” is a designer,
-    manufacturer and supplier of equipment for the fuel and energy complex, and a
-    developer and manufacturer of solid-fuel rocket engines and their elements for
-    missile complexes of various purposes, including for the strategic forces of the
-    Russian Federation. PJSC “Research and Production Association ‘ISKRA’” manufactures
-    elements for missile complexes used by the Russian Armed Forces in the war of
-    aggression against Ukraine.
+  justification: PJSC “Research and Production Association ‘ISKRA’” is a designer, manufacturer and supplier of equipment for the fuel and energy complex, and a developer and manufacturer of solid-fuel rocket engines and their elements for missile complexes of various purposes, including for the strategic forces of the Russian Federation. PJSC “Research and Production Association ‘ISKRA’” manufactures elements for missile complexes used by the Russian Armed Forces in the war of aggression against Ukraine.

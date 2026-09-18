@@ -1,4 +1,3 @@
----
 ssid: '63427'
 sanctions_set_id: '27286'
 entity:
@@ -20,9 +19,4 @@ entity:
     addresses:
     - address_details: Stachek avenue, 47 LITERA C, office 6th office 2/1
       zip_code: '198097'
-  justification: JSC Plant Universalmash is a subsidiary of PJSC “KIROVSKY ZAVOD”
-    which provides the unified tracked chassis for S-300V anti-aircraft missile system.
-    This type of chassis is also used for self-propelled artillery “Pion” and unified
-    separate units with a T-80 tank which are used by Russian forces in Ukraine. Moreover,
-    Sergey Serebryakov who heads JSC Plant Universalmash, stated that the company
-    is fulfilling tasks related to state defence orders.
+  justification: JSC Plant Universalmash is a subsidiary of PJSC “KIROVSKY ZAVOD” which provides the unified tracked chassis for S-300V anti-aircraft missile system. This type of chassis is also used for self-propelled artillery “Pion” and unified separate units with a T-80 tank which are used by Russian forces in Ukraine. Moreover, Sergey Serebryakov who heads JSC Plant Universalmash, stated that the company is fulfilling tasks related to state defence orders.

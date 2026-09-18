@@ -1,4 +1,3 @@
----
 ssid: '71681'
 sanctions_set_id: '27286'
 entity:
@@ -19,8 +18,4 @@ entity:
       year: 2005
     addresses:
     - address_details: Street 1905, building 1, entrance from the yard
-  justification: Military-patriotic centre “Vympel” is an organisation, created by
-    former members of the Russian security services for the purpose of providing patriotic
-    education to children, which includes militarised education. This includes military
-    education for teenagers and organising camps for younger children. It is financed
-    by the Russian Government.
+  justification: Military-patriotic centre “Vympel” is an organisation, created by former members of the Russian security services for the purpose of providing patriotic education to children, which includes militarised education. This includes military education for teenagers and organising camps for younger children. It is financed by the Russian Government.

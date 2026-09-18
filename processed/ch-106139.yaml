@@ -1,4 +1,3 @@
----
 ssid: '106139'
 sanctions_set_id: '29445'
 entity:
@@ -21,7 +20,5 @@ entity:
         name_part_type: whole-name
         value: R&C Alliance Electronics Group
     addresses:
-    - address_details: Unit 811, Beverley Commercial Centre, 87-105 Chatham Road South,
-        Tsim Sha Tsui, Kowloon
-    - address_details: Room 12A1, Block A, Zhonghangbeiyuan Building, No. 42 Zhonghang
-        Road, Futian District
+    - address_details: Unit 811, Beverley Commercial Centre, 87-105 Chatham Road South, Tsim Sha Tsui, Kowloon
+    - address_details: Room 12A1, Block A, Zhonghangbeiyuan Building, No. 42 Zhonghang Road, Futian District

@@ -1,4 +1,3 @@
----
 ssid: '50621'
 sanctions_set_id: '29445'
 entity:
@@ -19,8 +18,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Акционерное Общество «Объединенная Промышленная Корпорация «Оборонпром»
-          (АО «ОПК «Оборонпром»)
+        value: Акционерное Общество «Объединенная Промышленная Корпорация «Оборонпром» (АО «ОПК «Оборонпром»)
     - name_type: alias
       quality: good
       lang: eng

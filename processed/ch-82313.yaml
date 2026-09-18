@@ -1,4 +1,3 @@
----
 ssid: '82313'
 sanctions_set_id: '47224'
 individual:
@@ -134,5 +133,4 @@ individual:
       year: 1963
     addresses:
     - address_details: Desa Gebang, Kecamatan Masaran, Kabupaten Sragen
-    - address_details: Desa Taman Fajar, Kecamatan Probolinggo, Kabupaten Lampung
-        Timur
+    - address_details: Desa Taman Fajar, Kecamatan Probolinggo, Kabupaten Lampung Timur

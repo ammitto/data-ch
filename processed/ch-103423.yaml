@@ -1,4 +1,3 @@
----
 ssid: '103423'
 sanctions_set_id: '13065'
 entity:
@@ -22,9 +21,4 @@ entity:
         value: Imam Reza Corps
     addresses:
     - address_details: Kohestan St., Iqbal
-  justification: The Imam Reza Islamic Revolutionary Guard Corps is the local branch
-    of the Islamic Revolutionary Guard Corps (IRGC) in Khorasan Razavi Province, and
-    therefore commands IRGC and Basij forces in Khorasan Razavi Province. Those forces
-    have been involved in the violent repression of demonstrations, including during
-    the nationwide protests in Iran that began in December 2025 where IRGC forces
-    opened fire on protesters, resulting in deaths and injuries.
+  justification: The Imam Reza Islamic Revolutionary Guard Corps is the local branch of the Islamic Revolutionary Guard Corps (IRGC) in Khorasan Razavi Province, and therefore commands IRGC and Basij forces in Khorasan Razavi Province. Those forces have been involved in the violent repression of demonstrations, including during the nationwide protests in Iran that began in December 2025 where IRGC forces opened fire on protesters, resulting in deaths and injuries.

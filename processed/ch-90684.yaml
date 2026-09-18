@@ -1,4 +1,3 @@
----
 ssid: '90684'
 sanctions_set_id: '4387'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 14
       month: 4
       year: 1980
-  justification: Alena Baldouskaya is the Secretary of the Belarusian Central Election
-    Commission. As Secretary, Alena Baldouskaya is responsible for the organisation
-    of the 2025 presidential election, which was neither free, nor fair. The election
-    violated basic laws and international standards of fairness and transparency,
-    and the results were falsified.
+  justification: Alena Baldouskaya is the Secretary of the Belarusian Central Election Commission. As Secretary, Alena Baldouskaya is responsible for the organisation of the 2025 presidential election, which was neither free, nor fair. The election violated basic laws and international standards of fairness and transparency, and the results were falsified.

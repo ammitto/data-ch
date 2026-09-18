@@ -1,4 +1,3 @@
----
 ssid: '104809'
 sanctions_set_id: '27286'
 individual:
@@ -23,9 +22,4 @@ individual:
       day: 19
       month: 2
       year: 1985
-  justification: Anton Anisimov is a prominent figure in Russia’s state-controlled
-    international media. He is the Deputy Editor-in-Chief of Russia Today, the Head
-    of International Broadcasting of Sputnik News Agency and Radio, and the Editor-in-Chief
-    of Sputnik News Agency and Radio. In his roles at Sputnik and Russia Today, Anton
-    Anisimov is responsible for spreading disinformation related to Ukraine and promoting
-    false pro-Kremlin narratives about Russia’s invasion of Ukraine.
+  justification: Anton Anisimov is a prominent figure in Russia’s state-controlled international media. He is the Deputy Editor-in-Chief of Russia Today, the Head of International Broadcasting of Sputnik News Agency and Radio, and the Editor-in-Chief of Sputnik News Agency and Radio. In his roles at Sputnik and Russia Today, Anton Anisimov is responsible for spreading disinformation related to Ukraine and promoting false pro-Kremlin narratives about Russia’s invasion of Ukraine.

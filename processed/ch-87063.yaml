@@ -1,4 +1,3 @@
----
 ssid: '87063'
 sanctions_set_id: '29445'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Juhang Aviation Technology Shenzen Co., LTD
     addresses:
     - zip_code: '518099'
-    - address_details: Room 101-A Xinghua Building, 1007 Banxuegang Avenue, Maantang
-        Community, Bantian Subdistrict, Longgang District
+    - address_details: Room 101-A Xinghua Building, 1007 Banxuegang Avenue, Maantang Community, Bantian Subdistrict, Longgang District

@@ -1,4 +1,3 @@
----
 ssid: '10234'
 sanctions_set_id: '8174'
 entity:
@@ -13,5 +12,4 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Kaveri Maritime Incorporation
-  justification: IRISL front company in Panama, owned or controlled by IRISL or an
-    IRISL affiliate.
+  justification: IRISL front company in Panama, owned or controlled by IRISL or an IRISL affiliate.

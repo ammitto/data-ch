@@ -1,4 +1,3 @@
----
 ssid: '63069'
 sanctions_set_id: '27286'
 individual:
@@ -23,10 +22,4 @@ individual:
       day: 10
       month: 9
       year: 1952
-  justification: Sergey Karaganov is a Russian political scientist, honorary chairman
-    of the Presidium of the Council on Foreign and Defense Policy (SVOP), and a member
-    of the Presidential Council for Civil Society and Human Rights. Since the start
-    of Russia’s war of aggression against Ukraine he has justified Russia’s invasion
-    and spread Russian propaganda about the war, claiming that the West is willing
-    to destroy Russia and that the military actions are aimed to denazify Ukraine
-    and liberate the Donbas region.
+  justification: Sergey Karaganov is a Russian political scientist, honorary chairman of the Presidium of the Council on Foreign and Defense Policy (SVOP), and a member of the Presidential Council for Civil Society and Human Rights. Since the start of Russia’s war of aggression against Ukraine he has justified Russia’s invasion and spread Russian propaganda about the war, claiming that the West is willing to destroy Russia and that the military actions are aimed to denazify Ukraine and liberate the Donbas region.

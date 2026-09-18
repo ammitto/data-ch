@@ -1,4 +1,3 @@
----
 ssid: '56780'
 sanctions_set_id: '29610'
 individual:
@@ -47,5 +46,4 @@ individual:
     day_month_year:
       year: 1985
     addresses:
-  justification: Major General, Commander of the Houthi Air Force and Air Defense
-    Forces
+  justification: Major General, Commander of the Houthi Air Force and Air Defense Forces

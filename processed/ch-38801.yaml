@@ -1,4 +1,3 @@
----
 ssid: '38801'
 sanctions_set_id: '3978'
 entity:
@@ -16,5 +15,4 @@ entity:
     addresses:
     - address_details: '80 Raffles Place, #17-22 UOB Plaza'
       zip_code: '048624'
-  justification: Ship manager and commercial manager of the YUK TUNG, which conducted
-    ship-to-ship transfer of refined petroleum product.
+  justification: Ship manager and commercial manager of the YUK TUNG, which conducted ship-to-ship transfer of refined petroleum product.

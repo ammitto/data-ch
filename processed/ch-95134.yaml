@@ -1,4 +1,3 @@
----
 ssid: '95134'
 sanctions_set_id: '27286'
 entity:
@@ -34,8 +33,4 @@ entity:
     addresses:
     - address_details: Vereiskaya Street, D. 29a, building 1, floor 2, room 1
       zip_code: '121357'
-  justification: CJSC “Moscow Mechanical Plant of Special Equipment” is a Russian
-    company that develops military equipment, including technical equipment for ships
-    of the Russian fleet, supporting the country’s defence capabilities. The company
-    is licenced by the Ministry of Industry and Trade of the Russian Federation to
-    manufacture, sell, repair, maintain, install and test weapons and military equipment.
+  justification: CJSC “Moscow Mechanical Plant of Special Equipment” is a Russian company that develops military equipment, including technical equipment for ships of the Russian fleet, supporting the country’s defence capabilities. The company is licenced by the Ministry of Industry and Trade of the Russian Federation to manufacture, sell, repair, maintain, install and test weapons and military equipment.

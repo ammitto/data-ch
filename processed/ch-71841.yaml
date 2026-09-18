@@ -1,4 +1,3 @@
----
 ssid: '71841'
 sanctions_set_id: '27286'
 entity:
@@ -19,10 +18,4 @@ entity:
       year: 2000
     addresses:
     - address_details: Lenina 1
-  justification: JSC Zavod Dagdizel is a military industry company involved in developing
-    and producing underwater weapons for the Russian Navy used in the war of aggression
-    against Ukraine. JSC Zavod Dagdizel is a subsidiary of MPO-Gidropribor, which
-    is part of JSC Tactical Missiles Corporation. Therefore, JSC Zavod Dagdizel is
-    supporting materially actions which undermine and threaten the territorial integrity,
-    sovereignty and independence of Ukraine. Furthermore, JSC Zavod Dagdizel is also
-    associated with MPO-Gidropribor and JSC Tactical Missiles Corporation.
+  justification: JSC Zavod Dagdizel is a military industry company involved in developing and producing underwater weapons for the Russian Navy used in the war of aggression against Ukraine. JSC Zavod Dagdizel is a subsidiary of MPO-Gidropribor, which is part of JSC Tactical Missiles Corporation. Therefore, JSC Zavod Dagdizel is supporting materially actions which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine. Furthermore, JSC Zavod Dagdizel is also associated with MPO-Gidropribor and JSC Tactical Missiles Corporation.

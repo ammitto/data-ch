@@ -1,4 +1,3 @@
----
 ssid: '47891'
 sanctions_set_id: '27286'
 individual:
@@ -33,8 +32,4 @@ individual:
       day: 2
       month: 4
       year: 1962
-  justification: Nikolay Yevmenov is the former Commander-in-Chief of the Russian
-    Navy, in office until 19 March 2024. As such, he was responsible for all maritime
-    operations of the Russian navy during Russia’s war of aggression against Ukraine.
-    In 2024, he was appointed Head of the Military Training and Research Center (VUNC)
-    “Naval Academy named after Admiral of the Fleet of the Soviet Union N. G. Kuznetsov”.
+  justification: Nikolay Yevmenov is the former Commander-in-Chief of the Russian Navy, in office until 19 March 2024. As such, he was responsible for all maritime operations of the Russian navy during Russia’s war of aggression against Ukraine. In 2024, he was appointed Head of the Military Training and Research Center (VUNC) “Naval Academy named after Admiral of the Fleet of the Soviet Union N. G. Kuznetsov”.

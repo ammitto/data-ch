@@ -1,4 +1,3 @@
----
 ssid: '8121'
 sanctions_set_id: '3983'
 individual:
@@ -59,9 +58,4 @@ individual:
       day: 11
       month: 11
       year: 1960
-  justification: Kenya-based extremist Aboud Rogo Mohammed has threatened the peace,
-    security, or stability of Somalia, by providing financial, material, logistical,
-    or technical support to al-Shabaab, an entity listed by the UNSC Committee established
-    pursuant to resolution 751 (1992) concerning Somalia and resolution 1907 (2009)
-    concerning Eritrea for engaging in acts that directly or indirectly threaten the
-    peace, security, or stability of Somalia.
+  justification: Kenya-based extremist Aboud Rogo Mohammed has threatened the peace, security, or stability of Somalia, by providing financial, material, logistical, or technical support to al-Shabaab, an entity listed by the UNSC Committee established pursuant to resolution 751 (1992) concerning Somalia and resolution 1907 (2009) concerning Eritrea for engaging in acts that directly or indirectly threaten the peace, security, or stability of Somalia.

@@ -1,4 +1,3 @@
----
 ssid: '75602'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 24
       month: 1
       year: 1987
-  justification: Ivan Kusov is the Minister of Education and Science of the so-called
-    “Luhansk People’s Republic”. He is involved in child abduction and actively supports
-    the re-education of Ukrainian children with the intent of alienating them from
-    their home country and relatives.
+  justification: Ivan Kusov is the Minister of Education and Science of the so-called “Luhansk People’s Republic”. He is involved in child abduction and actively supports the re-education of Ukrainian children with the intent of alienating them from their home country and relatives.

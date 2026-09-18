@@ -1,4 +1,3 @@
----
 ssid: '22371'
 sanctions_set_id: '3986'
 individual:
@@ -47,6 +46,4 @@ individual:
       day: 23
       month: 12
       year: 1958
-  justification: Minister of Religious Endowments under the former al-Assad regime.
-    As a Government Minister, shares responsibility for the former al-Assad regime’s
-    violent repression of the civilian population.
+  justification: Minister of Religious Endowments under the former al-Assad regime. As a Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.

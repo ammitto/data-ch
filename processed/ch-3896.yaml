@@ -1,4 +1,3 @@
----
 ssid: '3896'
 sanctions_set_id: '3973'
 entity:
@@ -15,7 +14,4 @@ entity:
         value: Central Africa Development Fund
     addresses:
     - address_details: 811 S. Central Expressway, Suite 210
-  justification: The Central Africa Development Fund is a non-profit entity located
-    at the same address in Richardson, Texas as Richard Chichakli’s accounting firm,
-    along with all of the other firms owned or controlled by Chichakli that are being
-    proposed for listing.
+  justification: The Central Africa Development Fund is a non-profit entity located at the same address in Richardson, Texas as Richard Chichakli’s accounting firm, along with all of the other firms owned or controlled by Chichakli that are being proposed for listing.

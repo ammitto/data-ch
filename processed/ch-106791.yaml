@@ -1,4 +1,3 @@
----
 ssid: '106791'
 sanctions_set_id: '27286'
 individual:
@@ -26,6 +25,4 @@ individual:
     addresses:
     - address_details: Lenin Street, Building 2
       zip_code: '299011'
-  justification: Marina Slonchenko is the head of the so-called “Youth Affairs Department
-    of the City of Sevastopol,” an occupation executive authority established under
-    Russian control in the temporarily occupied territory of Sevastopol.
+  justification: Marina Slonchenko is the head of the so-called “Youth Affairs Department of the City of Sevastopol,” an occupation executive authority established under Russian control in the temporarily occupied territory of Sevastopol.

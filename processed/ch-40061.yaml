@@ -1,4 +1,3 @@
----
 ssid: '40061'
 sanctions_set_id: '3986'
 individual:
@@ -41,7 +40,4 @@ individual:
       day: 1
       month: 1
       year: 1982
-  justification: Leading businessperson operating in Syria linked to the former al-Assad
-    regime, Hussam Al Qatarji supports and benefits from the former al-Assad regime
-    through enabling, and profiting from, trade deals with the former al-Assad regime
-    in relation to oil and wheat.
+  justification: Leading businessperson operating in Syria linked to the former al-Assad regime, Hussam Al Qatarji supports and benefits from the former al-Assad regime through enabling, and profiting from, trade deals with the former al-Assad regime in relation to oil and wheat.

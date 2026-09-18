@@ -1,4 +1,3 @@
----
 ssid: '62288'
 sanctions_set_id: '3986'
 individual:
@@ -23,5 +22,4 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Yusuf
-  justification: Amjad Youssef is a Warrant Officer in the Syrian Military Intelligence
-    Directorate under the former al-Assad regime.
+  justification: Amjad Youssef is a Warrant Officer in the Syrian Military Intelligence Directorate under the former al-Assad regime.

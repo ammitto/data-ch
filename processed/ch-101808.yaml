@@ -1,4 +1,3 @@
----
 ssid: '101808'
 sanctions_set_id: '68945'
 entity:
@@ -21,9 +20,4 @@ entity:
         name_part_type: whole-name
         value: Khojir Missile Production Complex
     addresses:
-  justification: Khojir Missile Development and Production is leading Iran’s ballistic
-    missile programme, which is massively expanding its production capabilities. Khojir
-    Missile Development and Production was expanded significantly in recent years
-    to build weapons for Russia and the so-called “Axis of Resistance”. This expansion
-    follows an October 2022 deal where Iran agreed to supply missiles to Russia for
-    its war of aggression against Ukraine.
+  justification: Khojir Missile Development and Production is leading Iran’s ballistic missile programme, which is massively expanding its production capabilities. Khojir Missile Development and Production was expanded significantly in recent years to build weapons for Russia and the so-called “Axis of Resistance”. This expansion follows an October 2022 deal where Iran agreed to supply missiles to Russia for its war of aggression against Ukraine.

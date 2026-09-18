@@ -1,4 +1,3 @@
----
 ssid: '11795'
 sanctions_set_id: '3986'
 individual:
@@ -51,6 +50,4 @@ individual:
       day: 11
       month: 3
       year: 1957
-  justification: Commander of Iranian Revolutionary Guard Corps, IRGC-Qods, involved
-    in providing equipment and support to help the Syrian regime suppress protests
-    in Syria.
+  justification: Commander of Iranian Revolutionary Guard Corps, IRGC-Qods, involved in providing equipment and support to help the Syrian regime suppress protests in Syria.

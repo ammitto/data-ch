@@ -1,4 +1,3 @@
----
 ssid: '9292'
 sanctions_set_id: '8174'
 entity:
@@ -22,7 +21,4 @@ entity:
         value: Mohandesi Toseh Sanayeh Atomi (METSA)
     addresses:
     - address_details: 90, Fathi Shaghaghi Street
-  justification: MATSA (Mohandesi Toseh Sokht Atomi Company) is an Iranian company
-    contracted to EU-designated Kalaye Electric Company (KEC) to provide design and
-    engineering services across the nuclear fuel cycle. It has been procuring equipment
-    for the Natanz uranium enrichment site.
+  justification: MATSA (Mohandesi Toseh Sokht Atomi Company) is an Iranian company contracted to EU-designated Kalaye Electric Company (KEC) to provide design and engineering services across the nuclear fuel cycle. It has been procuring equipment for the Natanz uranium enrichment site.

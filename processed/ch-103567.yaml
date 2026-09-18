@@ -1,4 +1,3 @@
----
 ssid: '103567'
 sanctions_set_id: '13065'
 individual:
@@ -19,11 +18,4 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Moazami
-  justification: Davoud Moazami Goudarzi is the Head of Greater Tehran’s Cyber Police,
-    part of Iran’s Cyber Police. The Iranian Cyber Police is a unit of the Iranian
-    Police, and is tasked with policing online activity. It plays a key role in monitoring
-    social media and prosecuting citizens in relation to digital content. It frequently
-    targets dissidents and regime opponents, but also important cultural figures who
-    do not conform to strict social and gender roles, such as female artists. It suppresses
-    freedom of expression and enforces censorship by shutting down social media pages
-    or arresting individuals voicing or promoting opinions not supported by the regime.
+  justification: Davoud Moazami Goudarzi is the Head of Greater Tehran’s Cyber Police, part of Iran’s Cyber Police. The Iranian Cyber Police is a unit of the Iranian Police, and is tasked with policing online activity. It plays a key role in monitoring social media and prosecuting citizens in relation to digital content. It frequently targets dissidents and regime opponents, but also important cultural figures who do not conform to strict social and gender roles, such as female artists. It suppresses freedom of expression and enforces censorship by shutting down social media pages or arresting individuals voicing or promoting opinions not supported by the regime.

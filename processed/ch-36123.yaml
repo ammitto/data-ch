@@ -1,4 +1,3 @@
----
 ssid: '36123'
 sanctions_set_id: '3986'
 individual:
@@ -20,6 +19,4 @@ individual:
       day: 5
       month: 8
       year: 1964
-  justification: Holds the rank of Brigadier General, a senior officer and Deputy
-    Commander of the Syrian Arab Air Force 63rd Brigade under the former al-Assad
-    regime, in post after May 2011.
+  justification: Holds the rank of Brigadier General, a senior officer and Deputy Commander of the Syrian Arab Air Force 63rd Brigade under the former al-Assad regime, in post after May 2011.

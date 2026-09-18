@@ -1,4 +1,3 @@
----
 ssid: '88497'
 sanctions_set_id: '27286'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 10
       month: 4
       year: 1962
-  justification: Eduard Chukhlebov is a Russian businessperson with extensive business
-    interests in the Russian mining and metals sectors. In particular, Chukhlebov
-    is co-owner of Ural Mining and Metallurgical Company, a major Russian company
-    engaged in the Russian mining and metals sectors. Those economic sectors provide
-    a substantial source of revenue to the Government of the Russian Federation.
+  justification: Eduard Chukhlebov is a Russian businessperson with extensive business interests in the Russian mining and metals sectors. In particular, Chukhlebov is co-owner of Ural Mining and Metallurgical Company, a major Russian company engaged in the Russian mining and metals sectors. Those economic sectors provide a substantial source of revenue to the Government of the Russian Federation.

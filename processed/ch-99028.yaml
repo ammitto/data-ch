@@ -1,4 +1,3 @@
----
 ssid: '99028'
 sanctions_set_id: '27286'
 entity:
@@ -20,10 +19,4 @@ entity:
     addresses:
     - address_details: Yulong Island
       zip_code: '265715'
-  justification: Shandong Yulong Petrochemical Co., Ltd. operates a refinery in the
-    People’s Republic of China. It is a significant buyer of Russian oil, having bought
-    millions of barrels of oil from the Eastern Siberia-Pacific Ocean oil pipeline
-    and the Urals. The energy sector, in particular the oil sector, is a sector providing
-    substantial revenue to the Russian Government. Therefore, Shandong Yulong Petrochemical
-    Co., Ltd. is involved in an economic sector providing a substantial source of
-    revenue to the Government of the Russian Federation.
+  justification: Shandong Yulong Petrochemical Co., Ltd. operates a refinery in the People’s Republic of China. It is a significant buyer of Russian oil, having bought millions of barrels of oil from the Eastern Siberia-Pacific Ocean oil pipeline and the Urals. The energy sector, in particular the oil sector, is a sector providing substantial revenue to the Russian Government. Therefore, Shandong Yulong Petrochemical Co., Ltd. is involved in an economic sector providing a substantial source of revenue to the Government of the Russian Federation.

@@ -1,4 +1,3 @@
----
 ssid: '61252'
 sanctions_set_id: '27286'
 individual:
@@ -19,6 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Magomednebiyevna
-  justification: Marina Akhmedova is a Russian writer. She is a member of the Presidential
-    Council for Civil Society and Human Rights, where she sits on the working group
-    on the so-called “special military operation” (war of aggression) in Ukraine.
+  justification: Marina Akhmedova is a Russian writer. She is a member of the Presidential Council for Civil Society and Human Rights, where she sits on the working group on the so-called “special military operation” (war of aggression) in Ukraine.

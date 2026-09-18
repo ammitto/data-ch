@@ -1,4 +1,3 @@
----
 ssid: '9552'
 sanctions_set_id: '8174'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Test Tafsir
     addresses:
     - address_details: No 11, Tawhid 6 Street, Moj Street, Darya Blvd, Shahrak Gharb
-  justification: Company produces and has supplied UF6 specific containers to the
-    uranium enrichment sites at Natanz and Qom/ Fordow.
+  justification: Company produces and has supplied UF6 specific containers to the uranium enrichment sites at Natanz and Qom/ Fordow.

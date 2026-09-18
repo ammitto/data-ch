@@ -1,4 +1,3 @@
----
 ssid: '5003'
 sanctions_set_id: '4387'
 individual:
@@ -19,8 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Stanislavauna
-  justification: Former Deputy Editor-in-Chief of the newspaper of the President's
-    Administration and main propaganda newspaper «Sovietskaia Belarus». Responsible
-    for relaying the state propaganda in the printed press, which has provoked, supported
-    and justified the repression of the democratic opposition and of civil society
-    on 19 December 2010 using falsified information.
+  justification: Former Deputy Editor-in-Chief of the newspaper of the President's Administration and main propaganda newspaper «Sovietskaia Belarus». Responsible for relaying the state propaganda in the printed press, which has provoked, supported and justified the repression of the democratic opposition and of civil society on 19 December 2010 using falsified information.

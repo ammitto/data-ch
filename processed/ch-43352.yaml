@@ -1,4 +1,3 @@
----
 ssid: '43352'
 sanctions_set_id: '12787'
 individual:
@@ -23,6 +22,4 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Diab Mousa
-  justification: Moussa Diab is responsible for and has directly engaged in serious
-    human rights abuses including human trafficking and the kidnapping, raping and
-    killing of migrants and refugees.
+  justification: Moussa Diab is responsible for and has directly engaged in serious human rights abuses including human trafficking and the kidnapping, raping and killing of migrants and refugees.

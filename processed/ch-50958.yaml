@@ -1,4 +1,3 @@
----
 ssid: '50958'
 sanctions_set_id: '27286'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 21
       month: 3
       year: 1973
-  justification: Rustam Muradov is Colonel General and First Deputy Commander-in-Chief
-    of the Ground Forces of Russia. He is also a former Commander of the Eastern Military
-    District. Previously, he was the deputy commander of the Southern Military District,
-    which has been involved in military actions against Ukraine. In July 2022 he was
-    named commander of Russia’s group of forces “Vostok” operating in Ukraine.
+  justification: Rustam Muradov is Colonel General and First Deputy Commander-in-Chief of the Ground Forces of Russia. He is also a former Commander of the Eastern Military District. Previously, he was the deputy commander of the Southern Military District, which has been involved in military actions against Ukraine. In July 2022 he was named commander of Russia’s group of forces “Vostok” operating in Ukraine.

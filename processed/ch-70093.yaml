@@ -1,4 +1,3 @@
----
 ssid: '70093'
 sanctions_set_id: '27286'
 entity:
@@ -40,12 +39,4 @@ entity:
       year: 2019
     addresses:
     - address_details: Dubininskaya street 61, room IV, room 35
-  justification: Private Military Company Redut (“PMC Redut”) is a Russia-based unincorporated
-    private military entity, which reportedly works under the command of the Ministry
-    of Defence of the Russian Federation. It undertakes security and military-related
-    activities, with direct participation in military conflicts. While previously
-    associated with activities in Syria, in the context of Russia’s war of aggression
-    against Ukraine PMC Redut has engaged in combat activities in Ukraine, near the
-    Chernobyl Nuclear Power Plant and Kharkiv, as well as undertaken reconnaissance
-    efforts prior to the war of aggression against Ukraine. It has also been linked
-    to assassination attempts against the President of Ukraine Volodymyr Zelenskyy.
+  justification: Private Military Company Redut (“PMC Redut”) is a Russia-based unincorporated private military entity, which reportedly works under the command of the Ministry of Defence of the Russian Federation. It undertakes security and military-related activities, with direct participation in military conflicts. While previously associated with activities in Syria, in the context of Russia’s war of aggression against Ukraine PMC Redut has engaged in combat activities in Ukraine, near the Chernobyl Nuclear Power Plant and Kharkiv, as well as undertaken reconnaissance efforts prior to the war of aggression against Ukraine. It has also been linked to assassination attempts against the President of Ukraine Volodymyr Zelenskyy.

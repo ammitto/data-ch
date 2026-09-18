@@ -1,4 +1,3 @@
----
 ssid: '104067'
 sanctions_set_id: '90371'
 entity:
@@ -13,8 +12,4 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Murmansk
-  justification: Used for the maritime transport of crude oil or petroleum products,
-    as listed in Annex 24, or of mineral products, that originate in Russia or are
-    exported from Russia by vessels practicing irregular and high-risk shipping practices
-    as set out in the International Maritime Organisation General Assembly resolution
-    A.1192(33)
+  justification: Used for the maritime transport of crude oil or petroleum products, as listed in Annex 24, or of mineral products, that originate in Russia or are exported from Russia by vessels practicing irregular and high-risk shipping practices as set out in the International Maritime Organisation General Assembly resolution A.1192(33)

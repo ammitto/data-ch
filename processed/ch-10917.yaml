@@ -1,4 +1,3 @@
----
 ssid: '10917'
 sanctions_set_id: '8174'
 entity:
@@ -16,6 +15,4 @@ entity:
     addresses:
     - address_details: 21/30 Thai Wah Tower 1, South Sathorn Road
       zip_code: '10120'
-  justification: Company acting on behalf of IRISL. Universal Transportation Limited
-    (UTL) issued false transport document in the name of a front company owned or
-    controlled by IRISL, handled transactions on behalf of IRISL.
+  justification: Company acting on behalf of IRISL. Universal Transportation Limited (UTL) issued false transport document in the name of a front company owned or controlled by IRISL, handled transactions on behalf of IRISL.

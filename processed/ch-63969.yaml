@@ -1,4 +1,3 @@
----
 ssid: '63969'
 sanctions_set_id: '29445'
 entity:
@@ -23,8 +22,7 @@ entity:
     addresses:
     - address_details: Solnechnaya Alleya, 6, Premises III, Floor 2, Room 3
       zip_code: '124527'
-    - address_details: Instrumentalnaya Str., Building 3, Letter K, Door No. 4, Kantemirovsky
-        Business Centre
+    - address_details: Instrumentalnaya Str., Building 3, Letter K, Door No. 4, Kantemirovsky Business Centre
       zip_code: '197022'
     - address_details: Botanicheskaya Str., 19, Office 4
       zip_code: '620137'

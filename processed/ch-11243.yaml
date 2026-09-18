@@ -1,4 +1,3 @@
----
 ssid: '11243'
 sanctions_set_id: '8174'
 individual:
@@ -19,6 +18,4 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Akbar
-  justification: Minister for Foreign Affairs. Former Head of the Atomic Energy Organisation
-    of Iran (AEOI). The AEOI oversees Iran’s nuclear programme and is designated under
-    UNSCR 1737 (2006).
+  justification: Minister for Foreign Affairs. Former Head of the Atomic Energy Organisation of Iran (AEOI). The AEOI oversees Iran’s nuclear programme and is designated under UNSCR 1737 (2006).

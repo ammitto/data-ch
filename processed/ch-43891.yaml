@@ -1,4 +1,3 @@
----
 ssid: '43891'
 sanctions_set_id: '3986'
 individual:
@@ -19,6 +18,4 @@ individual:
       - order: 3
         name_part_type: family-name
         value: Qatana
-  justification: Minister of Agriculture and Agrarian reform under the former al-Assad
-    regime. Appointed in August 2020. As a Government Minister, shares responsibility
-    for the former al-Assad regime’s violent repression against the civilian population.
+  justification: Minister of Agriculture and Agrarian reform under the former al-Assad regime. Appointed in August 2020. As a Government Minister, shares responsibility for the former al-Assad regime’s violent repression against the civilian population.

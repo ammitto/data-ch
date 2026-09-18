@@ -1,4 +1,3 @@
----
 ssid: '105194'
 sanctions_set_id: '27286'
 individual:
@@ -23,11 +22,4 @@ individual:
       day: 15
       month: 11
       year: 1961
-  justification: Vladimir Kapysh is the General Director of Siber AO, which is a part
-    of Rostec. Siber AO provides security services for strategic Russian military
-    and industrial companies, including JSC Uralvagonzavod Concern, JSC Shvabe, JSC
-    High-Precision Systems Research and Production Association, JSC Spetskhimiya,
-    JSC NPK Tekhmash, JSC Izhevsk Mechanical Plant, JSC Kalashnikov Concern, JSC KBAL
-    and Rostec. Siber AO also cooperates with the Federal Security Service of the
-    Russian Federation (FSB) in evaluating organisations’ eligibility for obtaining
-    licenses from FSB for work involving the use of state secrets.
+  justification: Vladimir Kapysh is the General Director of Siber AO, which is a part of Rostec. Siber AO provides security services for strategic Russian military and industrial companies, including JSC Uralvagonzavod Concern, JSC Shvabe, JSC High-Precision Systems Research and Production Association, JSC Spetskhimiya, JSC NPK Tekhmash, JSC Izhevsk Mechanical Plant, JSC Kalashnikov Concern, JSC KBAL and Rostec. Siber AO also cooperates with the Federal Security Service of the Russian Federation (FSB) in evaluating organisations’ eligibility for obtaining licenses from FSB for work involving the use of state secrets.

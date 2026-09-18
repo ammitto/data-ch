@@ -1,4 +1,3 @@
----
 ssid: '100787'
 sanctions_set_id: '8174'
 entity:
@@ -29,8 +28,4 @@ entity:
         value: "“PPL”"
     addresses:
     - address_details: North Naft Street 10, Mirdawad Boulevard
-  justification: Petropars Ltd (PPL) is a wholly-owned subsidiary of Naftiran Intertrade
-    Company Ltd (NICO), which in turn is a 100 % subsidiary of the State-owned National
-    Iranian Oil Company NIOC, which provides support to the Government of Iran. Petropars
-    Ltd (PPL) represents NIOC in certain deals with international partners and serves
-    as its executive arm.
+  justification: Petropars Ltd (PPL) is a wholly-owned subsidiary of Naftiran Intertrade Company Ltd (NICO), which in turn is a 100 % subsidiary of the State-owned National Iranian Oil Company NIOC, which provides support to the Government of Iran. Petropars Ltd (PPL) represents NIOC in certain deals with international partners and serves as its executive arm.

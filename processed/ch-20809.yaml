@@ -1,4 +1,3 @@
----
 ssid: '20809'
 sanctions_set_id: '3980'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Al-Inma Holding Company for Tourism Investment
     addresses:
     - address_details: Hasan al-Mashay Street (off al-Zawiyah Street)
-  justification: Libyan subsidiary of the Economic & Social Development Fund. Closely
-    associated with the former regime of Muammar Qadhafi.
+  justification: Libyan subsidiary of the Economic & Social Development Fund. Closely associated with the former regime of Muammar Qadhafi.

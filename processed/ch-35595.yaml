@@ -1,4 +1,3 @@
----
 ssid: '35595'
 sanctions_set_id: '3978'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: DCB Finance Limited
     addresses:
     - address_details: Akara Building, 24 de Castro Street, Wickhams Cay I, Road Town
-  justification: DCB Finance Limited is a front company for Daedong Credit Bank (DCB),
-    a listed entity.
+  justification: DCB Finance Limited is a front company for Daedong Credit Bank (DCB), a listed entity.

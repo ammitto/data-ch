@@ -1,4 +1,3 @@
----
 ssid: '95826'
 sanctions_set_id: '27286'
 entity:
@@ -34,10 +33,4 @@ entity:
     addresses:
     - address_details: Chaginskaya st. 4, Building 13, Room 9/3
       zip_code: '109380'
-  justification: JSC “Ploshchad” is a Russian company specialised in the development
-    and implementation of robotic systems which provides comprehensive solutions for
-    unmanned aerial vehicles (UAVs). It is involved, together with KB Microb, in the
-    design and manufacture of the FPV, Microb and Microb-10 UAVs which are used by
-    the Russian Armed Forces in the context of Russia’s war of aggression against
-    Ukraine. JSC “Ploshchad” is, in particular, responsible for the development of
-    the target acquisition system of those UAVs.
+  justification: JSC “Ploshchad” is a Russian company specialised in the development and implementation of robotic systems which provides comprehensive solutions for unmanned aerial vehicles (UAVs). It is involved, together with KB Microb, in the design and manufacture of the FPV, Microb and Microb-10 UAVs which are used by the Russian Armed Forces in the context of Russia’s war of aggression against Ukraine. JSC “Ploshchad” is, in particular, responsible for the development of the target acquisition system of those UAVs.

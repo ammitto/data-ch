@@ -1,4 +1,3 @@
----
 ssid: '11035'
 sanctions_set_id: '8174'
 individual:
@@ -19,5 +18,4 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Noori
-  justification: Dr; Chairman of the Board and Managing Director of designated Bank
-    Refah
+  justification: Dr; Chairman of the Board and Managing Director of designated Bank Refah

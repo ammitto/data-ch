@@ -1,4 +1,3 @@
----
 ssid: '89380'
 sanctions_set_id: '29445'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Midas Lighting Limited
     addresses:
     - address_details: Room 603, 6/F, 9 Walnut Street, Tai Kok Tsui, Kowloon
-    - address_details: Unit 1402A, 14/F, The Belgian Bank Building, 721-725 Nathan
-        Road, Mong Kok, Kowloon
+    - address_details: Unit 1402A, 14/F, The Belgian Bank Building, 721-725 Nathan Road, Mong Kok, Kowloon

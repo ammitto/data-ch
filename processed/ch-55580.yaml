@@ -1,4 +1,3 @@
----
 ssid: '55580'
 sanctions_set_id: '27286'
 entity:
@@ -16,7 +15,4 @@ entity:
     addresses:
     - address_details: Spartakovskaya street 12
       zip_code: '105066'
-  justification: NSD is a Russian non-bank financial institution and Russia’s central
-    securities depository. It is the largest securities depository in Russia by market
-    value of equity and debt securities held in custody and the only one which has
-    access to the international financial system.
+  justification: NSD is a Russian non-bank financial institution and Russia’s central securities depository. It is the largest securities depository in Russia by market value of equity and debt securities held in custody and the only one which has access to the international financial system.

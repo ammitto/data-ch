@@ -1,4 +1,3 @@
----
 ssid: '9776'
 sanctions_set_id: '8174'
 entity:
@@ -13,6 +12,4 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Brait Holding SA
-  justification: Registered in the Marshall Islands in August 2011 under the number
-    46270. IRISL front company. It is the registered owner of a vessel owned by IRISL
-    or an IRISL affiliate.
+  justification: Registered in the Marshall Islands in August 2011 under the number 46270. IRISL front company. It is the registered owner of a vessel owned by IRISL or an IRISL affiliate.

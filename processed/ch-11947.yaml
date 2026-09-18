@@ -1,4 +1,3 @@
----
 ssid: '11947'
 sanctions_set_id: '3986'
 individual:
@@ -26,5 +25,4 @@ individual:
       - order: 1
         name_part_type: given-name
         value: Louay
-  justification: Head of Syrian Military Intelligence, Dara’a Branch, under the former
-    al-Assad regime. Responsible for violence against protesters in Dara’a.
+  justification: Head of Syrian Military Intelligence, Dara’a Branch, under the former al-Assad regime. Responsible for violence against protesters in Dara’a.

@@ -1,4 +1,3 @@
----
 ssid: '9180'
 sanctions_set_id: '8174'
 entity:
@@ -45,9 +44,4 @@ entity:
     - address_details: Pasdaran Avenue
     - address_details: 34 Apadana Avenue
     - address_details: Shahid Langary Street, Nobonyad Square Ave
-  justification: Iran Communications Industries, a subsidiary of Iran Electronics
-    Industries (listed by the EU), produces various items including communication
-    systems, avionics, optics and electro-optics devices, micro-electronics, information
-    technology, test and measurement, telecommunication security, electronic warfare,
-    radar tube manufacture and refurbishment, and missile launchers. ICI procured
-    sensitive material through Hoda Trading, its Hong Kong based subsidiary.
+  justification: Iran Communications Industries, a subsidiary of Iran Electronics Industries (listed by the EU), produces various items including communication systems, avionics, optics and electro-optics devices, micro-electronics, information technology, test and measurement, telecommunication security, electronic warfare, radar tube manufacture and refurbishment, and missile launchers. ICI procured sensitive material through Hoda Trading, its Hong Kong based subsidiary.

@@ -1,4 +1,3 @@
----
 ssid: '23788'
 sanctions_set_id: '3976'
 individual:
@@ -19,10 +18,4 @@ individual:
     day_month_year:
       year: 1971
     addresses:
-  justification: According to a November 15, 2012, final report by the Group of Experts
-    on the Democratic Republic of the Congo, "...Lt. Col. Eric Badege had become the
-    focal point of M23 in Masisi and commanded joint operations... " with another
-    military leader. Additionally, "a series of coordinated attacks carried out in
-    August [2012] by Lt. Col. Badege... enabled M23 to destabilize a considerable
-    part of Masisi territory." "According to former combatants, Lt Col. Badege...
-    acted under the orders of Col. Makenga when he orchestrated the attacks.
+  justification: According to a November 15, 2012, final report by the Group of Experts on the Democratic Republic of the Congo, "...Lt. Col. Eric Badege had become the focal point of M23 in Masisi and commanded joint operations... " with another military leader. Additionally, "a series of coordinated attacks carried out in August [2012] by Lt. Col. Badege... enabled M23 to destabilize a considerable part of Masisi territory." "According to former combatants, Lt Col. Badege... acted under the orders of Col. Makenga when he orchestrated the attacks.

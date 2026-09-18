@@ -1,4 +1,3 @@
----
 ssid: '20804'
 sanctions_set_id: '3980'
 entity:
@@ -13,5 +12,4 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Al-Inma Holding Co. for Services Investments
-  justification: Libyan subsidiary of the Economic & Social Development Fund. Closely
-    associated with the former regime of Muammar Qadhafi.
+  justification: Libyan subsidiary of the Economic & Social Development Fund. Closely associated with the former regime of Muammar Qadhafi.

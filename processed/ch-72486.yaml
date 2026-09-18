@@ -1,4 +1,3 @@
----
 ssid: '72486'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 22
       month: 7
       year: 1955
-  justification: Boris Vologdin is the General Director of JSC Tomsk Electrotechnical
-    Plant. The company is a supplier of the Armed Forces of the Russian Federation.
-    JSC Tomsk Electrotechnical Plant modernises T-90 with the cooperation and under
-    the management of its parent company Uralvagonzavod.
+  justification: Boris Vologdin is the General Director of JSC Tomsk Electrotechnical Plant. The company is a supplier of the Armed Forces of the Russian Federation. JSC Tomsk Electrotechnical Plant modernises T-90 with the cooperation and under the management of its parent company Uralvagonzavod.

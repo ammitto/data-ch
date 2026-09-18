@@ -1,4 +1,3 @@
----
 ssid: '51231'
 sanctions_set_id: '27286'
 individual:
@@ -19,6 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Nikolayevich
-  justification: Oleg Kopyl is the First Deputy Head of the Main Department – Head
-    of the Department of Moral and Psychological Support of the Main Department of
-    Ideological Work of the Ministry of Defence of Belarus.
+  justification: Oleg Kopyl is the First Deputy Head of the Main Department – Head of the Department of Moral and Psychological Support of the Main Department of Ideological Work of the Ministry of Defence of Belarus.

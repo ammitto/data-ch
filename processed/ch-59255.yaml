@@ -1,4 +1,3 @@
----
 ssid: '59255'
 sanctions_set_id: '27286'
 entity:
@@ -16,5 +15,4 @@ entity:
     addresses:
     - address_details: Khorinskaya Str. 1
       zip_code: '670009'
-  justification: Ulan-Ude Aviation Plant is a contracted supplier of the Armed Forces
-    of the Russian Federation.
+  justification: Ulan-Ude Aviation Plant is a contracted supplier of the Armed Forces of the Russian Federation.

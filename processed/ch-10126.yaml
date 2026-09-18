@@ -1,4 +1,3 @@
----
 ssid: '10126'
 sanctions_set_id: '8174'
 entity:
@@ -17,6 +16,5 @@ entity:
     - address_details: Sarbandar Gas Station
     - address_details: Karim Khan Zand Avenue, Iran Shahr Shomai, No 221
     - address_details: Karimkhan Avenue, Northern Iranshahr Street, No 221
-    - address_details: Shahaid Rajaee Port Road, Kilometer of 8, Before Tavanir Power
-        Station
+    - address_details: Shahaid Rajaee Port Road, Kilometer of 8, Before Tavanir Power Station
   justification: IRISL Marine Services and Engineering Company is controlled by IRISL.

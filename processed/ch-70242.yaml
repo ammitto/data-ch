@@ -1,4 +1,3 @@
----
 ssid: '70242'
 sanctions_set_id: '27286'
 entity:
@@ -16,5 +15,4 @@ entity:
     addresses:
     - address_details: str. Zawodskoe Shosse, 29
       zip_code: '443009'
-  justification: UEC-Kuznetsov is a Russian military industry company. It is an aircraft
-    engines manufacturer.
+  justification: UEC-Kuznetsov is a Russian military industry company. It is an aircraft engines manufacturer.

@@ -1,4 +1,3 @@
----
 ssid: '39463'
 sanctions_set_id: '27286'
 entity:
@@ -23,9 +22,4 @@ entity:
     addresses:
     - address_details: Prospect Vernadskogo 53
       zip_code: '119415'
-  justification: Stroygazmontazh Corporation (SGM Group) actively participated in
-    the construction of the Kerch Bridge through its state contract for the construction
-    of the bridge connecting Russia to the illegally annexed Crimean peninsula. Therefore
-    the company is supporting the consolidation of the illegally annexed Crimean peninsula
-    into the Russian Federation, which in turn further undermines the territorial
-    integrity, sovereignty and independence of Ukraine.
+  justification: Stroygazmontazh Corporation (SGM Group) actively participated in the construction of the Kerch Bridge through its state contract for the construction of the bridge connecting Russia to the illegally annexed Crimean peninsula. Therefore the company is supporting the consolidation of the illegally annexed Crimean peninsula into the Russian Federation, which in turn further undermines the territorial integrity, sovereignty and independence of Ukraine.

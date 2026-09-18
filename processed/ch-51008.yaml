@@ -1,4 +1,3 @@
----
 ssid: '51008'
 sanctions_set_id: '27286'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 7
       month: 2
       year: 1978
-  justification: Petr Fradkov is the chairman of the PJSC Promsvyazbank and the sole
-    executive body of the bank. Promsvyazbank is a Russian State-owned bank, which
-    provides financial support to the Russian defence sector and the Russian Military,
-    which is responsible for the massive deployment of Russian troops along the border
-    with Ukraine and for the presence of Russian troops in the Crimean peninsula.
+  justification: Petr Fradkov is the chairman of the PJSC Promsvyazbank and the sole executive body of the bank. Promsvyazbank is a Russian State-owned bank, which provides financial support to the Russian defence sector and the Russian Military, which is responsible for the massive deployment of Russian troops along the border with Ukraine and for the presence of Russian troops in the Crimean peninsula.

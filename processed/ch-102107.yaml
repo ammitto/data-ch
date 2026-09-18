@@ -1,4 +1,3 @@
----
 ssid: '102107'
 sanctions_set_id: '13065'
 entity:
@@ -43,6 +42,4 @@ entity:
         value: Internet Blocking Censory Committee
     addresses:
     - address_details: Sure-Esrafil St
-  justification: The Working Group for Determining Instances of Criminal Content (WGDICC)
-    is a judicial body that operates under the Iranian Attorney General’s Office and
-    the Ministry of Justice.
+  justification: The Working Group for Determining Instances of Criminal Content (WGDICC) is a judicial body that operates under the Iranian Attorney General’s Office and the Ministry of Justice.

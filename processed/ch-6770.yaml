@@ -1,4 +1,3 @@
----
 ssid: '6770'
 sanctions_set_id: '6094'
 individual:
@@ -16,6 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Munyaradzi
-  justification: Senior member of the security forces and bearing wide responsibility
-    for serious violations of the freedom of peaceful assembly, notably in Murambatsvina
-    in July 2005.
+  justification: Senior member of the security forces and bearing wide responsibility for serious violations of the freedom of peaceful assembly, notably in Murambatsvina in July 2005.

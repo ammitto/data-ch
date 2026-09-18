@@ -1,4 +1,3 @@
----
 ssid: '101113'
 sanctions_set_id: '8174'
 entity:
@@ -29,7 +28,4 @@ entity:
         value: Hoopad Darya Shipping Agent
     addresses:
     - address_details: Qaem Magham Farahani St.
-  justification: South Way Shipping Agency Co. Ltd is co-owned by the Islamic Republic
-    of Iran Shipping Lines (IRISL) and acts for IRISL in Iranian ports overseeing
-    tasks such as loading and unloading. It is also co-owned by the Government of
-    Iran.
+  justification: South Way Shipping Agency Co. Ltd is co-owned by the Islamic Republic of Iran Shipping Lines (IRISL) and acts for IRISL in Iranian ports overseeing tasks such as loading and unloading. It is also co-owned by the Government of Iran.

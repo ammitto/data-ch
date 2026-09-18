@@ -1,4 +1,3 @@
----
 ssid: '92014'
 sanctions_set_id: '29445'
 entity:
@@ -42,6 +41,5 @@ entity:
         name_part_type: whole-name
         value: LLC TD Himmed
     addresses:
-    - address_details: Kashirskoe sh. 3, korp.2, building 4, floor 6 (territory of
-        “Sirius Park” Business Centre)
+    - address_details: Kashirskoe sh. 3, korp.2, building 4, floor 6 (territory of “Sirius Park” Business Centre)
       zip_code: '115230'

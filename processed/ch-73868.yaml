@@ -1,4 +1,3 @@
----
 ssid: '73868'
 sanctions_set_id: '29445'
 entity:
@@ -33,8 +32,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Company for Production and Trade Conex Limited Liability Company Belgrade-Stari
-          Grad
+        value: Company for Production and Trade Conex Limited Liability Company Belgrade-Stari Grad
     addresses:
     - address_details: Uzun Mirkova 7
       zip_code: '11102'

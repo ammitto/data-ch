@@ -1,4 +1,3 @@
----
 ssid: '38241'
 sanctions_set_id: '38066'
 individual:
@@ -75,6 +74,4 @@ individual:
       year: 1957
     addresses:
     - address_details: 24, avenue Ma Campagne
-  justification: As Head of the National Intelligence Service (ANR) until Feb 2019,
-    Kalev Mutondo was involved in and responsible for the arbitrary arrest, detention
-    and mistreatment of opposition members, civil society activists and others.
+  justification: As Head of the National Intelligence Service (ANR) until Feb 2019, Kalev Mutondo was involved in and responsible for the arbitrary arrest, detention and mistreatment of opposition members, civil society activists and others.

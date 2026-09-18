@@ -1,4 +1,3 @@
----
 ssid: '9188'
 sanctions_set_id: '8174'
 entity:
@@ -14,7 +13,4 @@ entity:
         name_part_type: whole-name
         value: Iran Electronics Industries (including all branches) and subsidiaries
     addresses:
-  justification: Wholly-owned subsidiary of MODAFL (and therefore a sister-organisation
-    to AIO, AvIO and DIO). Its role is to manufacture electronic components for Iranian
-    weapons systems. It is therefore an entity engaged in Iran’s proliferation-sensitive
-    nuclear activities.
+  justification: Wholly-owned subsidiary of MODAFL (and therefore a sister-organisation to AIO, AvIO and DIO). Its role is to manufacture electronic components for Iranian weapons systems. It is therefore an entity engaged in Iran’s proliferation-sensitive nuclear activities.

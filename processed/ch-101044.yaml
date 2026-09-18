@@ -1,4 +1,3 @@
----
 ssid: '101044'
 sanctions_set_id: '8174'
 entity:
@@ -23,7 +22,4 @@ entity:
     addresses:
     - address_details: 16th Kilometre Old Karaj Road
       zip_code: '13861'
-  justification: Kheibar Company is a subsidiary of Islamic Republic of Iran Shipping
-    Lines (IRISL). Kheibar Company provides spare parts for shipping vessels and supplies
-    mining and construction machinery. Therefore, Kheibar Company is owned or controlled
-    by IRISL.
+  justification: Kheibar Company is a subsidiary of Islamic Republic of Iran Shipping Lines (IRISL). Kheibar Company provides spare parts for shipping vessels and supplies mining and construction machinery. Therefore, Kheibar Company is owned or controlled by IRISL.

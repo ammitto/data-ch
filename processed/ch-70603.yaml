@@ -1,4 +1,3 @@
----
 ssid: '70603'
 sanctions_set_id: '27286'
 entity:
@@ -23,6 +22,4 @@ entity:
     addresses:
     - address_details: Tsiolkovsky str. 27
       zip_code: '394029'
-  justification: Voronezh Aircraft Production Association is a Russian aircraft industry
-    company which is a subsidiary of PJSC Ilyushin Aviation Complex. It is a supplier
-    of the Government of the Russian Federation.
+  justification: Voronezh Aircraft Production Association is a Russian aircraft industry company which is a subsidiary of PJSC Ilyushin Aviation Complex. It is a supplier of the Government of the Russian Federation.

@@ -1,4 +1,3 @@
----
 ssid: '58074'
 sanctions_set_id: '27286'
 individual:
@@ -23,9 +22,4 @@ individual:
       day: 6
       month: 3
       year: 1937
-  justification: Valentina Tereshkova is a member of the State Duma who on 3 Oct 2022
-    voted in favour of the illegal annexation of the regions of Donetsk, Luhansk,
-    Kherson and Zaporizhzhia, and their incorporation into the Russian Federation
-    as federal subjects. Therefore, she has supported and implemented actions and
-    policies, which undermine the territorial integrity, sovereignty and independence
-    of Ukraine, and further destabilised Ukraine.
+  justification: Valentina Tereshkova is a member of the State Duma who on 3 Oct 2022 voted in favour of the illegal annexation of the regions of Donetsk, Luhansk, Kherson and Zaporizhzhia, and their incorporation into the Russian Federation as federal subjects. Therefore, she has supported and implemented actions and policies, which undermine the territorial integrity, sovereignty and independence of Ukraine, and further destabilised Ukraine.

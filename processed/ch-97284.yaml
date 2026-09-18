@@ -1,4 +1,3 @@
----
 ssid: '97284'
 sanctions_set_id: '3984'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Houshang
-  justification: Designated for involvement in the management of the Natanz enrichment
-    complex.
+  justification: Designated for involvement in the management of the Natanz enrichment complex.

@@ -1,4 +1,3 @@
----
 ssid: '54235'
 sanctions_set_id: '27286'
 entity:
@@ -16,8 +15,4 @@ entity:
     addresses:
     - address_details: Desantnikov 1
       zip_code: '298176'
-  justification: More Shipyard is the military warships provider to the Russian Navy.
-    After the illegal annexation of the Crimean Peninsula by the Russian Federation,
-    it was nationalised by the Russian Federation, and granted a Russian state license
-    for the development, production, testing, installation, assembly, technical maintenance,
-    repair, disposal and sale of weapons and military equipment.
+  justification: More Shipyard is the military warships provider to the Russian Navy. After the illegal annexation of the Crimean Peninsula by the Russian Federation, it was nationalised by the Russian Federation, and granted a Russian state license for the development, production, testing, installation, assembly, technical maintenance, repair, disposal and sale of weapons and military equipment.

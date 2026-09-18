@@ -1,4 +1,3 @@
----
 ssid: '52432'
 sanctions_set_id: '27286'
 entity:
@@ -18,6 +17,4 @@ entity:
       zip_code: '121059'
     - address_details: 21 str. 1, bulvar Gogolevski
       zip_code: '119019'
-  justification: High Precision Systems is a Russian developer and manufacturer of
-    weapons. It is a leader in the engineering and production of tactical ballistic
-    missile systems in Russia. High Precision Systems is a Rostec subsidiary.
+  justification: High Precision Systems is a Russian developer and manufacturer of weapons. It is a leader in the engineering and production of tactical ballistic missile systems in Russia. High Precision Systems is a Rostec subsidiary.

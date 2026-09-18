@@ -1,4 +1,3 @@
----
 ssid: '75080'
 sanctions_set_id: '27286'
 entity:
@@ -30,8 +29,4 @@ entity:
     addresses:
     - address_details: Bolshaya Tatarskaya str. 35, bld. 5, office 110
       zip_code: '115184'
-  justification: JSC Specchemistry is part of the management circuit of JSC “Tekhnodinamika”
-    of the Rostec State Corporation. It is a holding company with enterprises specialising
-    in special chemicals and industrial explosives, including the development and
-    production of ballistic powders and rocket fuel (such as Solikamsk Plant “Ural”),
-    explosives, pyrotechnic products and charge initiation means.
+  justification: JSC Specchemistry is part of the management circuit of JSC “Tekhnodinamika” of the Rostec State Corporation. It is a holding company with enterprises specialising in special chemicals and industrial explosives, including the development and production of ballistic powders and rocket fuel (such as Solikamsk Plant “Ural”), explosives, pyrotechnic products and charge initiation means.

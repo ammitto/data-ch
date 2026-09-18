@@ -1,4 +1,3 @@
----
 ssid: '46920'
 sanctions_set_id: '3986'
 entity:
@@ -15,5 +14,4 @@ entity:
         value: Mercury LLC
     addresses:
     - address_details: Leninsky Prospekt, Dom 137, Building 1, Local 2, Room 5
-  justification: Mercury LLC is a private company involved in the oil and gas sector
-    in Syria.
+  justification: Mercury LLC is a private company involved in the oil and gas sector in Syria.

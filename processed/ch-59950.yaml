@@ -1,4 +1,3 @@
----
 ssid: '59950'
 sanctions_set_id: '29445'
 entity:
@@ -33,8 +32,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company “State Missile Center named after Akademika V.P.
-          Makeyeva”
+        value: Joint Stock Company “State Missile Center named after Akademika V.P. Makeyeva”
     - name_type: alias
       quality: good
       lang: eng

@@ -1,4 +1,3 @@
----
 ssid: '75968'
 sanctions_set_id: '27286'
 entity:
@@ -20,7 +19,4 @@ entity:
     addresses:
     - address_details: Vereiskaya street 29, building 33, 2nd floor, room 23
       zip_code: '121357'
-  justification: LLC R-Stroy is a construction company in charge of re-building residential
-    areas of Mariupol, for which it received government contracts from the Russian
-    Federation under preferential terms. It operates in occupied territories of Ukraine,
-    without the permission of Ukrainian authorities.
+  justification: LLC R-Stroy is a construction company in charge of re-building residential areas of Mariupol, for which it received government contracts from the Russian Federation under preferential terms. It operates in occupied territories of Ukraine, without the permission of Ukrainian authorities.

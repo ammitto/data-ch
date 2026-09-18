@@ -1,4 +1,3 @@
----
 ssid: '101859'
 sanctions_set_id: '73477'
 individual:
@@ -58,6 +57,4 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Jadu Hamdan
-  justification: Gedo Hamdan is a Regional Commander for North Darfur Section and
-    Brigadier General of the RSF. He has been identified as a key perpetrator of the
-    atrocities committed by the RSF in El Fasher in October 2025.
+  justification: Gedo Hamdan is a Regional Commander for North Darfur Section and Brigadier General of the RSF. He has been identified as a key perpetrator of the atrocities committed by the RSF in El Fasher in October 2025.

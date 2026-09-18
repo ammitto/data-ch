@@ -1,4 +1,3 @@
----
 ssid: '100245'
 sanctions_set_id: '8174'
 entity:
@@ -17,7 +16,4 @@ entity:
     - address_details: Head Office Building, 327 Takeghani (Taleghani) Avenue
       zip_code: '15817'
     - zip_code: '15817'
-  justification: Bank Mellat provides financial support to the Government of Iran,
-    notably by means of loans aimed at supporting unprofitable Government companies.
-    The Iranian Government is also the largest shareholder of Bank Mellat. Therefore,
-    Bank Mellat provides support to the Government of Iran.
+  justification: Bank Mellat provides financial support to the Government of Iran, notably by means of loans aimed at supporting unprofitable Government companies. The Iranian Government is also the largest shareholder of Bank Mellat. Therefore, Bank Mellat provides support to the Government of Iran.

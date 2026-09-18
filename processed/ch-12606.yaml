@@ -1,4 +1,3 @@
----
 ssid: '12606'
 sanctions_set_id: '3986'
 individual:
@@ -37,6 +36,4 @@ individual:
       day: 5
       month: 7
       year: 1956
-  justification: Head of Branch 215 (Damascus) of the army’s intelligence service
-    under the former al-Assad regime. Responsible for the torture of detained opponents.
-    Involved in repressive actions against the civilian population.
+  justification: Head of Branch 215 (Damascus) of the army’s intelligence service under the former al-Assad regime. Responsible for the torture of detained opponents. Involved in repressive actions against the civilian population.

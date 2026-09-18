@@ -1,4 +1,3 @@
----
 ssid: '12335'
 sanctions_set_id: '3986'
 individual:
@@ -27,6 +26,4 @@ individual:
       day: 1
       month: 4
       year: 1953
-  justification: Political and Media Advisor to the former President since July 2008
-    and as such associated with the violent crackdown on the civilian population under
-    the former al-Assad regime.
+  justification: Political and Media Advisor to the former President since July 2008 and as such associated with the violent crackdown on the civilian population under the former al-Assad regime.

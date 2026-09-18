@@ -1,4 +1,3 @@
----
 ssid: '100333'
 sanctions_set_id: '8174'
 entity:
@@ -20,7 +19,4 @@ entity:
       zip_code: KY1-1104
     - address_details: Rafi Alley, Vali Asr Avenue, Nader Alley
       zip_code: '15116'
-  justification: The First Persian Equity Fund is an investment fund launched in 2007
-    by Bank Melli. Bank Melli is Iran’s largest bank which is owned and controlled
-    by the Government of Iran. Therefore, the First Persian Equity Fund is owned and
-    controlled by an entity providing support to the Government of Iran.
+  justification: The First Persian Equity Fund is an investment fund launched in 2007 by Bank Melli. Bank Melli is Iran’s largest bank which is owned and controlled by the Government of Iran. Therefore, the First Persian Equity Fund is owned and controlled by an entity providing support to the Government of Iran.

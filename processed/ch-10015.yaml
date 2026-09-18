@@ -1,4 +1,3 @@
----
 ssid: '10015'
 sanctions_set_id: '8174'
 entity:
@@ -22,6 +21,4 @@ entity:
         value: HDS Lines
     addresses:
     - address_details: No 60, Ehteshamiyeh Square, 7th Neyestan Street, Pasdaran Avenue
-  justification: HDSL has taken over as beneficial owner a number of Islamic Republic
-    of Iran Shipping Line's (IRISL) vessels. Accordingly, HDSL is acting on behalf
-    of IRISL.
+  justification: HDSL has taken over as beneficial owner a number of Islamic Republic of Iran Shipping Line's (IRISL) vessels. Accordingly, HDSL is acting on behalf of IRISL.

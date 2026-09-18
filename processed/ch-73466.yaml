@@ -1,4 +1,3 @@
----
 ssid: '73466'
 sanctions_set_id: '27286'
 entity:
@@ -38,9 +37,4 @@ entity:
       day: 26
       month: 11
       year: 2002
-  justification: JSC Kazan Experimental Design Bureau Soyuz is a Russian military-industrial
-    state enterprise that develops solid propellant rocket engines for missile systems
-    deployed by the Russian Armed Forces. Moreover, JSC Kazan Experimental Design
-    Bureau Soyuz is part of the Joint Stock Company Almaz-Antey air and space defence
-    corporation, a Russian state-owned arms manufacturer that develops anti-aircraft
-    defence and cruise missile systems for the Russian military.
+  justification: JSC Kazan Experimental Design Bureau Soyuz is a Russian military-industrial state enterprise that develops solid propellant rocket engines for missile systems deployed by the Russian Armed Forces. Moreover, JSC Kazan Experimental Design Bureau Soyuz is part of the Joint Stock Company Almaz-Antey air and space defence corporation, a Russian state-owned arms manufacturer that develops anti-aircraft defence and cruise missile systems for the Russian military.

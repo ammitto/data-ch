@@ -1,4 +1,3 @@
----
 ssid: '4469'
 sanctions_set_id: '4387'
 individual:
@@ -26,9 +25,4 @@ individual:
     addresses:
     - address_details: пр. Победителей, д. 7
       zip_code: '220004'
-  justification: Has actively undermined democracy in Belarus. Head of the Representation
-    of the Permanent Committee of the Union State in Minsk. Former Member of the Lower
-    House and a former leader of BRSM (Belarusian youth union). In particular, in
-    the latter position, he was the main organiser behind actions by BRSM activists
-    against peaceful demonstrators protesting against the fraudulent Presidential
-    elections in 2006.
+  justification: Has actively undermined democracy in Belarus. Head of the Representation of the Permanent Committee of the Union State in Minsk. Former Member of the Lower House and a former leader of BRSM (Belarusian youth union). In particular, in the latter position, he was the main organiser behind actions by BRSM activists against peaceful demonstrators protesting against the fraudulent Presidential elections in 2006.

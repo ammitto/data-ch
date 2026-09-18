@@ -1,4 +1,3 @@
----
 ssid: '105159'
 sanctions_set_id: '27286'
 individual:
@@ -23,9 +22,4 @@ individual:
       day: 28
       month: 7
       year: 1959
-  justification: Vladimir Lepin is the general designer of JSC Kalashnikov Concern,
-    a company listed by the Union and a Russian developer and manufacturer of military
-    equipment, including personal rifles, missiles and vehicles. JSC Kalashnikov Concern
-    is directly controlled by Rostec. Vikhr-1 guided aircraft missiles and AK-12 assault
-    rifles produced by Kalashnikov Concern are used by the Russian Armed Forces during
-    Russia’s war of aggression against Ukraine.
+  justification: Vladimir Lepin is the general designer of JSC Kalashnikov Concern, a company listed by the Union and a Russian developer and manufacturer of military equipment, including personal rifles, missiles and vehicles. JSC Kalashnikov Concern is directly controlled by Rostec. Vikhr-1 guided aircraft missiles and AK-12 assault rifles produced by Kalashnikov Concern are used by the Russian Armed Forces during Russia’s war of aggression against Ukraine.

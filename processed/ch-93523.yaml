@@ -1,4 +1,3 @@
----
 ssid: '93523'
 sanctions_set_id: '27286'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 24
       month: 2
       year: 1981
-  justification: Nikolay Zhernov is the Director of LLC “Aerofregat”. That company
-    is active in the Russian military and industrial complex, namely in the development
-    and production of unmanned aerial vehicles (UAVs). Since 2024, it has developed
-    two specific UAV models, named “Kasatka” and “Tribunal”, both of which have military
-    application and have been used in Russia’s war of aggression against Ukraine.
+  justification: Nikolay Zhernov is the Director of LLC “Aerofregat”. That company is active in the Russian military and industrial complex, namely in the development and production of unmanned aerial vehicles (UAVs). Since 2024, it has developed two specific UAV models, named “Kasatka” and “Tribunal”, both of which have military application and have been used in Russia’s war of aggression against Ukraine.

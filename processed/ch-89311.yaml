@@ -1,4 +1,3 @@
----
 ssid: '89311'
 sanctions_set_id: '29445'
 entity:
@@ -35,7 +34,5 @@ entity:
         name_part_type: whole-name
         value: Endezo Technology (Hong Kong) Limited
     addresses:
-    - address_details: Room A29, 24th Floor, Regent’s Park Prince Industrial Building,
-        706 Prince Edward Rd. East, Kowloon
-    - address_details: Room G, 26th Floor, Hangdu Building, No. 1006 Haufu Road, Futian
-        District
+    - address_details: Room A29, 24th Floor, Regent’s Park Prince Industrial Building, 706 Prince Edward Rd. East, Kowloon
+    - address_details: Room G, 26th Floor, Hangdu Building, No. 1006 Haufu Road, Futian District

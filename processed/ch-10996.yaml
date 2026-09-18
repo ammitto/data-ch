@@ -1,4 +1,3 @@
----
 ssid: '10996'
 sanctions_set_id: '8174'
 individual:
@@ -20,5 +19,4 @@ individual:
       day: 15
       month: 3
       year: 1949
-  justification: Former Head of the Atomic Energy Organisation of Iran (AEOI). The
-    AEOI oversees Iran’s nuclear programme and is designated under UNSCR 1737 (2006).
+  justification: Former Head of the Atomic Energy Organisation of Iran (AEOI). The AEOI oversees Iran’s nuclear programme and is designated under UNSCR 1737 (2006).

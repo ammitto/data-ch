@@ -1,4 +1,3 @@
----
 ssid: '69431'
 sanctions_set_id: '27286'
 entity:
@@ -26,8 +25,4 @@ entity:
       year: 2011
     addresses:
     - address_details: Shcheglovskaya zaseka st. 59
-  justification: JSC Design Bureau of Instrument-Making Named After Academic A. G.
-    Shipunov (JSC KBP) is one of the oldest enterprises in the Russian defence complex.
-    It develops a wide variety of heavy military equipment including Kornet anti-tank
-    weapons, Krasnopol missiles, and Tunguska and Pantsir-S1 anti-aircraft systems.
-    JSC KBP belongs to the Russian state corporation Rostec.
+  justification: JSC Design Bureau of Instrument-Making Named After Academic A. G. Shipunov (JSC KBP) is one of the oldest enterprises in the Russian defence complex. It develops a wide variety of heavy military equipment including Kornet anti-tank weapons, Krasnopol missiles, and Tunguska and Pantsir-S1 anti-aircraft systems. JSC KBP belongs to the Russian state corporation Rostec.

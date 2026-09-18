@@ -1,4 +1,3 @@
----
 ssid: '4744'
 sanctions_set_id: '4387'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 13
       month: 2
       year: 1955
-  justification: Teacher at Belarus State University. Former Prosecutor General, former
-    Member of the Upper Chamber of the Parliament. He supervised the prosecution of
-    all the persons who were detained after the repression of the peaceful demonstrations
-    on 19 Dec 2010.
+  justification: Teacher at Belarus State University. Former Prosecutor General, former Member of the Upper Chamber of the Parliament. He supervised the prosecution of all the persons who were detained after the repression of the peaceful demonstrations on 19 Dec 2010.

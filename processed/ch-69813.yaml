@@ -1,4 +1,3 @@
----
 ssid: '69813'
 sanctions_set_id: '27286'
 entity:
@@ -12,8 +11,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: JSC “North Western Regional Center of Almaz Antey Concern Obukhovsky
-          Plant”
+        value: JSC “North Western Regional Center of Almaz Antey Concern Obukhovsky Plant”
     - name_type: alias
       quality: good
       lang: eng
@@ -30,8 +28,4 @@ entity:
       zip_code: '192012'
     - address_details: pr-kt Obukhovskoy Oborona, 120 building 19, room 1st No. 708
       zip_code: '192012'
-  justification: JSC “North Western Regional Center of Almaz Antey Concern Obukhovsky
-    Plant” is one of the largest enterprises in the Russian defence industry and,
-    besides civil production, creates weapons systems and military equipment. It provides
-    communications, air defence systems and missiles that the Russian Armed Forces
-    are using in the war of aggression against Ukraine.
+  justification: JSC “North Western Regional Center of Almaz Antey Concern Obukhovsky Plant” is one of the largest enterprises in the Russian defence industry and, besides civil production, creates weapons systems and military equipment. It provides communications, air defence systems and missiles that the Russian Armed Forces are using in the war of aggression against Ukraine.

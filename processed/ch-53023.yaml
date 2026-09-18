@@ -1,4 +1,3 @@
----
 ssid: '53023'
 sanctions_set_id: '27286'
 individual:
@@ -23,7 +22,4 @@ individual:
       day: 10
       month: 3
       year: 1968
-  justification: Evgeny Zubitskiy is the co-owner, Chairman of the Board and CEO of
-    Industrial Metallurgical Holding (PMH). He is a shareholder of the Koks Group,
-    the parent enterprise of PMH and Russia’s largest producer of marketable coke,
-    founded by State Duma deputy Boris Zubitsky.
+  justification: Evgeny Zubitskiy is the co-owner, Chairman of the Board and CEO of Industrial Metallurgical Holding (PMH). He is a shareholder of the Koks Group, the parent enterprise of PMH and Russia’s largest producer of marketable coke, founded by State Duma deputy Boris Zubitsky.

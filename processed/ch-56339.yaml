@@ -1,4 +1,3 @@
----
 ssid: '56339'
 sanctions_set_id: '27286'
 individual:
@@ -23,6 +22,4 @@ individual:
       day: 21
       month: 9
       year: 1961
-  justification: Sergey Tsivilev is the Minister of Energy of the Russian Federation.
-    He is former governor of the Kemerovo region and a well-known public figure. He
-    is also a member of the Bureau of the Supreme Council of the United Russia party.
+  justification: Sergey Tsivilev is the Minister of Energy of the Russian Federation. He is former governor of the Kemerovo region and a well-known public figure. He is also a member of the Bureau of the Supreme Council of the United Russia party.

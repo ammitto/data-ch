@@ -1,4 +1,3 @@
----
 ssid: '9464'
 sanctions_set_id: '8174'
 entity:
@@ -23,5 +22,4 @@ entity:
     addresses:
     - address_details: 2nd km of Khalaj Road End of Seyyedi St.
       zip_code: '91735'
-  justification: Shell name for UN-designated Khorasan Metallurgy Industries, subsidiary
-    of Ammunition Industries Group (AMIG).
+  justification: Shell name for UN-designated Khorasan Metallurgy Industries, subsidiary of Ammunition Industries Group (AMIG).

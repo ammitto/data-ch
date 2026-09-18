@@ -1,4 +1,3 @@
----
 ssid: '12582'
 sanctions_set_id: '3986'
 entity:
@@ -22,9 +21,4 @@ entity:
         value: Syrian Directorate General of Radio & Television Est
     addresses:
     - address_details: Al Oumaween Square
-  justification: State-run agency subordinate to Syria’s Ministry of Information and
-    as such supports and promotes its information policy. It is responsible for operating
-    Syria’s state-owned television channels, two terrestrial and one satellite, as
-    well as government radio stations. The GORT has incited violence against the civilian
-    population in Syria, serving as a propaganda instrument for the Syrian regime
-    and spreading disinformation.
+  justification: State-run agency subordinate to Syria’s Ministry of Information and as such supports and promotes its information policy. It is responsible for operating Syria’s state-owned television channels, two terrestrial and one satellite, as well as government radio stations. The GORT has incited violence against the civilian population in Syria, serving as a propaganda instrument for the Syrian regime and spreading disinformation.

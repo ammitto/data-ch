@@ -1,4 +1,3 @@
----
 ssid: '54265'
 sanctions_set_id: '27286'
 entity:
@@ -16,5 +15,4 @@ entity:
     addresses:
     - address_details: Plekhanovskaya Str., 14
       zip_code: '394018'
-  justification: JSC Sozvezdie Concern is a developer and manufacturer of electronic
-    warfare, radio communications, electronic countermeasures systems and equipment.
+  justification: JSC Sozvezdie Concern is a developer and manufacturer of electronic warfare, radio communications, electronic countermeasures systems and equipment.

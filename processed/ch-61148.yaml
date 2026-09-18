@@ -1,4 +1,3 @@
----
 ssid: '61148'
 sanctions_set_id: '27286'
 individual:
@@ -23,9 +22,4 @@ individual:
       day: 20
       month: 10
       year: 1969
-  justification: Alexey Komissarov is the Co-Chairman of the Central Headquarters
-    of the All-Russia People’s Front. Under his control and leadership, the People’s
-    Front provides support for Russia’s war against Ukraine, including through the
-    social campaign “All for Victory!”, including collecting physical and financial
-    donations to support the military units of the so-called “Donetsk People’s Republic”
-    and “Luhansk People’s Republic”.
+  justification: Alexey Komissarov is the Co-Chairman of the Central Headquarters of the All-Russia People’s Front. Under his control and leadership, the People’s Front provides support for Russia’s war against Ukraine, including through the social campaign “All for Victory!”, including collecting physical and financial donations to support the military units of the so-called “Donetsk People’s Republic” and “Luhansk People’s Republic”.

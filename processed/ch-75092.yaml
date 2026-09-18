@@ -1,4 +1,3 @@
----
 ssid: '75092'
 sanctions_set_id: '27286'
 entity:
@@ -30,6 +29,4 @@ entity:
     addresses:
     - address_details: Sophia Kovalevskaya Str. 20, building 1, letter A
       zip_code: '195256'
-  justification: LLC “Automation and Programming Technologies” (LLC TAiP) was founded
-    in 2005. It specialises in the development of radio electronic equipment and microelectronics
-    for various purposes.
+  justification: LLC “Automation and Programming Technologies” (LLC TAiP) was founded in 2005. It specialises in the development of radio electronic equipment and microelectronics for various purposes.

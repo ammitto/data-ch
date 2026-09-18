@@ -1,4 +1,3 @@
----
 ssid: '5370'
 sanctions_set_id: '4387'
 individual:
@@ -19,8 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Ivanauna
-  justification: Prosecutor who presented the case against Byalyatski in the City
-    Court of Minsk after Byalyatski's application to the court regarding his detention.
-    Byalyatski was active in defending and providing assistance to those who suffered
-    from repression in relation with the 19 Dec 2010 elections and the crackdown on
-    civil society and democratic opposition.
+  justification: Prosecutor who presented the case against Byalyatski in the City Court of Minsk after Byalyatski's application to the court regarding his detention. Byalyatski was active in defending and providing assistance to those who suffered from repression in relation with the 19 Dec 2010 elections and the crackdown on civil society and democratic opposition.

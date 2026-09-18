@@ -1,4 +1,3 @@
----
 ssid: '75494'
 sanctions_set_id: '27286'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 10
       month: 9
       year: 1970
-  justification: Igor Altushkin is a Russian oligarch and founder of the Russian Copper
-    Company. The company is one of the three main copper producers in Russia, and
-    copper is an economic sector providing a substantial source of revenue to the
-    Government of the Russian Federation. Igor Altushkin financially supports a Russian
-    military unit fighting in Ukraine.
+  justification: Igor Altushkin is a Russian oligarch and founder of the Russian Copper Company. The company is one of the three main copper producers in Russia, and copper is an economic sector providing a substantial source of revenue to the Government of the Russian Federation. Igor Altushkin financially supports a Russian military unit fighting in Ukraine.

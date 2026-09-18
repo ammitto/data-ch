@@ -1,4 +1,3 @@
----
 ssid: '3819'
 sanctions_set_id: '3973'
 entity:
@@ -14,9 +13,4 @@ entity:
         name_part_type: whole-name
         value: Abidjan Freight
     addresses:
-  justification: Abidjan Freight was a front company set up by Sanjivan Ruprah (included
-    on the Liberia Sanctions Committee list) to act as a freight forwarder for Viktor
-    Bout’s arms shipments to Liberia. Abidjan Freight was also used by Viktor Bout
-    and Gus Van Kouwenhoven (also included on the Committee’s assets freeze list)
-    to conceal the exact routing and final destination of an aircraft delivering military
-    goods to Monrovia, according to UN officials.
+  justification: Abidjan Freight was a front company set up by Sanjivan Ruprah (included on the Liberia Sanctions Committee list) to act as a freight forwarder for Viktor Bout’s arms shipments to Liberia. Abidjan Freight was also used by Viktor Bout and Gus Van Kouwenhoven (also included on the Committee’s assets freeze list) to conceal the exact routing and final destination of an aircraft delivering military goods to Monrovia, according to UN officials.

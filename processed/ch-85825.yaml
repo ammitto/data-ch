@@ -1,4 +1,3 @@
----
 ssid: '85825'
 sanctions_set_id: '73477'
 individual:
@@ -29,9 +28,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Osman
-  justification: Osman Mohamed Hamid is a Major General in the Rapid Support Forces
-    (RSF) and the Head of Operations of the RSF. He has therefore been in charge of
-    the operations carried out by the RSF since the outbreak of the conflict between
-    the Sudanese Armed Forces (SAF), the RSF and their allied armed groups, on 15
-    April 2023, as notably underscored by his presence on the battlefield in Jebel
-    Aulia in November 2023.
+  justification: Osman Mohamed Hamid is a Major General in the Rapid Support Forces (RSF) and the Head of Operations of the RSF. He has therefore been in charge of the operations carried out by the RSF since the outbreak of the conflict between the Sudanese Armed Forces (SAF), the RSF and their allied armed groups, on 15 April 2023, as notably underscored by his presence on the battlefield in Jebel Aulia in November 2023.

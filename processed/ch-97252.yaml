@@ -1,4 +1,3 @@
----
 ssid: '97252'
 sanctions_set_id: '3984'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Amir Moayyed
-  justification: Designated for involvement in managing the assembly and engineering
-    of centrifuges.
+  justification: Designated for involvement in managing the assembly and engineering of centrifuges.

@@ -1,4 +1,3 @@
----
 ssid: '28388'
 sanctions_set_id: '27286'
 entity:
@@ -23,13 +22,4 @@ entity:
     addresses:
     - address_details: Aeroflotskaya Street 5
       zip_code: '295021'
-  justification: 'The ownership of the entity was transferred contrary to the Ukrainian
-    law. On 24 Mar 2014 the "Presidium of the Parliament of Crimea" adopted a decision
-    "On State-owned Enterprise "Gosudarstvenoye predpriyatiye Universal-Avia"" ("О
-    Государственном предприятии "Универсал-Авиа"") No 1794-6/14 declaring the appropriation
-    of assets belonging to the state enterprise "Universal-Avia" on behalf of the
-    "Republic of Crimea". The enterprise is thus effectively confiscated by the Crimean
-    "authorities". Re-registered on 15 Jan 2015 as State Unitary Enterprise of the
-    "Republic of Crimea" "Universal-Avia" (ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ
-    КРЫМ "УНИВЕРСАЛ-АВИА"). Founder: The Ministry of Transportation of the "Republic
-    of Crimea" (МИНИСТЕРСТВО ТРАНСПОРТА РЕСПУБЛИКИ КРЫМ).'
+  justification: 'The ownership of the entity was transferred contrary to the Ukrainian law. On 24 Mar 2014 the "Presidium of the Parliament of Crimea" adopted a decision "On State-owned Enterprise "Gosudarstvenoye predpriyatiye Universal-Avia"" ("О Государственном предприятии "Универсал-Авиа"") No 1794-6/14 declaring the appropriation of assets belonging to the state enterprise "Universal-Avia" on behalf of the "Republic of Crimea". The enterprise is thus effectively confiscated by the Crimean "authorities". Re-registered on 15 Jan 2015 as State Unitary Enterprise of the "Republic of Crimea" "Universal-Avia" (ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ КРЫМ "УНИВЕРСАЛ-АВИА"). Founder: The Ministry of Transportation of the "Republic of Crimea" (МИНИСТЕРСТВО ТРАНСПОРТА РЕСПУБЛИКИ КРЫМ).'

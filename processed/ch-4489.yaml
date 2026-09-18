@@ -1,4 +1,3 @@
----
 ssid: '4489'
 sanctions_set_id: '4387'
 individual:
@@ -26,11 +25,4 @@ individual:
     addresses:
     - address_details: ул. Коллекторная, 10
       zip_code: '220004'
-  justification: Minister of Justice, Member of the Central Election Commission (CEC)
-    and former Head of Division of Social organisations and political parties in the
-    Ministry of Justice. As a Member of the CEC, he was responsible for the violations
-    of international electoral standards which have occurred in elections since 2007.
-    With his positions in the Ministry of Justice and the control he exercises over
-    the judiciary, he has taken an active part in the repression of civil society
-    and of the democratic opposition, by refusing registration of NGOs and political
-    parties, which in many cases has lead to their abolition.
+  justification: Minister of Justice, Member of the Central Election Commission (CEC) and former Head of Division of Social organisations and political parties in the Ministry of Justice. As a Member of the CEC, he was responsible for the violations of international electoral standards which have occurred in elections since 2007. With his positions in the Ministry of Justice and the control he exercises over the judiciary, he has taken an active part in the repression of civil society and of the democratic opposition, by refusing registration of NGOs and political parties, which in many cases has lead to their abolition.

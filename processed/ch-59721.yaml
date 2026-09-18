@@ -1,4 +1,3 @@
----
 ssid: '59721'
 sanctions_set_id: '29445'
 entity:
@@ -12,8 +11,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Public Joint Stock Company Moscow Institute of Electro-Mechanics and
-          Automation
+        value: Public Joint Stock Company Moscow Institute of Electro-Mechanics and Automation
     - name_type: alias
       quality: good
       lang: eng

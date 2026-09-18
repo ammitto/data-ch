@@ -1,4 +1,3 @@
----
 ssid: '85627'
 sanctions_set_id: '4387'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 25
       month: 11
       year: 1974
-  justification: Iryna Maiko is a Belarusian judge of the Minsk Regional Court. She
-    was appointed by Aliaksandr Lukashenka. She issued sentences against citizens
-    who voiced their opinions against the President and the regime’s authorities,
-    e.g. Roman Yankouski and Mikhail Nemtsov, for the dissent they expressed on social
-    media and offline.
+  justification: Iryna Maiko is a Belarusian judge of the Minsk Regional Court. She was appointed by Aliaksandr Lukashenka. She issued sentences against citizens who voiced their opinions against the President and the regime’s authorities, e.g. Roman Yankouski and Mikhail Nemtsov, for the dissent they expressed on social media and offline.

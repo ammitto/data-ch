@@ -1,4 +1,3 @@
----
 ssid: '8336'
 sanctions_set_id: '3984'
 entity:
@@ -15,7 +14,4 @@ entity:
         value: Behineh Trading Co.
     addresses:
     - address_details: Tavakoli Building, Opposite of 15th Alley, Emam-Jomeh Street
-  justification: An Iranian company that played a key role in Iran’s illicit transfer
-    of arms to West Africa and acted on behalf of the IRGC Qods Force, commanded by
-    Major General Qasem Soleimani, designated by the UN Security Council in resolution
-    1747 (2007), as the shipper of the weapons consignment.
+  justification: An Iranian company that played a key role in Iran’s illicit transfer of arms to West Africa and acted on behalf of the IRGC Qods Force, commanded by Major General Qasem Soleimani, designated by the UN Security Council in resolution 1747 (2007), as the shipper of the weapons consignment.

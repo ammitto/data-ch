@@ -1,4 +1,3 @@
----
 ssid: '107197'
 sanctions_set_id: '27286'
 entity:
@@ -15,12 +14,4 @@ entity:
         value: Valkur LLC
     addresses:
     - zip_code: '690001'
-  justification: Valkur LLC is a shipping company based in Russia and that specialises
-    in providing technical support. The company is the technical manager of the vessels
-    Andrey Pervozvanniy, Yaroslav Mudryy and Alexander Nevskiy. Those vessels lack
-    adequate liability insurance and engage in ship-to-ship transfers as well as manipulation
-    of Automatic Identification Systems while transporting crude oil or petroleum
-    products exported from Russia. Therefore, Valkur LLC manages vessels that transport
-    crude oil or petroleum products exported from Russia and practice irregular and
-    high-risk shipping practices as set out in the International Maritime Organization
-    General Assembly resolution A.1192(33).
+  justification: Valkur LLC is a shipping company based in Russia and that specialises in providing technical support. The company is the technical manager of the vessels Andrey Pervozvanniy, Yaroslav Mudryy and Alexander Nevskiy. Those vessels lack adequate liability insurance and engage in ship-to-ship transfers as well as manipulation of Automatic Identification Systems while transporting crude oil or petroleum products exported from Russia. Therefore, Valkur LLC manages vessels that transport crude oil or petroleum products exported from Russia and practice irregular and high-risk shipping practices as set out in the International Maritime Organization General Assembly resolution A.1192(33).

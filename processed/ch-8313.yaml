@@ -1,4 +1,3 @@
----
 ssid: '8313'
 sanctions_set_id: '3984'
 entity:
@@ -20,6 +19,4 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Ammunition Industries Group
-  justification: AMIG controls 7th of Tir, which is designated under resolution 1737
-    (2006) for its role in Iran’s centrifuge programme. AMIG is in turn owned and
-    controlled by DIO, which is designated under resolution 1737 (2006).
+  justification: AMIG controls 7th of Tir, which is designated under resolution 1737 (2006) for its role in Iran’s centrifuge programme. AMIG is in turn owned and controlled by DIO, which is designated under resolution 1737 (2006).

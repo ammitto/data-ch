@@ -1,4 +1,3 @@
----
 ssid: '90791'
 sanctions_set_id: '4387'
 individual:
@@ -23,6 +22,4 @@ individual:
       day: 17
       month: 1
       year: 1979
-  justification: Dzmitry Shvedka is a Belarusian businessman. He is a majority shareholder
-    and director of Ridotto LLC, a Belarusian IT company specialising in online gambling
-    application development.
+  justification: Dzmitry Shvedka is a Belarusian businessman. He is a majority shareholder and director of Ridotto LLC, a Belarusian IT company specialising in online gambling application development.

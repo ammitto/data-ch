@@ -1,4 +1,3 @@
----
 ssid: '57351'
 sanctions_set_id: '57350'
 individual:
@@ -29,8 +28,4 @@ individual:
       year: 1977
     addresses:
     - address_details: 16, Imp Manius, Delmas 40 B
-  justification: Jimmy Cherizier (AKA “Barbeque”) has engaged in acts that threaten
-    the peace, security, and stability of Haiti and has planned, directed, or committed
-    acts that constitute serious human rights abuses. Jimmy Cherizier is one of Haiti’s
-    most influential gang leaders and leads an alliance of Haitian gangs known as
-    the "G9 Family and Allies."
+  justification: Jimmy Cherizier (AKA “Barbeque”) has engaged in acts that threaten the peace, security, and stability of Haiti and has planned, directed, or committed acts that constitute serious human rights abuses. Jimmy Cherizier is one of Haiti’s most influential gang leaders and leads an alliance of Haitian gangs known as the "G9 Family and Allies."

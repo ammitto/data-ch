@@ -1,4 +1,3 @@
----
 ssid: '85077'
 sanctions_set_id: '4387'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 27
       month: 5
       year: 1963
-  justification: Viktar Novik is a Belarusian judge who has served in the Zhabinka
-    District court since 2017. He was appointed by Aliaksandr Lukashenka. Novik issued
-    numerous rulings against opponents of the Belarusian authorities. He issued politically
-    motivated prison sentences against Vitali Ivanyukovich (2 years), Natalia Letsko
-    (1 years), Andrei Vlasov and Yulia Suvalko (3 years) and Valentin Shumik (2 years).
+  justification: Viktar Novik is a Belarusian judge who has served in the Zhabinka District court since 2017. He was appointed by Aliaksandr Lukashenka. Novik issued numerous rulings against opponents of the Belarusian authorities. He issued politically motivated prison sentences against Vitali Ivanyukovich (2 years), Natalia Letsko (1 years), Andrei Vlasov and Yulia Suvalko (3 years) and Valentin Shumik (2 years).

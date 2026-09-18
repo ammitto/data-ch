@@ -1,4 +1,3 @@
----
 ssid: '59595'
 sanctions_set_id: '29445'
 entity:
@@ -19,8 +18,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Акционерное Общество «Российский Институт Радионавигации и Времени»
-          (АО «РИРВ»)
+        value: Акционерное Общество «Российский Институт Радионавигации и Времени» (АО «РИРВ»)
     - name_type: alias
       quality: good
       lang: eng

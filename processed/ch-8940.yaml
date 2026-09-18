@@ -1,4 +1,3 @@
----
 ssid: '8940'
 sanctions_set_id: '8174'
 entity:
@@ -18,8 +17,5 @@ entity:
     - address_details: Nader Alley, Vali-Asr Str.
     - address_details: Bldg. 2, Nader Alley after Beheshi Forked Road
       zip_code: '15116'
-    - address_details: Rafiee Alley, Nader Alley, 2 After Serahi Shahid Beheshti,
-        Vali E Asr Avenue
-  justification: Affiliated with entities sanctioned by the United States, the European
-    Union or or the United Nations since 2000. Designated by the United States for
-    being owned or controlled by Bank Melli.
+    - address_details: Rafiee Alley, Nader Alley, 2 After Serahi Shahid Beheshti, Vali E Asr Avenue
+  justification: Affiliated with entities sanctioned by the United States, the European Union or or the United Nations since 2000. Designated by the United States for being owned or controlled by Bank Melli.

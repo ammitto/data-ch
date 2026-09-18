@@ -1,4 +1,3 @@
----
 ssid: '45365'
 sanctions_set_id: '39362'
 entity:
@@ -21,11 +20,5 @@ entity:
         name_part_type: whole-name
         value: Myanmar Gems Enterprise
     addresses:
-    - address_details: NO.70-072, Yarza, Thingaha Road, Thapyaygone Ward, Zabuthiri
-        Township
-  justification: Myanmar Gems Enterprise (MGE) is a state-owned enterprise controlled
-    by the Myanmar Armed Forces (Tatmadaw), responsible for drafting rules and regulations
-    and for supervising and granting permits to local private entrepreneurs, organising
-    emporiums and special sales for jade and gems. MGE operates under the instructions
-    of the Ministry of Natural Resources and Environmental Conservation (MONREC),
-    whose Minister has been appointed by the State Administrative Council (SAC).
+    - address_details: NO.70-072, Yarza, Thingaha Road, Thapyaygone Ward, Zabuthiri Township
+  justification: Myanmar Gems Enterprise (MGE) is a state-owned enterprise controlled by the Myanmar Armed Forces (Tatmadaw), responsible for drafting rules and regulations and for supervising and granting permits to local private entrepreneurs, organising emporiums and special sales for jade and gems. MGE operates under the instructions of the Ministry of Natural Resources and Environmental Conservation (MONREC), whose Minister has been appointed by the State Administrative Council (SAC).

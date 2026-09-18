@@ -1,4 +1,3 @@
----
 ssid: '99291'
 sanctions_set_id: '29445'
 entity:
@@ -14,5 +13,4 @@ entity:
         name_part_type: whole-name
         value: LLC Bitvan
     addresses:
-    - address_details: 9/4, Troitskiy Trakt, 454053, Chelyabinsk Mekhanicheskaya St.,
-        115V
+    - address_details: 9/4, Troitskiy Trakt, 454053, Chelyabinsk Mekhanicheskaya St., 115V

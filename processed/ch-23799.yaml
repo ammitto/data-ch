@@ -1,4 +1,3 @@
----
 ssid: '23799'
 sanctions_set_id: '3976'
 entity:
@@ -42,9 +41,4 @@ entity:
         name_part_type: whole-name
         value: FOCA
     addresses:
-  justification: The Forces démocratiques de libération du Rwanda (FDLR) is one of
-    the largest foreign armed groups operating in the territory of the Democratic
-    Republic of the Congo (DRC). The group was formed in 2000, and has committed serious
-    violations of international law involving the targeting of women and children
-    in armed conflict, including killing and maiming, sexual violence, and forced
-    displacement.
+  justification: The Forces démocratiques de libération du Rwanda (FDLR) is one of the largest foreign armed groups operating in the territory of the Democratic Republic of the Congo (DRC). The group was formed in 2000, and has committed serious violations of international law involving the targeting of women and children in armed conflict, including killing and maiming, sexual violence, and forced displacement.

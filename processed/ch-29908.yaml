@@ -1,4 +1,3 @@
----
 ssid: '29908'
 sanctions_set_id: '3986'
 individual:
@@ -23,6 +22,4 @@ individual:
       - order: 1
         name_part_type: given-name
         value: Muhammad
-  justification: Vice-President of Finance and Administration at Tri-Ocean Energy,
-    which has been listed for benefiting from and supporting the Syrian regime, he
-    is therefore associated with a listed entity.
+  justification: Vice-President of Finance and Administration at Tri-Ocean Energy, which has been listed for benefiting from and supporting the Syrian regime, he is therefore associated with a listed entity.

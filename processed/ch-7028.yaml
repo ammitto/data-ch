@@ -1,4 +1,3 @@
----
 ssid: '7028'
 sanctions_set_id: '6094'
 individual:
@@ -16,7 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: David
-  justification: Senior army figure directly involved in the terror campaign waged
-    before and during the elections, including violence and torture against civilians
-    in the diamond fields and  threatening a coup if the MDC won the elections. Linked
-    to violence in Chinhoyi in 2008.
+  justification: Senior army figure directly involved in the terror campaign waged before and during the elections, including violence and torture against civilians in the diamond fields and  threatening a coup if the MDC won the elections. Linked to violence in Chinhoyi in 2008.

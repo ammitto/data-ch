@@ -1,4 +1,3 @@
----
 ssid: '8426'
 sanctions_set_id: '3984'
 entity:
@@ -16,5 +15,4 @@ entity:
     addresses:
     - address_details: Noorderlaan 139
       zip_code: B-2030
-  justification: Entity owned, controlled, or acting on behalf of the Islamic Republic
-    of Iran Shipping Lines (IRISL).
+  justification: Entity owned, controlled, or acting on behalf of the Islamic Republic of Iran Shipping Lines (IRISL).

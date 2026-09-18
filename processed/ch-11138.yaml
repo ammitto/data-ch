@@ -1,4 +1,3 @@
----
 ssid: '11138'
 sanctions_set_id: '8174'
 individual:
@@ -18,6 +17,4 @@ individual:
         value: Majid
     day_month_year:
       year: 1972
-  justification: Majid Khansari plays an influential role in Iran’s nuclear programme.
-    He is the former CEO of Natanz nuclear site, as well as of EU-listed centrifuge
-    manufacturer Kalaye Electric Company (KEC).
+  justification: Majid Khansari plays an influential role in Iran’s nuclear programme. He is the former CEO of Natanz nuclear site, as well as of EU-listed centrifuge manufacturer Kalaye Electric Company (KEC).

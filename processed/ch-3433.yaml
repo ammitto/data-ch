@@ -1,4 +1,3 @@
----
 ssid: '3433'
 sanctions_set_id: '3976'
 entity:
@@ -15,7 +14,4 @@ entity:
         value: Great Lakes Business Company (GLBC)
     addresses:
     - address_details: GLBC
-  justification: GLBC is a company owned by Douglas Mpamo, an individual already subject
-    to sanctions under resolution 1596 (2005). GLBC was used to transport arms and
-    ammunition in violation of the arms embargo of resolutions 1493 (2003) and 1596
-    (2005).
+  justification: GLBC is a company owned by Douglas Mpamo, an individual already subject to sanctions under resolution 1596 (2005). GLBC was used to transport arms and ammunition in violation of the arms embargo of resolutions 1493 (2003) and 1596 (2005).

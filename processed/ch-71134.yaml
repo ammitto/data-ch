@@ -1,4 +1,3 @@
----
 ssid: '71134'
 sanctions_set_id: '3986'
 entity:
@@ -22,5 +21,4 @@ entity:
         value: Eloma
     day_month_year:
       year: 2023
-  justification: Iloma Investment Private JSC has been established at the beginning
-    of 2023 to take over almost half of the ownership of Damascus airport.
+  justification: Iloma Investment Private JSC has been established at the beginning of 2023 to take over almost half of the ownership of Damascus airport.

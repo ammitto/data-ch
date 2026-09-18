@@ -1,4 +1,3 @@
----
 ssid: '11672'
 sanctions_set_id: '3986'
 individual:
@@ -20,7 +19,4 @@ individual:
       day: 10
       month: 7
       year: 1969
-  justification: Leading businessman operating in Syria with interests in the financial
-    services, transport and property sectors. He has financial interests in and/or
-    holds senior and executive positions in the investment funds Al Mashreq, Bena
-    Properties and Cham Holding.
+  justification: Leading businessman operating in Syria with interests in the financial services, transport and property sectors. He has financial interests in and/or holds senior and executive positions in the investment funds Al Mashreq, Bena Properties and Cham Holding.

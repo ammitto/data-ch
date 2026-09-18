@@ -1,4 +1,3 @@
----
 ssid: '64685'
 sanctions_set_id: '27286'
 entity:
@@ -18,11 +17,6 @@ entity:
       month: 6
       year: 2003
     addresses:
-    - address_details: Intracity territory of the city of federal significance municipal
-        district academic, 13 Krzhizhanovskogo str., k. 2, office 511
+    - address_details: Intracity territory of the city of federal significance municipal district academic, 13 Krzhizhanovskogo str., k. 2, office 511
       zip_code: '117218'
-  justification: Inforos is an online news agency responsible for setting up more
-    than 270 media proxy online news outlets that disseminate propaganda in support
-    of the Russian war of aggression against Ukraine. It is a front organisation for
-    Unit 54777 of the Russian military intelligence service GRU, responsible for psychological
-    operations.
+  justification: Inforos is an online news agency responsible for setting up more than 270 media proxy online news outlets that disseminate propaganda in support of the Russian war of aggression against Ukraine. It is a front organisation for Unit 54777 of the Russian military intelligence service GRU, responsible for psychological operations.

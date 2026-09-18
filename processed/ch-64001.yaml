@@ -1,4 +1,3 @@
----
 ssid: '64001'
 sanctions_set_id: '29445'
 entity:
@@ -30,6 +29,5 @@ entity:
     addresses:
     - address_details: Engels St., 27, Floor 2, Room. 89
       zip_code: '141402'
-    - address_details: Territory of Sheremetyevo Airport, Property 5, 3rd Floor, Office
-        321
+    - address_details: Territory of Sheremetyevo Airport, Property 5, 3rd Floor, Office 321
       zip_code: '141402'

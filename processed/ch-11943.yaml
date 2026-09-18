@@ -1,4 +1,3 @@
----
 ssid: '11943'
 sanctions_set_id: '3986'
 individual:
@@ -26,5 +25,4 @@ individual:
       - order: 1
         name_part_type: family-name
         value: al-Ahmed
-  justification: Commander Special Forces under the former al-Assad regime. Responsible
-    for the use of violence against protestors across Syria.
+  justification: Commander Special Forces under the former al-Assad regime. Responsible for the use of violence against protestors across Syria.

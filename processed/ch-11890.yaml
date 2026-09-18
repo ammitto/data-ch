@@ -1,4 +1,3 @@
----
 ssid: '11890'
 sanctions_set_id: '3986'
 individual:
@@ -19,6 +18,4 @@ individual:
       - order: 3
         name_part_type: title
         value: Brigadier
-  justification: Presidential Adviser on Security Affairs under the former al-Assad
-    regime. Presidential Adviser for security agencies’ repression of and violence
-    against the civilian population in Syria.
+  justification: Presidential Adviser on Security Affairs under the former al-Assad regime. Presidential Adviser for security agencies’ repression of and violence against the civilian population in Syria.

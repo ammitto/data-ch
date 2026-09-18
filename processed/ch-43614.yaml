@@ -1,4 +1,3 @@
----
 ssid: '43614'
 sanctions_set_id: '4387'
 individual:
@@ -19,9 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Anatolevich
-  justification: In his former leadership position as Deputy Chairman of the State
-    Security Committee (KGB), he was responsible for the participation of the KGB
-    in the repression and intimidation campaign in the wake of the 2020 presidential
-    election, in particular arbitrary arrests and ill-treatment, including torture,
-    of peaceful demonstrators and opposition members. He remains active in the Lukashenka
-    regime as Deputy Chairman of the Presidium of the National Academy of Sciences.
+  justification: In his former leadership position as Deputy Chairman of the State Security Committee (KGB), he was responsible for the participation of the KGB in the repression and intimidation campaign in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators and opposition members. He remains active in the Lukashenka regime as Deputy Chairman of the Presidium of the National Academy of Sciences.

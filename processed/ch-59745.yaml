@@ -1,4 +1,3 @@
----
 ssid: '59745'
 sanctions_set_id: '29445'
 entity:
@@ -12,16 +11,14 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Institute of Marine Technology Problems Far East Branch Russian Academy
-          of Sciences
+        value: Institute of Marine Technology Problems Far East Branch Russian Academy of Sciences
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal State Budgetary Institution of Science M.D. Ageev Institute
-          of Marine Technology Problems Far East Branch Russian Academy of Sciences
+        value: Federal State Budgetary Institution of Science M.D. Ageev Institute of Marine Technology Problems Far East Branch Russian Academy of Sciences
     - name_type: alias
       quality: good
       lang: eng

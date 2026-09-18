@@ -1,4 +1,3 @@
----
 ssid: '20439'
 sanctions_set_id: '12787'
 individual:
@@ -16,5 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Mohamad Mahmoud
-  justification: Minister for Health and Environment in Colonel Qadhafi’s Government.
-    Closely associated with the former regime of Muammar Qadhafi.
+  justification: Minister for Health and Environment in Colonel Qadhafi’s Government. Closely associated with the former regime of Muammar Qadhafi.

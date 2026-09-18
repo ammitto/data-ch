@@ -1,4 +1,3 @@
----
 ssid: '107805'
 sanctions_set_id: '27286'
 individual:
@@ -23,10 +22,4 @@ individual:
       day: 13
       month: 10
       year: 1979
-  justification: Konstantin Rogach is a maritime insurance broker and a partner in
-    the company “Maritime Risk Management”. He has facilitated insurance coverage
-    and provided administrative consultancy for the benefit of vessels transporting
-    crude oil or petroleum products originating in Russia or exported from Russia
-    while practicing irregular and high-risk shipping practices, and of companies
-    with ties to Russia’s so-called “shadow fleet”. To cover up and obscure this activity
-    he has used a network of shell companies functioning as payment agents.
+  justification: Konstantin Rogach is a maritime insurance broker and a partner in the company “Maritime Risk Management”. He has facilitated insurance coverage and provided administrative consultancy for the benefit of vessels transporting crude oil or petroleum products originating in Russia or exported from Russia while practicing irregular and high-risk shipping practices, and of companies with ties to Russia’s so-called “shadow fleet”. To cover up and obscure this activity he has used a network of shell companies functioning as payment agents.

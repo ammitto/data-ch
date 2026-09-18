@@ -1,4 +1,3 @@
----
 ssid: '85259'
 sanctions_set_id: '4387'
 individual:
@@ -23,8 +22,4 @@ individual:
       day: 26
       month: 3
       year: 1962
-  justification: Aleh Piatrou is part-owner of Vlate Logistik LLC, a transport and
-    storage company which holds a status of authorised economic operator. Through
-    this status, issued by state authorities, it enjoys significant tax advantages.
-    Through the privileges awarded to the company, Piatrou benefits from the Lukashenka
-    regime.
+  justification: Aleh Piatrou is part-owner of Vlate Logistik LLC, a transport and storage company which holds a status of authorised economic operator. Through this status, issued by state authorities, it enjoys significant tax advantages. Through the privileges awarded to the company, Piatrou benefits from the Lukashenka regime.

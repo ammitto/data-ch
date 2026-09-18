@@ -1,4 +1,3 @@
----
 ssid: '22471'
 sanctions_set_id: '3986'
 individual:
@@ -20,8 +19,4 @@ individual:
       day: 31
       month: 1
       year: 1977
-  justification: Razan Othman has close personal and financial relations with Rami
-    Makhlouf, cousin of former President Bashar al-Assad and principal financer of
-    the regime, who has been designated by the Council. As such, associated with the
-    former al-Assad regime, and benefiting from it, notably through investments in
-    the real estate sector.
+  justification: Razan Othman has close personal and financial relations with Rami Makhlouf, cousin of former President Bashar al-Assad and principal financer of the regime, who has been designated by the Council. As such, associated with the former al-Assad regime, and benefiting from it, notably through investments in the real estate sector.

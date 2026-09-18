@@ -1,4 +1,3 @@
----
 ssid: '6732'
 sanctions_set_id: '6094'
 individual:
@@ -16,6 +15,4 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Bothwell
-  justification: Former member of the security forces and bearing wide responsibility
-    for serious violations of the freedom of peaceful assembly. As Officer in charge
-    in Harare,   connected to violent operations in March 2007.
+  justification: Former member of the security forces and bearing wide responsibility for serious violations of the freedom of peaceful assembly. As Officer in charge in Harare,   connected to violent operations in March 2007.

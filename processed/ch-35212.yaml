@@ -1,4 +1,3 @@
----
 ssid: '35212'
 sanctions_set_id: '3986'
 individual:
@@ -41,8 +40,4 @@ individual:
       day: 18
       month: 3
       year: 1966
-  justification: Former Governor of Damascus, who was appointed by, and is associated
-    with, former President Bashar al-Assad. Supports the former al-Assad regime and
-    is responsible for the violent repression of the civilian population in Syria,
-    including engaging in discriminatory practices against Sunni communities within
-    the capital.
+  justification: Former Governor of Damascus, who was appointed by, and is associated with, former President Bashar al-Assad. Supports the former al-Assad regime and is responsible for the violent repression of the civilian population in Syria, including engaging in discriminatory practices against Sunni communities within the capital.

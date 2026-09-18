@@ -1,4 +1,3 @@
----
 ssid: '12001'
 sanctions_set_id: '3986'
 individual:
@@ -29,6 +28,4 @@ individual:
       year: 1959
     addresses:
     - address_details: Kasaa, Anwar al Attar Street, al Midani building
-  justification: Legal and financial adviser and manages affairs of Rami Makhlouf
-    and Khaldoun Makhlouf. Involved with Bashar Al-Assad in funding a real estate
-    project in Latakia. Provides financial support for the regime.
+  justification: Legal and financial adviser and manages affairs of Rami Makhlouf and Khaldoun Makhlouf. Involved with Bashar Al-Assad in funding a real estate project in Latakia. Provides financial support for the regime.

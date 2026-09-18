@@ -1,4 +1,3 @@
----
 ssid: '99842'
 sanctions_set_id: '29445'
 entity:
@@ -14,6 +13,5 @@ entity:
         name_part_type: whole-name
         value: Soguzo Co. Ltd
     addresses:
-    - address_details: No 305 Ramą 2 Alley, 38 Alley, Bang Mot Sub-district, Chom
-        Thong District
+    - address_details: No 305 Ramą 2 Alley, 38 Alley, Bang Mot Sub-district, Chom Thong District
       zip_code: '10150'

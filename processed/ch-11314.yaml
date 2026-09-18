@@ -1,4 +1,3 @@
----
 ssid: '11314'
 sanctions_set_id: '8174'
 individual:
@@ -45,6 +44,4 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Ali
-  justification: Since Mar 2017, head of the ideological and political bureau of the
-    Supreme Leader in his role as Commander-in-chief. Previously representative of
-    the Supreme Leader to the IRGC
+  justification: Since Mar 2017, head of the ideological and political bureau of the Supreme Leader in his role as Commander-in-chief. Previously representative of the Supreme Leader to the IRGC

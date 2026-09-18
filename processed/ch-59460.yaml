@@ -1,4 +1,3 @@
----
 ssid: '59460'
 sanctions_set_id: '29445'
 entity:
@@ -19,8 +18,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: NTTs A. Lyulki; A. Lyulka Research and Engineering Centre – Branch
-          of ODK-Saturn PJSC
+        value: NTTs A. Lyulki; A. Lyulka Research and Engineering Centre – Branch of ODK-Saturn PJSC
     addresses:
     - address_details: Moscow, Kasatkina Str., 13
       zip_code: '129301'

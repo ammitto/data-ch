@@ -1,4 +1,3 @@
----
 ssid: '70231'
 sanctions_set_id: '27286'
 entity:
@@ -23,5 +22,4 @@ entity:
     addresses:
     - address_details: Polzunova 15
       zip_code: '630051'
-  justification: Novosibirsk Aircraft Production Plant is a Russian aerospace manufacturer.
-    It is a supplier of the Ministry of Defence of the Russian Federation.
+  justification: Novosibirsk Aircraft Production Plant is a Russian aerospace manufacturer. It is a supplier of the Ministry of Defence of the Russian Federation.

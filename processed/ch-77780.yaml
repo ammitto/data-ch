@@ -1,4 +1,3 @@
----
 ssid: '77780'
 sanctions_set_id: '4387'
 individual:
@@ -19,7 +18,4 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Viktaravich
-  justification: Andrey Mlechka is a judge who has served in the Frunze District Court
-    of the City of Minsk since 2021, having been appointed by Aliaksandr Lukashenka.
-    He has issued high politically motivated sentences against citizens peacefully
-    expressing critical opinions of the authorities on the streets and on the internet.
+  justification: Andrey Mlechka is a judge who has served in the Frunze District Court of the City of Minsk since 2021, having been appointed by Aliaksandr Lukashenka. He has issued high politically motivated sentences against citizens peacefully expressing critical opinions of the authorities on the streets and on the internet.
