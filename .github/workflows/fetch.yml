@@ -32,22 +32,7 @@ jobs:
 
       - name: Fetch data
         run: |
-          # yeptris's precompiled native materializer can't dlopen its own
-          # dependency on this runner, and its FFI fallback corrupts the
-          # heap after ~50 YAML dumps. lutaml-model auto-selects yeptris
-          # for every YAML (de)serialization whenever the gem is present,
-          # which it is here as a transitive dependency, so this forces
-          # the plain Psych-backed adapter before loading the CLI. `load`
-          # (not `exec`) keeps this in the same process so the adapter
-          # config carries into the fetch run; RUBYOPT can't do this
-          # inline (it rejects -e), and `Gem.bin_path` resolves the CLI
-          # correctly for a github-sourced gem, same as `bundle exec
-          # ammitto` would.
-          bundle exec ruby -e "
-            require 'lutaml/model'
-            Lutaml::Model::AdapterResolver.set_adapter_type(:yaml, :standard)
-            load Gem.bin_path('ammitto', 'ammitto')
-          " -- fetch ch --format yaml --output-dir processed --verbose
+          bundle exec ammitto fetch ch --format yaml --output-dir processed --verbose
 
       - name: Check for changes
         id: check_changes
