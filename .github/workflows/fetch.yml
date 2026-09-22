@@ -31,6 +31,13 @@ jobs:
           bundler-cache: true
 
       - name: Fetch data
+        env:
+          # yeptris's precompiled native materializer can't dlopen its
+          # own dependency on this runner and its FFI fallback corrupts
+          # the heap after ~50 YAML dumps (see lib/ammitto/data_ch/
+          # force_standard_yaml_adapter.rb for the full root cause).
+          # Preload forces lutaml-model onto its plain Psych adapter.
+          RUBYOPT: '-r./lib/ammitto/data_ch/force_standard_yaml_adapter'
         run: |
           bundle exec ammitto fetch ch --format yaml --output-dir processed --verbose
 
