@@ -1,3 +1,4 @@
+---
 ssid: '65360'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 5
       month: 5
       year: 1973
-  justification: In his position as judge of Ivanovsky District Court, Henadz Kudlasevich is responsible for numerous politically-motivated rulings against peaceful protesters, in particular the sentencing of Yuryi Holik. He has sentenced people to terms of imprisonment, house detention and fines for protesting against the government or for independent reporting. He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition in Belarus.
+  justification: In his position as judge of Ivanovsky District Court, Henadz Kudlasevich
+    is responsible for numerous politically-motivated rulings against peaceful protesters,
+    in particular the sentencing of Yuryi Holik. He has sentenced people to terms
+    of imprisonment, house detention and fines for protesting against the government
+    or for independent reporting. He is therefore responsible for serious human rights
+    violations and for seriously undermining the rule of law, as well as for the repression
+    of civil society and democratic opposition in Belarus.

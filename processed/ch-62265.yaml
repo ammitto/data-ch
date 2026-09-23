@@ -1,3 +1,4 @@
+---
 ssid: '62265'
 sanctions_set_id: '3986'
 individual:
@@ -28,4 +29,8 @@ individual:
       year: 1963
     addresses:
     - address_details: Villa 98, Sharqiyyat, Jazira al-Khamisa, Qura al-Assad
-  justification: Osama al-Maliki is majority owner of Al-Jabal Security and Protection LLC. Al-Jabal Security and Protection LLC acts as a shell company to allow for the continuation of activities of the Saraya al-Areen 313 militia, a former al-Assad-regime-affiliated militia. Osama al-Maliki therefore benefits from and supports the former al-Assad regime.
+  justification: Osama al-Maliki is majority owner of Al-Jabal Security and Protection
+    LLC. Al-Jabal Security and Protection LLC acts as a shell company to allow for
+    the continuation of activities of the Saraya al-Areen 313 militia, a former al-Assad-regime-affiliated
+    militia. Osama al-Maliki therefore benefits from and supports the former al-Assad
+    regime.

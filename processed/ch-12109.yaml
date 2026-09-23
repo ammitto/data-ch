@@ -1,3 +1,4 @@
+---
 ssid: '12109'
 sanctions_set_id: '3986'
 individual:
@@ -29,4 +30,5 @@ individual:
       day: 10
       month: 2
       year: 1958
-  justification: Commander of military operations in Homs, Baniyas and Idlib under the former al-Assad regime.
+  justification: Commander of military operations in Homs, Baniyas and Idlib under
+    the former al-Assad regime.

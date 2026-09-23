@@ -1,3 +1,4 @@
+---
 ssid: '37799'
 sanctions_set_id: '3978'
 entity:
@@ -41,4 +42,5 @@ entity:
         name_part_type: whole-name
         value: Ministry of Defense
     addresses:
-  justification: The Ministry of National Defence manages the general administrative and logistical needs of the Korean People’s Army.
+  justification: The Ministry of National Defence manages the general administrative
+    and logistical needs of the Korean People’s Army.

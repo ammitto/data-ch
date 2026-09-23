@@ -1,3 +1,4 @@
+---
 ssid: '55768'
 sanctions_set_id: '29445'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Tactical Missile Company, Joint Stock Company “Scientific Research Institute of Marine Heat Engineering”
+        value: Tactical Missile Company, Joint Stock Company “Scientific Research
+          Institute of Marine Heat Engineering”
     - name_type: alias
       quality: good
       lang: eng
@@ -32,7 +34,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company “Scientific Research Institute of Marine Thermal Engineering”
+        value: Joint Stock Company “Scientific Research Institute of Marine Thermal
+          Engineering”
     addresses:
     - address_details: Lomonosov, Chernikova Str., 44
       zip_code: '198412'

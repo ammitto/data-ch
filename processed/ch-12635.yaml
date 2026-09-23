@@ -1,3 +1,4 @@
+---
 ssid: '12635'
 sanctions_set_id: '3986'
 individual:
@@ -25,4 +26,8 @@ individual:
       day: 15
       month: 4
       year: 1961
-  justification: High-ranking officer at the Syrian Air Force Intelligence Service under the former al-Assad regime. Former Head of the Deraa branch of the air force’s intelligence service (sent from Damascus to Deraa at the start of demonstrations there). Responsible for the torture of opponents in custody as well as the violent repression of peaceful protests in the southern region.
+  justification: High-ranking officer at the Syrian Air Force Intelligence Service
+    under the former al-Assad regime. Former Head of the Deraa branch of the air force’s
+    intelligence service (sent from Damascus to Deraa at the start of demonstrations
+    there). Responsible for the torture of opponents in custody as well as the violent
+    repression of peaceful protests in the southern region.

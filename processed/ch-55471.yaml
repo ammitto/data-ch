@@ -1,3 +1,4 @@
+---
 ssid: '55471'
 sanctions_set_id: '27286'
 entity:
@@ -22,4 +23,9 @@ entity:
     addresses:
     - address_details: Avtozavodskiy Prospekt, 2
       zip_code: '423827'
-  justification: KAMAZ is a Russian developer and manufacturer of vehicles and military equipment. It produced KAMAZ-5350, KAMAZ-6350, KAMAZ 6560 vehicles that are used by the Armed Forces of the Russian Federation during Russia’s war of aggression against Ukraine. In November, KAMAZ referred to its factory operating at the limits of its capacity to meet arms orders. It also published a video in April 2022 using the “Z” symbol, expressing support for the operation in Ukraine.
+  justification: KAMAZ is a Russian developer and manufacturer of vehicles and military
+    equipment. It produced KAMAZ-5350, KAMAZ-6350, KAMAZ 6560 vehicles that are used
+    by the Armed Forces of the Russian Federation during Russia’s war of aggression
+    against Ukraine. In November, KAMAZ referred to its factory operating at the limits
+    of its capacity to meet arms orders. It also published a video in April 2022 using
+    the “Z” symbol, expressing support for the operation in Ukraine.

@@ -1,3 +1,4 @@
+---
 ssid: '75289'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 6
       month: 10
       year: 1981
-  justification: Vyacheslav Manucharov is a Russian TV presenter, blogger and actor. He is the host of a show called “Empatiya Manuchi”.
+  justification: Vyacheslav Manucharov is a Russian TV presenter, blogger and actor.
+    He is the host of a show called “Empatiya Manuchi”.

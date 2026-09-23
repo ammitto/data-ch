@@ -1,3 +1,4 @@
+---
 ssid: '28841'
 sanctions_set_id: '3986'
 entity:
@@ -20,4 +21,7 @@ entity:
         name_part_type: whole-name
         value: Institut Supérieur des Sciences Appliquées et de Technologie (ISSAT)
     addresses:
-  justification: Affiliated to and a subsidiary of the Syrian Scientific Studies and Research Centre (SSRC) which is already designated by the Council. It provides training and support to the SSRC and is therefore responsible for the violent repression of the civilian population under the former al-Assad regime.
+  justification: Affiliated to and a subsidiary of the Syrian Scientific Studies and
+    Research Centre (SSRC) which is already designated by the Council. It provides
+    training and support to the SSRC and is therefore responsible for the violent
+    repression of the civilian population under the former al-Assad regime.

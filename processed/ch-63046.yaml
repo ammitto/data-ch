@@ -1,3 +1,4 @@
+---
 ssid: '63046'
 sanctions_set_id: '27286'
 individual:
@@ -48,4 +49,10 @@ individual:
       day: 19
       month: 1
       year: 1972
-  justification: Andrey Ivanaev is a colonel general in the Russian Armed Forces. He is the commander of the 20th Guards Combined Arms Army of the Western Military District of the Russian Federation. In this capacity, he directly commands and has significant influence on the deployment of Russian forces that participate in Russia’s war of aggression against Ukraine. During Russia’s full-scale invasion of Ukraine, the 20th Guards Combined Arms Army, commanded by Andrey Ivanaev, has directly contributed to Russia’s offensive from the northeastern direction.
+  justification: Andrey Ivanaev is a colonel general in the Russian Armed Forces.
+    He is the commander of the 20th Guards Combined Arms Army of the Western Military
+    District of the Russian Federation. In this capacity, he directly commands and
+    has significant influence on the deployment of Russian forces that participate
+    in Russia’s war of aggression against Ukraine. During Russia’s full-scale invasion
+    of Ukraine, the 20th Guards Combined Arms Army, commanded by Andrey Ivanaev, has
+    directly contributed to Russia’s offensive from the northeastern direction.

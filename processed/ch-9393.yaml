@@ -1,3 +1,4 @@
+---
 ssid: '9393'
 sanctions_set_id: '8174'
 entity:
@@ -29,4 +30,5 @@ entity:
     addresses:
     - address_details: 237, Motahari Ave.
       zip_code: '1587618118'
-  justification: Company which is majority owned by the Government of Iran and provides financial support to the Government of Iran.
+  justification: Company which is majority owned by the Government of Iran and provides
+    financial support to the Government of Iran.

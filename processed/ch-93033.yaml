@@ -1,3 +1,4 @@
+---
 ssid: '93033'
 sanctions_set_id: '27286'
 entity:
@@ -33,4 +34,7 @@ entity:
     addresses:
     - address_details: Volodarskogo st., 2
       zip_code: '450001'
-  justification: JSC UAP “Gidravlika” is a military company that is part of the Technodinamika holding of the State Corporation Rostec and functions as a developer and manufacturer of products for aviation and military equipment, such as MS-21, Il-114, Su-57 and Il-96-400M.
+  justification: JSC UAP “Gidravlika” is a military company that is part of the Technodinamika
+    holding of the State Corporation Rostec and functions as a developer and manufacturer
+    of products for aviation and military equipment, such as MS-21, Il-114, Su-57
+    and Il-96-400M.

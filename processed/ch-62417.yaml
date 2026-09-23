@@ -1,3 +1,4 @@
+---
 ssid: '62417'
 sanctions_set_id: '3986'
 individual:
@@ -28,4 +29,7 @@ individual:
       year: 1973
     addresses:
     - address_details: Mazze, Western Villas, Saraya 36 Building, 3rd Floor
-  justification: Osama Ramadan owns shares in Castle Security and Protection LLC, which operates as a shell company for the Fourth Division of the Syrian Arab Army, led by the Maher al-Assad. He therefore supports the former al-Assad regime. He is also associated with Maher al-Assad.
+  justification: Osama Ramadan owns shares in Castle Security and Protection LLC,
+    which operates as a shell company for the Fourth Division of the Syrian Arab Army,
+    led by the Maher al-Assad. He therefore supports the former al-Assad regime. He
+    is also associated with Maher al-Assad.

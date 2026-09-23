@@ -1,3 +1,4 @@
+---
 ssid: '6321'
 sanctions_set_id: '6094'
 individual:
@@ -19,4 +20,8 @@ individual:
       day: 12
       month: 4
       year: 1957
-  justification: Directly involved in the government-orchestrated terror campaign waged before and during the elections in 2008. Responsible for spearheading violent persecution of MDC supporters in Hurungwe, including rape, murder and destruction of homes and notably involved in murdering Tapiwa Mubwanda, MDC electoral agent in Hurungwe North in May 2008.
+  justification: Directly involved in the government-orchestrated terror campaign
+    waged before and during the elections in 2008. Responsible for spearheading violent
+    persecution of MDC supporters in Hurungwe, including rape, murder and destruction
+    of homes and notably involved in murdering Tapiwa Mubwanda, MDC electoral agent
+    in Hurungwe North in May 2008.

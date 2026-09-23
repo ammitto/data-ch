@@ -1,3 +1,4 @@
+---
 ssid: '20464'
 sanctions_set_id: '12787'
 individual:
@@ -15,4 +16,5 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Ibrahim Zarroug
-  justification: Minister for Social Affairs in Colonel Qadhafi’s Government. Closely associated with the former regime of Muammar Qadhafi.
+  justification: Minister for Social Affairs in Colonel Qadhafi’s Government. Closely
+    associated with the former regime of Muammar Qadhafi.

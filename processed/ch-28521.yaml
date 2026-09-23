@@ -1,3 +1,4 @@
+---
 ssid: '28521'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 31
       month: 5
       year: 1960
-  justification: As first Deputy Chief of Staff of the Presidential Administration, he is responsible for instructing Russian media outlets to take a line favourable with the separatists in Ukraine and the annexation of Crimea, therefore supporting the destabilisation of Eastern Ukraine and the annexation of Crimea.
+  justification: As first Deputy Chief of Staff of the Presidential Administration,
+    he is responsible for instructing Russian media outlets to take a line favourable
+    with the separatists in Ukraine and the annexation of Crimea, therefore supporting
+    the destabilisation of Eastern Ukraine and the annexation of Crimea.

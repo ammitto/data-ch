@@ -1,3 +1,4 @@
+---
 ssid: '71283'
 sanctions_set_id: '62614'
 individual:
@@ -19,4 +20,12 @@ individual:
       day: 30
       month: 5
       year: 1967
-  justification: Dmitry Milyutin is the Deputy Head of the Russian Federal Security Service (FSB)’s Department of Operational Intelligence, responsible for Russia’s covert operations in the Republic of Moldova since 2016, especially in the Transnistria region, destabilising the constitutional order. Through his operatives, Milyutin directs, coordinates and manipulates chosen political actors in the Republic of Moldova in order to pursue pro-Russian agendas, thus undermining the democratic political process in the Republic of Moldova. Furthermore, Milyutin’s group is involved in organising violent protests and other acts of violence taking place in the Republic of Moldova.
+  justification: Dmitry Milyutin is the Deputy Head of the Russian Federal Security
+    Service (FSB)’s Department of Operational Intelligence, responsible for Russia’s
+    covert operations in the Republic of Moldova since 2016, especially in the Transnistria
+    region, destabilising the constitutional order. Through his operatives, Milyutin
+    directs, coordinates and manipulates chosen political actors in the Republic of
+    Moldova in order to pursue pro-Russian agendas, thus undermining the democratic
+    political process in the Republic of Moldova. Furthermore, Milyutin’s group is
+    involved in organising violent protests and other acts of violence taking place
+    in the Republic of Moldova.

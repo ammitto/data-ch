@@ -1,3 +1,4 @@
+---
 ssid: '27425'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 1
       month: 1
       year: 1961
-  justification: Former adviser to the President of the Russian Federation on economic development. Publicly called for the annexation of Crimea and supports the war against Ukraine.
+  justification: Former adviser to the President of the Russian Federation on economic
+    development. Publicly called for the annexation of Crimea and supports the war
+    against Ukraine.

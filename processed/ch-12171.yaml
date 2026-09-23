@@ -1,3 +1,4 @@
+---
 ssid: '12171'
 sanctions_set_id: '3986'
 individual:
@@ -23,4 +24,5 @@ individual:
       day: 11
       month: 5
       year: 1938
-  justification: Provides logistical support to violent repression of civilian population in areas of operation of pro-government militias involved in violence (shabihas).
+  justification: Provides logistical support to violent repression of civilian population
+    in areas of operation of pro-government militias involved in violence (shabihas).

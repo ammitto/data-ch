@@ -1,3 +1,4 @@
+---
 ssid: '12428'
 sanctions_set_id: '3986'
 entity:
@@ -13,5 +14,7 @@ entity:
         name_part_type: whole-name
         value: Syriatel
     addresses:
-    - address_details: Syriatel Mobile Telecom Building, Amman Road, Daraa Highway, Ashrafiyat Sahnaya Area
-  justification: 'Provides financial support to the Syrian regime: through its licensing contract it pays 50 % or more of its profits to the Government.'
+    - address_details: Syriatel Mobile Telecom Building, Amman Road, Daraa Highway,
+        Ashrafiyat Sahnaya Area
+  justification: 'Provides financial support to the Syrian regime: through its licensing
+    contract it pays 50 % or more of its profits to the Government.'

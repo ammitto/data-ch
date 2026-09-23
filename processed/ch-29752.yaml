@@ -1,3 +1,4 @@
+---
 ssid: '29752'
 sanctions_set_id: '27286'
 individual:
@@ -35,4 +36,6 @@ individual:
       day: 12
       month: 3
       year: 1964
-  justification: Former so-called “Deputy Head” of the so-called “People’s Council” and former so called “Minister of Foreign Affairs” of the so-called “Luhansk People’s Republic”.
+  justification: Former so-called “Deputy Head” of the so-called “People’s Council”
+    and former so called “Minister of Foreign Affairs” of the so-called “Luhansk People’s
+    Republic”.

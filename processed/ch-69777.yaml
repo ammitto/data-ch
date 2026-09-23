@@ -1,3 +1,4 @@
+---
 ssid: '69777'
 sanctions_set_id: '27286'
 entity:
@@ -23,4 +24,6 @@ entity:
       day: 13
       month: 1
       year: 1994
-  justification: Mikron JSC is an entity that operates in the Russian IT sector, including in the field of electronics. Mikron JSC holds licences administered by the Federal Security Service of the Russian Federation (FSB).
+  justification: Mikron JSC is an entity that operates in the Russian IT sector, including
+    in the field of electronics. Mikron JSC holds licences administered by the Federal
+    Security Service of the Russian Federation (FSB).

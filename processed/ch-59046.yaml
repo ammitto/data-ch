@@ -1,3 +1,4 @@
+---
 ssid: '59046'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,13 @@ individual:
       day: 11
       month: 8
       year: 1983
-  justification: Marina Evgenievna Kim is a Russian TV presenter and politician, member of the Presidium of the Central Council of the pro-Kremlin party “A Just Russia – Patriots – For Truth”. In this role, she actively distributes official propaganda about the Russian war of aggression against Ukraine, and in particular on its so-called “de-nazification mission”. Her propaganda activities are aimed at increasing the support of Russian citizens for the war of aggression against Ukraine. She strongly supported the illegal referenda held within the occupied areas of Ukraine’s Luhansk region, Donetsk region, Kherson region and Zaporizhzhia region. In June 2024, she was elected to the Duma, as a deputy for the “A Just Russia – Patriots – For Truth” party.
+  justification: Marina Evgenievna Kim is a Russian TV presenter and politician, member
+    of the Presidium of the Central Council of the pro-Kremlin party “A Just Russia
+    – Patriots – For Truth”. In this role, she actively distributes official propaganda
+    about the Russian war of aggression against Ukraine, and in particular on its
+    so-called “de-nazification mission”. Her propaganda activities are aimed at increasing
+    the support of Russian citizens for the war of aggression against Ukraine. She
+    strongly supported the illegal referenda held within the occupied areas of Ukraine’s
+    Luhansk region, Donetsk region, Kherson region and Zaporizhzhia region. In June
+    2024, she was elected to the Duma, as a deputy for the “A Just Russia – Patriots
+    – For Truth” party.

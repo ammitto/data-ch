@@ -1,3 +1,4 @@
+---
 ssid: '3482'
 sanctions_set_id: '3977'
 individual:
@@ -28,4 +29,5 @@ individual:
       day: 26
       month: 2
       year: 1957
-  justification: Person identified by the International Commission of Inquiry as responsible for the 28 Sep 2009 events in Guinea.
+  justification: Person identified by the International Commission of Inquiry as responsible
+    for the 28 Sep 2009 events in Guinea.

@@ -1,3 +1,4 @@
+---
 ssid: '78465'
 sanctions_set_id: '68945'
 individual:
@@ -25,4 +26,9 @@ individual:
       day: 11
       month: 1
       year: 1966
-  justification: Seid Mir Ahmad Nooshin is the director of EU-listed Aerospace Industries Organisation (AIO). The AIO is an organisation which reports to the EU-listed Iranian Ministry of Defence and Armed Forces Logistics (MODAFL) and plays a key role in Iran’s unmanned aerial vehicle (UAV) and ballistic missile programmes. The AIO oversees Iran’s production of missiles, including by EU-listed entities Shahid Hemmat Industries Group (SHIG) and Shahid Baheri Industrial Group (SBIG).
+  justification: Seid Mir Ahmad Nooshin is the director of EU-listed Aerospace Industries
+    Organisation (AIO). The AIO is an organisation which reports to the EU-listed
+    Iranian Ministry of Defence and Armed Forces Logistics (MODAFL) and plays a key
+    role in Iran’s unmanned aerial vehicle (UAV) and ballistic missile programmes.
+    The AIO oversees Iran’s production of missiles, including by EU-listed entities
+    Shahid Hemmat Industries Group (SHIG) and Shahid Baheri Industrial Group (SBIG).

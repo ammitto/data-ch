@@ -1,3 +1,4 @@
+---
 ssid: '39805'
 sanctions_set_id: '12788'
 individual:
@@ -15,4 +16,5 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Salah
-  justification: Senior commander of the armed anti-GNA Al-Somood front, also known as Fakhr or 'Pride of Libya', and the Misratan Al Marsa Central Shield brigade.
+  justification: Senior commander of the armed anti-GNA Al-Somood front, also known
+    as Fakhr or 'Pride of Libya', and the Misratan Al Marsa Central Shield brigade.

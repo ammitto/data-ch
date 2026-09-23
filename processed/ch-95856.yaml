@@ -1,3 +1,4 @@
+---
 ssid: '95856'
 sanctions_set_id: '27286'
 entity:
@@ -20,5 +21,9 @@ entity:
         name_part_type: whole-name
         value: Intershipping Services LLC
     addresses:
-    - address_details: Al Shorafa Tower 2, Office no 1903, 19th Floor, Sheikh Rashid Bin Humaid Al Nuaimi Street Rashidiya 3
-  justification: Intershipping Services LLC is an entity based in the UAE. It operates the Gabon international flag registry, which has been flagging vessels transporting Russian crude oil or petroleum products following the beginning of Russia’s war of aggression against Ukraine, including vessels controlled by Sovcomflot.
+    - address_details: Al Shorafa Tower 2, Office no 1903, 19th Floor, Sheikh Rashid
+        Bin Humaid Al Nuaimi Street Rashidiya 3
+  justification: Intershipping Services LLC is an entity based in the UAE. It operates
+    the Gabon international flag registry, which has been flagging vessels transporting
+    Russian crude oil or petroleum products following the beginning of Russia’s war
+    of aggression against Ukraine, including vessels controlled by Sovcomflot.

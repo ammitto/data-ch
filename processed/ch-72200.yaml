@@ -1,3 +1,4 @@
+---
 ssid: '72200'
 sanctions_set_id: '27286'
 entity:
@@ -22,4 +23,7 @@ entity:
     addresses:
     - address_details: Velyaminovskaya St., 32
       zip_code: '105318'
-  justification: NPO Bazalt is a Russian military industry company. It manufactures unguided aircraft bomb weapons, grenade launcher systems, mortar shots, shots for self-propelled and towed artillery systems operating in mortar-gun mode, and hand grenades.
+  justification: NPO Bazalt is a Russian military industry company. It manufactures
+    unguided aircraft bomb weapons, grenade launcher systems, mortar shots, shots
+    for self-propelled and towed artillery systems operating in mortar-gun mode, and
+    hand grenades.

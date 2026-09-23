@@ -1,3 +1,4 @@
+---
 ssid: '62829'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 17
       month: 10
       year: 1955
-  justification: Vyacheslav Bocharov is a member of the working group established by President Putin in Dec 2022 that is tasked with coordinating the mobilization efforts of the Russian Federation to support its war of aggression against Ukraine. Beyond his role in the working group he serves as the First Deputy President of the Public Chamber of the Russian Federation and has actively expressed vocal support for the Russian invasion of Ukraine.
+  justification: Vyacheslav Bocharov is a member of the working group established
+    by President Putin in Dec 2022 that is tasked with coordinating the mobilization
+    efforts of the Russian Federation to support its war of aggression against Ukraine.
+    Beyond his role in the working group he serves as the First Deputy President of
+    the Public Chamber of the Russian Federation and has actively expressed vocal
+    support for the Russian invasion of Ukraine.

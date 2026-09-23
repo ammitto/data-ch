@@ -1,3 +1,4 @@
+---
 ssid: '57013'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 20
       month: 7
       year: 1957
-  justification: Head of Russia’s Border Service and Deputy Director of the Federal Security Service (FSB) of the Russian Federation.
+  justification: Head of Russia’s Border Service and Deputy Director of the Federal
+    Security Service (FSB) of the Russian Federation.

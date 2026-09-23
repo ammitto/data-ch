@@ -1,3 +1,4 @@
+---
 ssid: '9282'
 sanctions_set_id: '8174'
 entity:
@@ -21,4 +22,5 @@ entity:
         value: Mohandesi Tarh Va Toseh Maro Sanat Company
     addresses:
     - address_details: 9, Ground Floor, Zohre Street, Mofateh Street
-  justification: Procurement firm that has acted for Mesbah Energy which was designated under UNSCR 1737.
+  justification: Procurement firm that has acted for Mesbah Energy which was designated
+    under UNSCR 1737.

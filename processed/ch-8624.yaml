@@ -1,3 +1,4 @@
+---
 ssid: '8624'
 sanctions_set_id: '3984'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: Apt. No. 7, 3rd Floor, No. 2, 4th Alley, Gandi Ave.
     - address_details: Qaem Magham Farahani St.
-  justification: Entity owned, controlled, or acting on behalf of the Islamic Republic of Iran Shipping Lines (IRISL).
+  justification: Entity owned, controlled, or acting on behalf of the Islamic Republic
+    of Iran Shipping Lines (IRISL).

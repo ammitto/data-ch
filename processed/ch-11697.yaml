@@ -1,3 +1,4 @@
+---
 ssid: '11697'
 sanctions_set_id: '3986'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 18
       month: 6
       year: 1962
-  justification: Involved in violence against the civilian population as part of the Shabiha militia.
+  justification: Involved in violence against the civilian population as part of the
+    Shabiha militia.

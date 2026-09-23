@@ -1,3 +1,4 @@
+---
 ssid: '52414'
 sanctions_set_id: '27286'
 entity:
@@ -17,4 +18,7 @@ entity:
       zip_code: '119071'
     - address_details: Schipok street 18
       zip_code: '115093'
-  justification: Rosneft Aero delivers jet fuel to the Simferopol Airport, which provides air flight connection between the territory of the illegally annexed Crimea and Sevastopol and Russia. It thus contributes to the consolidation of the Crimean Peninsula into the Russian Federation.
+  justification: Rosneft Aero delivers jet fuel to the Simferopol Airport, which provides
+    air flight connection between the territory of the illegally annexed Crimea and
+    Sevastopol and Russia. It thus contributes to the consolidation of the Crimean
+    Peninsula into the Russian Federation.

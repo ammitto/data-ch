@@ -1,3 +1,4 @@
+---
 ssid: '45556'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 22
       month: 3
       year: 1964
-  justification: In his position of Deputy Prosecutor General, Genadz Dysko bears responsibility for politically motivated criminal cases against opposition, journalists, civil society and regular citizens. He was also involved in initiating of politically motivated criminal proceedings against Siarhei Tsikhanousky - opposition activist and husband of presidential candidate Svetlana Tsikhanouskaya. He is therefore responsible for serious human rights violations and seriously undermining the rule of law, as well as the repression of civil society and democratic opposition.
+  justification: In his position of Deputy Prosecutor General, Genadz Dysko bears
+    responsibility for politically motivated criminal cases against opposition, journalists,
+    civil society and regular citizens. He was also involved in initiating of politically
+    motivated criminal proceedings against Siarhei Tsikhanousky - opposition activist
+    and husband of presidential candidate Svetlana Tsikhanouskaya. He is therefore
+    responsible for serious human rights violations and seriously undermining the
+    rule of law, as well as the repression of civil society and democratic opposition.

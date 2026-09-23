@@ -1,3 +1,4 @@
+---
 ssid: '11689'
 sanctions_set_id: '3986'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 3
       month: 5
       year: 1953
-  justification: Head of Syrian Military Intelligence, Damascus Countryside Branch; involved in violence against the civilian population.
+  justification: Head of Syrian Military Intelligence, Damascus Countryside Branch;
+    involved in violence against the civilian population.

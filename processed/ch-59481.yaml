@@ -1,3 +1,4 @@
+---
 ssid: '59481'
 sanctions_set_id: '29445'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: United Engine Corporation-Service; Joint Stock Company “UEC-Service”; ODK-Service
+        value: United Engine Corporation-Service; Joint Stock Company “UEC-Service”;
+          ODK-Service
     addresses:
     - address_details: Gatchina, Grigorina Str., 7A
       zip_code: '188307'

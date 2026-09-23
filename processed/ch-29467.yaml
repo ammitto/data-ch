@@ -1,3 +1,4 @@
+---
 ssid: '29467'
 sanctions_set_id: '29445'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Акционерное Общество «Концерн Воздушно-Космической Обороны «Алмаз - Антей»
+        value: Акционерное Общество «Концерн Воздушно-Космической Обороны «Алмаз -
+          Антей»
     - name_type: alias
       quality: good
       lang: eng

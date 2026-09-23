@@ -1,3 +1,4 @@
+---
 ssid: '50477'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,11 @@ individual:
       day: 3
       month: 9
       year: 1967
-  justification: Vadim Denisenko is Major General, Commander of the Special Operations Forces. In this capacity, he participated in the joint military exercises of Russia and Belarus preceding the military build-up at the Ukrainian border which prepared the Russian military aggression against Ukraine of 24 Feb 2022. He is part of the Belarussian army, which has supported Russian military aggression against Ukraine. He is therefore responsible for and actively supporting actions undermining the territorial integrity, sovereignty and independence of Ukraine, as well as stability and security in Ukraine.
+  justification: Vadim Denisenko is Major General, Commander of the Special Operations
+    Forces. In this capacity, he participated in the joint military exercises of Russia
+    and Belarus preceding the military build-up at the Ukrainian border which prepared
+    the Russian military aggression against Ukraine of 24 Feb 2022. He is part of
+    the Belarussian army, which has supported Russian military aggression against
+    Ukraine. He is therefore responsible for and actively supporting actions undermining
+    the territorial integrity, sovereignty and independence of Ukraine, as well as
+    stability and security in Ukraine.

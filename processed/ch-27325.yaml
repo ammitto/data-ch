@@ -1,3 +1,4 @@
+---
 ssid: '27325'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 5
       month: 1
       year: 1958
-  justification: Former Chairman of the Security and Defence Committee of the Federation Council of the Russian Federation
+  justification: Former Chairman of the Security and Defence Committee of the Federation
+    Council of the Russian Federation

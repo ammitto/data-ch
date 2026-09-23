@@ -1,3 +1,4 @@
+---
 ssid: '43532'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 24
       month: 3
       year: 1975
-  justification: In his former position as Head of the Department of Internal Affairs of Gomel/Homyel Region/Oblast Executive Committee, he was responsible for the repression and intimidation campaign in that region/oblast against peaceful protesters in the wake of the 2020 presidential election, in particular arbitrary arrests, excessive use of force and ill-treatment, including torture.
+  justification: In his former position as Head of the Department of Internal Affairs
+    of Gomel/Homyel Region/Oblast Executive Committee, he was responsible for the
+    repression and intimidation campaign in that region/oblast against peaceful protesters
+    in the wake of the 2020 presidential election, in particular arbitrary arrests,
+    excessive use of force and ill-treatment, including torture.

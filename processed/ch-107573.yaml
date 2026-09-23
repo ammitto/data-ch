@@ -1,3 +1,4 @@
+---
 ssid: '107573'
 sanctions_set_id: '27286'
 entity:
@@ -29,4 +30,6 @@ entity:
     addresses:
     - address_details: Radiozavodskoye Highway 23A
       zip_code: '602264'
-  justification: JSC “Research and Production Enterprise Zvukotekhnika” is a Russian defence company specialising in the development and production of communication and sound-broadcasting systems for industrial, mobile, and military use.
+  justification: JSC “Research and Production Enterprise Zvukotekhnika” is a Russian
+    defence company specialising in the development and production of communication
+    and sound-broadcasting systems for industrial, mobile, and military use.

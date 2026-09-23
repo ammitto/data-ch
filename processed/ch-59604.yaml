@@ -1,3 +1,4 @@
+---
 ssid: '59604'
 sanctions_set_id: '29445'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal State Unitary Enterprise All-Russian Research Institute of Physical, Technical and Radio Engineering Measurements (VNIIFTRI)
+        value: Federal State Unitary Enterprise All-Russian Research Institute of
+          Physical, Technical and Radio Engineering Measurements (VNIIFTRI)
     - name_type: alias
       quality: good
       lang: eng

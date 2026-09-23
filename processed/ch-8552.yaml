@@ -1,3 +1,4 @@
+---
 ssid: '8552'
 sanctions_set_id: '3984'
 entity:
@@ -12,4 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Qods Aeronautics Industries
-  justification: Produces unmanned aerial vehicles (UAVs), parachutes, para-gliders, para-motors, etc. IRGC has boasted of using these products as part of its asymmetric warfare doctrine.
+  justification: Produces unmanned aerial vehicles (UAVs), parachutes, para-gliders,
+    para-motors, etc. IRGC has boasted of using these products as part of its asymmetric
+    warfare doctrine.

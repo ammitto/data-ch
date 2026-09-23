@@ -1,3 +1,4 @@
+---
 ssid: '10076'
 sanctions_set_id: '8174'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Indus Maritime Incorporation
     addresses:
     - address_details: 47st Bella Vista and Aquilino de la Guardia
-  justification: IRISL front company in Panama. It is the registered owner of a vessel owned by IRISL or an IRISL affiliate.
+  justification: IRISL front company in Panama. It is the registered owner of a vessel
+    owned by IRISL or an IRISL affiliate.

@@ -1,3 +1,4 @@
+---
 ssid: '69226'
 sanctions_set_id: '27286'
 individual:
@@ -35,4 +36,10 @@ individual:
       day: 2
       month: 8
       year: 1970
-  justification: Aliaksandr Dakuchyts is the head of the Brest branch of the State-owned enterprise “Belaeronavigatsia”, responsible for the activities of Brest Airport. Russian military aircraft take off from Brest Airport to conduct attacks in the context of the war of aggression against Ukraine. Brest Airport is also used for joint military exercises between Belarus and Russia. Therefore, Aliaksandr Dakuchyts is supporting and implementing actions which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Aliaksandr Dakuchyts is the head of the Brest branch of the State-owned
+    enterprise “Belaeronavigatsia”, responsible for the activities of Brest Airport.
+    Russian military aircraft take off from Brest Airport to conduct attacks in the
+    context of the war of aggression against Ukraine. Brest Airport is also used for
+    joint military exercises between Belarus and Russia. Therefore, Aliaksandr Dakuchyts
+    is supporting and implementing actions which undermine and threaten the territorial
+    integrity, sovereignty and independence of Ukraine.

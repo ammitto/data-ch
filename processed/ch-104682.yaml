@@ -1,3 +1,4 @@
+---
 ssid: '104682'
 sanctions_set_id: '27286'
 individual:
@@ -18,4 +19,6 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Kuantaevich
-  justification: Alimzhan Bekov is the founder and Director of LLP “United Trading Group”, a Kazakhstan-based company. He is also a representative of UrSeCo Handels GmbH & Co. KG.
+  justification: Alimzhan Bekov is the founder and Director of LLP “United Trading
+    Group”, a Kazakhstan-based company. He is also a representative of UrSeCo Handels
+    GmbH & Co. KG.

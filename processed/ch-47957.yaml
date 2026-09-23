@@ -1,3 +1,4 @@
+---
 ssid: '47957'
 sanctions_set_id: '27286'
 individual:
@@ -31,4 +32,8 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Valentinovna
-  justification: Lyubov Prigozhina is the mother of Pavel Prigozhin and owner of Agat LLC, a subsidiary of Concord Management and Consulting LLC, which belongs to the Concord group, founded and owned until 2019 by her late husband, Yevgeniy Prigozhin. She is associated with Pavel Prigozhin, who is benefitting from large public contracts with the Russian Ministry of Defence.
+  justification: Lyubov Prigozhina is the mother of Pavel Prigozhin and owner of Agat
+    LLC, a subsidiary of Concord Management and Consulting LLC, which belongs to the
+    Concord group, founded and owned until 2019 by her late husband, Yevgeniy Prigozhin.
+    She is associated with Pavel Prigozhin, who is benefitting from large public contracts
+    with the Russian Ministry of Defence.

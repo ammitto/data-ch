@@ -1,3 +1,4 @@
+---
 ssid: '6904'
 sanctions_set_id: '6094'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 11
       month: 2
       year: 1962
-  justification: Member of the security forces. Involved in group of 50 men paid directly by ZANU-PF to locate and torture MDC supporters in April 2007.
+  justification: Member of the security forces. Involved in group of 50 men paid directly
+    by ZANU-PF to locate and torture MDC supporters in April 2007.

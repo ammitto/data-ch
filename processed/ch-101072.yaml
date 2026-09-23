@@ -1,3 +1,4 @@
+---
 ssid: '101072'
 sanctions_set_id: '8174'
 entity:
@@ -23,4 +24,5 @@ entity:
     - address_details: 6, El Horeya Rd., El Attarein
     - address_details: Inside Damietta Port, New Damietta City
     - address_details: 403, El Nahda St.
-  justification: Irano MISR Shipping Company is a subsidiary of EU-listed IRISL in Egypt, providing services in Egyptian ports.
+  justification: Irano MISR Shipping Company is a subsidiary of EU-listed IRISL in
+    Egypt, providing services in Egyptian ports.

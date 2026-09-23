@@ -1,3 +1,4 @@
+---
 ssid: '104161'
 sanctions_set_id: '27286'
 entity:
@@ -22,4 +23,7 @@ entity:
     addresses:
     - address_details: Leningradskaya st., d. 11 5
       zip_code: '681007'
-  justification: LLC “RN-Komsomolsk Refinery” is a Russian entity operating an oil refinery in the Khabarovsk Territory. The energy sector, in particular the oil sector, is a sector providing a substantial source of revenue to the Government of the Russian Federation.
+  justification: LLC “RN-Komsomolsk Refinery” is a Russian entity operating an oil
+    refinery in the Khabarovsk Territory. The energy sector, in particular the oil
+    sector, is a sector providing a substantial source of revenue to the Government
+    of the Russian Federation.

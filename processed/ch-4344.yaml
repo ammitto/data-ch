@@ -1,3 +1,4 @@
+---
 ssid: '4344'
 sanctions_set_id: '4021'
 individual:
@@ -28,4 +29,7 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: J. Towah Darlington
-  justification: Director of Passports and Visas at the Ministry of Foreign Affairs in Liberia. Model’s former Chief of Staff. He has engaged in activities that threaten to cause instability in Liberia, derail the peace process and unravel the Comprehensive Peace Agreement.
+  justification: Director of Passports and Visas at the Ministry of Foreign Affairs
+    in Liberia. Model’s former Chief of Staff. He has engaged in activities that threaten
+    to cause instability in Liberia, derail the peace process and unravel the Comprehensive
+    Peace Agreement.

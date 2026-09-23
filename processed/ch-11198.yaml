@@ -1,3 +1,4 @@
+---
 ssid: '11198'
 sanctions_set_id: '8174'
 individual:
@@ -23,4 +24,5 @@ individual:
         value: IRGC Brigadier-General
     day_month_year:
       year: 1953
-  justification: Deputy Coordinator of the IRGC. Former Deputy Commander of IRGC for Cultural and Social Affairs. Former Commander of Basij Resistance Force.
+  justification: Deputy Coordinator of the IRGC. Former Deputy Commander of IRGC for
+    Cultural and Social Affairs. Former Commander of Basij Resistance Force.

@@ -1,3 +1,4 @@
+---
 ssid: '53664'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 15
       month: 2
       year: 1985
-  justification: Former member of the so-called “People’s Council” of the so-called “Donetsk People’s Republic”. Has therefore supported and implemented actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine, and further destabilised Ukraine.
+  justification: Former member of the so-called “People’s Council” of the so-called
+    “Donetsk People’s Republic”. Has therefore supported and implemented actions and
+    policies which undermine the territorial integrity, sovereignty and independence
+    of Ukraine, and further destabilised Ukraine.

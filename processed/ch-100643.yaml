@@ -1,3 +1,4 @@
+---
 ssid: '100643'
 sanctions_set_id: '8174'
 entity:
@@ -14,4 +15,8 @@ entity:
         value: North Drilling Company (NDC)
     addresses:
     - address_details: No. 2127 Valiasr St., Corner of Del Afrooz St.
-  justification: North Drilling Company is a leading company in oil and gas drilling sector. It is a subsidiary of Sina Energy Holding which is a subsidiary of the Mostazafan Foundation. The Mostazafan Foundation is a major Iranian parastatal entity controlled by the Family of the Supreme Leader, the IRGC and the Government of Iran.
+  justification: North Drilling Company is a leading company in oil and gas drilling
+    sector. It is a subsidiary of Sina Energy Holding which is a subsidiary of the
+    Mostazafan Foundation. The Mostazafan Foundation is a major Iranian parastatal
+    entity controlled by the Family of the Supreme Leader, the IRGC and the Government
+    of Iran.

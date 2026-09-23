@@ -1,3 +1,4 @@
+---
 ssid: '10300'
 sanctions_set_id: '8174'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Lancing Shipping Company Limited
     addresses:
     - address_details: 143/1 Tower Road
-  justification: IRISL front company, owned or controlled by IRISL or an IRISL affiliate. It is the registered owner of a vessel owned by IRISL or an IRISL affiliate.
+  justification: IRISL front company, owned or controlled by IRISL or an IRISL affiliate.
+    It is the registered owner of a vessel owned by IRISL or an IRISL affiliate.

@@ -1,3 +1,4 @@
+---
 ssid: '95419'
 sanctions_set_id: '27286'
 entity:
@@ -26,4 +27,10 @@ entity:
     addresses:
     - address_details: General-Leutenant Badanova Street, Building 1
       zip_code: '432072'
-  justification: LLC “Ulyanovsk Machine Tool Plant” is a Russian company specialising in the production of Computer Numerical Control machine tools and therefore active in an important field for Russia’s military and industrial complex. The company was previously owned by the German companies Gildemeister Beteiligungen GmbH and DMG Mori. In February 2024, LLC “Ulyanovsk Machine Tool Plant” was subject to an asset seizure ordered by decree of the President of the Russian Federation and transferred to the Russian Federal Agency for State Property Management (Rosimushchestvo).
+  justification: LLC “Ulyanovsk Machine Tool Plant” is a Russian company specialising
+    in the production of Computer Numerical Control machine tools and therefore active
+    in an important field for Russia’s military and industrial complex. The company
+    was previously owned by the German companies Gildemeister Beteiligungen GmbH and
+    DMG Mori. In February 2024, LLC “Ulyanovsk Machine Tool Plant” was subject to
+    an asset seizure ordered by decree of the President of the Russian Federation
+    and transferred to the Russian Federal Agency for State Property Management (Rosimushchestvo).

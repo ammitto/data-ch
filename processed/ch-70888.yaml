@@ -1,3 +1,4 @@
+---
 ssid: '70888'
 sanctions_set_id: '29445'
 entity:
@@ -29,4 +30,5 @@ entity:
     addresses:
     - address_details: Gelsingforsskaya Str., 3, Letter Z, Office 412
       zip_code: '194044'
-    - address_details: 2nd Roshchinsky Proezd, 8, Building 6, Business Centre “Serpukhovskoy Dvor”
+    - address_details: 2nd Roshchinsky Proezd, 8, Building 6, Business Centre “Serpukhovskoy
+        Dvor”

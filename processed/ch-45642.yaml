@@ -1,3 +1,4 @@
+---
 ssid: '45642'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 18
       month: 6
       year: 1974
-  justification: In his position as the Rector of the Belarusian State Medical University, whose appointment was approved by Alexander Lukashenka, Siarhei Rubnikovich is responsible for the decision of University administration to expel students for taking part in peaceful protests. The expulsion orders were taken following Lukashenka's call on 27 October 2020 for expelling from universities students taking part in protests and strikes.
+  justification: In his position as the Rector of the Belarusian State Medical University,
+    whose appointment was approved by Alexander Lukashenka, Siarhei Rubnikovich is
+    responsible for the decision of University administration to expel students for
+    taking part in peaceful protests. The expulsion orders were taken following Lukashenka's
+    call on 27 October 2020 for expelling from universities students taking part in
+    protests and strikes.

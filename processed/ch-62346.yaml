@@ -1,3 +1,4 @@
+---
 ssid: '62346'
 sanctions_set_id: '3986'
 entity:
@@ -40,4 +41,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: STG Engineering
-  justification: Stroytransgaz is a Russian engineering and construction company operating in Syria, which amongst other things assumed control of Syria’s largest phosphate mines.
+  justification: Stroytransgaz is a Russian engineering and construction company operating
+    in Syria, which amongst other things assumed control of Syria’s largest phosphate
+    mines.

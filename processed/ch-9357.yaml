@@ -1,3 +1,4 @@
+---
 ssid: '9357'
 sanctions_set_id: '8174'
 entity:
@@ -50,4 +51,5 @@ entity:
     addresses:
     - address_details: Ulitsa Klary Tsetkin 51-1
       zip_code: '220004'
-  justification: Belarus-based bank owned by Bank Refah Kargaran, Bank Saderat and Bank Toseeh Saderat Iran.
+  justification: Belarus-based bank owned by Bank Refah Kargaran, Bank Saderat and
+    Bank Toseeh Saderat Iran.

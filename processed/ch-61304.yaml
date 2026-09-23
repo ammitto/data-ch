@@ -1,3 +1,4 @@
+---
 ssid: '61304'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 27
       month: 4
       year: 1972
-  justification: Maxim Zamshev is a Russian writer. He is a member of the Presidential Council for Civil Society and Human Rights. He is also an editor-in-chief of the Literaturnaya Gazeta. Since the start of Russia’s war of aggression against Ukraine he has supported Russia’s invasion, and spread Russian propaganda and disinformation about the war.
+  justification: Maxim Zamshev is a Russian writer. He is a member of the Presidential
+    Council for Civil Society and Human Rights. He is also an editor-in-chief of the
+    Literaturnaya Gazeta. Since the start of Russia’s war of aggression against Ukraine
+    he has supported Russia’s invasion, and spread Russian propaganda and disinformation
+    about the war.

@@ -1,3 +1,4 @@
+---
 ssid: '75572'
 sanctions_set_id: '27286'
 entity:
@@ -30,4 +31,7 @@ entity:
       day: 25
       month: 11
       year: 2002
-  justification: Burovaya Kompaniya Evraziya LLC is a leading company in the Russian energy sector. As one of the largest drilling companies in Russia, Burovaya Kompaniya Evraziya LLC contributes substantially to the development of the Russian energy sector.
+  justification: Burovaya Kompaniya Evraziya LLC is a leading company in the Russian
+    energy sector. As one of the largest drilling companies in Russia, Burovaya Kompaniya
+    Evraziya LLC contributes substantially to the development of the Russian energy
+    sector.

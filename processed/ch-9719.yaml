@@ -1,3 +1,4 @@
+---
 ssid: '9719'
 sanctions_set_id: '8174'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: 143 Tower Road
       zip_code: '1604'
-  justification: Alpha Nari Navigation Limited is a front company owned or controlled by IRISL. It is the registered owner of several vessels owned by IRISL or an IRISL affiliate.
+  justification: Alpha Nari Navigation Limited is a front company owned or controlled
+    by IRISL. It is the registered owner of several vessels owned by IRISL or an IRISL
+    affiliate.

@@ -1,3 +1,4 @@
+---
 ssid: '103308'
 sanctions_set_id: '13065'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: Mirdamad Blvd
       zip_code: '1518964613'
-  justification: Naji Research and Development Company (NRDC) is an Iranian IT-services and consultancy company that is responsible for developing the Nazer mobile application for Iran’s Law Enforcement Forces.
+  justification: Naji Research and Development Company (NRDC) is an Iranian IT-services
+    and consultancy company that is responsible for developing the Nazer mobile application
+    for Iran’s Law Enforcement Forces.

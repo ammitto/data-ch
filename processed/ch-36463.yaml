@@ -1,3 +1,4 @@
+---
 ssid: '36463'
 sanctions_set_id: '3978'
 individual:
@@ -38,4 +39,6 @@ individual:
       month: 8
       year: 1948
     addresses:
-  justification: Member of the Worker's Party of Korea's Organization and Guidance Department, which directs key personnel appointments for the Workers’ Party of Korea and the DPRK’s military.
+  justification: Member of the Worker's Party of Korea's Organization and Guidance
+    Department, which directs key personnel appointments for the Workers’ Party of
+    Korea and the DPRK’s military.

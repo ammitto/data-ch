@@ -1,3 +1,4 @@
+---
 ssid: '7120'
 sanctions_set_id: '6093'
 entity:
@@ -21,4 +22,5 @@ entity:
         value: Operation Sovereign Legitimacy
     addresses:
     - address_details: Lonhoro House, Union Avenue
-  justification: Controlled by Zimbabwe army. Associated with the Ministry of Defence and the ZANU-PF faction of Government.
+  justification: Controlled by Zimbabwe army. Associated with the Ministry of Defence
+    and the ZANU-PF faction of Government.

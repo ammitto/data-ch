@@ -1,3 +1,4 @@
+---
 ssid: '73872'
 sanctions_set_id: '29445'
 entity:
@@ -29,4 +30,5 @@ entity:
     addresses:
     - address_details: Building C Mizi Industrial, Zone 5
       zip_code: 8e
-    - address_details: R301 Block A of No 3 Building West Area of Tongda Industrial Zone 5, She Helong street
+    - address_details: R301 Block A of No 3 Building West Area of Tongda Industrial
+        Zone 5, She Helong street

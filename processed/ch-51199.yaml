@@ -1,3 +1,4 @@
+---
 ssid: '51199'
 sanctions_set_id: '27286'
 individual:
@@ -18,4 +19,6 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Vladimirovich
-  justification: Vladimir Vladimirovich Kulazhin has held the position of Deputy Commander of the Troops of the North-Western Operational Command of Belarus. He is currently reassigned to the reserves.
+  justification: Vladimir Vladimirovich Kulazhin has held the position of Deputy Commander
+    of the Troops of the North-Western Operational Command of Belarus. He is currently
+    reassigned to the reserves.

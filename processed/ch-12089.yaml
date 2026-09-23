@@ -1,3 +1,4 @@
+---
 ssid: '12089'
 sanctions_set_id: '3986'
 individual:
@@ -32,4 +33,5 @@ individual:
       day: 16
       month: 2
       year: 1954
-  justification: Gave orders to troops to shoot protestors in Duma, under the former al-Assad regime.
+  justification: Gave orders to troops to shoot protestors in Duma, under the former
+    al-Assad regime.

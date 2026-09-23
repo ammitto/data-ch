@@ -1,3 +1,4 @@
+---
 ssid: '61755'
 sanctions_set_id: '29445'
 entity:
@@ -20,5 +21,6 @@ entity:
         name_part_type: whole-name
         value: JSC Research and Production Enterprise Topaz
     addresses:
-    - address_details: 3rd Mytishchinskaya Str., 16, Building 34, Floor 2, Office III, Room 25
+    - address_details: 3rd Mytishchinskaya Str., 16, Building 34, Floor 2, Office
+        III, Room 25
       zip_code: '129626'

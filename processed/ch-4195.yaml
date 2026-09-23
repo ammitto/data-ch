@@ -1,3 +1,4 @@
+---
 ssid: '4195'
 sanctions_set_id: '4021'
 individual:
@@ -25,4 +26,6 @@ individual:
       - order: 2
         name_part_type: whole-name
         value: Mark-1
-  justification: "«General» for the former LURD armed faction. He has engaged in activities that threaten to cause instability in Liberia, derail the peace process and unravel the Comprehensive Peace Agreement."
+  justification: "«General» for the former LURD armed faction. He has engaged in activities
+    that threaten to cause instability in Liberia, derail the peace process and unravel
+    the Comprehensive Peace Agreement."

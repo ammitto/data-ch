@@ -1,3 +1,4 @@
+---
 ssid: '52633'
 sanctions_set_id: '29445'
 entity:
@@ -27,7 +28,8 @@ entity:
         name_part_type: whole-name
         value: Radioautomatic LLC
     addresses:
-    - address_details: Municipal District Troparevo-Nikulino, Akademika Anokhina Str., 2, Building 7
+    - address_details: Municipal District Troparevo-Nikulino, Akademika Anokhina Str.,
+        2, Building 7
       zip_code: '119602'
     - address_details: Zolotorozhsky Val Str., 11, Building 22
       zip_code: '101033'

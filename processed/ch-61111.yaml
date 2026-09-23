@@ -1,3 +1,4 @@
+---
 ssid: '61111'
 sanctions_set_id: '27286'
 individual:
@@ -42,4 +43,5 @@ individual:
       day: 20
       month: 7
       year: 1991
-  justification: Hayk Gasparyan, known as “Abrek”, is the commander of the assault forces of the Wagner Group in Ukraine and the commander of “ArBat” battalion.
+  justification: Hayk Gasparyan, known as “Abrek”, is the commander of the assault
+    forces of the Wagner Group in Ukraine and the commander of “ArBat” battalion.

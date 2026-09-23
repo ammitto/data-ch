@@ -1,3 +1,4 @@
+---
 ssid: '62374'
 sanctions_set_id: '3986'
 entity:
@@ -32,4 +33,6 @@ entity:
       year: 2017
     addresses:
     - address_details: Saraya Roundabout, Western Villas, Mazze
-  justification: Castle for Security and Protection LLC is a private company, which acts as a shell company for the Fourth Division of the Syrian Arab Army, which is led by Maher al-Assad.
+  justification: Castle for Security and Protection LLC is a private company, which
+    acts as a shell company for the Fourth Division of the Syrian Arab Army, which
+    is led by Maher al-Assad.

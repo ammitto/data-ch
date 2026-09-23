@@ -1,3 +1,4 @@
+---
 ssid: '98302'
 sanctions_set_id: '27286'
 individual:
@@ -20,4 +21,7 @@ individual:
         value: Vladimirovich
     day_month_year:
       year: 1971
-  justification: Roman Titkov is the General Director of PJSC “Dalpribor”, an instrument-making company of the Russian military-industrial complex. The company has delivered equipment to the Russian Ministry of Defence, thereby implementing the State defence order.
+  justification: Roman Titkov is the General Director of PJSC “Dalpribor”, an instrument-making
+    company of the Russian military-industrial complex. The company has delivered
+    equipment to the Russian Ministry of Defence, thereby implementing the State defence
+    order.

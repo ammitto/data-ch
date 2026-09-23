@@ -1,3 +1,4 @@
+---
 ssid: '70172'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,7 @@ entity:
     addresses:
     - address_details: st. Yastrzhembskogo, 41a
       zip_code: '640007'
-  justification: Kurganpribor is a Russian military industry company. It provides weapons to the Ministry of Defence of the Russian Federation under the State defence order. It produces fuses for tank shots, land and naval artillery, multiple rocket launcher systems, and anti-aircraft missile systems.
+  justification: Kurganpribor is a Russian military industry company. It provides
+    weapons to the Ministry of Defence of the Russian Federation under the State defence
+    order. It produces fuses for tank shots, land and naval artillery, multiple rocket
+    launcher systems, and anti-aircraft missile systems.

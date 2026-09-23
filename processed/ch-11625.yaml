@@ -1,3 +1,4 @@
+---
 ssid: '11625'
 sanctions_set_id: '3986'
 individual:
@@ -26,4 +27,8 @@ individual:
       day: 8
       month: 12
       year: 1967
-  justification: Member of the Syria Armed Forces of the rank of Colonel and the equivalent or higher in post after May 2011 under the former al-Assad regime; Major General of the 42nd Brigade and former Brigadier Commander of the Army’s 4th Armoured Division under the former al-Assad regime. Member of the Assad family; brother of former President Bashar al-Assad.
+  justification: Member of the Syria Armed Forces of the rank of Colonel and the equivalent
+    or higher in post after May 2011 under the former al-Assad regime; Major General
+    of the 42nd Brigade and former Brigadier Commander of the Army’s 4th Armoured
+    Division under the former al-Assad regime. Member of the Assad family; brother
+    of former President Bashar al-Assad.

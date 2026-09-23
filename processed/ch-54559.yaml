@@ -1,3 +1,4 @@
+---
 ssid: '54559'
 sanctions_set_id: '4387'
 entity:
@@ -19,4 +20,10 @@ entity:
     addresses:
     - address_details: 5 Korzha St.
       zip_code: '223710'
-  justification: OJSC Belaruskali is a state-owned enterprise and one of the biggest potash producers in the world. Despite the decline of its global share in the global potash market from 20 % to 9 % in 2022, Belaruskali remains one of the most significant exporters of potash and a substantial source of revenue for the Belarussian state budget. Alexander Lukashenka described Belaruskali as “a national treasure, pride, one of the pillars of Belarusian exports”. It is also a major source of foreign currency for the Lukashenka regime.
+  justification: OJSC Belaruskali is a state-owned enterprise and one of the biggest
+    potash producers in the world. Despite the decline of its global share in the
+    global potash market from 20 % to 9 % in 2022, Belaruskali remains one of the
+    most significant exporters of potash and a substantial source of revenue for the
+    Belarussian state budget. Alexander Lukashenka described Belaruskali as “a national
+    treasure, pride, one of the pillars of Belarusian exports”. It is also a major
+    source of foreign currency for the Lukashenka regime.

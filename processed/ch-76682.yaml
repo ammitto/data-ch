@@ -1,3 +1,4 @@
+---
 ssid: '76682'
 sanctions_set_id: '29445'
 entity:
@@ -34,4 +35,5 @@ entity:
         name_part_type: whole-name
         value: China Head Technology Company
     addresses:
-    - address_details: Room n°1, 13th floor, Building n°5, Defence Science and Technology Park, Compound A2, West 3rd Ring North Road, Haidian district
+    - address_details: Room n°1, 13th floor, Building n°5, Defence Science and Technology
+        Park, Compound A2, West 3rd Ring North Road, Haidian district

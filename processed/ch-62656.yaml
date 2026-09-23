@@ -1,3 +1,4 @@
+---
 ssid: '62656'
 sanctions_set_id: '62614'
 individual:
@@ -35,4 +36,8 @@ individual:
       day: 13
       month: 12
       year: 1988
-  justification: Igor Chaika is a Russian businessman responsible for funnelling money in support of the Russian Federal Security Service (FSB) projects aimed at destabilising the Republic of Moldova. He played the role of Russian “purse”, channelling money to FSB assets in the Republic of Moldova in order to bring the country under the control of the Kremlin.
+  justification: Igor Chaika is a Russian businessman responsible for funnelling money
+    in support of the Russian Federal Security Service (FSB) projects aimed at destabilising
+    the Republic of Moldova. He played the role of Russian “purse”, channelling money
+    to FSB assets in the Republic of Moldova in order to bring the country under the
+    control of the Kremlin.

@@ -1,3 +1,4 @@
+---
 ssid: '28829'
 sanctions_set_id: '3986'
 entity:
@@ -22,4 +23,6 @@ entity:
     addresses:
     - address_details: Al Thawraa Street
     - address_details: Al-Hameh
-  justification: Involved in the procurement of military equipment for the former al-Assad regime, and therefore responsible for the violent repression of the civilian population in Syria. Branch of the Syrian Ministry of Defence.
+  justification: Involved in the procurement of military equipment for the former
+    al-Assad regime, and therefore responsible for the violent repression of the civilian
+    population in Syria. Branch of the Syrian Ministry of Defence.

@@ -1,3 +1,4 @@
+---
 ssid: '46913'
 sanctions_set_id: '3986'
 entity:
@@ -19,4 +20,5 @@ entity:
     addresses:
     - address_details: Ochakovskoye Shosse, Dom 28, Building 2, Local 3, Room 8
       zip_code: '119530'
-  justification: Velada LLC is a private company that is involved in the oil and gas sector in Syria.
+  justification: Velada LLC is a private company that is involved in the oil and gas
+    sector in Syria.

@@ -1,3 +1,4 @@
+---
 ssid: '35753'
 sanctions_set_id: '3986'
 individual:
@@ -19,4 +20,6 @@ individual:
       day: 27
       month: 12
       year: 1964
-  justification: Former Governor of the Central Bank of Syria. Was responsible for providing economic and financial support to the former al-Assad regime through his functions as the Governor of the Central Bank of Syria.
+  justification: Former Governor of the Central Bank of Syria. Was responsible for
+    providing economic and financial support to the former al-Assad regime through
+    his functions as the Governor of the Central Bank of Syria.

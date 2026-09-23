@@ -1,3 +1,4 @@
+---
 ssid: '70198'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: Bolshoy Sampsionievsky prospect, 24A
       zip_code: '194044'
-  justification: MPO-Gidropribor is a Russian military industry company. It is a leading manufacturer and supplier of underwater weapons for the Russian Navy.
+  justification: MPO-Gidropribor is a Russian military industry company. It is a leading
+    manufacturer and supplier of underwater weapons for the Russian Navy.

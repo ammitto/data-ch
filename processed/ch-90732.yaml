@@ -1,3 +1,4 @@
+---
 ssid: '90732'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 9
       month: 8
       year: 1975
-  justification: Aleh Ramanau is a long-time supporter of President Lukashenka. In 2022, Aleh Ramanau was elected as a chairman of pro-regime public association “Belaya Rus”, which he turned into the largest political party in Belarus, holding the majority of seats in the Parliament.
+  justification: Aleh Ramanau is a long-time supporter of President Lukashenka. In
+    2022, Aleh Ramanau was elected as a chairman of pro-regime public association
+    “Belaya Rus”, which he turned into the largest political party in Belarus, holding
+    the majority of seats in the Parliament.

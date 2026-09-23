@@ -1,3 +1,4 @@
+---
 ssid: '72345'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 30
       month: 10
       year: 1964
-  justification: Igor Ponomarev is the former General Director of JSC Concern Granit-Electron, which produces automatic control systems for P-800 Oniks (Yakhont) missiles, which are used by Russian Armed Forces in the war of aggression against Ukraine.
+  justification: Igor Ponomarev is the former General Director of JSC Concern Granit-Electron,
+    which produces automatic control systems for P-800 Oniks (Yakhont) missiles, which
+    are used by Russian Armed Forces in the war of aggression against Ukraine.

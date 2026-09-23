@@ -1,3 +1,4 @@
+---
 ssid: '105574'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 6
       month: 3
       year: 1957
-  justification: Viktor Adrov is General Director and co-founder of Rakurs JSC which is a Russian software company and a contractor for the Russian Ministry of Defence.
+  justification: Viktor Adrov is General Director and co-founder of Rakurs JSC which
+    is a Russian software company and a contractor for the Russian Ministry of Defence.

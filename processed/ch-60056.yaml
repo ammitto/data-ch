@@ -1,3 +1,4 @@
+---
 ssid: '60056'
 sanctions_set_id: '27286'
 entity:
@@ -16,4 +17,6 @@ entity:
       year: 1977
     addresses:
     - address_details: Sepahbod Gharani Avenue 107
-  justification: Iran Aircraft Manufacturing Industries Corporation (HESA) is an Iranian company specialised in manufacturing military and civilian aircraft, and unmanned aerial vehicles (UAVs).
+  justification: Iran Aircraft Manufacturing Industries Corporation (HESA) is an Iranian
+    company specialised in manufacturing military and civilian aircraft, and unmanned
+    aerial vehicles (UAVs).

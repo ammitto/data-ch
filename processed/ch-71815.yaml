@@ -1,3 +1,4 @@
+---
 ssid: '71815'
 sanctions_set_id: '27286'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company “Military-Industrial Corporation ‘Research and Production Association of Mechanical Engineering’”
+        value: Joint Stock Company “Military-Industrial Corporation ‘Research and
+          Production Association of Mechanical Engineering’”
     - name_type: alias
       quality: good
       lang: eng
@@ -32,4 +34,6 @@ entity:
       year: 2007
     addresses:
     - address_details: Gagarina street 33
-  justification: JSC Mashinostroyeniya is responsible for producing and designing the P-800 Oniks (Onyx) missile, which is used by the Russian Armed Forces in the war of aggression against Ukraine.
+  justification: JSC Mashinostroyeniya is responsible for producing and designing
+    the P-800 Oniks (Onyx) missile, which is used by the Russian Armed Forces in the
+    war of aggression against Ukraine.

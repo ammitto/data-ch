@@ -1,3 +1,4 @@
+---
 ssid: '73316'
 sanctions_set_id: '27286'
 entity:
@@ -40,4 +41,11 @@ entity:
     addresses:
     - address_details: str. Oleg Koshevogo, d.2
       zip_code: '453102'
-  justification: Federal State Enterprise Avangard (FKP Avangard) is a Russian defence enterprise that fulfils state defence orders for the disposal of military equipment and weapons. FKP Avangard also carries out research and development work on the creation and modernisation of ammunition. The enterprise is state-owned through the Rostec State Corporation and Federal Agency for State Property Management. The modernisation of the enterprise was covered by a federal targeted programme and the territorial administration of the Federal Agency for State Property Management in Bashkiria provided FKP Avangard with land to expand its production capacity.
+  justification: Federal State Enterprise Avangard (FKP Avangard) is a Russian defence
+    enterprise that fulfils state defence orders for the disposal of military equipment
+    and weapons. FKP Avangard also carries out research and development work on the
+    creation and modernisation of ammunition. The enterprise is state-owned through
+    the Rostec State Corporation and Federal Agency for State Property Management.
+    The modernisation of the enterprise was covered by a federal targeted programme
+    and the territorial administration of the Federal Agency for State Property Management
+    in Bashkiria provided FKP Avangard with land to expand its production capacity.

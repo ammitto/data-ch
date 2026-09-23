@@ -1,3 +1,4 @@
+---
 ssid: '6638'
 sanctions_set_id: '6094'
 individual:
@@ -20,4 +21,5 @@ individual:
         value: Khaya
     day_month_year:
       year: 1945
-  justification: Member of the ZANU-PF Politburo with ongoing ties to its repressive policy.
+  justification: Member of the ZANU-PF Politburo with ongoing ties to its repressive
+    policy.

@@ -1,3 +1,4 @@
+---
 ssid: '59790'
 sanctions_set_id: '29445'
 entity:
@@ -18,14 +19,17 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Филиал Публичного Акционерного Общества «Объединенная Авиастроительная Корпорация» – Луховицкий Авиационный Завод имени П.А. Воронина (Филиал ПАО «ОАК» - Луховицкий Авиационный Завод)
+        value: Филиал Публичного Акционерного Общества «Объединенная Авиастроительная
+          Корпорация» – Луховицкий Авиационный Завод имени П.А. Воронина (Филиал ПАО
+          «ОАК» - Луховицкий Авиационный Завод)
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Branch of Public Joint Stock Company “United Aircraft Corporation” – Lukhovitsky Aviation Plant named after P. A. Voronin
+        value: Branch of Public Joint Stock Company “United Aircraft Corporation”
+          – Lukhovitsky Aviation Plant named after P. A. Voronin
     - name_type: alias
       quality: good
       lang: eng

@@ -1,3 +1,4 @@
+---
 ssid: '71730'
 sanctions_set_id: '27286'
 entity:
@@ -33,4 +34,9 @@ entity:
     addresses:
     - address_details: Sormovskoe highway, no. 21
       zip_code: '603052'
-  justification: JSC NMZ (a.k.a. Nizhny Novgorod Machine-Building Plant) is a Russian military-industrial state enterprise that develops artillery systems and missile systems, including the S-300 anti-aircraft missile systems, deployed by the Russian Armed Forces. Moreover, JSC NMZ is part of the Almaz-Antey concern, a Russian state-owned arms manufacturer that develops anti-aircraft defence and cruise missile systems for the Russian military.
+  justification: JSC NMZ (a.k.a. Nizhny Novgorod Machine-Building Plant) is a Russian
+    military-industrial state enterprise that develops artillery systems and missile
+    systems, including the S-300 anti-aircraft missile systems, deployed by the Russian
+    Armed Forces. Moreover, JSC NMZ is part of the Almaz-Antey concern, a Russian
+    state-owned arms manufacturer that develops anti-aircraft defence and cruise missile
+    systems for the Russian military.

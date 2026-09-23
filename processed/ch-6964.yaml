@@ -1,3 +1,4 @@
+---
 ssid: '6964'
 sanctions_set_id: '6094'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 6
       month: 6
       year: 1945
-  justification: ZANU-PF Member of the Government involved activities interfering with the freedom of the press in 2009.
+  justification: ZANU-PF Member of the Government involved activities interfering
+    with the freedom of the press in 2009.

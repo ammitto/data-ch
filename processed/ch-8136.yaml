@@ -1,3 +1,4 @@
+---
 ssid: '8136'
 sanctions_set_id: '3983'
 individual:
@@ -58,4 +59,9 @@ individual:
       year: 1962
     addresses:
     - address_details: Majengo area
-  justification: Abubaker Shariff Ahmed is a leading facilitator and recruiter of young Kenyan Muslims for violent militant activity in Somalia, and a close associate of Aboud Rogo. He provides material support to extremists groups in Kenya (and elsewhere in East Africa). Through his frequent trips to al-Shabaab strongholds in Somalia, including Kismayo, he has been able to maintain strong ties with senior al-Shabaab members.
+  justification: Abubaker Shariff Ahmed is a leading facilitator and recruiter of
+    young Kenyan Muslims for violent militant activity in Somalia, and a close associate
+    of Aboud Rogo. He provides material support to extremists groups in Kenya (and
+    elsewhere in East Africa). Through his frequent trips to al-Shabaab strongholds
+    in Somalia, including Kismayo, he has been able to maintain strong ties with senior
+    al-Shabaab members.

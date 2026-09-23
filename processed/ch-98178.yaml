@@ -1,3 +1,4 @@
+---
 ssid: '98178'
 sanctions_set_id: '27286'
 individual:
@@ -18,4 +19,7 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Yurievich
-  justification: Maxim Krivonos is the current Director of the so-called “Department of Education and Science of the City of Sevastopol”, in which capacity he actively supports and implements Russian education policies relating to Ukrainian children, including promoting Russian national propaganda and military education.
+  justification: Maxim Krivonos is the current Director of the so-called “Department
+    of Education and Science of the City of Sevastopol”, in which capacity he actively
+    supports and implements Russian education policies relating to Ukrainian children,
+    including promoting Russian national propaganda and military education.

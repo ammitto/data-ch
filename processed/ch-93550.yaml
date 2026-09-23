@@ -1,3 +1,4 @@
+---
 ssid: '93550'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 16
       month: 11
       year: 1957
-  justification: Sergey Kogogin is General Director of KAMAZ Publicly Traded Company (KAMAZ PJSC).
+  justification: Sergey Kogogin is General Director of KAMAZ Publicly Traded Company
+    (KAMAZ PJSC).

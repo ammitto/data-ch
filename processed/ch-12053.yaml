@@ -1,3 +1,4 @@
+---
 ssid: '12053'
 sanctions_set_id: '3986'
 individual:
@@ -32,4 +33,5 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Jdid
-  justification: Presidential Guard. Military official under the former al-Assad regime involved in the violence in Homs.
+  justification: Presidential Guard. Military official under the former al-Assad regime
+    involved in the violence in Homs.

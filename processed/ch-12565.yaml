@@ -1,3 +1,4 @@
+---
 ssid: '12565'
 sanctions_set_id: '3986'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Ministry of Interior
     addresses:
     - address_details: Merjeh Square
-  justification: Syrian government branch directly involved in repression under the former al-Assad regime.
+  justification: Syrian government branch directly involved in repression under the
+    former al-Assad regime.

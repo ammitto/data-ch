@@ -1,3 +1,4 @@
+---
 ssid: '12707'
 sanctions_set_id: '3986'
 individual:
@@ -18,4 +19,5 @@ individual:
       - order: 3
         name_part_type: title
         value: General
-  justification: Air Force Chief of Staff since 2010 under the former al-Assad regime. Commands air operations against opponents.
+  justification: Air Force Chief of Staff since 2010 under the former al-Assad regime.
+    Commands air operations against opponents.

@@ -1,3 +1,4 @@
+---
 ssid: '89981'
 sanctions_set_id: '29445'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Shanghai ManYa Industrial and Trade Co., Ltd
     addresses:
     - address_details: No. 177, Street Meisheng
-    - address_details: Street Zhongshan, Rongyue Road, Lane 208, Fuyue Plaza, Block C, Room C2001
+    - address_details: Street Zhongshan, Rongyue Road, Lane 208, Fuyue Plaza, Block
+        C, Room C2001

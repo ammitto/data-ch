@@ -1,3 +1,4 @@
+---
 ssid: '64114'
 sanctions_set_id: '29445'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company Nizhny Novgorod Plant of the 70th Anniversary of Victory
+        value: Joint Stock Company Nizhny Novgorod Plant of the 70th Anniversary of
+          Victory
     - name_type: alias
       quality: good
       lang: eng

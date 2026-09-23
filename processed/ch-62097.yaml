@@ -1,3 +1,4 @@
+---
 ssid: '62097'
 sanctions_set_id: '3986'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 18
       month: 7
       year: 1980
-  justification: Wasim Badia al-Assad is Bashar al-Assad’s cousin; he is therefore a member of the Assad family.
+  justification: Wasim Badia al-Assad is Bashar al-Assad’s cousin; he is therefore
+    a member of the Assad family.

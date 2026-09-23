@@ -1,3 +1,4 @@
+---
 ssid: '70058'
 sanctions_set_id: '27286'
 entity:
@@ -22,4 +23,7 @@ entity:
     addresses:
     - address_details: 31 B Shabolovka Street
       zip_code: '115162'
-  justification: 'AlfaStrakhovanie Group is one of the largest insurance groups in Russia. It is part of the Alfa Group Consortium. AlfaStrakhovanie Group includes 4 insurance companies: AlfaStrakhovanie PLC, AlfaStrakhovanie-Life LLC, AlfaStrakhovanie-OMS LLC and Medicine AlfaStrakhovanie LLC.'
+  justification: 'AlfaStrakhovanie Group is one of the largest insurance groups in
+    Russia. It is part of the Alfa Group Consortium. AlfaStrakhovanie Group includes
+    4 insurance companies: AlfaStrakhovanie PLC, AlfaStrakhovanie-Life LLC, AlfaStrakhovanie-OMS
+    LLC and Medicine AlfaStrakhovanie LLC.'

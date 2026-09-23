@@ -1,3 +1,4 @@
+---
 ssid: '98190'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 29
       month: 1
       year: 1957
-  justification: Nadezhda Boltenko is the Commissioner for Children’s Rights in the Novosibirsk Region. In that role, she has been involved in the illegal transportation of Ukrainian children to Russia and is actively supporting their adoption by Russian families. She is also involved in the organisation and the promotion of so-called “recreational camps” where Ukrainian children taken from illegally occupied territories of Ukraine receive Russian patriotic education.
+  justification: Nadezhda Boltenko is the Commissioner for Children’s Rights in the
+    Novosibirsk Region. In that role, she has been involved in the illegal transportation
+    of Ukrainian children to Russia and is actively supporting their adoption by Russian
+    families. She is also involved in the organisation and the promotion of so-called
+    “recreational camps” where Ukrainian children taken from illegally occupied territories
+    of Ukraine receive Russian patriotic education.

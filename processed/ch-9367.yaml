@@ -1,3 +1,4 @@
+---
 ssid: '9367'
 sanctions_set_id: '8174'
 entity:
@@ -64,4 +65,7 @@ entity:
     addresses:
     - address_details: No. 2417 Valiasr St., corner of 14th St.
       zip_code: '43316'
-  justification: Manufacturer of frequency changers and it is capable of developing and modifying imported foreign frequency changers in a way that makes them usable in gas centrifuge enrichment. It is deemed to be involved in nuclear proliferation activities.
+  justification: Manufacturer of frequency changers and it is capable of developing
+    and modifying imported foreign frequency changers in a way that makes them usable
+    in gas centrifuge enrichment. It is deemed to be involved in nuclear proliferation
+    activities.

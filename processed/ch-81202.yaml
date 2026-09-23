@@ -1,3 +1,4 @@
+---
 ssid: '81202'
 sanctions_set_id: '68945'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: Office 19, ul Dzerzhinskogo, 72B
       zip_code: '414015'
-  justification: VTS Broker LLC is a Russian shipping company whose vessels are involved in shipping Iranian military-related commodities, including unmanned aerial vehicles (UAV) components, to Russia.
+  justification: VTS Broker LLC is a Russian shipping company whose vessels are involved
+    in shipping Iranian military-related commodities, including unmanned aerial vehicles
+    (UAV) components, to Russia.

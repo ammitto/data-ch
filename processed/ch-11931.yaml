@@ -1,3 +1,4 @@
+---
 ssid: '11931'
 sanctions_set_id: '3986'
 individual:
@@ -20,4 +21,6 @@ individual:
         value: Awwad
     day_month_year:
       year: 1943
-  justification: Former Minister of Justice under the former al-Assad regime. Associated with the former al-Assad regime and its violent repression of the civilian population. Former Head of Military Court. Member of the High Judicial Council.
+  justification: Former Minister of Justice under the former al-Assad regime. Associated
+    with the former al-Assad regime and its violent repression of the civilian population.
+    Former Head of Military Court. Member of the High Judicial Council.

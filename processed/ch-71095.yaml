@@ -1,3 +1,4 @@
+---
 ssid: '71095'
 sanctions_set_id: '3986'
 individual:
@@ -19,4 +20,8 @@ individual:
       day: 6
       month: 3
       year: 1967
-  justification: Mohannad al-Dabbagh is a cousin of Asma al-Assad. He co-owns Takamol LLC, a company responsible for managing the electronic “smart card program” used since 2014 to distribute subsidised food and other products in Syria under the umbrella of the Ministry of Domestic Trade and Consumer Protection. In particular, Takamol LLC earns a fee for every transaction operated through the smart card.
+  justification: Mohannad al-Dabbagh is a cousin of Asma al-Assad. He co-owns Takamol
+    LLC, a company responsible for managing the electronic “smart card program” used
+    since 2014 to distribute subsidised food and other products in Syria under the
+    umbrella of the Ministry of Domestic Trade and Consumer Protection. In particular,
+    Takamol LLC earns a fee for every transaction operated through the smart card.

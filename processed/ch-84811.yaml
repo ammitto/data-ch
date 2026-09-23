@@ -1,3 +1,4 @@
+---
 ssid: '84811'
 sanctions_set_id: '47224'
 individual:
@@ -60,6 +61,8 @@ individual:
       month: 9
       year: 1958
     addresses:
-    - address_details: Masjid Baitul Amin, Waringinrejo RT 01 RW 02, Grogol, Cemani, Sukoharjo
+    - address_details: Masjid Baitul Amin, Waringinrejo RT 01 RW 02, Grogol, Cemani,
+        Sukoharjo
       zip_code: '57572'
-    - address_details: Desa Cemani, Waringinrejo RT 001/021, Kecamatan Grogol, Kabupaten Sukoharjo
+    - address_details: Desa Cemani, Waringinrejo RT 001/021, Kecamatan Grogol, Kabupaten
+        Sukoharjo

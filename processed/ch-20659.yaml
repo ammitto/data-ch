@@ -1,3 +1,4 @@
+---
 ssid: '20659'
 sanctions_set_id: '3980'
 individual:
@@ -39,4 +40,5 @@ individual:
         name_part_type: given-name
         value: Ali
     addresses:
-  justification: Prime Minister of Colonel Qadhafi’s Government. Closely associated with the former regime of Muammar Qadhafi.
+  justification: Prime Minister of Colonel Qadhafi’s Government. Closely associated
+    with the former regime of Muammar Qadhafi.

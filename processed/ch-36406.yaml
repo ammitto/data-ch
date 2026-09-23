@@ -1,3 +1,4 @@
+---
 ssid: '36406'
 sanctions_set_id: '3978'
 individual:
@@ -38,4 +39,6 @@ individual:
       month: 5
       year: 1945
     addresses:
-  justification: Director of the Fifth Bureau of the Reconnaissance General Bureau. Cho is believed to be in charge of overseas espionage operations and foreign intelligence collection for the DPRK.
+  justification: Director of the Fifth Bureau of the Reconnaissance General Bureau.
+    Cho is believed to be in charge of overseas espionage operations and foreign intelligence
+    collection for the DPRK.

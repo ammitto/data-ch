@@ -1,3 +1,4 @@
+---
 ssid: '59673'
 sanctions_set_id: '29445'
 entity:
@@ -11,14 +12,16 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company Experimental-Design Bureau Elektroavtomatika named after P.A. Efimov
+        value: Joint Stock Company Experimental-Design Bureau Elektroavtomatika named
+          after P.A. Efimov
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: JSC “Development аnd Design Bureau “Elektroavtomatika” named after P. A. Efimov”
+        value: JSC “Development аnd Design Bureau “Elektroavtomatika” named after
+          P. A. Efimov”
     - name_type: alias
       quality: good
       lang: eng

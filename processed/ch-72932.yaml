@@ -1,3 +1,4 @@
+---
 ssid: '72932'
 sanctions_set_id: '27286'
 individual:
@@ -18,4 +19,7 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Vladimirovich
-  justification: Andrey Kozlov is the General Director of Joint Stock Company NPO Elektromechaniki, a Russian military industry company that produces parts for Iskander missiles which are used by the Russian Armed Forces in the war of aggression against Ukraine.
+  justification: Andrey Kozlov is the General Director of Joint Stock Company NPO
+    Elektromechaniki, a Russian military industry company that produces parts for
+    Iskander missiles which are used by the Russian Armed Forces in the war of aggression
+    against Ukraine.

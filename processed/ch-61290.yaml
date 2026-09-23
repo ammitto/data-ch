@@ -1,3 +1,4 @@
+---
 ssid: '61290'
 sanctions_set_id: '27286'
 individual:
@@ -29,4 +30,8 @@ individual:
       day: 29
       month: 3
       year: 1983
-  justification: Vadim Subotin is the deputy head of Russian Federal Service for Supervision of Communications Information Technology and Mass Media (Roskomnadzor). Roskomnadzor is a Russian state agency responsible for communications, information technology and mass media. It has implemented the state policy of censorship of independent media outlets.
+  justification: Vadim Subotin is the deputy head of Russian Federal Service for Supervision
+    of Communications Information Technology and Mass Media (Roskomnadzor). Roskomnadzor
+    is a Russian state agency responsible for communications, information technology
+    and mass media. It has implemented the state policy of censorship of independent
+    media outlets.

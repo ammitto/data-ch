@@ -1,3 +1,4 @@
+---
 ssid: '4252'
 sanctions_set_id: '4021'
 individual:
@@ -22,4 +23,5 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Samir Husseini
-  justification: Illicit diamond dealer who sold conflict diamonds and indirectly or directly supported the Taylor regime.
+  justification: Illicit diamond dealer who sold conflict diamonds and indirectly
+    or directly supported the Taylor regime.

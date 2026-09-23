@@ -1,3 +1,4 @@
+---
 ssid: '10281'
 sanctions_set_id: '8174'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Kish Shipping Line Manning Co.
     addresses:
     - address_details: Sanaei Street
-  justification: Kish Shipping Line Manning Co. is owned and controlled by IRISL. It is involved in the recruitment and personnel management of IRISL.
+  justification: Kish Shipping Line Manning Co. is owned and controlled by IRISL.
+    It is involved in the recruitment and personnel management of IRISL.

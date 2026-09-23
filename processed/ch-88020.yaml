@@ -1,3 +1,4 @@
+---
 ssid: '88020'
 sanctions_set_id: '38373'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 9
       month: 3
       year: 1964
-  justification: Strategic Operational Commander of the National Bolivarian Armed Forces of Venezuela (FANB) since 2021. The FANB was implicated in human rights violations during the repressions of peaceful demonstrations following the 28 July 2024 presidential election.
+  justification: Strategic Operational Commander of the National Bolivarian Armed
+    Forces of Venezuela (FANB) since 2021. The FANB was implicated in human rights
+    violations during the repressions of peaceful demonstrations following the 28
+    July 2024 presidential election.

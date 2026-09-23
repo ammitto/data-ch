@@ -1,3 +1,4 @@
+---
 ssid: '28817'
 sanctions_set_id: '3986'
 entity:
@@ -21,4 +22,6 @@ entity:
         value: Hims
     addresses:
     - address_details: General Company for Homs Refinery Building, 352 Tripoli Street
-  justification: Subsidiary of the General Corporation for Refining and Distribution of Petroleum Products (GCRDPP), a section of the Ministry of Petroleum and Mineral Resources. As such it provides financial support to the Syrian regime.
+  justification: Subsidiary of the General Corporation for Refining and Distribution
+    of Petroleum Products (GCRDPP), a section of the Ministry of Petroleum and Mineral
+    Resources. As such it provides financial support to the Syrian regime.

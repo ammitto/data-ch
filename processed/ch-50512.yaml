@@ -1,3 +1,4 @@
+---
 ssid: '50512'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 23
       month: 7
       year: 1974
-  justification: Ivan Ivanovich Krupko is the Chairman of the Gomel Regional Executive Committee. In this position, he is responsible for overseeing the interactions between local executive and administrative bodies of the region with military authorities, as well as implementing defence and state security issues. Joint Russian-Belarussian military exercises, which preceded the Russian military aggression against Ukraine, took place in the Gomel Region.
+  justification: Ivan Ivanovich Krupko is the Chairman of the Gomel Regional Executive
+    Committee. In this position, he is responsible for overseeing the interactions
+    between local executive and administrative bodies of the region with military
+    authorities, as well as implementing defence and state security issues. Joint
+    Russian-Belarussian military exercises, which preceded the Russian military aggression
+    against Ukraine, took place in the Gomel Region.

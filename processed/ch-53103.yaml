@@ -1,3 +1,4 @@
+---
 ssid: '53103'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 9
       month: 5
       year: 1973
-  justification: Igor Rotenberg is a prominent Russian businessperson, and the oldest son of Arkady Rotenberg. He is the former owner of Gazprom Drilling and a former shareholder in Platon Electronic Toll Collection system.
+  justification: Igor Rotenberg is a prominent Russian businessperson, and the oldest
+    son of Arkady Rotenberg. He is the former owner of Gazprom Drilling and a former
+    shareholder in Platon Electronic Toll Collection system.

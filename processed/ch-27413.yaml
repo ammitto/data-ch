@@ -1,3 +1,4 @@
+---
 ssid: '27413'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 22
       month: 3
       year: 1958
-  justification: Former Commander of Russia's Southern Military District ("SMD"), the forces of which are in Crimea; the Black Sea Fleet comes under Galkin's command; much of the force movement into Crimea has come through the SMD.
+  justification: Former Commander of Russia's Southern Military District ("SMD"),
+    the forces of which are in Crimea; the Black Sea Fleet comes under Galkin's command;
+    much of the force movement into Crimea has come through the SMD.

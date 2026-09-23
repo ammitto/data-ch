@@ -1,3 +1,4 @@
+---
 ssid: '98537'
 sanctions_set_id: '27286'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: State Unitary Enterprise of the Lugansk People’s Republic “Lugansk Communications”
+        value: State Unitary Enterprise of the Lugansk People’s Republic “Lugansk
+          Communications”
     - name_type: alias
       quality: good
       lang: eng
@@ -25,7 +27,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: State Unitary Enterprise of the Lugansk People’s Republic “Republican Digital Communication”
+        value: State Unitary Enterprise of the Lugansk People’s Republic “Republican
+          Digital Communication”
     - name_type: alias
       quality: good
       lang: eng
@@ -40,4 +43,9 @@ entity:
     addresses:
     - address_details: Marska Street 261, Yeremenko sq. 73
       zip_code: '291011'
-  justification: State Unitary Enterprise of the Lugansk People’s Republic “Lugansk Communications”, formerly known as State Unitary Enterprise of the Lugansk People’s Republic “Republican Digital Communication”, is a telecoms operator operating in the illegally occupied region of Ukraine of Luhansk. It was founded and is controlled by the so-called “Luhansk People’s Republic” authorities and is registered as a Russian legal entity.
+  justification: State Unitary Enterprise of the Lugansk People’s Republic “Lugansk
+    Communications”, formerly known as State Unitary Enterprise of the Lugansk People’s
+    Republic “Republican Digital Communication”, is a telecoms operator operating
+    in the illegally occupied region of Ukraine of Luhansk. It was founded and is
+    controlled by the so-called “Luhansk People’s Republic” authorities and is registered
+    as a Russian legal entity.

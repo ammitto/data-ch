@@ -1,3 +1,4 @@
+---
 ssid: '99812'
 sanctions_set_id: '29445'
 entity:
@@ -13,4 +14,5 @@ entity:
         name_part_type: whole-name
         value: Hong Kong Park On Electronics Technology
     addresses:
-    - address_details: Workshop 57, 3rd Floor, Block A, East Sun Industrial Centre, No.16 Shing Yi Street, Kowloon
+    - address_details: Workshop 57, 3rd Floor, Block A, East Sun Industrial Centre,
+        No.16 Shing Yi Street, Kowloon

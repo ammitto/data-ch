@@ -1,3 +1,4 @@
+---
 ssid: '72133'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 26
       month: 2
       year: 1952
-  justification: Alexander Leonov is the General Director of JSC Mashinostroyeniya, which produces P-800 Oniks (Onyx) missiles, which are used by the Russian Armed Forces in the war of aggression against Ukraine.
+  justification: Alexander Leonov is the General Director of JSC Mashinostroyeniya,
+    which produces P-800 Oniks (Onyx) missiles, which are used by the Russian Armed
+    Forces in the war of aggression against Ukraine.

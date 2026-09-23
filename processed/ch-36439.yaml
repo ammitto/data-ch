@@ -1,3 +1,4 @@
+---
 ssid: '36439'
 sanctions_set_id: '3978'
 individual:
@@ -17,4 +18,6 @@ individual:
       month: 2
       year: 1970
     addresses:
-  justification: President of Korea Kumsan Trading Corporation, a company that procures supplies for General Bureau of Atomic Energy and serves as a cash route to the DPRK.
+  justification: President of Korea Kumsan Trading Corporation, a company that procures
+    supplies for General Bureau of Atomic Energy and serves as a cash route to the
+    DPRK.

@@ -1,3 +1,4 @@
+---
 ssid: '69157'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 2
       month: 5
       year: 1990
-  justification: Darya Borisova is the Director of Educational and Methodological Centre “Avangard”, an organisation providing so-called “patriotic education”, including basic military training, to the youths of Russia, as well as to children in the temporarily occupied regions of Ukraine. She also serves as deputy of the Moscow City Duma from the United Russia party.
+  justification: Darya Borisova is the Director of Educational and Methodological
+    Centre “Avangard”, an organisation providing so-called “patriotic education”,
+    including basic military training, to the youths of Russia, as well as to children
+    in the temporarily occupied regions of Ukraine. She also serves as deputy of the
+    Moscow City Duma from the United Russia party.

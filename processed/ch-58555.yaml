@@ -1,3 +1,4 @@
+---
 ssid: '58555'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: Command of the Special Operations Forces, military unit
       zip_code: '99450'
-  justification: Special Operations Forces are special forces of the Armed Forces of the Russian Federation. Special Operations Forces took part in Russia’s war of aggression against Ukraine.
+  justification: Special Operations Forces are special forces of the Armed Forces
+    of the Russian Federation. Special Operations Forces took part in Russia’s war
+    of aggression against Ukraine.

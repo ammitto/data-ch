@@ -1,3 +1,4 @@
+---
 ssid: '4791'
 sanctions_set_id: '4387'
 individual:
@@ -25,4 +26,6 @@ individual:
     addresses:
     - address_details: ул. Советская, 11
       zip_code: '220010'
-  justification: Member of the Lower Chamber of the Parliament, Deputy Head of the Permanent Comittee on Law, former Prosecutor of the region of Mogilev. Responsible for the repression of civil society following the December 2010 elections.
+  justification: Member of the Lower Chamber of the Parliament, Deputy Head of the
+    Permanent Comittee on Law, former Prosecutor of the region of Mogilev. Responsible
+    for the repression of civil society following the December 2010 elections.

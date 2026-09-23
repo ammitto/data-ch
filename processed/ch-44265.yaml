@@ -1,3 +1,4 @@
+---
 ssid: '44265'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 11
       month: 9
       year: 1965
-  justification: In her position as judge of the Sovetsky district court in Minsk, she is responsible for numerous politically motivated rulings against journalists, opposition leaders, activists and protesters. Violations of rights of defence were reported during trials conducted under her supervision. She is therefore responsible for human rights violations and undermining the rule of law, as well as for contributing to the repression of civil society and democratic opposition.
+  justification: In her position as judge of the Sovetsky district court in Minsk,
+    she is responsible for numerous politically motivated rulings against journalists,
+    opposition leaders, activists and protesters. Violations of rights of defence
+    were reported during trials conducted under her supervision. She is therefore
+    responsible for human rights violations and undermining the rule of law, as well
+    as for contributing to the repression of civil society and democratic opposition.

@@ -1,3 +1,4 @@
+---
 ssid: '76411'
 sanctions_set_id: '71360'
 individual:
@@ -19,4 +20,8 @@ individual:
       day: 1
       month: 1
       year: 1955
-  justification: Jamil Yusuf Ahmad Aliyan is an official of the Palestinian Islamic Jihad (PIJ) and leader of the Muhjat AlQuds Foundation. The Muhjat AlQuds Foundation is a PIJ-run, Iran-funded organisation the primary mission of which is to provide financial support to the families of PIJ fighters and prisoners. Furthermore, Aliyan has served on PIJ’s executive committee, thereby overseeing PIJ finances.
+  justification: Jamil Yusuf Ahmad Aliyan is an official of the Palestinian Islamic
+    Jihad (PIJ) and leader of the Muhjat AlQuds Foundation. The Muhjat AlQuds Foundation
+    is a PIJ-run, Iran-funded organisation the primary mission of which is to provide
+    financial support to the families of PIJ fighters and prisoners. Furthermore,
+    Aliyan has served on PIJ’s executive committee, thereby overseeing PIJ finances.

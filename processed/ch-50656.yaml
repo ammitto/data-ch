@@ -1,3 +1,4 @@
+---
 ssid: '50656'
 sanctions_set_id: '29445'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Акционерное Общество «Российская Самолетостроительная Корпорация «МиГ» (АО «РСК «МиГ»)
+        value: Акционерное Общество «Российская Самолетостроительная Корпорация «МиГ»
+          (АО «РСК «МиГ»)
     - name_type: alias
       quality: good
       lang: eng

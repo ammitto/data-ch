@@ -1,3 +1,4 @@
+---
 ssid: '35724'
 sanctions_set_id: '3986'
 individual:
@@ -17,4 +18,6 @@ individual:
         value: Abdullah
     day_month_year:
       year: 1953
-  justification: Former Minister of social affairs and labour under the former al-Assad regime. Former State Minister. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Minister of social affairs and labour under the former al-Assad
+    regime. Former State Minister. As a former Government Minister, shares responsibility
+    for the former al-Assad regime’s violent repression of the civilian population.

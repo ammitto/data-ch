@@ -1,3 +1,4 @@
+---
 ssid: '6188'
 sanctions_set_id: '6094'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 23
       month: 11
       year: 1950
-  justification: ZANU-PF Member of Government. Threatened MDC supporters with death and associated with abduction and torture of people in June 2008.
+  justification: ZANU-PF Member of Government. Threatened MDC supporters with death
+    and associated with abduction and torture of people in June 2008.

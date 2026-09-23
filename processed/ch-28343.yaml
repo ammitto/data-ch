@@ -1,3 +1,4 @@
+---
 ssid: '28343'
 sanctions_set_id: '27286'
 entity:
@@ -12,4 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: So-called "Army of the Southeast"
-  justification: Illegal armed separatist group which is considered to be one of the most important in Eastern Ukraine.
+  justification: Illegal armed separatist group which is considered to be one of the
+    most important in Eastern Ukraine.

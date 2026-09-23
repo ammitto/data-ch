@@ -1,3 +1,4 @@
+---
 ssid: '76637'
 sanctions_set_id: '29445'
 entity:
@@ -27,5 +28,6 @@ entity:
         name_part_type: whole-name
         value: Ervacan Makina Ekipmanlari Ve Sanayi Tedarik Limited Şirketi
     addresses:
-    - address_details: 'Küçükbakkalköy Mah., Defne Sok., Flora Suite Office, KNo: 1, DNo: 365'
+    - address_details: 'Küçükbakkalköy Mah., Defne Sok., Flora Suite Office, KNo:
+        1, DNo: 365'
       zip_code: '34750'

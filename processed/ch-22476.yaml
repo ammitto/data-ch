@@ -1,3 +1,4 @@
+---
 ssid: '22476'
 sanctions_set_id: '3986'
 entity:
@@ -14,4 +15,6 @@ entity:
         value: Megatrade
     addresses:
     - address_details: Aleppo Street
-  justification: Acts as a proxy for the Scientific Studies and Research Centre (SSRC), which is listed. Involved in trade in dual use goods prohibited by Union sanctions for the former al-Assad government.
+  justification: Acts as a proxy for the Scientific Studies and Research Centre (SSRC),
+    which is listed. Involved in trade in dual use goods prohibited by Union sanctions
+    for the former al-Assad government.

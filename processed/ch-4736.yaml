@@ -1,3 +1,4 @@
+---
 ssid: '4736'
 sanctions_set_id: '4387'
 individual:
@@ -18,4 +19,8 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Aliaksandravich
-  justification: Director of the Regional Property Fund. Former Head of Regional Election Commission in the Minsk region for the Presidential election of 2010. As Chairman of a Regional Electoral Commission, he was responsible for the violations of international electoral standards in the Presidential elections on 19 December 2010 in the Minsk region.
+  justification: Director of the Regional Property Fund. Former Head of Regional Election
+    Commission in the Minsk region for the Presidential election of 2010. As Chairman
+    of a Regional Electoral Commission, he was responsible for the violations of international
+    electoral standards in the Presidential elections on 19 December 2010 in the Minsk
+    region.

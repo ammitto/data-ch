@@ -1,3 +1,4 @@
+---
 ssid: '38755'
 sanctions_set_id: '3978'
 entity:
@@ -13,4 +14,6 @@ entity:
         name_part_type: whole-name
         value: Koti Corp
     addresses:
-  justification: Ship manager and commercial manager of the Panama-flagged vessel KOTI, which conducted ship-to-ship transfers of likely petroleum product to the DPRK-flagged KUM UN SAN 3 on 9 Dec 2017.
+  justification: Ship manager and commercial manager of the Panama-flagged vessel
+    KOTI, which conducted ship-to-ship transfers of likely petroleum product to the
+    DPRK-flagged KUM UN SAN 3 on 9 Dec 2017.

@@ -1,3 +1,4 @@
+---
 ssid: '65223'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 26
       month: 9
       year: 1981
-  justification: In his position of Head and the former Deputy Head of Penal Colony Noo1, Ruslan Mashadzeou is responsible for the inhuman and degrading treatment, including torture, inflicted on the political prisoners and other citizens detained in that penal colony in the wake of the 2020 presidential election and in the ensuing peaceful protests. He was the head of the penal colony at the time of the death of the political prisoner Vitold Ashurak in that penal colony on 21 May 2021, in unexplained circumstances.
+  justification: In his position of Head and the former Deputy Head of Penal Colony
+    Noo1, Ruslan Mashadzeou is responsible for the inhuman and degrading treatment,
+    including torture, inflicted on the political prisoners and other citizens detained
+    in that penal colony in the wake of the 2020 presidential election and in the
+    ensuing peaceful protests. He was the head of the penal colony at the time of
+    the death of the political prisoner Vitold Ashurak in that penal colony on 21
+    May 2021, in unexplained circumstances.

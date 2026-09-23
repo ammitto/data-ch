@@ -1,3 +1,4 @@
+---
 ssid: '72233'
 sanctions_set_id: '27286'
 individual:
@@ -29,4 +30,9 @@ individual:
       day: 2
       month: 3
       year: 1990
-  justification: Semyon Mashkautsan is the former so-called “Deputy Head of Government” and “Minister of Industry” of Kherson Region. He is the so-called “acting chairman of the government” of Kherson Region since February 2025. He has assumed these roles, without the consent of Ukrainian authorities, in the illegally occupied territories of Kherson Region and is implementing the official policies of the Russian Federation in the region.
+  justification: Semyon Mashkautsan is the former so-called “Deputy Head of Government”
+    and “Minister of Industry” of Kherson Region. He is the so-called “acting chairman
+    of the government” of Kherson Region since February 2025. He has assumed these
+    roles, without the consent of Ukrainian authorities, in the illegally occupied
+    territories of Kherson Region and is implementing the official policies of the
+    Russian Federation in the region.

@@ -1,3 +1,4 @@
+---
 ssid: '77315'
 sanctions_set_id: '29445'
 entity:
@@ -41,11 +42,15 @@ entity:
         name_part_type: whole-name
         value: Imaxchip Technology CO Ltd.
     addresses:
-    - address_details: 18E, Building 2, China Phoenix Building, Shennan Road, Futian District
+    - address_details: 18E, Building 2, China Phoenix Building, Shennan Road, Futian
+        District
       zip_code: '518000'
-    - address_details: No. 59 King Yip Street, King Yip Factory Building, 5th Floor, Unit D5, Kwun Tong, Kowloon
-    - address_details: Shennan Middle Road, International Culture Building, Room 2508B, Futian District
-    - address_details: Kwun Tong Industrial Center Phase 3, 3rd Floor, Unit L, Kwun Tong, Kowloon
+    - address_details: No. 59 King Yip Street, King Yip Factory Building, 5th Floor,
+        Unit D5, Kwun Tong, Kowloon
+    - address_details: Shennan Middle Road, International Culture Building, Room 2508B,
+        Futian District
+    - address_details: Kwun Tong Industrial Center Phase 3, 3rd Floor, Unit L, Kwun
+        Tong, Kowloon
     - address_details: Nos. 436–446 Kwun Tong Road, 13th Floor, Unit A15, Kowloon
     - address_details: Shennan Road, Phoenix Building 2, Room 18E, Futian District
     - address_details: Lianqiu Building, No. 735 Renmin West Road, Wucheng District

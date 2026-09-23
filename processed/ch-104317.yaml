@@ -1,3 +1,4 @@
+---
 ssid: '104317'
 sanctions_set_id: '27286'
 entity:
@@ -36,4 +37,6 @@ entity:
     addresses:
     - address_details: Yuzhny Promuzel street, 8
       zip_code: '390011'
-  justification: JSC Ryazan Oil Refinery is a Russian entity operating an oil refinery in the city of Ryazan. The energy sector, in particular the oil sector, is a sector providing a substantial source of revenue to the Government of the Russian Federation.
+  justification: JSC Ryazan Oil Refinery is a Russian entity operating an oil refinery
+    in the city of Ryazan. The energy sector, in particular the oil sector, is a sector
+    providing a substantial source of revenue to the Government of the Russian Federation.

@@ -1,3 +1,4 @@
+---
 ssid: '72123'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 23
       month: 4
       year: 1978
-  justification: Andrey Alekseyenko is the former so-called “Chair of the Kherson Military-Civilian Administration”. He held this role, without the consent of the Ukrainian authorities, in the illegally occupied territories of Kherson Region and implemented the official policies of the Russian Federation in the region.
+  justification: Andrey Alekseyenko is the former so-called “Chair of the Kherson
+    Military-Civilian Administration”. He held this role, without the consent of the
+    Ukrainian authorities, in the illegally occupied territories of Kherson Region
+    and implemented the official policies of the Russian Federation in the region.

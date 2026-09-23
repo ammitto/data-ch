@@ -1,3 +1,4 @@
+---
 ssid: '89198'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 22
       month: 11
       year: 1967
-  justification: Igor Kudryashkin is a Russian businessperson with extensive business interests in the Russian mining and metals sectors. In particular, Kudryashkin is a shareholder and Commercial Director of Ural Mining and Metallurgical Company, a major Russian company engaged in the Russian mining and metals sectors. Those economic sectors provide a substantial source of revenue to the Government of the Russian Federation.
+  justification: Igor Kudryashkin is a Russian businessperson with extensive business
+    interests in the Russian mining and metals sectors. In particular, Kudryashkin
+    is a shareholder and Commercial Director of Ural Mining and Metallurgical Company,
+    a major Russian company engaged in the Russian mining and metals sectors. Those
+    economic sectors provide a substantial source of revenue to the Government of
+    the Russian Federation.

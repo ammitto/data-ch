@@ -1,3 +1,4 @@
+---
 ssid: '58146'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 22
       month: 5
       year: 1975
-  justification: Viktoria Valerievna Abramchenko is a former Deputy Prime Minister of the Russian Federation, responsible for Agro-Industrial Complex, Natural Resources and Ecology. She has been responsible for agricultural production, including grain, and in charge of assisting with standing up to sanctions imposed against Russia. In this role, she has overseen efforts to divert grain from Ukraine, without Ukraine’s agreement, and is responsible for organising events with the direct participation of representatives of illegally annexed Crimea.
+  justification: Viktoria Valerievna Abramchenko is a former Deputy Prime Minister
+    of the Russian Federation, responsible for Agro-Industrial Complex, Natural Resources
+    and Ecology. She has been responsible for agricultural production, including grain,
+    and in charge of assisting with standing up to sanctions imposed against Russia.
+    In this role, she has overseen efforts to divert grain from Ukraine, without Ukraine’s
+    agreement, and is responsible for organising events with the direct participation
+    of representatives of illegally annexed Crimea.

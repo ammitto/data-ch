@@ -1,3 +1,4 @@
+---
 ssid: '11025'
 sanctions_set_id: '8174'
 individual:
@@ -19,4 +20,9 @@ individual:
       day: 16
       month: 12
       year: 1962
-  justification: Naser Bateni acts on behalf of IRISL. He was a director of IRISL until 2008 and he was subsequently Managing Director of IRISL Europe GmbH. He is the managing director of Hanseatic Trade and Trust Shipping GmbH (HTTS) which as their general agent provides essential services to the Safiran Payam Darya Shipping Lines (SAPID) and to Hafize Darya Shipping Lines (HDS Lines), both of which are designated entities acting on behalf of IRISL.
+  justification: Naser Bateni acts on behalf of IRISL. He was a director of IRISL
+    until 2008 and he was subsequently Managing Director of IRISL Europe GmbH. He
+    is the managing director of Hanseatic Trade and Trust Shipping GmbH (HTTS) which
+    as their general agent provides essential services to the Safiran Payam Darya
+    Shipping Lines (SAPID) and to Hafize Darya Shipping Lines (HDS Lines), both of
+    which are designated entities acting on behalf of IRISL.

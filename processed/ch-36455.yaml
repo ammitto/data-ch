@@ -1,3 +1,4 @@
+---
 ssid: '36455'
 sanctions_set_id: '3978'
 individual:
@@ -17,4 +18,5 @@ individual:
       month: 8
       year: 1969
     addresses:
-  justification: Vietnam Representative for Tanchon Commercial Bank, which is the main DPRK financial entity for weapons and missile-related sales.
+  justification: Vietnam Representative for Tanchon Commercial Bank, which is the
+    main DPRK financial entity for weapons and missile-related sales.

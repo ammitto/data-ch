@@ -1,3 +1,4 @@
+---
 ssid: '97909'
 sanctions_set_id: '97845'
 individual:
@@ -37,4 +38,5 @@ individual:
         name_part_type: whole-name
         value: Taliban
     addresses:
-  justification: Jeff Larose is the leader of the Canaan gang, which is affiliated with the G-Pép and Viv Ansanm coalitions of gangs in Haiti.
+  justification: Jeff Larose is the leader of the Canaan gang, which is affiliated
+    with the G-Pép and Viv Ansanm coalitions of gangs in Haiti.

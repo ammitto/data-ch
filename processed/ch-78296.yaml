@@ -1,3 +1,4 @@
+---
 ssid: '78296'
 sanctions_set_id: '68945'
 entity:
@@ -45,6 +46,10 @@ entity:
       month: 7
       year: 2016
     addresses:
-    - address_details: No 63, Unit 4, Shahrara, Patrice Lumumba St., Abshori Sharghi St.
+    - address_details: No 63, Unit 4, Shahrara, Patrice Lumumba St., Abshori Sharghi
+        St.
       zip_code: '144593491'
-  justification: Kavan Electronics Behrad LLC is an Iran-based company procuring and selling servomotors and other components relevant for the manufacturing of unmanned aerial vehicles (UAVs) to the EU-listed Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC SSJO).
+  justification: Kavan Electronics Behrad LLC is an Iran-based company procuring and
+    selling servomotors and other components relevant for the manufacturing of unmanned
+    aerial vehicles (UAVs) to the EU-listed Islamic Revolutionary Guard Corps Research
+    and Self-Sufficiency Jihad Organisation (IRGC SSJO).

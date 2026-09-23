@@ -1,3 +1,4 @@
+---
 ssid: '58808'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,11 @@ individual:
       day: 30
       month: 4
       year: 1982
-  justification: Lieutenant Colonel Igor Bagnyuk is a Commander of the Missile Pre-Planning unit at the Main Computing Centre of the General Staff (GVC) of Russia’s Armed Forces General Staff. In this role, he is a key figure in Russia’s missile strikes on Ukraine, including on civilian targets, throughout Apr to Oct 2022, killing over 30 people and wounding more than 100 in Oct 2022 alone. Lieutenant Colonel Igor Bagnyuk is thus a natural person responsible for, supporting or implementing actions or policies which undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Lieutenant Colonel Igor Bagnyuk is a Commander of the Missile Pre-Planning
+    unit at the Main Computing Centre of the General Staff (GVC) of Russia’s Armed
+    Forces General Staff. In this role, he is a key figure in Russia’s missile strikes
+    on Ukraine, including on civilian targets, throughout Apr to Oct 2022, killing
+    over 30 people and wounding more than 100 in Oct 2022 alone. Lieutenant Colonel
+    Igor Bagnyuk is thus a natural person responsible for, supporting or implementing
+    actions or policies which undermine or threaten the territorial integrity, sovereignty
+    and independence of Ukraine.

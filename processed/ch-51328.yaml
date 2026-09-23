@@ -1,3 +1,4 @@
+---
 ssid: '51328'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 30
       month: 11
       year: 1960
-  justification: Mikhail Eduardovich OSEEVSKY is the president of PJSC Rostelecom. PJSC Rostelecom is Russia’s largest provider of digital services and solutions, with presence in all market segments and covering millions of households, as well as governmental and private organisations. Rostelecom not only provides services for the Russian Government, but also generates an important source of revenue for it.
+  justification: Mikhail Eduardovich OSEEVSKY is the president of PJSC Rostelecom.
+    PJSC Rostelecom is Russia’s largest provider of digital services and solutions,
+    with presence in all market segments and covering millions of households, as well
+    as governmental and private organisations. Rostelecom not only provides services
+    for the Russian Government, but also generates an important source of revenue
+    for it.

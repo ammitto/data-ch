@@ -1,3 +1,4 @@
+---
 ssid: '95800'
 sanctions_set_id: '27286'
 entity:
@@ -32,4 +33,10 @@ entity:
       year: 2009
     addresses:
     - address_details: Belorusskaya 132
-  justification: LLC Volgotrans is a Russian company operating a fleet of several tankers and carrying out transportation of crude oil and oil products by sea, including for export purposes. The energy sector, especially oil, provides substantial revenue to the Government of the Russian Federation. Therefore, LLC Volgotrans is an entity involved in an economic sector providing a substantial source of revenue to the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.
+  justification: LLC Volgotrans is a Russian company operating a fleet of several
+    tankers and carrying out transportation of crude oil and oil products by sea,
+    including for export purposes. The energy sector, especially oil, provides substantial
+    revenue to the Government of the Russian Federation. Therefore, LLC Volgotrans
+    is an entity involved in an economic sector providing a substantial source of
+    revenue to the Government of the Russian Federation, which is responsible for
+    the annexation of Crimea and the destabilisation of Ukraine.

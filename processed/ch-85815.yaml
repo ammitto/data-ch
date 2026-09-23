@@ -1,3 +1,4 @@
+---
 ssid: '85815'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 10
       month: 7
       year: 1973
-  justification: Sergey Teterev is a Russian military serviceman from the 22nd Guards Heavy Bomber Aviation Division based at Engels-2 airbase in Saratov, Russia. In July 2024, a Kh-101 missile strike carried out by that Division hit the Okhmadyt children’s hospital in Kyiv. As a serviceman from the 22nd Guards Heavy Bomber Aviation Division, Sergey Teterev is supporting and implementing actions and policies which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Sergey Teterev is a Russian military serviceman from the 22nd Guards
+    Heavy Bomber Aviation Division based at Engels-2 airbase in Saratov, Russia. In
+    July 2024, a Kh-101 missile strike carried out by that Division hit the Okhmadyt
+    children’s hospital in Kyiv. As a serviceman from the 22nd Guards Heavy Bomber
+    Aviation Division, Sergey Teterev is supporting and implementing actions and policies
+    which undermine and threaten the territorial integrity, sovereignty and independence
+    of Ukraine.

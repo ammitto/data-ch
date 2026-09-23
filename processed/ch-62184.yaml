@@ -1,3 +1,4 @@
+---
 ssid: '62184'
 sanctions_set_id: '3986'
 individual:
@@ -22,4 +23,5 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Al-Kasam
-  justification: Mustafa al-Masalmah leads a regime-affiliated militia that reports directly to the Syrian regime’s Military Security branch.
+  justification: Mustafa al-Masalmah leads a regime-affiliated militia that reports
+    directly to the Syrian regime’s Military Security branch.

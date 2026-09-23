@@ -1,3 +1,4 @@
+---
 ssid: '90928'
 sanctions_set_id: '4387'
 entity:
@@ -18,4 +19,9 @@ entity:
       year: 1992
     addresses:
     - address_details: Partizansky Ave., 2, building 2-31
-  justification: OJSC Planar is a state enterprise that specialises in the development and supply of components in the field of microelectronics, which are used for the production of military hardware such as UAVs. It forms part of a state-administered enterprise cluster supervised by the Strategic Projects Council under the direct supervision of the President of Belarus. OJSC Planar also contributes to the Belarusian-Russian technological and military cooperation.
+  justification: OJSC Planar is a state enterprise that specialises in the development
+    and supply of components in the field of microelectronics, which are used for
+    the production of military hardware such as UAVs. It forms part of a state-administered
+    enterprise cluster supervised by the Strategic Projects Council under the direct
+    supervision of the President of Belarus. OJSC Planar also contributes to the Belarusian-Russian
+    technological and military cooperation.

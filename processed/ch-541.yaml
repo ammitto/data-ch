@@ -1,3 +1,4 @@
+---
 ssid: '541'
 sanctions_set_id: '2720'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 20
       month: 7
       year: 1947
-  justification: Indicted by International Criminal Tribunal for former Yugoslavia (IT-95-13a)
+  justification: Indicted by International Criminal Tribunal for former Yugoslavia
+    (IT-95-13a)

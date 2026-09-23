@@ -1,3 +1,4 @@
+---
 ssid: '28316'
 sanctions_set_id: '27286'
 entity:
@@ -16,4 +17,7 @@ entity:
     - address_details: Str Shosseynaya 1
       zip_code: '346465'
     - address_details: Voroshilovskiy Prospekt 12/85-87/13
-  justification: The “Great Don army” established the “Cossack National Guard”, responsible for fighting against the Ukrainian government forces in Eastern Ukraine, thus undermining the territorial integrity, sovereignty and independence of Ukraine as well as threatening the stability or security of Ukraine.
+  justification: The “Great Don army” established the “Cossack National Guard”, responsible
+    for fighting against the Ukrainian government forces in Eastern Ukraine, thus
+    undermining the territorial integrity, sovereignty and independence of Ukraine
+    as well as threatening the stability or security of Ukraine.

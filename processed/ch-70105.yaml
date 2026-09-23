@@ -1,3 +1,4 @@
+---
 ssid: '70105'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: Prospekt Lenina 3, ofis 109
       zip_code: '454007'
-  justification: Chelyabinsk Tractor Plant is a Russian military industry company. It is a supplier of the Armed Forces of the Russian Federation.
+  justification: Chelyabinsk Tractor Plant is a Russian military industry company.
+    It is a supplier of the Armed Forces of the Russian Federation.

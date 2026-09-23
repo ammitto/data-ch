@@ -1,3 +1,4 @@
+---
 ssid: '104343'
 sanctions_set_id: '29445'
 entity:
@@ -21,6 +22,5 @@ entity:
         value: Intelligent Electronic Components Co. Ltd.
     addresses:
     - address_details: Flat E19, 10/F, No 52, Hung To Road
-    - address_details: |-
-        Room 516 5/F Kam Teem 
-        Industria Building 135 Connaught Road West, Sai Wan, Sai Ying Pun
+    - address_details: "Room 516 5/F Kam Teem \nIndustria Building 135 Connaught Road
+        West, Sai Wan, Sai Ying Pun"

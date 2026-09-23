@@ -1,3 +1,4 @@
+---
 ssid: '75870'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 20
       month: 11
       year: 1954
-  justification: Oleg Martynov is the General Director of Joint Stock Company (JSC) DNPP. JSC DNPP is part of the Almaz-Antey concern.
+  justification: Oleg Martynov is the General Director of Joint Stock Company (JSC)
+    DNPP. JSC DNPP is part of the Almaz-Antey concern.

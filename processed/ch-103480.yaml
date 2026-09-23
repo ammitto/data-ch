@@ -1,3 +1,4 @@
+---
 ssid: '103480'
 sanctions_set_id: '13065'
 individual:
@@ -19,4 +20,7 @@ individual:
       day: 27
       month: 11
       year: 1967
-  justification: Hossein Yekta is a senior Commander of the Islamic Revolutionary Guard Corps (IRGC) who acts as a recruiter and indoctrinator for the IRGC. During the protests that started in December 2025, he publicly supported the shooting of peaceful demonstrators.
+  justification: Hossein Yekta is a senior Commander of the Islamic Revolutionary
+    Guard Corps (IRGC) who acts as a recruiter and indoctrinator for the IRGC. During
+    the protests that started in December 2025, he publicly supported the shooting
+    of peaceful demonstrators.

@@ -1,3 +1,4 @@
+---
 ssid: '7309'
 sanctions_set_id: '6373'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 14
       month: 6
       year: 1955
-  justification: Member of the "Military Command" which has assumed responsibility for the coup d'état of 12 April 2012. Former Air Force Chief of Staff. His presence in a delegation which met with ECOWAS on April 26th confirms his participation in the "Military Command".
+  justification: Member of the "Military Command" which has assumed responsibility
+    for the coup d'état of 12 April 2012. Former Air Force Chief of Staff. His presence
+    in a delegation which met with ECOWAS on April 26th confirms his participation
+    in the "Military Command".

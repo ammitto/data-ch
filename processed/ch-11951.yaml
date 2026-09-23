@@ -1,3 +1,4 @@
+---
 ssid: '11951'
 sanctions_set_id: '3986'
 individual:
@@ -36,4 +37,5 @@ individual:
       day: 28
       month: 4
       year: 1952
-  justification: Former Vice President of the Council of Ministers and former Minister of Defence under the former al-Assad regime.
+  justification: Former Vice President of the Council of Ministers and former Minister
+    of Defence under the former al-Assad regime.

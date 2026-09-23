@@ -1,3 +1,4 @@
+---
 ssid: '11154'
 sanctions_set_id: '8174'
 individual:
@@ -19,4 +20,7 @@ individual:
       day: 2
       month: 4
       year: 1955
-  justification: Ebrahim Mahmudzadeh is a professor at EU-listed Malek Ashtar University, subordinate to EU-listed Defense Technology and Science Research Centre (DTSRC), which supports Iran’s Ministry of Defense for Armed Forces Logistics (MODAFL) with research and development (R&D) services.
+  justification: Ebrahim Mahmudzadeh is a professor at EU-listed Malek Ashtar University,
+    subordinate to EU-listed Defense Technology and Science Research Centre (DTSRC),
+    which supports Iran’s Ministry of Defense for Armed Forces Logistics (MODAFL)
+    with research and development (R&D) services.

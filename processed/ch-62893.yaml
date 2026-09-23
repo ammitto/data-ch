@@ -1,3 +1,4 @@
+---
 ssid: '62893'
 sanctions_set_id: '27286'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Foundation for the Support and Protection of the Rights of Compatriots Living Abroad
+        value: Foundation for the Support and Protection of the Rights of Compatriots
+          Living Abroad
     - name_type: alias
       quality: good
       lang: eng
@@ -40,4 +42,8 @@ entity:
     addresses:
     - address_details: Arbat St. 55/32, room 308-324
       zip_code: '119200'
-  justification: The Foundation for the Support and Protection of the Rights of Compatriots Living Abroad is founded and financed by the Russian Federation with the aim of fulfilling the foreign policy goals of the Russian Government. It represents a unique structure of Russia’s “soft power”, which plays an important supporting role in implementing the Russian Government politics of division.
+  justification: The Foundation for the Support and Protection of the Rights of Compatriots
+    Living Abroad is founded and financed by the Russian Federation with the aim of
+    fulfilling the foreign policy goals of the Russian Government. It represents a
+    unique structure of Russia’s “soft power”, which plays an important supporting
+    role in implementing the Russian Government politics of division.

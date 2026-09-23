@@ -1,3 +1,4 @@
+---
 ssid: '6337'
 sanctions_set_id: '6094'
 individual:
@@ -25,4 +26,5 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Nobert
-  justification: Vociferous supporter of the regime. His followers were backed by the police in committing acts of violence against church supporters in 2011.
+  justification: Vociferous supporter of the regime. His followers were backed by
+    the police in committing acts of violence against church supporters in 2011.

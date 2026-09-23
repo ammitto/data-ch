@@ -1,3 +1,4 @@
+---
 ssid: '58853'
 sanctions_set_id: '27286'
 entity:
@@ -18,4 +19,8 @@ entity:
       year: 2002
     addresses:
     - address_details: Pesochnaya str. 3
-  justification: JSC IZHEVSK ELECTROMECHANICAL PLANT “KUPOL” (or JSC IEMZ “KUPOL”) is a Russian company engaged in the development, production, operation and repair of Tor missile systems, an all-weather, low to medium-altitude, short-range surface-to-air missile system designed for destroying airplanes, helicopters, cruise missiles, etc.
+  justification: JSC IZHEVSK ELECTROMECHANICAL PLANT “KUPOL” (or JSC IEMZ “KUPOL”)
+    is a Russian company engaged in the development, production, operation and repair
+    of Tor missile systems, an all-weather, low to medium-altitude, short-range surface-to-air
+    missile system designed for destroying airplanes, helicopters, cruise missiles,
+    etc.

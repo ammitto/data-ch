@@ -1,3 +1,4 @@
+---
 ssid: '38693'
 sanctions_set_id: '3978'
 entity:
@@ -22,4 +23,5 @@ entity:
     addresses:
     - address_details: Kalrimgil 2-dong, Mangyongdae-guyok
     - address_details: Saemaul 2-dong, Pyongchon-guyok
-  justification: Registered owner of CHON MYONG 1, a DPRK-flagged vessel that conducted ship-to-ship transfer of fuel in late December 2017.
+  justification: Registered owner of CHON MYONG 1, a DPRK-flagged vessel that conducted
+    ship-to-ship transfer of fuel in late December 2017.

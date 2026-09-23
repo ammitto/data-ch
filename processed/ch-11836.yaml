@@ -1,3 +1,4 @@
+---
 ssid: '11836'
 sanctions_set_id: '3986'
 individual:
@@ -33,4 +34,8 @@ individual:
       day: 17
       month: 1
       year: 1967
-  justification: Leading businessperson operating in Syria, involved in the steel, media, consumable goods and oil sectors, including in trading those goods. He has financial interests and/or holds senior executive positions in a number of companies and entities in Syria, in particular Al Jazira (a.k.a. Al Jazerra, El Jazireh), Dunia TV and Sama Satellite Channel.
+  justification: Leading businessperson operating in Syria, involved in the steel,
+    media, consumable goods and oil sectors, including in trading those goods. He
+    has financial interests and/or holds senior executive positions in a number of
+    companies and entities in Syria, in particular Al Jazira (a.k.a. Al Jazerra, El
+    Jazireh), Dunia TV and Sama Satellite Channel.

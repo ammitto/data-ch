@@ -1,3 +1,4 @@
+---
 ssid: '47869'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 14
       month: 7
       year: 1978
-  justification: Dmitriy Grigorenko is Deputy Prime Minister of the Russian Federation and Chief of the Government Staff of the Russian Federation. He is also the Chairman of the Supervisory Council of the VTB Bank, a State-owned bank and associated with Maksim Reshetnikov, member of the Supervisory Council of VTB Bank.
+  justification: Dmitriy Grigorenko is Deputy Prime Minister of the Russian Federation
+    and Chief of the Government Staff of the Russian Federation. He is also the Chairman
+    of the Supervisory Council of the VTB Bank, a State-owned bank and associated
+    with Maksim Reshetnikov, member of the Supervisory Council of VTB Bank.

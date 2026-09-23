@@ -1,3 +1,4 @@
+---
 ssid: '59592'
 sanctions_set_id: '29445'
 entity:
@@ -11,14 +12,16 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Subsidiary Sevastopol Naval Plant of Zvezdochka Shipyard (Sevastopol Naval Plant)
+        value: Subsidiary Sevastopol Naval Plant of Zvezdochka Shipyard (Sevastopol
+          Naval Plant)
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Акционерное Общество «Севастопольский Морской Завод имени Серго Орджоникидзе» (АО «СМЗ»)
+        value: Акционерное Общество «Севастопольский Морской Завод имени Серго Орджоникидзе»
+          (АО «СМЗ»)
     - name_type: alias
       quality: good
       lang: eng

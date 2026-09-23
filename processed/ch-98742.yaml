@@ -1,3 +1,4 @@
+---
 ssid: '98742'
 sanctions_set_id: '27286'
 entity:
@@ -33,4 +34,6 @@ entity:
     addresses:
     - address_details: Vidim settlement, house 10
       zip_code: '412921'
-  justification: JSC “Volsk Mechanical Plant” manufactures and repairs weapons and military equipment such as the anti-tank missile systems “Kornet”, “Konkurs” and “Shturm-S”, which are all used in Russia’s war of aggression against Ukraine.
+  justification: JSC “Volsk Mechanical Plant” manufactures and repairs weapons and
+    military equipment such as the anti-tank missile systems “Kornet”, “Konkurs” and
+    “Shturm-S”, which are all used in Russia’s war of aggression against Ukraine.

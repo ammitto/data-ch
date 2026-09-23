@@ -1,3 +1,4 @@
+---
 ssid: '27538'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 27
       month: 10
       year: 1965
-  justification: Former Minister for Crimean Affairs. Responsible for the integration of the annexed Autonomous “Republic of Crimea” into the Russian Federation.
+  justification: Former Minister for Crimean Affairs. Responsible for the integration
+    of the annexed Autonomous “Republic of Crimea” into the Russian Federation.

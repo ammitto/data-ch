@@ -1,3 +1,4 @@
+---
 ssid: '64150'
 sanctions_set_id: '29445'
 entity:
@@ -34,5 +35,6 @@ entity:
         name_part_type: whole-name
         value: JSC SREI
     addresses:
-    - address_details: Enthusiastov Shosse (Territory of the Western Industrial Zone), 6
+    - address_details: Enthusiastov Shosse (Territory of the Western Industrial Zone),
+        6
       zip_code: '143900'

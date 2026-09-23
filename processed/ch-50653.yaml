@@ -1,3 +1,4 @@
+---
 ssid: '50653'
 sanctions_set_id: '29445'
 entity:
@@ -20,5 +21,6 @@ entity:
         name_part_type: whole-name
         value: Azimut JSC
     addresses:
-    - address_details: Naryshkinskaya Alleya, 5, Building 2, Floor 2, Premises X, Room 15
+    - address_details: Naryshkinskaya Alleya, 5, Building 2, Floor 2, Premises X,
+        Room 15
       zip_code: '125167'

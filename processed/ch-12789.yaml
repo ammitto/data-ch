@@ -1,3 +1,4 @@
+---
 ssid: '12789'
 sanctions_set_id: '12786'
 individual:
@@ -27,4 +28,6 @@ individual:
       month: 1
       year: 1978
     addresses:
-  justification: Daughter of Muammar Qadhafi. Closeness of association with regime. Travelled in violation of paragraph 15 of resolution 1970, as described by the Panel of Experts on Libya in its 2013 Interim Report.
+  justification: Daughter of Muammar Qadhafi. Closeness of association with regime.
+    Travelled in violation of paragraph 15 of resolution 1970, as described by the
+    Panel of Experts on Libya in its 2013 Interim Report.

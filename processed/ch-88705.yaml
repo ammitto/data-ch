@@ -1,3 +1,4 @@
+---
 ssid: '88705'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 7
       month: 9
       year: 1969
-  justification: Sergey Ushko is CEO, co-founder and shareholder of LLC TROS, which manufactures metalworking equipment and is a wholesaler of machine tools. It advertises machining centres with dual-use capabilities and is part of a procurement network to supply metalworking equipment and machine tools into Russia.
+  justification: Sergey Ushko is CEO, co-founder and shareholder of LLC TROS, which
+    manufactures metalworking equipment and is a wholesaler of machine tools. It advertises
+    machining centres with dual-use capabilities and is part of a procurement network
+    to supply metalworking equipment and machine tools into Russia.

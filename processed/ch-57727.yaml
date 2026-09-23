@@ -1,3 +1,4 @@
+---
 ssid: '57727'
 sanctions_set_id: '27286'
 individual:
@@ -19,4 +20,6 @@ individual:
       day: 22
       month: 12
       year: 1961
-  justification: Brigadier General Abdollah Mehrabi is the head of the Islamic Revolutionary Guard Corps Aerospace Force (IRGC AF) Research and Self-Sufficiency Jihad Organization and former co-owner of EU-listed Oje Parvaz Mado Nafar Company (Mado).
+  justification: Brigadier General Abdollah Mehrabi is the head of the Islamic Revolutionary
+    Guard Corps Aerospace Force (IRGC AF) Research and Self-Sufficiency Jihad Organization
+    and former co-owner of EU-listed Oje Parvaz Mado Nafar Company (Mado).

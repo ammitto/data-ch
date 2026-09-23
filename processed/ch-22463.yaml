@@ -1,3 +1,4 @@
+---
 ssid: '22463'
 sanctions_set_id: '3986'
 individual:
@@ -29,4 +30,6 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Ma’ruf
-  justification: Businessman close to President Al-Assad’s family. Owns shares in the listed TV station Dounya TV. Close to Muhammad Nasif Khayrbik, who has been designated. Supports the Syrian regime.
+  justification: Businessman close to President Al-Assad’s family. Owns shares in
+    the listed TV station Dounya TV. Close to Muhammad Nasif Khayrbik, who has been
+    designated. Supports the Syrian regime.

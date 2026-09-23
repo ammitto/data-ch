@@ -1,3 +1,4 @@
+---
 ssid: '61264'
 sanctions_set_id: '27286'
 entity:
@@ -24,4 +25,12 @@ entity:
       month: 8
       year: 2016
     addresses:
-  justification: The Russian National Reinsurance Company (RNRC), is a Russian statecontrolled joint stock company and subsidiary of the Bank of Russia. Currently, RNRC is functioning as the main reinsurer of Russian ships responsible for the export of Russian oil, including Sovcomflot’s fleet, after Western insurance firms withdrew cover for Russian shipowners, following the western sanctions because of Russia’s war of aggression against Ukraine. Importantly, this reinsurance service offered by the RNRC has enabled the Russian Government to deflect and mitigate the impact of western sanctions on its oil trade – which provides a substantial source of revenue to the Government of the Russian Federation.
+  justification: The Russian National Reinsurance Company (RNRC), is a Russian statecontrolled
+    joint stock company and subsidiary of the Bank of Russia. Currently, RNRC is functioning
+    as the main reinsurer of Russian ships responsible for the export of Russian oil,
+    including Sovcomflot’s fleet, after Western insurance firms withdrew cover for
+    Russian shipowners, following the western sanctions because of Russia’s war of
+    aggression against Ukraine. Importantly, this reinsurance service offered by the
+    RNRC has enabled the Russian Government to deflect and mitigate the impact of
+    western sanctions on its oil trade – which provides a substantial source of revenue
+    to the Government of the Russian Federation.

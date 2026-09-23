@@ -1,3 +1,4 @@
+---
 ssid: '102077'
 sanctions_set_id: '13065'
 individual:
@@ -22,4 +23,5 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Mohsen Fathi Zadeh
-  justification: Mohsen Fathizadeh is the Head of the Protection and Intelligence Organization of the Law Enforcement Forces (LEF) in Iran.
+  justification: Mohsen Fathizadeh is the Head of the Protection and Intelligence
+    Organization of the Law Enforcement Forces (LEF) in Iran.

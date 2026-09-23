@@ -1,3 +1,4 @@
+---
 ssid: '71333'
 sanctions_set_id: '62614'
 entity:
@@ -11,7 +12,15 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Public Association – Association of People with Epaulettes “Scutul Poporului”
+        value: Public Association – Association of People with Epaulettes “Scutul
+          Poporului”
     addresses:
     - address_details: 74, Mitropolit Varlam street
-  justification: "“Scutul Poporului” is a paramilitary organisation in the Republic of Moldova, including former military, police and law-enforcement personnel. It is led by Chiril Guzun and it attends protests, particularly to destabilise the Republic of Moldova, by using violence. During the attempts of February 2023 to destabilise the national government, groups of protesters affiliated to the subsequently-banned “Partidul ȘOR” and to the Building Europe at Home Party, “Partidul Acasă Construim Europa” (PACE) were supported and surrounded by members of the “Scutul Poporului”, who were involved in riots and violent demonstrations."
+  justification: "“Scutul Poporului” is a paramilitary organisation in the Republic
+    of Moldova, including former military, police and law-enforcement personnel. It
+    is led by Chiril Guzun and it attends protests, particularly to destabilise the
+    Republic of Moldova, by using violence. During the attempts of February 2023 to
+    destabilise the national government, groups of protesters affiliated to the subsequently-banned
+    “Partidul ȘOR” and to the Building Europe at Home Party, “Partidul Acasă Construim
+    Europa” (PACE) were supported and surrounded by members of the “Scutul Poporului”,
+    who were involved in riots and violent demonstrations."

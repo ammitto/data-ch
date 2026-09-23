@@ -1,3 +1,4 @@
+---
 ssid: '47908'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 6
       month: 3
       year: 1973
-  justification: Igor Osipov is the former Commander-in-Chief of the Black Sea Fleet. As such, he was responsible for any maritime operation in or to Ukraine through the Black Sea and for restricting the freedom of navigation in the Black Sea.
+  justification: Igor Osipov is the former Commander-in-Chief of the Black Sea Fleet.
+    As such, he was responsible for any maritime operation in or to Ukraine through
+    the Black Sea and for restricting the freedom of navigation in the Black Sea.

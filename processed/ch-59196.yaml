@@ -1,3 +1,4 @@
+---
 ssid: '59196'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,7 @@ entity:
     addresses:
     - address_details: Goncharnaya st., 20/1
       zip_code: '109240'
-  justification: Concern Radio-Electronic Technologies KRET is Russia’s major developer and manufacturer of military radio-electronic products. It is a Rostec subsidiary. It manufactured Krasukha-4 electronic warfare systems, that were used by the Armed Forces of the Russian Federation during Russia’s war of aggression against Ukraine.
+  justification: Concern Radio-Electronic Technologies KRET is Russia’s major developer
+    and manufacturer of military radio-electronic products. It is a Rostec subsidiary.
+    It manufactured Krasukha-4 electronic warfare systems, that were used by the Armed
+    Forces of the Russian Federation during Russia’s war of aggression against Ukraine.

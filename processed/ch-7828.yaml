@@ -1,3 +1,4 @@
+---
 ssid: '7828'
 sanctions_set_id: '6373'
 individual:
@@ -18,4 +19,7 @@ individual:
       - order: 3
         name_part_type: title
         value: Lieutenant
-  justification: Member of the "Military Command" which has assumed responsibility for the coup d'état of 12 April 2012. Responsible for Misappropriation of publics funds belonging to Customs, the Transports Directorate-General and the Border and Migration Directorate-General. These funds finance the “Military Command”.
+  justification: Member of the "Military Command" which has assumed responsibility
+    for the coup d'état of 12 April 2012. Responsible for Misappropriation of publics
+    funds belonging to Customs, the Transports Directorate-General and the Border
+    and Migration Directorate-General. These funds finance the “Military Command”.

@@ -1,3 +1,4 @@
+---
 ssid: '85360'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 22
       month: 8
       year: 1974
-  justification: Nikolay Papikyan is a Russian military serviceman from the 22nd Guards Heavy Bomber Aviation Division based at Engels-2 airbase in Saratov, Russia. In July 2024, a Kh-101 missile strike carried out by that Division hit the Okhmadyt children’s hospital in Kyiv. As a serviceman from the 22nd Guards Heavy Bomber Aviation Division, Nikolay Papikyan is supporting and implementing actions and policies which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Nikolay Papikyan is a Russian military serviceman from the 22nd Guards
+    Heavy Bomber Aviation Division based at Engels-2 airbase in Saratov, Russia. In
+    July 2024, a Kh-101 missile strike carried out by that Division hit the Okhmadyt
+    children’s hospital in Kyiv. As a serviceman from the 22nd Guards Heavy Bomber
+    Aviation Division, Nikolay Papikyan is supporting and implementing actions and
+    policies which undermine and threaten the territorial integrity, sovereignty and
+    independence of Ukraine.

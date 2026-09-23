@@ -1,3 +1,4 @@
+---
 ssid: '10741'
 sanctions_set_id: '8174'
 entity:
@@ -28,4 +29,6 @@ entity:
         value: SAPID Shipping Company
     addresses:
     - address_details: 33241 - Narenjestan 8th St, Artesh Blvd, Aghdasieh
-  justification: Safiran Payam Darya (SAPID) has taken over as beneficial owner a number of Islamic Republic of Iran Shipping Line's (IRISL) vessels. Accordingly, it is acting on behalf of IRISL.
+  justification: Safiran Payam Darya (SAPID) has taken over as beneficial owner a
+    number of Islamic Republic of Iran Shipping Line's (IRISL) vessels. Accordingly,
+    it is acting on behalf of IRISL.

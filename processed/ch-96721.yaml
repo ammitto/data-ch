@@ -1,3 +1,4 @@
+---
 ssid: '96721'
 sanctions_set_id: '73477'
 entity:
@@ -49,4 +50,8 @@ entity:
         value: بنك الخليج
     addresses:
     - address_details: Albaraka Tower, 6th Floor, 1 Al Qasr
-  justification: Alkhaleej Bank Co Ltd (“Alkhaleej”) plays an essential role in the Rapid Support Forces’ (RSF) efforts to finance its own operations, complicating efforts to stop the fighting in Sudan. Alkhaleej is largely owned by companies linked to family members of RSF Commander Mohamed Hamdan Dagalo (Hemedti) and is therefore considered to be controlled by the RSF.
+  justification: Alkhaleej Bank Co Ltd (“Alkhaleej”) plays an essential role in the
+    Rapid Support Forces’ (RSF) efforts to finance its own operations, complicating
+    efforts to stop the fighting in Sudan. Alkhaleej is largely owned by companies
+    linked to family members of RSF Commander Mohamed Hamdan Dagalo (Hemedti) and
+    is therefore considered to be controlled by the RSF.

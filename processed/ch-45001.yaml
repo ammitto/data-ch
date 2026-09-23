@@ -1,3 +1,4 @@
+---
 ssid: '45001'
 sanctions_set_id: '39362'
 individual:
@@ -16,4 +17,6 @@ individual:
       day: 26
       month: 12
       year: 1944
-  justification: Thein Nyunt is a member of the National Defence and Security Council (NDSC) and its Central Advisory Body, as well as a former member of the State Administrative Council (SAC) and its Central Advisory Body.
+  justification: Thein Nyunt is a member of the National Defence and Security Council
+    (NDSC) and its Central Advisory Body, as well as a former member of the State
+    Administrative Council (SAC) and its Central Advisory Body.

@@ -1,3 +1,4 @@
+---
 ssid: '100836'
 sanctions_set_id: '8174'
 entity:
@@ -15,4 +16,9 @@ entity:
     addresses:
     - address_details: Timiriazeva str. 65A
       zip_code: '220035'
-  justification: Trade Capital Bank is a subsidiary (99 %) of Tejarat Bank. Tejarat Bank is partially owned and controlled by the Government of Iran. Furthermore, through its subsidiaries, it is involved in the circumvention of restrictive measures, by providing services to front companies used by Iran. Therefore, Tejarat Bank is both supporting the Government of Iran and supporting designated entities in circumvention of restrictive measures.
+  justification: Trade Capital Bank is a subsidiary (99 %) of Tejarat Bank. Tejarat
+    Bank is partially owned and controlled by the Government of Iran. Furthermore,
+    through its subsidiaries, it is involved in the circumvention of restrictive measures,
+    by providing services to front companies used by Iran. Therefore, Tejarat Bank
+    is both supporting the Government of Iran and supporting designated entities in
+    circumvention of restrictive measures.

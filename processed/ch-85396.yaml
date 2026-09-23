@@ -1,3 +1,4 @@
+---
 ssid: '85396'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 7
       month: 5
       year: 1974
-  justification: Dzmitry Zamulevich is part-owner of Vlate Logistik LLC, a transport and storage company which holds the status of authorised economic operator. Through this status, issued by state authorities, it enjoys significant tax advantages. Through ownership of Vlate Logistik LLC, Zamulevich is associated with an entity benefitting from the Lukashenka regime.
+  justification: Dzmitry Zamulevich is part-owner of Vlate Logistik LLC, a transport
+    and storage company which holds the status of authorised economic operator. Through
+    this status, issued by state authorities, it enjoys significant tax advantages.
+    Through ownership of Vlate Logistik LLC, Zamulevich is associated with an entity
+    benefitting from the Lukashenka regime.

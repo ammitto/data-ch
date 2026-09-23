@@ -1,3 +1,4 @@
+---
 ssid: '69340'
 sanctions_set_id: '27286'
 entity:
@@ -49,4 +50,8 @@ entity:
       zip_code: '123242'
     - address_details: Savvinskaya Embankment, 15, Business Center “Japanese House”
       zip_code: '119435'
-  justification: AST JSC is an entity that operates in the Russian IT sector, including in the field of IT security and the experimental development of computers. AST JSC holds a licence administered by the Russian Ministry of Industry and Trade, as well as a licence administered by the Federal Security Service of the Russian Federation (FSB).
+  justification: AST JSC is an entity that operates in the Russian IT sector, including
+    in the field of IT security and the experimental development of computers. AST
+    JSC holds a licence administered by the Russian Ministry of Industry and Trade,
+    as well as a licence administered by the Federal Security Service of the Russian
+    Federation (FSB).

@@ -1,3 +1,4 @@
+---
 ssid: '63459'
 sanctions_set_id: '27286'
 individual:
@@ -39,4 +40,9 @@ individual:
       day: 12
       month: 5
       year: 1970
-  justification: Galina Pyatykh is the Advisor of the Governor of Belgorod Region and the Commissioner for Children’s Rights in Belgorod Region. In this role, she is one of the most involved persons in the illegal deportation of Ukrainian children to Russia and their adoption by Russian families. Galina Pyatykh’s actions violate the rights of Ukrainian children and infringe Ukraine’s law and administrative order.
+  justification: Galina Pyatykh is the Advisor of the Governor of Belgorod Region
+    and the Commissioner for Children’s Rights in Belgorod Region. In this role, she
+    is one of the most involved persons in the illegal deportation of Ukrainian children
+    to Russia and their adoption by Russian families. Galina Pyatykh’s actions violate
+    the rights of Ukrainian children and infringe Ukraine’s law and administrative
+    order.

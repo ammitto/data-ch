@@ -1,3 +1,4 @@
+---
 ssid: '50472'
 sanctions_set_id: '27286'
 individual:
@@ -18,4 +19,8 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Mikhailovich
-  justification: Nikolai Rogashchuk is deputy chief of staff to the president Aliksandr Lukashenka. He is former presidential aide to Aliksandr Lukashenka and the inspector for the Gomel region. In this function, he provided support for the joint Russian-Belarussian military exercises which prepared the Russian military aggression against Ukraine of 24 February 2022.
+  justification: Nikolai Rogashchuk is deputy chief of staff to the president Aliksandr
+    Lukashenka. He is former presidential aide to Aliksandr Lukashenka and the inspector
+    for the Gomel region. In this function, he provided support for the joint Russian-Belarussian
+    military exercises which prepared the Russian military aggression against Ukraine
+    of 24 February 2022.

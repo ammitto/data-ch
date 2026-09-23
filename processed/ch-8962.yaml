@@ -1,3 +1,4 @@
+---
 ssid: '8962'
 sanctions_set_id: '8174'
 entity:
@@ -30,4 +31,5 @@ entity:
     - address_details: No 20, West Nahid Blvd. Vali Asr Ave
       zip_code: '1967757451'
     - address_details: No. 241, Mirdamad Street
-  justification: Wholly owned by Bank Melli Investment Co.; Holding Company to manage all cement companies owned by BMIIC.
+  justification: Wholly owned by Bank Melli Investment Co.; Holding Company to manage
+    all cement companies owned by BMIIC.

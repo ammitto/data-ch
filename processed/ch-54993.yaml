@@ -1,3 +1,4 @@
+---
 ssid: '54993'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 3
       month: 7
       year: 1965
-  justification: Dmitry Yulianovich Ionov is a major of the 64th Separate Motorised Rifle Brigade of the 35th Combined Arms Army of the Russian Federation, which reportedly killed, raped and tortured civilians in Bucha, Ukraine. These atrocities may constitute crimes against humanity and war crimes.
+  justification: Dmitry Yulianovich Ionov is a major of the 64th Separate Motorised
+    Rifle Brigade of the 35th Combined Arms Army of the Russian Federation, which
+    reportedly killed, raped and tortured civilians in Bucha, Ukraine. These atrocities
+    may constitute crimes against humanity and war crimes.

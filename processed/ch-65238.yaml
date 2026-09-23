@@ -1,3 +1,4 @@
+---
 ssid: '65238'
 sanctions_set_id: '4387'
 individual:
@@ -19,4 +20,10 @@ individual:
         name_part_type: father-name
         value: Vasilyevich
     addresses:
-  justification: In his position of Head colonel of the internal service of Educational Colony No.°2 in Bobruysk, Siarhei Masliukou is responsible for the inhuman and degrading treatment of minors. He is responsible for subjecting children to hunger, torture, forced work, and various forms of physical and psychological violence. He is also responsible for depriving underage convicts of access to medical care. He is therefore responsible for serious violations of human rights and the repression of civil society in Belarus.
+  justification: In his position of Head colonel of the internal service of Educational
+    Colony No.°2 in Bobruysk, Siarhei Masliukou is responsible for the inhuman and
+    degrading treatment of minors. He is responsible for subjecting children to hunger,
+    torture, forced work, and various forms of physical and psychological violence.
+    He is also responsible for depriving underage convicts of access to medical care.
+    He is therefore responsible for serious violations of human rights and the repression
+    of civil society in Belarus.

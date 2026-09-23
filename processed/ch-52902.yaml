@@ -1,3 +1,4 @@
+---
 ssid: '52902'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 28
       month: 10
       year: 1959
-  justification: Oleg Dobrodeev is the Director General of the largest state-owned media holding in Russia. He has actively participated in the Kremlin’s propaganda by creating and disseminating distorted information in the interests of the political leadership of the Russian Federation.
+  justification: Oleg Dobrodeev is the Director General of the largest state-owned
+    media holding in Russia. He has actively participated in the Kremlin’s propaganda
+    by creating and disseminating distorted information in the interests of the political
+    leadership of the Russian Federation.

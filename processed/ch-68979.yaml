@@ -1,3 +1,4 @@
+---
 ssid: '68979'
 sanctions_set_id: '68945'
 individual:
@@ -26,4 +27,9 @@ individual:
       day: 22
       month: 9
       year: 1985
-  justification: Rahmatollah Heidari is the Managing Director and a member of the board of directors of Baharestan Kish Company. Baharestan Kish Company manufactures unmanned aerial vehicle (UAV) components for the Islamic Revolutionary Guard Corps (IRGC). As the Managing Director and a member of the board of directors of Baharestan Kish Company, Rahmatollah Heidari is therefore supporting and involved in Iran’s UAV programme.
+  justification: Rahmatollah Heidari is the Managing Director and a member of the
+    board of directors of Baharestan Kish Company. Baharestan Kish Company manufactures
+    unmanned aerial vehicle (UAV) components for the Islamic Revolutionary Guard Corps
+    (IRGC). As the Managing Director and a member of the board of directors of Baharestan
+    Kish Company, Rahmatollah Heidari is therefore supporting and involved in Iran’s
+    UAV programme.

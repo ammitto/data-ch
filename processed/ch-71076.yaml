@@ -1,3 +1,4 @@
+---
 ssid: '71076'
 sanctions_set_id: '3986'
 individual:
@@ -26,4 +27,6 @@ individual:
       day: 14
       month: 4
       year: 1975
-  justification: Bilal al-Naal is a founder and partner of multiple trading and investment companies in Syria. During the Syrian civil war he provided financial support to the Shabiha militia.
+  justification: Bilal al-Naal is a founder and partner of multiple trading and investment
+    companies in Syria. During the Syrian civil war he provided financial support
+    to the Shabiha militia.

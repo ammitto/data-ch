@@ -1,3 +1,4 @@
+---
 ssid: '36370'
 sanctions_set_id: '3986'
 individual:
@@ -25,4 +26,5 @@ individual:
       day: 31
       month: 12
       year: 1977
-  justification: Economy and Foreign Trade Minister under the former al-Assad regime. Appointed in March 2017.
+  justification: Economy and Foreign Trade Minister under the former al-Assad regime.
+    Appointed in March 2017.

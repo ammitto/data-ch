@@ -1,3 +1,4 @@
+---
 ssid: '12057'
 sanctions_set_id: '3986'
 individual:
@@ -33,4 +34,5 @@ individual:
       day: 1
       month: 10
       year: 1950
-  justification: Political Security Division. Military official under the former al-Assad regime involved in the violence in Homs.
+  justification: Political Security Division. Military official under the former al-Assad
+    regime involved in the violence in Homs.

@@ -1,3 +1,4 @@
+---
 ssid: '64741'
 sanctions_set_id: '38066'
 individual:
@@ -76,4 +77,8 @@ individual:
         value: Mwarabu
     day_month_year:
       year: 1993
-  justification: Ahmad Mahmood Hassan is a senior leader of the Allied Democratic Forces (ADF), a non-governmental armed group operating in Uganda and the Eastern DRC. He has been identified as holding key responsibilities in the ADF, including command of a camp, training of recruits, production of bombs, online outreach and rapprochement with ISIL (Da’esh).
+  justification: Ahmad Mahmood Hassan is a senior leader of the Allied Democratic
+    Forces (ADF), a non-governmental armed group operating in Uganda and the Eastern
+    DRC. He has been identified as holding key responsibilities in the ADF, including
+    command of a camp, training of recruits, production of bombs, online outreach
+    and rapprochement with ISIL (Da’esh).

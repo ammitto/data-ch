@@ -1,3 +1,4 @@
+---
 ssid: '6861'
 sanctions_set_id: '6094'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 23
       month: 7
       year: 1955
-  justification: Former ZANU-PF member of Government. Involved in violence in Manicaland and used army personnel for farm take-overs.
+  justification: Former ZANU-PF member of Government. Involved in violence in Manicaland
+    and used army personnel for farm take-overs.

@@ -1,3 +1,4 @@
+---
 ssid: '38047'
 sanctions_set_id: '3976'
 individual:
@@ -21,4 +22,5 @@ individual:
         value: André Kalume
     day_month_year:
       year: 1966
-  justification: He is a threat to the peace, stability and security of the DRC under UNSCR 2293 paragraph 7(j).
+  justification: He is a threat to the peace, stability and security of the DRC under
+    UNSCR 2293 paragraph 7(j).

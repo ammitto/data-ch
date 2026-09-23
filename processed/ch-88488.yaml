@@ -1,3 +1,4 @@
+---
 ssid: '88488'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 29
       month: 5
       year: 1960
-  justification: Igor Zyuzin is a Russian businessperson, with business interests in the iron ore and steel, coal and energy sectors. Igor Zyuzin is a major shareholder and Chairman of the Board of Directors of Mechel PAO, a major Russian mining and metals company engaging in up-stream and down-stream activities within the Russian mining, metals and energy sectors. In particular, Mechel PAO is one of the leading Russian coal export companies. Those economic sectors provide a substantial source of revenue to the Government of the Russian Federation.
+  justification: Igor Zyuzin is a Russian businessperson, with business interests
+    in the iron ore and steel, coal and energy sectors. Igor Zyuzin is a major shareholder
+    and Chairman of the Board of Directors of Mechel PAO, a major Russian mining and
+    metals company engaging in up-stream and down-stream activities within the Russian
+    mining, metals and energy sectors. In particular, Mechel PAO is one of the leading
+    Russian coal export companies. Those economic sectors provide a substantial source
+    of revenue to the Government of the Russian Federation.

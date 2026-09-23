@@ -1,3 +1,4 @@
+---
 ssid: '36698'
 sanctions_set_id: '3986'
 individual:
@@ -25,4 +26,7 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Khloudi
-  justification: Mohammad Darar Khaludi is an engineer at the Syrian Scientific Studies and Research Centre. He is involved in chemical weapons proliferation and delivery. He has been involved in the construction of barrel bombs which have been used against the civilian population in Syria.
+  justification: Mohammad Darar Khaludi is an engineer at the Syrian Scientific Studies
+    and Research Centre. He is involved in chemical weapons proliferation and delivery.
+    He has been involved in the construction of barrel bombs which have been used
+    against the civilian population in Syria.

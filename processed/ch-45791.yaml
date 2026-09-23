@@ -1,3 +1,4 @@
+---
 ssid: '45791'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 30
       month: 3
       year: 1989
-  justification: In his position as the Head of the Akrestina Isolation Centre for Offenders, Yauhen Shapetska is responsible for appalling conditions in the isolation centre and for the inhumane and degrading treatment, including torture, inflicted on citizens who participated in peaceful protests and were detained in this detention facility in the wake of the 2020 presidential election. He is therefore responsible for serious violations of human rights and for the repression of civil society and democratic opposition.
+  justification: In his position as the Head of the Akrestina Isolation Centre for
+    Offenders, Yauhen Shapetska is responsible for appalling conditions in the isolation
+    centre and for the inhumane and degrading treatment, including torture, inflicted
+    on citizens who participated in peaceful protests and were detained in this detention
+    facility in the wake of the 2020 presidential election. He is therefore responsible
+    for serious violations of human rights and for the repression of civil society
+    and democratic opposition.

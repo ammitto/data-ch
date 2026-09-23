@@ -1,3 +1,4 @@
+---
 ssid: '11107'
 sanctions_set_id: '8174'
 individual:
@@ -18,4 +19,5 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Ali
-  justification: Former Commander of the IRGC. Currently head of the Hazrat Baqiatollah al-Azam Cultural and Social Headquarters.
+  justification: Former Commander of the IRGC. Currently head of the Hazrat Baqiatollah
+    al-Azam Cultural and Social Headquarters.

@@ -1,3 +1,4 @@
+---
 ssid: '6718'
 sanctions_set_id: '6094'
 individual:
@@ -15,4 +16,5 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Columbus
-  justification: Directly involved in the campaign of terror waged before and after the elections, by leading violence in Buhera in 2008.
+  justification: Directly involved in the campaign of terror waged before and after
+    the elections, by leading violence in Buhera in 2008.

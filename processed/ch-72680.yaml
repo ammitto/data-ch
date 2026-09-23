@@ -1,3 +1,4 @@
+---
 ssid: '72680'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 29
       month: 1
       year: 1961
-  justification: Georgiy Antsev is Chairman of the St. Petersburg branch of SoyuzMash of Russia, as well as the General Director and General Designer of Joint Stock Company Research and Production Enterprise Radar MMS (JSC NPP Radar MMS). JSC NPP Radar MMS is a Russian defence industry enterprise that designs and produces homing systems for high-precision weapons, military and civil avionics, monitoring and navigation systems.
+  justification: Georgiy Antsev is Chairman of the St. Petersburg branch of SoyuzMash
+    of Russia, as well as the General Director and General Designer of Joint Stock
+    Company Research and Production Enterprise Radar MMS (JSC NPP Radar MMS). JSC
+    NPP Radar MMS is a Russian defence industry enterprise that designs and produces
+    homing systems for high-precision weapons, military and civil avionics, monitoring
+    and navigation systems.

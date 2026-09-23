@@ -1,3 +1,4 @@
+---
 ssid: '9738'
 sanctions_set_id: '8174'
 entity:
@@ -12,4 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Atlantic Intermodal
-  justification: Owned by IRISL agent Pacific Shipping. Rendered financial assistance for impounded IRISL vessels and acquisition of new shipping containers.
+  justification: Owned by IRISL agent Pacific Shipping. Rendered financial assistance
+    for impounded IRISL vessels and acquisition of new shipping containers.

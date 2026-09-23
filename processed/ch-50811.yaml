@@ -1,3 +1,4 @@
+---
 ssid: '50811'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,15 @@ individual:
       day: 17
       month: 10
       year: 1967
-  justification: Dmitri Peskov is the press secretary of President Putin. He has publically defended the aggressive policy of Russia against Ukraine, including the illegal annexation of Crimea and Sevastopol by the Russian Federation. In numerous statements, he has stressed that the territory of Crimea and Sevastopol is an integral part of Russia, and that its recovery by Ukraine is not possible. He called Ukrainian actions aimed at ending Russian occupation of the Crimean Peninsula a territorial claim against Russia. He has expressed his opinion about the impossibility of negotiations with the Ukrainian authorities, stressing that they are not considered a partner by the Russian side. He stated, contrary to facts, that there were no Russian troops in Donbass. He has also conveyed the message that Western sanctions have no real effect on Russia. He threatened that Russia would issue counter-sanctions in reply.
+  justification: Dmitri Peskov is the press secretary of President Putin. He has publically
+    defended the aggressive policy of Russia against Ukraine, including the illegal
+    annexation of Crimea and Sevastopol by the Russian Federation. In numerous statements,
+    he has stressed that the territory of Crimea and Sevastopol is an integral part
+    of Russia, and that its recovery by Ukraine is not possible. He called Ukrainian
+    actions aimed at ending Russian occupation of the Crimean Peninsula a territorial
+    claim against Russia. He has expressed his opinion about the impossibility of
+    negotiations with the Ukrainian authorities, stressing that they are not considered
+    a partner by the Russian side. He stated, contrary to facts, that there were no
+    Russian troops in Donbass. He has also conveyed the message that Western sanctions
+    have no real effect on Russia. He threatened that Russia would issue counter-sanctions
+    in reply.

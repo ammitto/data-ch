@@ -1,3 +1,4 @@
+---
 ssid: '93680'
 sanctions_set_id: '27286'
 entity:
@@ -26,4 +27,7 @@ entity:
     addresses:
     - address_details: Markina Sq., Bldg.15A
       zip_code: '603001'
-  justification: JSC Volga Shipping is one of the leading Russian shipping companies. It manages vessels transporting crude oil and oil products by sea, including for export purposes. The energy sector, especially oil, provides substantial revenues to the Government of the Russian Federation.
+  justification: JSC Volga Shipping is one of the leading Russian shipping companies.
+    It manages vessels transporting crude oil and oil products by sea, including for
+    export purposes. The energy sector, especially oil, provides substantial revenues
+    to the Government of the Russian Federation.

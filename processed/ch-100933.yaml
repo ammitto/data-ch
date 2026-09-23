@@ -1,3 +1,4 @@
+---
 ssid: '100933'
 sanctions_set_id: '8174'
 entity:
@@ -22,4 +23,7 @@ entity:
     addresses:
     - address_details: No. 9, Maaref Street, Farhang Blvd, Saadet Abad
     - address_details: No. 33, Farhang Blvd, Sa’adat-Abad
-  justification: Petropars Iran Company (PPI) is a wholly-owned subsidiary of Petropars Ltd (PPL), which in turn is a wholly-owned subsidiary of Naftiran Intertrade Company Ltd (NICO). NICO belongs to the National Iranian Oil Company (NIOC). NIOC is a State-owned entity, which provides support to the Government of Iran.
+  justification: Petropars Iran Company (PPI) is a wholly-owned subsidiary of Petropars
+    Ltd (PPL), which in turn is a wholly-owned subsidiary of Naftiran Intertrade Company
+    Ltd (NICO). NICO belongs to the National Iranian Oil Company (NIOC). NIOC is a
+    State-owned entity, which provides support to the Government of Iran.

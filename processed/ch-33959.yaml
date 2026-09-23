@@ -1,3 +1,4 @@
+---
 ssid: '33959'
 sanctions_set_id: '3978'
 entity:
@@ -36,4 +37,9 @@ entity:
     addresses:
     - address_details: Hyongjesan-Guyok
     - address_details: Nungrado
-  justification: The Reconnaissance General Bureau is the DPRK's premiere intelligence organization, created in early 2009 by the merger of existing intelligence organizations from the Korean Workers' Party, the Operations Department and Office 35, and the Reconnaissance Bureau of the Korean People's Army. The Reconnaissance General Bureau trades in conventional arms and controls the DPRK conventional arms firm Green Pine Associated Corporation.
+  justification: The Reconnaissance General Bureau is the DPRK's premiere intelligence
+    organization, created in early 2009 by the merger of existing intelligence organizations
+    from the Korean Workers' Party, the Operations Department and Office 35, and the
+    Reconnaissance Bureau of the Korean People's Army. The Reconnaissance General
+    Bureau trades in conventional arms and controls the DPRK conventional arms firm
+    Green Pine Associated Corporation.

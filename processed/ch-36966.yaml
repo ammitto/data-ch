@@ -1,3 +1,4 @@
+---
 ssid: '36966'
 sanctions_set_id: '3978'
 individual:
@@ -23,4 +24,6 @@ individual:
       day: 25
       month: 9
       year: 1984
-  justification: Representative for the Korea Kwangson Banking Corporation, which provides financial services in support to Tanchon Commercial Bank and Korea Hyoksin Trading, a subordinate entity of Korea Ryonbong General Corporation.
+  justification: Representative for the Korea Kwangson Banking Corporation, which
+    provides financial services in support to Tanchon Commercial Bank and Korea Hyoksin
+    Trading, a subordinate entity of Korea Ryonbong General Corporation.

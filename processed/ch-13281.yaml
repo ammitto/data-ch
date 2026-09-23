@@ -1,3 +1,4 @@
+---
 ssid: '13281'
 sanctions_set_id: '13065'
 individual:
@@ -31,4 +32,9 @@ individual:
         value: Behrooz_Ice
     day_month_year:
       year: 1983
-  justification: Head of the “Ashiyaneh” cyber group linked with the Iranian regime. “Ashiyaneh” Digital Security, founded by Behrouz Kamalian, is responsible for intensive cyber-attacks on both domestic opponents and reformists and foreign institutions. Kamalian’s “Ashiyaneh” organisation’s work has assisted the regime’s crackdown against the opposition, which has involved numerous serious human rights violations.
+  justification: Head of the “Ashiyaneh” cyber group linked with the Iranian regime.
+    “Ashiyaneh” Digital Security, founded by Behrouz Kamalian, is responsible for
+    intensive cyber-attacks on both domestic opponents and reformists and foreign
+    institutions. Kamalian’s “Ashiyaneh” organisation’s work has assisted the regime’s
+    crackdown against the opposition, which has involved numerous serious human rights
+    violations.

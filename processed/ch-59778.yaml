@@ -1,3 +1,4 @@
+---
 ssid: '59778'
 sanctions_set_id: '29445'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Branch of Public Joint Stock Company “United Aircraft Corporation” – Kalyazinskiy Machine Building Factory
+        value: Branch of Public Joint Stock Company “United Aircraft Corporation”
+          – Kalyazinskiy Machine Building Factory
     - name_type: alias
       quality: good
       lang: eng
@@ -32,7 +34,9 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Филиал Публичного Акционерного Общества «Объединенная Авиастроительная Корпорация» - Калязинский Машиностроительный Завод (Филиал ПАО «ОАК» - Калязинский Машиностроительный Завод)
+        value: Филиал Публичного Акционерного Общества «Объединенная Авиастроительная
+          Корпорация» - Калязинский Машиностроительный Завод (Филиал ПАО «ОАК» - Калязинский
+          Машиностроительный Завод)
     addresses:
     - address_details: Industrialnaya Str. 5, Kalyazin
       zip_code: '171573'

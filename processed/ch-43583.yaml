@@ -1,3 +1,4 @@
+---
 ssid: '43583'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 17
       month: 11
       year: 1979
-  justification: In his capacity as Director of the Akrestina detention centre in Minsk, Ivan Sakalouski is responsible for the inhumane and degrading treatment, including torture, inflicted on citizens detained in that detention centre in the wake of the 2020 presidential election.
+  justification: In his capacity as Director of the Akrestina detention centre in
+    Minsk, Ivan Sakalouski is responsible for the inhumane and degrading treatment,
+    including torture, inflicted on citizens detained in that detention centre in
+    the wake of the 2020 presidential election.

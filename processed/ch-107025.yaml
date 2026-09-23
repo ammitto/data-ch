@@ -1,3 +1,4 @@
+---
 ssid: '107025'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,12 @@ individual:
       day: 17
       month: 4
       year: 1975
-  justification: Andrey Sabinov is a Deputy of the so-called “Regional Duma” in the temporarily occupied Kherson region, appointed under the Russian occupation administration, and the head of the “Warrior” centre branch in Kherson. The Warrior centre is a Russian state-led youth organisation established in the Russian Federation to promote patriotic and military education among young people. It involves cadet-style military instruction, weapons and tactical training. It operates with the support of the President of the Russian Federation, who instructed the Warrior centre to work in close cooperation with participants in Russia’s war of aggression against Ukraine.
+  justification: Andrey Sabinov is a Deputy of the so-called “Regional Duma” in the
+    temporarily occupied Kherson region, appointed under the Russian occupation administration,
+    and the head of the “Warrior” centre branch in Kherson. The Warrior centre is
+    a Russian state-led youth organisation established in the Russian Federation to
+    promote patriotic and military education among young people. It involves cadet-style
+    military instruction, weapons and tactical training. It operates with the support
+    of the President of the Russian Federation, who instructed the Warrior centre
+    to work in close cooperation with participants in Russia’s war of aggression against
+    Ukraine.

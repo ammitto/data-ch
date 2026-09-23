@@ -1,3 +1,4 @@
+---
 ssid: '35739'
 sanctions_set_id: '3986'
 individual:
@@ -17,4 +18,6 @@ individual:
         value: Hosni
     day_month_year:
       year: 1952
-  justification: State Minister under the former al-Assad regime. Appointed in July 2016. As a Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: State Minister under the former al-Assad regime. Appointed in July
+    2016. As a Government Minister, shares responsibility for the former al-Assad
+    regime’s violent repression of the civilian population.

@@ -1,3 +1,4 @@
+---
 ssid: '4716'
 sanctions_set_id: '4387'
 individual:
@@ -18,4 +19,8 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Antonavich
-  justification: Member of the Central Electoral Commission (CEC) and Head of the Department of Education in the Vitebsk regional administration. As a Member of the Central Electoral Commission, he was responsible for the violations of international electoral standards in the Presidential elections on 19 Dec 2010 and in the Parliamentary elections of September 2012.
+  justification: Member of the Central Electoral Commission (CEC) and Head of the
+    Department of Education in the Vitebsk regional administration. As a Member of
+    the Central Electoral Commission, he was responsible for the violations of international
+    electoral standards in the Presidential elections on 19 Dec 2010 and in the Parliamentary
+    elections of September 2012.

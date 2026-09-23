@@ -1,3 +1,4 @@
+---
 ssid: '9533'
 sanctions_set_id: '8174'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: TABA (Iran Cutting Tools Manufacturing company – Taba Towlid Abzar Boreshi Iran)
+        value: TABA (Iran Cutting Tools Manufacturing company – Taba Towlid Abzar
+          Boreshi Iran)
     - name_type: alias
       quality: good
       lang: eng
@@ -35,4 +37,6 @@ entity:
         value: Sherkate Technology Centrifuge Iran, TESA, TSA
     addresses:
     - address_details: 12 Ferdowsi, Avenue Sakhaee, avenue 30 Tir (sud), nr 66
-  justification: Owned or controlled by EU-sanctioned TESA, Involved in manufacturing equipment and materials, which have direct applications in the Iranian nuclear programme.
+  justification: Owned or controlled by EU-sanctioned TESA, Involved in manufacturing
+    equipment and materials, which have direct applications in the Iranian nuclear
+    programme.

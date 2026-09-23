@@ -1,3 +1,4 @@
+---
 ssid: '105389'
 sanctions_set_id: '27286'
 entity:
@@ -13,5 +14,7 @@ entity:
         name_part_type: whole-name
         value: Centauri Services LLC
     addresses:
-    - address_details: Lumen Ship Management - FZCO Unit 405, 4th Floor, Jumeirah Business Center 5, Jumeirah Lakes Towers
-  justification: Centauri Services LLC is a UAE-based shipping company, which owns and manages tankers transporting Russian crude oil, including for export purposes.
+    - address_details: Lumen Ship Management - FZCO Unit 405, 4th Floor, Jumeirah
+        Business Center 5, Jumeirah Lakes Towers
+  justification: Centauri Services LLC is a UAE-based shipping company, which owns
+    and manages tankers transporting Russian crude oil, including for export purposes.

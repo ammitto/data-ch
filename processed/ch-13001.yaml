@@ -1,3 +1,4 @@
+---
 ssid: '13001'
 sanctions_set_id: '12788'
 individual:
@@ -20,4 +21,5 @@ individual:
       month: 5
       year: 1973
     addresses:
-  justification: Commander Special Forces. Son of Muammar Qadhafi. Closeness of association with regime. Command of military units involved in repression of demonstrations
+  justification: Commander Special Forces. Son of Muammar Qadhafi. Closeness of association
+    with regime. Command of military units involved in repression of demonstrations

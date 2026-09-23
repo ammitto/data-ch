@@ -1,3 +1,4 @@
+---
 ssid: '101793'
 sanctions_set_id: '68945'
 entity:
@@ -38,5 +39,13 @@ entity:
       month: 1
       year: 2019
     addresses:
-    - address_details: Unit. 7, 1st Floor, BLDG No. 21, Kar Va Tejarat Av., Vanak St., Vanak Sq
-  justification: Asia Marine Crown Agency is a front company for Iran’s Ministry of Defence and Armed Forces Logistics (MODAFL). This agency has served as the port agent in Bandar Abbas, Iran, facilitating several shipments of unmanned aerial vehicle (UAV) parts and dual use goods for Sahara Thunder projects which provide UAVs to Russia. Sahara Thunder, another MODAFL front company, oversees Iran’s commercial activities related to the design, development, manufacture, and sale of UAVs, many of which are transferred to Russia for use in its war of aggression against Ukraine.
+    - address_details: Unit. 7, 1st Floor, BLDG No. 21, Kar Va Tejarat Av., Vanak
+        St., Vanak Sq
+  justification: Asia Marine Crown Agency is a front company for Iran’s Ministry of
+    Defence and Armed Forces Logistics (MODAFL). This agency has served as the port
+    agent in Bandar Abbas, Iran, facilitating several shipments of unmanned aerial
+    vehicle (UAV) parts and dual use goods for Sahara Thunder projects which provide
+    UAVs to Russia. Sahara Thunder, another MODAFL front company, oversees Iran’s
+    commercial activities related to the design, development, manufacture, and sale
+    of UAVs, many of which are transferred to Russia for use in its war of aggression
+    against Ukraine.

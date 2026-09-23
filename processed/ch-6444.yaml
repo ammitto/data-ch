@@ -1,3 +1,4 @@
+---
 ssid: '6444'
 sanctions_set_id: '6094'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 13
       month: 1
       year: 1965
-  justification: ZANU-PF Member of the Government. In 2005 opened fire on 11 members of the MDC Youth Assembly. Intimidated voters on election day 2008.
+  justification: ZANU-PF Member of the Government. In 2005 opened fire on 11 members
+    of the MDC Youth Assembly. Intimidated voters on election day 2008.

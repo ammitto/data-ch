@@ -1,3 +1,4 @@
+---
 ssid: '43562'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 20
       month: 9
       year: 1975
-  justification: In his former command position over OMON forces in Vitebsk/Viciebsk, he was responsible for the repression and intimidation campaign led by OMON forces in Vitebsk/Viciebsk in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment of peaceful demonstrators.
+  justification: In his former command position over OMON forces in Vitebsk/Viciebsk,
+    he was responsible for the repression and intimidation campaign led by OMON forces
+    in Vitebsk/Viciebsk in the wake of the 2020 presidential election, in particular
+    arbitrary arrests and ill-treatment of peaceful demonstrators.

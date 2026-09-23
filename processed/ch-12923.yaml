@@ -1,3 +1,4 @@
+---
 ssid: '12923'
 sanctions_set_id: '12788'
 individual:
@@ -17,4 +18,5 @@ individual:
         value: Abdulqader Yusef
     day_month_year:
       year: 1946
-  justification: Head of Muammar Qadhafi’s personal security. Responsibility for regime security. History of directing violence against dissidents.
+  justification: Head of Muammar Qadhafi’s personal security. Responsibility for regime
+    security. History of directing violence against dissidents.

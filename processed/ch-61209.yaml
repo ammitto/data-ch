@@ -1,3 +1,4 @@
+---
 ssid: '61209'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 1
       month: 4
       year: 1983
-  justification: Sergei Gorbunov is the Deputy Head of the Executive Committee of the All-Russia People’s Front. In this role, he is responsible for the organisation and execution of the campaign “Everything for Victory!” which aims to support military units in the so-called “Donetsk People’s Republic” and “Luhansk People’s Republic” with items necessary for military operations. He is directly responsible for providing means to the fighters in those regions.
+  justification: Sergei Gorbunov is the Deputy Head of the Executive Committee of
+    the All-Russia People’s Front. In this role, he is responsible for the organisation
+    and execution of the campaign “Everything for Victory!” which aims to support
+    military units in the so-called “Donetsk People’s Republic” and “Luhansk People’s
+    Republic” with items necessary for military operations. He is directly responsible
+    for providing means to the fighters in those regions.

@@ -1,3 +1,4 @@
+---
 ssid: '59859'
 sanctions_set_id: '29445'
 entity:
@@ -20,5 +21,6 @@ entity:
         name_part_type: whole-name
         value: AO NII KP
     addresses:
-    - address_details: Aviamotornaya Str., 53, Building 1, Floor 2, Premises VII, Room 12-14
+    - address_details: Aviamotornaya Str., 53, Building 1, Floor 2, Premises VII,
+        Room 12-14
       zip_code: '111024'

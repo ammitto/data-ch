@@ -1,3 +1,4 @@
+---
 ssid: '45525'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 23
       month: 8
       year: 1978
-  justification: In his position as the judge of Lida City Court, Maxim Filatau is responsible for numerous politically motivated rulings against peaceful protesters, in particular the sentencing of activist Vitold Ashurok, who is recognised as a political prisoner by Viasna, a Belarussian human rights organisation.
+  justification: In his position as the judge of Lida City Court, Maxim Filatau is
+    responsible for numerous politically motivated rulings against peaceful protesters,
+    in particular the sentencing of activist Vitold Ashurok, who is recognised as
+    a political prisoner by Viasna, a Belarussian human rights organisation.

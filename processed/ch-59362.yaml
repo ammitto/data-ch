@@ -1,3 +1,4 @@
+---
 ssid: '59362'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 28
       month: 6
       year: 1983
-  justification: Anton Solovyov is a member of the legislative assembly in St. Petersburg and a member of the “United Russia” party. In this role, he is involved in the illegal transportation of Ukrainian children to Russia and their adoption by Russian families. Furthermore, as a member of the “United Russia” party, he made a commitment to facilitate and speed up the administrative process concerning those illegal adoptions into Russian families.
+  justification: Anton Solovyov is a member of the legislative assembly in St. Petersburg
+    and a member of the “United Russia” party. In this role, he is involved in the
+    illegal transportation of Ukrainian children to Russia and their adoption by Russian
+    families. Furthermore, as a member of the “United Russia” party, he made a commitment
+    to facilitate and speed up the administrative process concerning those illegal
+    adoptions into Russian families.

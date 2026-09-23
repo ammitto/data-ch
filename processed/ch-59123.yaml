@@ -1,3 +1,4 @@
+---
 ssid: '59123'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 21
       month: 12
       year: 1957
-  justification: Alexey Nikolov is the former General Director of the Russian government-linked media organisation TV-Novosti, and of its subordinate RT news television network. He is Managing Director of RT. TV-Novosti and RT are funded from the federal budget of the Russian Federation. Media outlets under his management, including RT, spread pro-Kremlin propaganda and disinformation, and supported Russia’s war of aggression against Ukraine. Moreover, he publicly denied the responsibility of the Armed Forces of the Russian Federation for the war crimes committed in Bucha.
+  justification: Alexey Nikolov is the former General Director of the Russian government-linked
+    media organisation TV-Novosti, and of its subordinate RT news television network.
+    He is Managing Director of RT. TV-Novosti and RT are funded from the federal budget
+    of the Russian Federation. Media outlets under his management, including RT, spread
+    pro-Kremlin propaganda and disinformation, and supported Russia’s war of aggression
+    against Ukraine. Moreover, he publicly denied the responsibility of the Armed
+    Forces of the Russian Federation for the war crimes committed in Bucha.

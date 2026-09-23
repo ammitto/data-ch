@@ -1,3 +1,4 @@
+---
 ssid: '59820'
 sanctions_set_id: '29445'
 entity:
@@ -46,7 +47,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Акционерное Общество «Корпорация «Стратегические Пункты Управления» (АО «Корпорация «СПУ-ЦКБ ТМ»)
+        value: Акционерное Общество «Корпорация «Стратегические Пункты Управления»
+          (АО «Корпорация «СПУ-ЦКБ ТМ»)
     addresses:
     - address_details: Podyomnaya Str., 12A
       zip_code: '109052'

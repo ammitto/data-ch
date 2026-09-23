@@ -1,3 +1,4 @@
+---
 ssid: '98501'
 sanctions_set_id: '27286'
 entity:
@@ -26,4 +27,5 @@ entity:
     addresses:
     - address_details: Energetikov st., 19a
       zip_code: '618554'
-  justification: JSС “Solikamsk Plant Ural” is a Russian producer of gunpowder and explosives. The plant is ultimately owned by the Government of the Russian Federation.
+  justification: JSС “Solikamsk Plant Ural” is a Russian producer of gunpowder and
+    explosives. The plant is ultimately owned by the Government of the Russian Federation.

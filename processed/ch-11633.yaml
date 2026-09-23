@@ -1,3 +1,4 @@
+---
 ssid: '11633'
 sanctions_set_id: '3986'
 individual:
@@ -33,4 +34,7 @@ individual:
       day: 19
       month: 2
       year: 1946
-  justification: Presidential advisor for security affairs since January 2024 under the former al-Assad regime. Former Vice President of the Syrian Arab Republic for Security Affairs. Former Director of the National Security Bureau. Former Head of Syrian Intelligence Directorate involved in violence against demonstrators.
+  justification: Presidential advisor for security affairs since January 2024 under
+    the former al-Assad regime. Former Vice President of the Syrian Arab Republic
+    for Security Affairs. Former Director of the National Security Bureau. Former
+    Head of Syrian Intelligence Directorate involved in violence against demonstrators.

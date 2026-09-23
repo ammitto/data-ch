@@ -1,3 +1,4 @@
+---
 ssid: '87622'
 sanctions_set_id: '47224'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs (RSRSBCM)
+        value: Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs
+          (RSRSBCM)
     - name_type: alias
       quality: good
       lang: eng
@@ -32,7 +34,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: The Sabotage and Military Surveillance Group of the Riyadh al-Salihin Martyrs
+        value: The Sabotage and Military Surveillance Group of the Riyadh al-Salihin
+          Martyrs
     - name_type: alias
       quality: good
       lang: eng

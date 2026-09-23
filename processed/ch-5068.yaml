@@ -1,3 +1,4 @@
+---
 ssid: '5068'
 sanctions_set_id: '4387'
 individual:
@@ -21,4 +22,10 @@ individual:
     addresses:
     - address_details: Суд Заводского района г. Минска, пр. Партизанский, 75 А
       zip_code: '220107'
-  justification: Judge at the Zavodskoi District Court of the city of Minsk. He was directly involved in the judicial repression of the peaceful demonstrators on 19 December 2010. On 20 December 2010, he sentenced civil society activists Ihar Pashkovich, Dzimtry Pashyk, Anton Davydzenka, Artsem Liaudanski and Artsem Kuzmin to 10 days in jail. The way he conducted the trials was a clear violation of the Code of Criminal Procedure. He sustained the use of evidence and testimonies irrelevant to the accused.
+  justification: Judge at the Zavodskoi District Court of the city of Minsk. He was
+    directly involved in the judicial repression of the peaceful demonstrators on
+    19 December 2010. On 20 December 2010, he sentenced civil society activists Ihar
+    Pashkovich, Dzimtry Pashyk, Anton Davydzenka, Artsem Liaudanski and Artsem Kuzmin
+    to 10 days in jail. The way he conducted the trials was a clear violation of the
+    Code of Criminal Procedure. He sustained the use of evidence and testimonies irrelevant
+    to the accused.

@@ -1,3 +1,4 @@
+---
 ssid: '106593'
 sanctions_set_id: '27286'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal State Budgetary Educational Institution All-Russian Children’s Centre “Orlyonok”
+        value: Federal State Budgetary Educational Institution All-Russian Children’s
+          Centre “Orlyonok”
     - name_type: alias
       quality: good
       lang: eng
@@ -25,4 +27,6 @@ entity:
       year: 2000
     addresses:
     - zip_code: '352842'
-  justification: The All-Russian Children’s Centre “Orlyonok” is a federal educational institution founded by the Government of the Russian Federation and Russia’s Ministry of Education.
+  justification: The All-Russian Children’s Centre “Orlyonok” is a federal educational
+    institution founded by the Government of the Russian Federation and Russia’s Ministry
+    of Education.

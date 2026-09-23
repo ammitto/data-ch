@@ -1,3 +1,4 @@
+---
 ssid: '10624'
 sanctions_set_id: '8174'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Eleventh Ocean GmbH & CO. KG
     addresses:
     - address_details: Schottweg 5
-  justification: Owned by IRISL through Ocean Capital Administration GmbH which is an IRISL holding company.
+  justification: Owned by IRISL through Ocean Capital Administration GmbH which is
+    an IRISL holding company.

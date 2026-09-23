@@ -1,3 +1,4 @@
+---
 ssid: '60628'
 sanctions_set_id: '27286'
 entity:
@@ -19,4 +20,7 @@ entity:
     addresses:
     - address_details: 9 ul. Bolshaya Yakimanka
       zip_code: '119180'
-  justification: Rosbank is one of the largest financial structures in Russia, and one of the country’s top lenders. The Central Bank of Russia lists it as a systemically-important credit institution in the country. Its total assets as of the first quarter of 2024 were RUB 2 161,76 billion and its net profit was RUB 10,02 billion.
+  justification: Rosbank is one of the largest financial structures in Russia, and
+    one of the country’s top lenders. The Central Bank of Russia lists it as a systemically-important
+    credit institution in the country. Its total assets as of the first quarter of
+    2024 were RUB 2 161,76 billion and its net profit was RUB 10,02 billion.

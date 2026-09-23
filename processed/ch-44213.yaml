@@ -1,3 +1,4 @@
+---
 ssid: '44213'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,12 @@ individual:
       day: 23
       month: 7
       year: 1979
-  justification: In his former position as Chief of the Sovetsky District Police Department of Minsk, he was responsible for the repression and intimidation campaign led by the local police force under his command in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. According to witnesses, he personally supervised and took part in torturing unlawfully detained protesters. He remains active in the Lukashenka regime as the Deputy Head of Criminal Police in the Main Internal Affairs Directorate of the Minsk City Executive Committee.
+  justification: In his former position as Chief of the Sovetsky District Police Department
+    of Minsk, he was responsible for the repression and intimidation campaign led
+    by the local police force under his command in the wake of the 2020 presidential
+    election, in particular arbitrary arrests and ill-treatment, including torture,
+    of peaceful demonstrators as well as intimidation and violence against journalists.
+    According to witnesses, he personally supervised and took part in torturing unlawfully
+    detained protesters. He remains active in the Lukashenka regime as the Deputy
+    Head of Criminal Police in the Main Internal Affairs Directorate of the Minsk
+    City Executive Committee.

@@ -1,3 +1,4 @@
+---
 ssid: '80351'
 sanctions_set_id: '47225'
 entity:
@@ -69,12 +70,16 @@ entity:
         name_part_type: whole-name
         value: Ahmad Shah Hawala
     addresses:
-    - address_details: 'Branch Office 1: i) Shop number 1584, Furqan (variant Fahr Khan) Center, Chalhor Mal Road'
-    - address_details: 'Branch Office 1: ii) Flat number 4, Furqan Center, Jamaluddin Afghani Road'
-    - address_details: 'Branch Office 1: iii) Office number 4, 2nd Floor, Muslim Plaza Building, Doctor Banu Road'
+    - address_details: 'Branch Office 1: i) Shop number 1584, Furqan (variant Fahr
+        Khan) Center, Chalhor Mal Road'
+    - address_details: 'Branch Office 1: ii) Flat number 4, Furqan Center, Jamaluddin
+        Afghani Road'
+    - address_details: 'Branch Office 1: iii) Office number 4, 2nd Floor, Muslim Plaza
+        Building, Doctor Banu Road'
     - address_details: 'Branch Office 1: iv) Cholmon Road'
     - address_details: 'Branch Office 1: v) Munsafi Road'
-    - address_details: 'Branch Office 1: vi) Shop number 1, 1st Floor, Kadari Place, Abdul Samad Khan Street (next to Fatima Jena Road)'
+    - address_details: 'Branch Office 1: vi) Shop number 1, 1st Floor, Kadari Place,
+        Abdul Samad Khan Street (next to Fatima Jena Road)'
     - address_details: 'Branch Office 2: i) Safar Bazaar'
     - address_details: 'Branch Office 2: ii) Main Bazaar'
     - address_details: 'Branch Office 3: i) Haji Ghulam Nabi Market'
@@ -83,7 +88,8 @@ entity:
     - address_details: 'Branch Office 4: Hazar Joft'
     - address_details: 'Branch Office 5: Isat Bazaar'
     - address_details: 'Branch Office 6: Zaranj'
-    - address_details: 'Branch Office 7: i) Suite number 8, 4th Floor, Sarafi Market, District number 1'
+    - address_details: 'Branch Office 7: i) Suite number 8, 4th Floor, Sarafi Market,
+        District number 1'
     - address_details: 'Branch Office 7: ii) Shop number 25, 5th Floor, Sarafi Market'
     - address_details: 'Branch Office 8: Lakri City'
     - address_details: 'Branch Office 9: Gerd-e-Jangal'

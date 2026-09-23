@@ -1,3 +1,4 @@
+---
 ssid: '38739'
 sanctions_set_id: '3978'
 entity:
@@ -14,4 +15,6 @@ entity:
         value: Korea Samjong Shipping
     addresses:
     - address_details: Tonghung-dong, Chung-guyok
-  justification: Registered owner of DPRK tankers SAM JONG 1 and SAM JONG 2. Both vessels are believed to have imported refined petroleum to DPRK in violation of UN sanctions in late January 2018.
+  justification: Registered owner of DPRK tankers SAM JONG 1 and SAM JONG 2. Both
+    vessels are believed to have imported refined petroleum to DPRK in violation of
+    UN sanctions in late January 2018.

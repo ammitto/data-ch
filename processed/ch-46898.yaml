@@ -1,3 +1,4 @@
+---
 ssid: '46898'
 sanctions_set_id: '3986'
 individual:
@@ -36,4 +37,7 @@ individual:
       day: 14
       month: 6
       year: 1964
-  justification: Head of the 4th Attack and Reconnaissance Company of the Wagner Group, which operates in Syria and trains and directs Syrian forces. The Wagner Group also supports the former al-Assad regime and fights alongside regime-affiliated militias and the Syrian army during the former al-Assad regime.
+  justification: Head of the 4th Attack and Reconnaissance Company of the Wagner Group,
+    which operates in Syria and trains and directs Syrian forces. The Wagner Group
+    also supports the former al-Assad regime and fights alongside regime-affiliated
+    militias and the Syrian army during the former al-Assad regime.

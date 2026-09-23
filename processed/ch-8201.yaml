@@ -1,3 +1,4 @@
+---
 ssid: '8201'
 sanctions_set_id: '4021'
 individual:
@@ -64,4 +65,6 @@ individual:
       day: 13
       month: 1
       year: 1967
-  justification: Businessman, dealer and transporter of weapons and minerals. Arms dealer in contravention of UNSC resolution 1343. Supported former President Taylor’s regime in effort to destabilize Sierra Leone and gain illicit access to diamonds.
+  justification: Businessman, dealer and transporter of weapons and minerals. Arms
+    dealer in contravention of UNSC resolution 1343. Supported former President Taylor’s
+    regime in effort to destabilize Sierra Leone and gain illicit access to diamonds.

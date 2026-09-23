@@ -1,3 +1,4 @@
+---
 ssid: '37026'
 sanctions_set_id: '3978'
 entity:
@@ -20,4 +21,5 @@ entity:
         name_part_type: whole-name
         value: Korea Foreign Insurance Company
     addresses:
-  justification: The Korean National Insurance Company is a DPRK financial and insurance company and is affiliated with Office 39.
+  justification: The Korean National Insurance Company is a DPRK financial and insurance
+    company and is affiliated with Office 39.

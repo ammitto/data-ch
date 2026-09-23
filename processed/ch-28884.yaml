@@ -1,3 +1,4 @@
+---
 ssid: '28884'
 sanctions_set_id: '3983'
 individual:
@@ -71,4 +72,8 @@ individual:
     day_month_year:
       year: 1979
     addresses:
-  justification: Maalim Salman was chosen by al-Shabaab leader Ahmed Abdi aw-Mohamed aka Godane to be the head of African foreign fighters for al-Shabaab. He has trained foreign nationals who were seeking to join al-Shabaab as African foreign fighters, and has been involved in operations in Africa targeting tourists, entertainment establishments, and churches.
+  justification: Maalim Salman was chosen by al-Shabaab leader Ahmed Abdi aw-Mohamed
+    aka Godane to be the head of African foreign fighters for al-Shabaab. He has trained
+    foreign nationals who were seeking to join al-Shabaab as African foreign fighters,
+    and has been involved in operations in Africa targeting tourists, entertainment
+    establishments, and churches.

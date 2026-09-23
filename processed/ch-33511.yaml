@@ -1,3 +1,4 @@
+---
 ssid: '33511'
 sanctions_set_id: '27650'
 individual:
@@ -72,4 +73,7 @@ individual:
       month: 10
       year: 1967
     addresses:
-  justification: Captain Eugène Barret Ngaïkosset is a former member of former President François Bozizé’s presidential guard and associated with the anti-Balaka movement. He escaped from jail on 17 May 2015 following his extradition from Brazzaville and created his own anti-balaka faction including former FACA fighters.
+  justification: Captain Eugène Barret Ngaïkosset is a former member of former President
+    François Bozizé’s presidential guard and associated with the anti-Balaka movement.
+    He escaped from jail on 17 May 2015 following his extradition from Brazzaville
+    and created his own anti-balaka faction including former FACA fighters.

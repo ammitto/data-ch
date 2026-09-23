@@ -1,3 +1,4 @@
+---
 ssid: '4360'
 sanctions_set_id: '4021'
 individual:
@@ -18,4 +19,6 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Joachim
-  justification: Former deputy of Benjamin Yeaten, and instrumental in the delivery of arms to former Liberian President Charles Taylor. Former Assistant Director of Special Security Service.
+  justification: Former deputy of Benjamin Yeaten, and instrumental in the delivery
+    of arms to former Liberian President Charles Taylor. Former Assistant Director
+    of Special Security Service.

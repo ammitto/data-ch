@@ -1,3 +1,4 @@
+---
 ssid: '52310'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 25
       month: 12
       year: 1951
-  justification: Alexander Shokhin is the president of the Russian Union of Industrialists and Entrepreneurs (RSPP) – a lobby group, which promotes the interests of business in Russia. He also chairs the Coordinating Council on Import Substitution and Technological Independence of RSPP. He is former Deputy Chairman of Mechel PAO’s Board of Directors – one of the leading Russian mining and metals companies, which generates a source of revenue for the Government of the Russian Federation.
+  justification: Alexander Shokhin is the president of the Russian Union of Industrialists
+    and Entrepreneurs (RSPP) – a lobby group, which promotes the interests of business
+    in Russia. He also chairs the Coordinating Council on Import Substitution and
+    Technological Independence of RSPP. He is former Deputy Chairman of Mechel PAO’s
+    Board of Directors – one of the leading Russian mining and metals companies, which
+    generates a source of revenue for the Government of the Russian Federation.

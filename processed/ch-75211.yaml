@@ -1,3 +1,4 @@
+---
 ssid: '75211'
 sanctions_set_id: '27286'
 individual:
@@ -18,4 +19,8 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Vladimirovich
-  justification: Igor Nadolinskiy is a judge of the Southern District Military Court of the Russian Federation. In his position, he prosecuted various members of the Crimean Tatars, such as Emil Ziyadinov, as well as other political prisoners. He is therefore supporting and implementing actions and policies which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Igor Nadolinskiy is a judge of the Southern District Military Court
+    of the Russian Federation. In his position, he prosecuted various members of the
+    Crimean Tatars, such as Emil Ziyadinov, as well as other political prisoners.
+    He is therefore supporting and implementing actions and policies which undermine
+    and threaten the territorial integrity, sovereignty and independence of Ukraine.

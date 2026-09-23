@@ -1,3 +1,4 @@
+---
 ssid: '2826'
 sanctions_set_id: '3974'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: General Establishment For Plantation And Development Of The Reclaimed Lands
+        value: General Establishment For Plantation And Development Of The Reclaimed
+          Lands
     - name_type: alias
       quality: good
       lang: eng
@@ -32,7 +34,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: General Establishment For Land Reclamation Of Central And Northern Areas
+        value: General Establishment For Land Reclamation Of Central And Northern
+          Areas
     - name_type: alias
       quality: good
       lang: eng

@@ -1,3 +1,4 @@
+---
 ssid: '31216'
 sanctions_set_id: '29610'
 individual:
@@ -22,4 +23,6 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Abdulmalik al-Huthi
-  justification: Abdulmalik al-Houthi was designated for sanctions on 14 Apr 2015 pursuant to paragraphs 11 and 15 of resolution 2140 (2014) and paragraph 14 of resolution 2216 (2015).
+  justification: Abdulmalik al-Houthi was designated for sanctions on 14 Apr 2015
+    pursuant to paragraphs 11 and 15 of resolution 2140 (2014) and paragraph 14 of
+    resolution 2216 (2015).

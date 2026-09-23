@@ -1,3 +1,4 @@
+---
 ssid: '12972'
 sanctions_set_id: '12788'
 individual:
@@ -17,4 +18,5 @@ individual:
         value: Khamis Muammar
     day_month_year:
       year: 1978
-  justification: Son of Muammar Qadhafi. Closeness of association with regime. Command of military units involved in repression of demonstrations.
+  justification: Son of Muammar Qadhafi. Closeness of association with regime. Command
+    of military units involved in repression of demonstrations.

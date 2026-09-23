@@ -1,3 +1,4 @@
+---
 ssid: '52323'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 12
       month: 6
       year: 1980
-  justification: Andrey Ryumin the executive director of Rosseti PJSC, a company controlled by the Russian state, which is an operator of energy grids, provides technological connection services, electricity transmission and distribution services in Russia.
+  justification: Andrey Ryumin the executive director of Rosseti PJSC, a company controlled
+    by the Russian state, which is an operator of energy grids, provides technological
+    connection services, electricity transmission and distribution services in Russia.

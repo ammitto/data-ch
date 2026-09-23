@@ -1,3 +1,4 @@
+---
 ssid: '3550'
 sanctions_set_id: '3978'
 entity:
@@ -21,4 +22,6 @@ entity:
         value: Korea Hyoksin Export and Import Corporation
     addresses:
     - address_details: Rakwon-dong, Pothonggang District
-  justification: A DPRK company based in Pyongyang that is subordinate to Korea Ryonbong General Corporation (designated by the Committee in April 2009) and is involved in the development of weapons of mass destruction.
+  justification: A DPRK company based in Pyongyang that is subordinate to Korea Ryonbong
+    General Corporation (designated by the Committee in April 2009) and is involved
+    in the development of weapons of mass destruction.

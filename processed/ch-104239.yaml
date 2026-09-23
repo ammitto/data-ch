@@ -1,3 +1,4 @@
+---
 ssid: '104239'
 sanctions_set_id: '29445'
 entity:
@@ -41,4 +42,5 @@ entity:
         name_part_type: whole-name
         value: Shanghai Welltech Industrial Automation Co. Ltd.
     addresses:
-    - address_details: Room 707, No. 1333 Wenju Road, Pilot Free Trade Zone, Pudong New Area
+    - address_details: Room 707, No. 1333 Wenju Road, Pilot Free Trade Zone, Pudong
+        New Area

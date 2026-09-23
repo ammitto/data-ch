@@ -1,3 +1,4 @@
+---
 ssid: '6699'
 sanctions_set_id: '6094'
 individual:
@@ -26,4 +27,5 @@ individual:
       day: 22
       month: 12
       year: 1942
-  justification: Ties to the ZANU-PF faction of Government and complicit in forming or directing state policy, notably in relation to election rigging.
+  justification: Ties to the ZANU-PF faction of Government and complicit in forming
+    or directing state policy, notably in relation to election rigging.

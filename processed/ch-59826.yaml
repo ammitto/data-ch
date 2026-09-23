@@ -1,3 +1,4 @@
+---
 ssid: '59826'
 sanctions_set_id: '29445'
 entity:
@@ -25,7 +26,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Открытое Акционерное Общество «Владимирское Конструкторское Бюро Радиосвязи» (ОАО «ВКБР»)
+        value: Открытое Акционерное Общество «Владимирское Конструкторское Бюро Радиосвязи»
+          (ОАО «ВКБР»)
     addresses:
     - address_details: Baturina Str., 28
       zip_code: '600017'

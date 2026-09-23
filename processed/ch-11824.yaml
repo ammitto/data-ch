@@ -1,3 +1,4 @@
+---
 ssid: '11824'
 sanctions_set_id: '3986'
 individual:
@@ -36,4 +37,6 @@ individual:
       day: 5
       month: 1
       year: 1956
-  justification: Former head of the Department for Internal Security of the General Intelligence Directorate under the former al-Assad regime; involved in violence against the civilian population.
+  justification: Former head of the Department for Internal Security of the General
+    Intelligence Directorate under the former al-Assad regime; involved in violence
+    against the civilian population.

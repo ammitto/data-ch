@@ -1,3 +1,4 @@
+---
 ssid: '104972'
 sanctions_set_id: '27286'
 individual:
@@ -36,4 +37,7 @@ individual:
       day: 15
       month: 8
       year: 1983
-  justification: Timur Yunusov is a Russian singer and entrepreneur. He supports Russia’s war of aggression against Ukraine by spreading Kremlin propaganda narratives and symbols of the so-called “special military operation” and declaring his readiness to personally fight against Ukraine.
+  justification: Timur Yunusov is a Russian singer and entrepreneur. He supports Russia’s
+    war of aggression against Ukraine by spreading Kremlin propaganda narratives and
+    symbols of the so-called “special military operation” and declaring his readiness
+    to personally fight against Ukraine.

@@ -1,3 +1,4 @@
+---
 ssid: '43619'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 11
       month: 7
       year: 1960
-  justification: In his former position as Prosecutor General, he was responsible for the widespread use of criminal proceedings to disqualify opposition candidates ahead of the 2020 presidential election and to prevent persons from joining the Coordination Council launched by the opposition to challenge the outcome of that election.
+  justification: In his former position as Prosecutor General, he was responsible
+    for the widespread use of criminal proceedings to disqualify opposition candidates
+    ahead of the 2020 presidential election and to prevent persons from joining the
+    Coordination Council launched by the opposition to challenge the outcome of that
+    election.

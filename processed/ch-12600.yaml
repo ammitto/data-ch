@@ -1,3 +1,4 @@
+---
 ssid: '12600'
 sanctions_set_id: '3986'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: 17, rue Beaumont
       zip_code: L-1219
-  justification: The beneficial owner of Drex Technologies Holding S.A. is Rami Makhlouf, already subject to sanctions for providing financial support to the Syrian regime.
+  justification: The beneficial owner of Drex Technologies Holding S.A. is Rami Makhlouf,
+    already subject to sanctions for providing financial support to the Syrian regime.

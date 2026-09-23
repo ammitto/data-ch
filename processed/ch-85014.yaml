@@ -1,3 +1,4 @@
+---
 ssid: '85014'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 15
       month: 5
       year: 1976
-  justification: Vitali Sinila is a Belarusian judge and chairman of the court of the Mostovsky district of the Grodno region. He was appointed by Aliaksandr Lukashenka. He issued sentences against a number of citizens of Belarus who voiced their opinions against the President and the regime’s authorities, e.g. Viktor Tsarikevich and Sergei Burak, for the dissent they expressed on social media and offline.
+  justification: Vitali Sinila is a Belarusian judge and chairman of the court of
+    the Mostovsky district of the Grodno region. He was appointed by Aliaksandr Lukashenka.
+    He issued sentences against a number of citizens of Belarus who voiced their opinions
+    against the President and the regime’s authorities, e.g. Viktor Tsarikevich and
+    Sergei Burak, for the dissent they expressed on social media and offline.

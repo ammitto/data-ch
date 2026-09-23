@@ -1,3 +1,4 @@
+---
 ssid: '98712'
 sanctions_set_id: '29445'
 entity:
@@ -20,5 +21,6 @@ entity:
         name_part_type: whole-name
         value: Spoden Technology Co., Ltd
     addresses:
-    - address_details: Workshop 60, 3/F, Block A, East Sun Industrial Centre, No. 16 Shing Yip Street, Kowloon
+    - address_details: Workshop 60, 3/F, Block A, East Sun Industrial Centre, No.
+        16 Shing Yip Street, Kowloon
     - address_details: Sun Ho House, 279 Saiyeung Choi St., North Sham Shui Po Kl

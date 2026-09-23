@@ -1,3 +1,4 @@
+---
 ssid: '78248'
 sanctions_set_id: '68945'
 individual:
@@ -72,4 +73,5 @@ individual:
       day: 8
       month: 8
       year: 1957
-  justification: Ismail Qaani is the Commander of the EU-listed Islamic Revolutionary Guard Corps Qods Force (IRGC-QF).
+  justification: Ismail Qaani is the Commander of the EU-listed Islamic Revolutionary
+    Guard Corps Qods Force (IRGC-QF).

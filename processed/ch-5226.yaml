@@ -1,3 +1,4 @@
+---
 ssid: '5226'
 sanctions_set_id: '4387'
 individual:
@@ -21,6 +22,9 @@ individual:
     day_month_year:
       year: 1949
     addresses:
-    - address_details: Международный гуманитарно-экономический институт, ул. Маяковского, 129
+    - address_details: Международный гуманитарно-экономический институт, ул. Маяковского,
+        129
       zip_code: '220028'
-  justification: Rector of International Humanitarian-Economic Institute. Responsible for the expulsion of students involved in protests following the December 2010 elections.
+  justification: Rector of International Humanitarian-Economic Institute. Responsible
+    for the expulsion of students involved in protests following the December 2010
+    elections.

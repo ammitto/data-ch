@@ -1,3 +1,4 @@
+---
 ssid: '57814'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 31
       month: 5
       year: 1978
-  justification: Denis Sergeevich Kurashov served as Deputy Minister, and since May 2023 as Minister of Communications of the so-called “People’s Republic of Donetsk” (DPR). As part of the so-called government of the illegally annexed Oblast of Donetsk, he is involved in separatist activities and responsible for the organisation of a referendum for Donetsk to become a part of Russia. Therefore, he is responsible for, supporting and implementing actions and policies which undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Denis Sergeevich Kurashov served as Deputy Minister, and since May
+    2023 as Minister of Communications of the so-called “People’s Republic of Donetsk”
+    (DPR). As part of the so-called government of the illegally annexed Oblast of
+    Donetsk, he is involved in separatist activities and responsible for the organisation
+    of a referendum for Donetsk to become a part of Russia. Therefore, he is responsible
+    for, supporting and implementing actions and policies which undermine or threaten
+    the territorial integrity, sovereignty and independence of Ukraine.

@@ -1,3 +1,4 @@
+---
 ssid: '63187'
 sanctions_set_id: '27286'
 individual:
@@ -35,4 +36,8 @@ individual:
       day: 22
       month: 4
       year: 1982
-  justification: Artem Uss is the owner of Sibougol LCC, a key Siberian company which produces more than 2 million tonnes of coal per year, with a revenue of more than RUB 2 000 000 000 registered in 2020. Together with his family, he is also associated with the company “Krasnoyarsklesomaterialy”, one of the largest exporters of Siberian timber.
+  justification: Artem Uss is the owner of Sibougol LCC, a key Siberian company which
+    produces more than 2 million tonnes of coal per year, with a revenue of more than
+    RUB 2 000 000 000 registered in 2020. Together with his family, he is also associated
+    with the company “Krasnoyarsklesomaterialy”, one of the largest exporters of Siberian
+    timber.

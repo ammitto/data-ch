@@ -1,3 +1,4 @@
+---
 ssid: '37703'
 sanctions_set_id: '3978'
 individual:
@@ -24,4 +25,5 @@ individual:
       month: 8
       year: 1979
     addresses:
-  justification: Kim Kyong Il is a Foreign Trade Bank deputy chief representative in Libya.
+  justification: Kim Kyong Il is a Foreign Trade Bank deputy chief representative
+    in Libya.

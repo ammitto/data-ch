@@ -1,3 +1,4 @@
+---
 ssid: '9323'
 sanctions_set_id: '8174'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Neda Industrial Group
     addresses:
     - address_details: No 10 & 12, 64th Street, Yusef Abad
-  justification: Industrial automation company that has worked for the UN-sanctioned Kalaye Electric Company (KEC) at the uranium fuel enrichment plant at Natanz.
+  justification: Industrial automation company that has worked for the UN-sanctioned
+    Kalaye Electric Company (KEC) at the uranium fuel enrichment plant at Natanz.

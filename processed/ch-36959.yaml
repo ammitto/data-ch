@@ -1,3 +1,4 @@
+---
 ssid: '36959'
 sanctions_set_id: '3978'
 individual:
@@ -16,4 +17,6 @@ individual:
       day: 14
       month: 7
       year: 1970
-  justification: Chief of an overseas Tangun Trading Corporation branch, which is primarily responsible for the procurement of commodities and technologies to support the DPRK’s defence research and development programmes.
+  justification: Chief of an overseas Tangun Trading Corporation branch, which is
+    primarily responsible for the procurement of commodities and technologies to support
+    the DPRK’s defence research and development programmes.

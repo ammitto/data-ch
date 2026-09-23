@@ -1,3 +1,4 @@
+---
 ssid: '7141'
 sanctions_set_id: '6093'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Zimbabwe Mining Development Corporation
     addresses:
     - address_details: 90 Mutare Road
-  justification: Associated with the ZANU-PF faction of Government. ZMDC falls under the responsibility of ZANU-PF Minister of Mines and Mining Development.
+  justification: Associated with the ZANU-PF faction of Government. ZMDC falls under
+    the responsibility of ZANU-PF Minister of Mines and Mining Development.

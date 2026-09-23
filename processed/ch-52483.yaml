@@ -1,3 +1,4 @@
+---
 ssid: '52483'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: 28 Vostochnoe shosse.
       zip_code: '622007'
-  justification: Uralvagonzavod is a large Russian machine building corporation. It is the only military tank manufacturer in Russia.
+  justification: Uralvagonzavod is a large Russian machine building corporation. It
+    is the only military tank manufacturer in Russia.

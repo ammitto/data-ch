@@ -1,3 +1,4 @@
+---
 ssid: '104459'
 sanctions_set_id: '27286'
 entity:
@@ -22,4 +23,10 @@ entity:
     addresses:
     - address_details: A. M. Kuzmin Street, b. 51
       zip_code: '628684'
-  justification: PJSC Slavneft-Megionneftegaz is a Russian company active in the energy sector. PJSC Slavneft-Megionneftegaz engages in oil refining and is part of the structure of PJSC Slavneft. The energy sector, especially the oil and gas sectors, provides a substantial source of revenue to the Government of the Russian Federation. Therefore, PJSC Slavneft- Megionneftegaz is involved in an economic sector providing a substantial source of revenue to the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.
+  justification: PJSC Slavneft-Megionneftegaz is a Russian company active in the energy
+    sector. PJSC Slavneft-Megionneftegaz engages in oil refining and is part of the
+    structure of PJSC Slavneft. The energy sector, especially the oil and gas sectors,
+    provides a substantial source of revenue to the Government of the Russian Federation.
+    Therefore, PJSC Slavneft- Megionneftegaz is involved in an economic sector providing
+    a substantial source of revenue to the Government of the Russian Federation, which
+    is responsible for the annexation of Crimea and the destabilisation of Ukraine.

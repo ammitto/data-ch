@@ -1,3 +1,4 @@
+---
 ssid: '98112'
 sanctions_set_id: '27286'
 individual:
@@ -18,4 +19,8 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Alexandrovich
-  justification: Andrey Ustinsky is the Director of the “Republican Cossack Cadet Corps named after Air Marshal Alexander Efimov” (RCCC) in the illegally occupied territory of Luhansk. The RCCC teaches minors to become the “future defenders of Russia”. Alongside military training, the students of the RCCC are also taught patriotism and reverence for Russian traditions, as well as the history of Russia.
+  justification: Andrey Ustinsky is the Director of the “Republican Cossack Cadet
+    Corps named after Air Marshal Alexander Efimov” (RCCC) in the illegally occupied
+    territory of Luhansk. The RCCC teaches minors to become the “future defenders
+    of Russia”. Alongside military training, the students of the RCCC are also taught
+    patriotism and reverence for Russian traditions, as well as the history of Russia.

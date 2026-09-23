@@ -1,3 +1,4 @@
+---
 ssid: '86847'
 sanctions_set_id: '27286'
 individual:
@@ -36,4 +37,11 @@ individual:
       day: 10
       month: 9
       year: 1955
-  justification: Larisa Dolina is a Russian singer and actress. Since the beginning of the Russian war of aggression against Ukraine, Dolina has frequently supported Russia’s actions which threaten the territorial integrity, sovereignty and independence of Ukraine. To that end, Dolina has worked with the Russian Ministry of Defence and led entertainment campaigns on behalf of the Russian Government to reward Russian military personnel for their participation in the Russian war of aggression against Ukraine. She moreover gave public concerts in the Russian occupied Donbass region in coordination with the Russian Government.
+  justification: Larisa Dolina is a Russian singer and actress. Since the beginning
+    of the Russian war of aggression against Ukraine, Dolina has frequently supported
+    Russia’s actions which threaten the territorial integrity, sovereignty and independence
+    of Ukraine. To that end, Dolina has worked with the Russian Ministry of Defence
+    and led entertainment campaigns on behalf of the Russian Government to reward
+    Russian military personnel for their participation in the Russian war of aggression
+    against Ukraine. She moreover gave public concerts in the Russian occupied Donbass
+    region in coordination with the Russian Government.

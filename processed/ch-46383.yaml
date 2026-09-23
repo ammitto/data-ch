@@ -1,3 +1,4 @@
+---
 ssid: '46383'
 sanctions_set_id: '27286'
 individual:
@@ -25,4 +26,5 @@ individual:
     addresses:
     - address_details: 13 I. Franko blvd.
       zip_code: '295034'
-  justification: Head of the Directorate of the Federal Security Service (FSB) of the Russian Federation for the Krasnodar Krai.
+  justification: Head of the Directorate of the Federal Security Service (FSB) of
+    the Russian Federation for the Krasnodar Krai.

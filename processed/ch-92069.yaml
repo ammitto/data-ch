@@ -1,3 +1,4 @@
+---
 ssid: '92069'
 sanctions_set_id: '29445'
 entity:
@@ -13,4 +14,5 @@ entity:
         name_part_type: whole-name
         value: Kocaeli Kesici Takimlar Makine Sanayi Ticaret Ltd
     addresses:
-    - address_details: İzmit Kocaeli, Sanayi Mahallesi İzmit Sanayi Sitesi 12. Cadde 11. Blok No:13
+    - address_details: İzmit Kocaeli, Sanayi Mahallesi İzmit Sanayi Sitesi 12. Cadde
+        11. Blok No:13

@@ -1,3 +1,4 @@
+---
 ssid: '56129'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 27
       month: 9
       year: 1959
-  justification: Former so-called mayor of the city of Kherson, installed by the Russian authorities. He held this position from 26 April 2022 until the region was deoccupied. He facilitated the issuance of Russian passports in the city of Kherson.
+  justification: Former so-called mayor of the city of Kherson, installed by the Russian
+    authorities. He held this position from 26 April 2022 until the region was deoccupied.
+    He facilitated the issuance of Russian passports in the city of Kherson.

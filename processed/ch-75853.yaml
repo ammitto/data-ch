@@ -1,3 +1,4 @@
+---
 ssid: '75853'
 sanctions_set_id: '27286'
 individual:
@@ -18,4 +19,5 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Anatolyevich
-  justification: Nikolai Kalik is the General Director of Joint Stock Company (JSC) GPTP GRANIT. JSC GPTP GRANIT is part of the Almaz-Antey concern.
+  justification: Nikolai Kalik is the General Director of Joint Stock Company (JSC)
+    GPTP GRANIT. JSC GPTP GRANIT is part of the Almaz-Antey concern.

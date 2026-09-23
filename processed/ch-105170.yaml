@@ -1,3 +1,4 @@
+---
 ssid: '105170'
 sanctions_set_id: '4387'
 entity:
@@ -19,4 +20,10 @@ entity:
     addresses:
     - address_details: Budennogo str. Budennogo, 1A/7, office 20
       zip_code: '220070'
-  justification: Volat-Sanjiang Joint Venture Limited Liability Company is a Belarusian joint venture co-created by Minsk Wheel Tractor Plant. It produces wheeled chassis for military equipment, including multiple launch rocket systems manufactured by the Minsk Wheel Tractor Plant. Therefore, Volat-Sanjiang Joint Venture Limited Liability Company forms part of and supports the military and industrial complex of Belarus by being involved in the development, production and supply of military technology and equipment.
+  justification: Volat-Sanjiang Joint Venture Limited Liability Company is a Belarusian
+    joint venture co-created by Minsk Wheel Tractor Plant. It produces wheeled chassis
+    for military equipment, including multiple launch rocket systems manufactured
+    by the Minsk Wheel Tractor Plant. Therefore, Volat-Sanjiang Joint Venture Limited
+    Liability Company forms part of and supports the military and industrial complex
+    of Belarus by being involved in the development, production and supply of military
+    technology and equipment.

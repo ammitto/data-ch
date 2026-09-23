@@ -1,3 +1,4 @@
+---
 ssid: '61656'
 sanctions_set_id: '29445'
 entity:
@@ -35,5 +36,6 @@ entity:
         value: Company for Designing and Manufacturing Light Aircraft
     addresses:
     - address_details: Unit (or Suite) 207, Saleh Blvd
-    - address_details: Unit 207, Tarajit Maydane Taymori (or Teimori) Square, Basiri Building, Tarasht
+    - address_details: Unit 207, Tarajit Maydane Taymori (or Teimori) Square, Basiri
+        Building, Tarasht
     - address_details: Km 5 Karaj Special Road

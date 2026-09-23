@@ -1,3 +1,4 @@
+---
 ssid: '29767'
 sanctions_set_id: '27286'
 entity:
@@ -28,4 +29,6 @@ entity:
         value: "‘Svobodny Donbass’"
     addresses:
     - address_details: 102, Khmelnitsky Ave. office 512
-  justification: Public “organisation” that presented candidates in the so-called “elections” of the so-called “Donetsk People's Republic” 2 Nov 2014 and 11 Nov 2018. These elections are in breach of Ukrainian law and therefore illegal.
+  justification: Public “organisation” that presented candidates in the so-called
+    “elections” of the so-called “Donetsk People's Republic” 2 Nov 2014 and 11 Nov
+    2018. These elections are in breach of Ukrainian law and therefore illegal.

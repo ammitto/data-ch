@@ -1,3 +1,4 @@
+---
 ssid: '72189'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 17
       month: 8
       year: 1966
-  justification: Andrei Ivashkin is the General Director of JSC Central Design Bureau of Automatics (TsKBA), which designs and produces components for the Kh-31P missiles, which are used by the Russian Armed Forces in the war of aggression against Ukraine.
+  justification: Andrei Ivashkin is the General Director of JSC Central Design Bureau
+    of Automatics (TsKBA), which designs and produces components for the Kh-31P missiles,
+    which are used by the Russian Armed Forces in the war of aggression against Ukraine.

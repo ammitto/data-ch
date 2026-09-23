@@ -1,3 +1,4 @@
+---
 ssid: '81664'
 sanctions_set_id: '3986'
 individual:
@@ -20,4 +21,5 @@ individual:
         value: Qaddour
     day_month_year:
       year: 1962
-  justification: Minister of Petroleum and Mineral Resources under the former al-Assad regime. Appointed in March 2023 and re-appointed in September 2024.
+  justification: Minister of Petroleum and Mineral Resources under the former al-Assad
+    regime. Appointed in March 2023 and re-appointed in September 2024.

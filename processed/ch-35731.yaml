@@ -1,3 +1,4 @@
+---
 ssid: '35731'
 sanctions_set_id: '3986'
 individual:
@@ -27,4 +28,6 @@ individual:
         value: Saad
     day_month_year:
       year: 1954
-  justification: Former State Minister under the former al-Assad regime. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former State Minister under the former al-Assad regime. As a former
+    Government Minister, shares responsibility for the former al-Assad regime’s violent
+    repression of the civilian population.

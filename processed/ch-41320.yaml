@@ -1,3 +1,4 @@
+---
 ssid: '41320'
 sanctions_set_id: '3986'
 individual:
@@ -33,4 +34,7 @@ individual:
       day: 11
       month: 3
       year: 1976
-  justification: Leading businessperson linked to the former al-Assad regime with personal and family business interests and activities in multiple sectors of the Syrian economy. He benefits financially from access to commercial opportunities and supports the former al-Assad regime.
+  justification: Leading businessperson linked to the former al-Assad regime with
+    personal and family business interests and activities in multiple sectors of the
+    Syrian economy. He benefits financially from access to commercial opportunities
+    and supports the former al-Assad regime.

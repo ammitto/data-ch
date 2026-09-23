@@ -1,3 +1,4 @@
+---
 ssid: '62592'
 sanctions_set_id: '27286'
 individual:
@@ -32,4 +33,8 @@ individual:
       day: 21
       month: 5
       year: 1965
-  justification: Grigore Caramalac is a Russian/Moldovan businessperson. He exercises control over the IFAVIS Foundation (Russian Federation), through which he has engaged in organising patriotic and sports events in the occupied territories in eastern Ukraine, with the support of the occupation authorities. Furthermore, he is the assistant to the Russian senator for the Kursk region, Alexander Bryksin.
+  justification: Grigore Caramalac is a Russian/Moldovan businessperson. He exercises
+    control over the IFAVIS Foundation (Russian Federation), through which he has
+    engaged in organising patriotic and sports events in the occupied territories
+    in eastern Ukraine, with the support of the occupation authorities. Furthermore,
+    he is the assistant to the Russian senator for the Kursk region, Alexander Bryksin.

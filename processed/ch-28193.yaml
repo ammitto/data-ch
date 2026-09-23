@@ -1,3 +1,4 @@
+---
 ssid: '28193'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 15
       month: 11
       year: 1951
-  justification: Permanent member of the Security Council of the Russian Federation; Director of the Federal Security Service (FSB). As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian Government threatening the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Permanent member of the Security Council of the Russian Federation;
+    Director of the Federal Security Service (FSB). As a member of the Security Council,
+    which provides advice on and coordinates national security affairs, he was involved
+    in shaping the policy of the Russian Government threatening the territorial integrity,
+    sovereignty and independence of Ukraine.

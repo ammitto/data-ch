@@ -1,3 +1,4 @@
+---
 ssid: '94664'
 sanctions_set_id: '4387'
 entity:
@@ -19,4 +20,6 @@ entity:
     addresses:
     - address_details: d. 47, korp. 14, ul. Yanki Mavra
       zip_code: '220015'
-  justification: KB Unmanned Helicopters (UAVHeli) is a Belarusian company which produces aircraft and aircraft equipment. The company produces unmanned helicopters specifically equipped and designed to be used in a military context.
+  justification: KB Unmanned Helicopters (UAVHeli) is a Belarusian company which produces
+    aircraft and aircraft equipment. The company produces unmanned helicopters specifically
+    equipped and designed to be used in a military context.

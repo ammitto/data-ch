@@ -1,3 +1,4 @@
+---
 ssid: '76693'
 sanctions_set_id: '29445'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Changsha Tianyi Space Science and Technology Research Institute Co. LTD
+        value: Changsha Tianyi Space Science and Technology Research Institute Co.
+          LTD
     - name_type: alias
       quality: good
       lang: eng
@@ -34,4 +36,5 @@ entity:
         name_part_type: whole-name
         value: Spacety Co., Ltd.
     addresses:
-    - address_details: 25th floor, A Building, Lugu Science&Technology Innovation and Entrepreneurship Park, 1698 Yuelu West Avenue, High-tech development zone
+    - address_details: 25th floor, A Building, Lugu Science&Technology Innovation
+        and Entrepreneurship Park, 1698 Yuelu West Avenue, High-tech development zone

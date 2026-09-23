@@ -1,3 +1,4 @@
+---
 ssid: '53044'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 14
       month: 7
       year: 1975
-  justification: Alexander Malkevich is a Russian propagandist, General Director of the St. Petersburg TV channel, and the First Deputy Chairman of the Public Chamber of the Russian Federation for the Development of the Information Community, Media and Mass Communications.
+  justification: Alexander Malkevich is a Russian propagandist, General Director of
+    the St. Petersburg TV channel, and the First Deputy Chairman of the Public Chamber
+    of the Russian Federation for the Development of the Information Community, Media
+    and Mass Communications.

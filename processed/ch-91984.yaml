@@ -1,3 +1,4 @@
+---
 ssid: '91984'
 sanctions_set_id: '29445'
 entity:
@@ -27,4 +28,5 @@ entity:
         name_part_type: whole-name
         value: TES
     addresses:
-    - address_details: Yakkasaray district, Damarik neighbourhood, Damarik MFY, Nukus Street, house 37
+    - address_details: Yakkasaray district, Damarik neighbourhood, Damarik MFY, Nukus
+        Street, house 37

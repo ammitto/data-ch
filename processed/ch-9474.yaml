@@ -1,3 +1,4 @@
+---
 ssid: '9474'
 sanctions_set_id: '8174'
 entity:
@@ -19,4 +20,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Sepah Nir
-  justification: A subsidiary of Khatam al-Anbya Construction Headquarters which was designated under UNSCR 1929. Sepanir Oil and Gas Engineering Company is participating in Iran’s South Pars offshore Phase 15-16 gas field development project.
+  justification: A subsidiary of Khatam al-Anbya Construction Headquarters which was
+    designated under UNSCR 1929. Sepanir Oil and Gas Engineering Company is participating
+    in Iran’s South Pars offshore Phase 15-16 gas field development project.

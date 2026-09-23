@@ -1,3 +1,4 @@
+---
 ssid: '76625'
 sanctions_set_id: '29445'
 entity:
@@ -27,4 +28,5 @@ entity:
         name_part_type: whole-name
         value: CTL Limited
     addresses:
-    - address_details: 'Nisbetiye Mah., Gazi Güçnar Sk. Uygur Iş Merkezi Blok No: 4, İc Kapı No: 2'
+    - address_details: 'Nisbetiye Mah., Gazi Güçnar Sk. Uygur Iş Merkezi Blok No:
+        4, İc Kapı No: 2'

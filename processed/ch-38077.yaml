@@ -1,3 +1,4 @@
+---
 ssid: '38077'
 sanctions_set_id: '38066'
 individual:
@@ -45,4 +46,6 @@ individual:
       year: 1964
     addresses:
     - address_details: 22, avenue Mbenseke, Ma Campagne
-  justification: Former Commander of the first defence zone of the Congolese Armed Forces (FARDC), which took part in the disproportionate use of force and violent repression in September 2016 in Kinshasa.
+  justification: Former Commander of the first defence zone of the Congolese Armed
+    Forces (FARDC), which took part in the disproportionate use of force and violent
+    repression in September 2016 in Kinshasa.

@@ -1,3 +1,4 @@
+---
 ssid: '77568'
 sanctions_set_id: '38066'
 individual:
@@ -19,4 +20,7 @@ individual:
       day: 9
       month: 7
       year: 1970
-  justification: Corneille Nangaa Yobeluo holds a leading position as founder, leader and political coordinator of the “Alliance Fleuve Congo” (AFC), a politico-military movement operating in Eastern DRC and openly associated with several non-governmental armed groups, including the March 23 Movement / Congolese Revolutionary Army (M23/ARC).
+  justification: Corneille Nangaa Yobeluo holds a leading position as founder, leader
+    and political coordinator of the “Alliance Fleuve Congo” (AFC), a politico-military
+    movement operating in Eastern DRC and openly associated with several non-governmental
+    armed groups, including the March 23 Movement / Congolese Revolutionary Army (M23/ARC).

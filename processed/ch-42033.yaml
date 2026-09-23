@@ -1,3 +1,4 @@
+---
 ssid: '42033'
 sanctions_set_id: '42032'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 11
       month: 11
       year: 1954
-  justification: Deputy Director-General of the Nicaraguan National Police (NNP) and former chief of the police in Masaya. Responsible for serious human rights violations and for the repression of civil society and democratic opposition in Nicaragua, including by coordinating the repression of protesters in Masaya in 2018.
+  justification: Deputy Director-General of the Nicaraguan National Police (NNP) and
+    former chief of the police in Masaya. Responsible for serious human rights violations
+    and for the repression of civil society and democratic opposition in Nicaragua,
+    including by coordinating the repression of protesters in Masaya in 2018.

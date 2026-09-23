@@ -1,3 +1,4 @@
+---
 ssid: '54246'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: Krasnyy Pereulok 2
       zip_code: '644020'
-  justification: Omsktransmash is a state-owned engineering company based in Omsk (Russia). It manufactures the TOS-1A multiple rocket launchers that fire thermobaric rockets.
+  justification: Omsktransmash is a state-owned engineering company based in Omsk
+    (Russia). It manufactures the TOS-1A multiple rocket launchers that fire thermobaric
+    rockets.

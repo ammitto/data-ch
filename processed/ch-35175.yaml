@@ -1,3 +1,4 @@
+---
 ssid: '35175'
 sanctions_set_id: '3986'
 individual:
@@ -32,4 +33,5 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Adnan Aboud
-  justification: Holds the rank of Brigadier General of 155 Brigade and 157 Brigade in the Syrian Army under the former al-Assad regime in post after May 2011.
+  justification: Holds the rank of Brigadier General of 155 Brigade and 157 Brigade
+    in the Syrian Army under the former al-Assad regime in post after May 2011.

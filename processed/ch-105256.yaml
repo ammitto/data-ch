@@ -1,3 +1,4 @@
+---
 ssid: '105256'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,8 @@ entity:
     addresses:
     - address_details: industrial zone “A” territory
       zip_code: '130100'
-  justification: Raw Materials Cellulose LLC is an Uzbek company producing cotton pulp. Raw Materials Cellulose LLC supplies cotton pulp to Russian military-industrial companies, including the FSE Tambov Gunpowder Plant, which use it to produce gunpowder. Therefore, Raw Materials Cellulose LLC is supporting Russia’s military and industrial complex by being involved in supply of military technology and equipment.
+  justification: Raw Materials Cellulose LLC is an Uzbek company producing cotton
+    pulp. Raw Materials Cellulose LLC supplies cotton pulp to Russian military-industrial
+    companies, including the FSE Tambov Gunpowder Plant, which use it to produce gunpowder.
+    Therefore, Raw Materials Cellulose LLC is supporting Russia’s military and industrial
+    complex by being involved in supply of military technology and equipment.

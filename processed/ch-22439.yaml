@@ -1,3 +1,4 @@
+---
 ssid: '22439'
 sanctions_set_id: '3986'
 individual:
@@ -26,4 +27,8 @@ individual:
       day: 21
       month: 7
       year: 1962
-  justification: Head of the National Reconciliation Agency and former State Minister for National Reconciliation Affairs under the former al-Assad regime. Chair of the Intifada wing of the Syrian Social Nationalist Party. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Head of the National Reconciliation Agency and former State Minister
+    for National Reconciliation Affairs under the former al-Assad regime. Chair of
+    the Intifada wing of the Syrian Social Nationalist Party. As a former Government
+    Minister, shares responsibility for the former al-Assad regime’s violent repression
+    of the civilian population.

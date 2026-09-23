@@ -1,3 +1,4 @@
+---
 ssid: '105628'
 sanctions_set_id: '27286'
 entity:
@@ -25,4 +26,8 @@ entity:
       year: 2022
     addresses:
     - address_details: Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba
-  justification: EDM LLC-FZ, based in the UAE, trades in electrical, electronic, mechanical, and analytical equipment for research laboratories, as well as machine tools, production lines, chemical and biochemical products, and laboratory furniture. The company sources equipment from top manufacturers worldwide, including the Union.
+  justification: EDM LLC-FZ, based in the UAE, trades in electrical, electronic, mechanical,
+    and analytical equipment for research laboratories, as well as machine tools,
+    production lines, chemical and biochemical products, and laboratory furniture.
+    The company sources equipment from top manufacturers worldwide, including the
+    Union.

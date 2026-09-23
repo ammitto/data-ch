@@ -1,3 +1,4 @@
+---
 ssid: '49765'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 27
       month: 8
       year: 1973
-  justification: Former member of the State Duma of the Russian Federation, in office until 3 September 2022. Elected from the illegally annexed Autonomous Republic of Crimea in the so-called “Simferopol constituency”.
+  justification: Former member of the State Duma of the Russian Federation, in office
+    until 3 September 2022. Elected from the illegally annexed Autonomous Republic
+    of Crimea in the so-called “Simferopol constituency”.

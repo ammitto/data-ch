@@ -1,3 +1,4 @@
+---
 ssid: '50445'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 28
       month: 6
       year: 1967
-  justification: Aleksandr Grigoryevich Volfovich is the State Secretary of the Security Council of the Republic of Belarus, and according to local military sources has been supervising the military exercise “Allied Resolve 2022”, which prepared and facilitated the Russian military aggression against Ukraine of 24 February 2022.
+  justification: Aleksandr Grigoryevich Volfovich is the State Secretary of the Security
+    Council of the Republic of Belarus, and according to local military sources has
+    been supervising the military exercise “Allied Resolve 2022”, which prepared and
+    facilitated the Russian military aggression against Ukraine of 24 February 2022.

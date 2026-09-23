@@ -1,3 +1,4 @@
+---
 ssid: '9982'
 sanctions_set_id: '8174'
 entity:
@@ -20,4 +21,6 @@ entity:
         name_part_type: whole-name
         value: Good Luck Shipping Company
     addresses:
-  justification: Good Luck Shipping Company LLC as the agent for Hafize Darya Shipping Lines (HDS Lines) in the United Arab Emirates provides essential services to HDS Lines which is a designated entity acting on behalf of IRISL.
+  justification: Good Luck Shipping Company LLC as the agent for Hafize Darya Shipping
+    Lines (HDS Lines) in the United Arab Emirates provides essential services to HDS
+    Lines which is a designated entity acting on behalf of IRISL.

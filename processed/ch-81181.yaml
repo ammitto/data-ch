@@ -1,3 +1,4 @@
+---
 ssid: '81181'
 sanctions_set_id: '68945'
 individual:
@@ -25,4 +26,5 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: محمدرضا مدرس خیابانی
-  justification: Mohammad Reza Khiabani is the director of the EU-listed Islamic Republic of Iran Shipping Lines (IRISL), which is a major Iranian maritime carrier.
+  justification: Mohammad Reza Khiabani is the director of the EU-listed Islamic Republic
+    of Iran Shipping Lines (IRISL), which is a major Iranian maritime carrier.

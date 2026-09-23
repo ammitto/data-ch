@@ -1,3 +1,4 @@
+---
 ssid: '30719'
 sanctions_set_id: '3986'
 entity:
@@ -35,4 +36,7 @@ entity:
         value: Hmisho Steel
     addresses:
     - address_details: Hamsho Building, 31 Baghdad Street
-  justification: Subsidiary of Hamsho Trading and therefore ultimately a subsidiary of Hamsho International, which has been designated. As such, Syria Steel SA is associated with a designated entity. Syria Steel also supports the Syrian regime through its work with Shabiha militias and producing armaments.
+  justification: Subsidiary of Hamsho Trading and therefore ultimately a subsidiary
+    of Hamsho International, which has been designated. As such, Syria Steel SA is
+    associated with a designated entity. Syria Steel also supports the Syrian regime
+    through its work with Shabiha militias and producing armaments.

@@ -1,3 +1,4 @@
+---
 ssid: '12422'
 sanctions_set_id: '3986'
 entity:
@@ -21,4 +22,5 @@ entity:
         value: SOROH Al Cham Company
     addresses:
     - address_details: Adra Free Zone Area
-  justification: Majority of the shares of the company are owned directly or indirectly by Rami Makhlouf.
+  justification: Majority of the shares of the company are owned directly or indirectly
+    by Rami Makhlouf.

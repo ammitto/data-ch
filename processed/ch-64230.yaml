@@ -1,3 +1,4 @@
+---
 ssid: '64230'
 sanctions_set_id: '29445'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Scientific Production Association Izhevsk Unmanned Systems Limited Liability Company
+        value: Scientific Production Association Izhevsk Unmanned Systems Limited
+          Liability Company
     - name_type: alias
       quality: good
       lang: eng
@@ -25,7 +27,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Limited Liability Company "Research and Production Association "Izhevsk Unmanned Systems”
+        value: Limited Liability Company "Research and Production Association "Izhevsk
+          Unmanned Systems”
     - name_type: alias
       quality: good
       lang: eng

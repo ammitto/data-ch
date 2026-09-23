@@ -1,3 +1,4 @@
+---
 ssid: '92948'
 sanctions_set_id: '27286'
 entity:
@@ -33,4 +34,9 @@ entity:
     addresses:
     - address_details: Strelna, 11 Zavodskaya dor.
       zip_code: '198515'
-  justification: JSC “61st Armored Vehicle Repair Plant” is a Russian military industry company specialised in the production of military combat vehicles and the repair and maintenance of tanks (including T-80 tanks) used in Russia’s war of aggression against Ukraine. Therefore, JSC “61st Armored Vehicle Repair Plant” is supporting the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.
+  justification: JSC “61st Armored Vehicle Repair Plant” is a Russian military industry
+    company specialised in the production of military combat vehicles and the repair
+    and maintenance of tanks (including T-80 tanks) used in Russia’s war of aggression
+    against Ukraine. Therefore, JSC “61st Armored Vehicle Repair Plant” is supporting
+    the Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

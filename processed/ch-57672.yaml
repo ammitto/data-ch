@@ -1,3 +1,4 @@
+---
 ssid: '57672'
 sanctions_set_id: '38066'
 individual:
@@ -22,4 +23,7 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Désiré Lokana Lokanza
-  justification: Désiré Londroma Ndjukpa is a leader of the Cooperative for Development of the Congo/Union of Revolutionaries for the Defence of the Congolese People (CODECO URDPC), identified as its defence officer (“charge of defence”), and co-leader of its political wing.
+  justification: Désiré Londroma Ndjukpa is a leader of the Cooperative for Development
+    of the Congo/Union of Revolutionaries for the Defence of the Congolese People
+    (CODECO URDPC), identified as its defence officer (“charge of defence”), and co-leader
+    of its political wing.

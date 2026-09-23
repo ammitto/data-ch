@@ -1,3 +1,4 @@
+---
 ssid: '53073'
 sanctions_set_id: '27286'
 individual:
@@ -22,6 +23,5 @@ individual:
       day: 9
       month: 8
       year: 1966
-  justification: |-
-    Grigory Berezkin is a leading Russian businessperson and considered to be the 
-    ‘henchman’ of President Vladimir Putin.
+  justification: "Grigory Berezkin is a leading Russian businessperson and considered
+    to be the \n‘henchman’ of President Vladimir Putin."

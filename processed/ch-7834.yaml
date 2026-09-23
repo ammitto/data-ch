@@ -1,3 +1,4 @@
+---
 ssid: '7834'
 sanctions_set_id: '6373'
 individual:
@@ -18,4 +19,7 @@ individual:
       - order: 3
         name_part_type: title
         value: Lieutenant
-  justification: Member of the "Military Command" which has assumed responsibility for the coup d'état of 12 April 2012. Lt Na Man was active in the operational command of the 12 April coup, under orders from António Injai. He has also taken part, on behalf of the “Military Command”, in meetings with political parties.
+  justification: Member of the "Military Command" which has assumed responsibility
+    for the coup d'état of 12 April 2012. Lt Na Man was active in the operational
+    command of the 12 April coup, under orders from António Injai. He has also taken
+    part, on behalf of the “Military Command”, in meetings with political parties.

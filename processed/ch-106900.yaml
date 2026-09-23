@@ -1,3 +1,4 @@
+---
 ssid: '106900'
 sanctions_set_id: '71360'
 individual:
@@ -27,4 +28,5 @@ individual:
         value: Muhammad Essam Rizk Abdul
     day_month_year:
       year: 1963
-  justification: Mohammad Nazzal has been a member of the Politburo 1996. As a member of that decision-making body, he is responsible for violent actions by Hamas.
+  justification: Mohammad Nazzal has been a member of the Politburo 1996. As a member
+    of that decision-making body, he is responsible for violent actions by Hamas.

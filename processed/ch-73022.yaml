@@ -1,3 +1,4 @@
+---
 ssid: '73022'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 10
       month: 1
       year: 1953
-  justification: Nail Latypov is the Director of JSC Kazan Experimental Design Bureau Soyuz. JSC Kazan Experimental Design Bureau Soyuz is a Russian military-industrial state enterprise that develops solid propellant rocket engines for missile systems deployed by the Russian Armed Forces. Moreover, JSC Kazan Experimental Design Bureau Soyuz is part of the Joint Stock Company Almaz-Antey air and space defence corporation, a Russian state-owned arms manufacturer that develops anti-aircraft defence and cruise missile systems for the Russian military.
+  justification: Nail Latypov is the Director of JSC Kazan Experimental Design Bureau
+    Soyuz. JSC Kazan Experimental Design Bureau Soyuz is a Russian military-industrial
+    state enterprise that develops solid propellant rocket engines for missile systems
+    deployed by the Russian Armed Forces. Moreover, JSC Kazan Experimental Design
+    Bureau Soyuz is part of the Joint Stock Company Almaz-Antey air and space defence
+    corporation, a Russian state-owned arms manufacturer that develops anti-aircraft
+    defence and cruise missile systems for the Russian military.

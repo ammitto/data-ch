@@ -1,3 +1,4 @@
+---
 ssid: '12639'
 sanctions_set_id: '3986'
 individual:
@@ -32,4 +33,6 @@ individual:
       - order: 1
         name_part_type: family-name
         value: al-Abdallah
-  justification: Head of the Latakia Branch of the Syrian Air Force Intelligence Service under the former al-Assad regime. Responsible for the torture of opponents in custody.
+  justification: Head of the Latakia Branch of the Syrian Air Force Intelligence Service
+    under the former al-Assad regime. Responsible for the torture of opponents in
+    custody.

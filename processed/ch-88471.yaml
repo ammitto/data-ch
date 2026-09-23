@@ -1,3 +1,4 @@
+---
 ssid: '88471'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 3
       month: 10
       year: 1959
-  justification: Yan Novikov is General Director of JSC Almaz-Antey air and space defence corporation (“Almaz-Antey”). Almaz-Antey is a key company within the Russian military-industrial complex. Companies within the Almaz-Antey holding structure produce various types of defence hardware and equipment in use by the Russian Armed Forces in their war of aggression against Ukraine.
+  justification: Yan Novikov is General Director of JSC Almaz-Antey air and space
+    defence corporation (“Almaz-Antey”). Almaz-Antey is a key company within the Russian
+    military-industrial complex. Companies within the Almaz-Antey holding structure
+    produce various types of defence hardware and equipment in use by the Russian
+    Armed Forces in their war of aggression against Ukraine.

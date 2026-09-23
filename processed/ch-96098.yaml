@@ -1,3 +1,4 @@
+---
 ssid: '96098'
 sanctions_set_id: '29445'
 entity:
@@ -20,5 +21,6 @@ entity:
         name_part_type: whole-name
         value: FS Foreign Trade
     addresses:
-    - address_details: Buyaka 2 Sitesi 3 D:54, Poligon Caddesi No:8C, Fatih Sultan Mehmet Mahallesi
+    - address_details: Buyaka 2 Sitesi 3 D:54, Poligon Caddesi No:8C, Fatih Sultan
+        Mehmet Mahallesi
       zip_code: '34771'

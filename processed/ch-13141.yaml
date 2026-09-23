@@ -1,3 +1,4 @@
+---
 ssid: '13141'
 sanctions_set_id: '13065'
 individual:
@@ -25,4 +26,9 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Hassan
-  justification: Former Deputy Safety Officer of Teheran Revolutionary Court. Former Judge, Tehran Revolutionary Court, branch 26. He was in charge of the detainee cases related to the post-election crises and regularly threatened families of detainees in order to silence them. He has been instrumental in issuing detention orders to the Kahrizak Detention Centre in 2009. In Nov 2014, his role in the deaths of detainees was officially recognised by the Iranian authorities.
+  justification: Former Deputy Safety Officer of Teheran Revolutionary Court. Former
+    Judge, Tehran Revolutionary Court, branch 26. He was in charge of the detainee
+    cases related to the post-election crises and regularly threatened families of
+    detainees in order to silence them. He has been instrumental in issuing detention
+    orders to the Kahrizak Detention Centre in 2009. In Nov 2014, his role in the
+    deaths of detainees was officially recognised by the Iranian authorities.

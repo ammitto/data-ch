@@ -1,3 +1,4 @@
+---
 ssid: '46926'
 sanctions_set_id: '3986'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: Ulitsa BratevGozozankinykh, Dom 2B, Pomeshchenie 3.1.
       zip_code: '143409'
-  justification: Evro Polis LLC is a private company linked to the Wagner Group in Syria, involved in the mining, oil and gas sectors in Syria.
+  justification: Evro Polis LLC is a private company linked to the Wagner Group in
+    Syria, involved in the mining, oil and gas sectors in Syria.

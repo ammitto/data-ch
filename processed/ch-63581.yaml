@@ -1,3 +1,4 @@
+---
 ssid: '63581'
 sanctions_set_id: '27286'
 entity:
@@ -11,7 +12,9 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: "“Plant ‘Zvezda’”- Branch of the Federal State Unitary Enterprise “Scientific and Production Center of Automation and Instrumentation named after academician N.A. Pilyugin”"
+        value: "“Plant ‘Zvezda’”- Branch of the Federal State Unitary Enterprise “Scientific
+          and Production Center of Automation and Instrumentation named after academician
+          N.A. Pilyugin”"
     - name_type: alias
       quality: good
       lang: eng
@@ -26,4 +29,8 @@ entity:
     addresses:
     - address_details: Novaya str., 80
       zip_code: '172739'
-  justification: "“Plant ‘Zvezda’” is Russia’s leading enterprise for the production of high-precision gyroscopic devices for rocket, space and aviation equipment for various purposes. The plant is a part of the military-industrial complex in Tver region that solves high-tech tasks in the interests of the Ministry of Defense of the Russian Federation."
+  justification: "“Plant ‘Zvezda’” is Russia’s leading enterprise for the production
+    of high-precision gyroscopic devices for rocket, space and aviation equipment
+    for various purposes. The plant is a part of the military-industrial complex in
+    Tver region that solves high-tech tasks in the interests of the Ministry of Defense
+    of the Russian Federation."

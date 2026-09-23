@@ -1,3 +1,4 @@
+---
 ssid: '24077'
 sanctions_set_id: '3978'
 entity:
@@ -34,4 +35,8 @@ entity:
         name_part_type: whole-name
         value: Ryonha Machinery Joint Venture Corporation
     addresses:
-  justification: Korea Ryonbong General Corporation is the parent company of Korea Ryonha Machinery Joint Venture Corporation. Korea Ryonbong General Corporation was designated by the Committee in Apr 2009 and is a defence conglomerate specializing in acquisition for DPRK defence industries and support to that country’s military-related sales.
+  justification: Korea Ryonbong General Corporation is the parent company of Korea
+    Ryonha Machinery Joint Venture Corporation. Korea Ryonbong General Corporation
+    was designated by the Committee in Apr 2009 and is a defence conglomerate specializing
+    in acquisition for DPRK defence industries and support to that country’s military-related
+    sales.

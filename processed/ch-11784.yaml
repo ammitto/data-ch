@@ -1,3 +1,4 @@
+---
 ssid: '11784'
 sanctions_set_id: '3986'
 individual:
@@ -46,4 +47,7 @@ individual:
       day: 1
       month: 9
       year: 1957
-  justification: Head of “Baqiayt Allah”, cultural organisation of the Islamic Revolutionary Guard Corps. General Commander of the Islamic Revolutionary Guard Corps until 21.4.2019, involved in providing equipment and support to help the former al-Assad regime suppress protests in Syria.
+  justification: Head of “Baqiayt Allah”, cultural organisation of the Islamic Revolutionary
+    Guard Corps. General Commander of the Islamic Revolutionary Guard Corps until
+    21.4.2019, involved in providing equipment and support to help the former al-Assad
+    regime suppress protests in Syria.

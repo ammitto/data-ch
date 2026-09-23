@@ -1,3 +1,4 @@
+---
 ssid: '10089'
 sanctions_set_id: '8174'
 entity:
@@ -23,4 +24,5 @@ entity:
     - address_details: 6, El Horeya Rd., El Attarein
     - address_details: Inside Damietta Port, New Damietta City
     - address_details: 403, El Nahda St., Port Said
-  justification: Irano Misr Shipping Company as agent for IRISL in Egypt provides essential services to IRISL.
+  justification: Irano Misr Shipping Company as agent for IRISL in Egypt provides
+    essential services to IRISL.

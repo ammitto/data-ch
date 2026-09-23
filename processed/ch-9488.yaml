@@ -1,3 +1,4 @@
+---
 ssid: '9488'
 sanctions_set_id: '8174'
 entity:
@@ -12,4 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Shakhese Behbud Sanat
-  justification: Involved in the production of equipment and parts for the nuclear fuel cycle.
+  justification: Involved in the production of equipment and parts for the nuclear
+    fuel cycle.

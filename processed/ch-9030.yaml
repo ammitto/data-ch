@@ -1,3 +1,4 @@
+---
 ssid: '9030'
 sanctions_set_id: '8174'
 entity:
@@ -21,4 +22,7 @@ entity:
         value: Barghe Azerakhsh Sakht
     addresses:
     - address_details: No 599, Stage 3, Ata Al Malek Blvd, Emam Khomeini Street
-  justification: Company that has been contracted to work at the uranium enrichment sites at Natanz and Qom/Fordow on the electricity and piping works. It was in charge of designing, procuring and installing electrical control equipment at Natanz in 2010.
+  justification: Company that has been contracted to work at the uranium enrichment
+    sites at Natanz and Qom/Fordow on the electricity and piping works. It was in
+    charge of designing, procuring and installing electrical control equipment at
+    Natanz in 2010.

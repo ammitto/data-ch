@@ -1,3 +1,4 @@
+---
 ssid: '65797'
 sanctions_set_id: '3984'
 individual:
@@ -19,4 +20,6 @@ individual:
       day: 10
       month: 9
       year: 1958
-  justification: Head of the Shahid Bagheri Industrial Group (SBIG), which is designated under resolution 1737 (2006) for its role in the ballistic missile programme (designated under IRe.066).
+  justification: Head of the Shahid Bagheri Industrial Group (SBIG), which is designated
+    under resolution 1737 (2006) for its role in the ballistic missile programme (designated
+    under IRe.066).

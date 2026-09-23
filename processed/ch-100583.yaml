@@ -1,3 +1,4 @@
+---
 ssid: '100583'
 sanctions_set_id: '4387'
 entity:
@@ -47,4 +48,6 @@ entity:
     addresses:
     - address_details: Kuibysheva 35-1
       zip_code: '220029'
-  justification: ICT Horizont is a Belarusian company, and one of the most modern high-tech centres in the country. ICT Horizont is one of the leaders in the development and production of special electronics in the Republic of Belarus.
+  justification: ICT Horizont is a Belarusian company, and one of the most modern
+    high-tech centres in the country. ICT Horizont is one of the leaders in the development
+    and production of special electronics in the Republic of Belarus.

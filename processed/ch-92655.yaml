@@ -1,3 +1,4 @@
+---
 ssid: '92655'
 sanctions_set_id: '77993'
 individual:
@@ -12,4 +13,7 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Kord Atlantic
-  justification: Transport crude oil or petroleum products that originate in Russia or are exported from Russia while practicing irregular and high-risk shipping practices as set out in the International Maritime Organisation General Assembly resolution A.1192(33)
+  justification: Transport crude oil or petroleum products that originate in Russia
+    or are exported from Russia while practicing irregular and high-risk shipping
+    practices as set out in the International Maritime Organisation General Assembly
+    resolution A.1192(33)

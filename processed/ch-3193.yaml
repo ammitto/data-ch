@@ -1,3 +1,4 @@
+---
 ssid: '3193'
 sanctions_set_id: '3976'
 individual:
@@ -53,4 +54,12 @@ individual:
     day_month_year:
       year: 1954
     addresses:
-  justification: FDLR Commander, exercising influence over policies, and maintaining command and control over the activities of FDLR forces, one of the armed groups and militias referred to in paragraph 20 of Res. 1493 (2003), involved in trafficking of arms, in violation of the arms embargo. Mudacumura (or staff) was in telephone communication with FDLR leader Murwanashyaka in Germany, including at the time of the Busurungi Massacre May 2009, and military commander Major Guillaume during Umoja Wetu and Kimia II operations in 2009. According to the Office of the SRSG on Children and Armed Conflict, he was responsible for 27 cases of recruitment and use of children by troops under his command in North Kivu from 2002 to 2007.
+  justification: FDLR Commander, exercising influence over policies, and maintaining
+    command and control over the activities of FDLR forces, one of the armed groups
+    and militias referred to in paragraph 20 of Res. 1493 (2003), involved in trafficking
+    of arms, in violation of the arms embargo. Mudacumura (or staff) was in telephone
+    communication with FDLR leader Murwanashyaka in Germany, including at the time
+    of the Busurungi Massacre May 2009, and military commander Major Guillaume during
+    Umoja Wetu and Kimia II operations in 2009. According to the Office of the SRSG
+    on Children and Armed Conflict, he was responsible for 27 cases of recruitment
+    and use of children by troops under his command in North Kivu from 2002 to 2007.

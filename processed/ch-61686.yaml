@@ -1,3 +1,4 @@
+---
 ssid: '61686'
 sanctions_set_id: '29445'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal State Institution Federal Scientific Center Scientific Research Institute for System Analysis of the Russian Academy of Sciences
+        value: Federal State Institution Federal Scientific Center Scientific Research
+          Institute for System Analysis of the Russian Academy of Sciences
     - name_type: alias
       quality: good
       lang: eng
@@ -25,7 +27,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Scientific Research Institute of System Analysis, Russian Academy of Science
+        value: Scientific Research Institute of System Analysis, Russian Academy of
+          Science
     addresses:
     - address_details: akhimovsky Prospekt, 36, Building 1
       zip_code: '117218'

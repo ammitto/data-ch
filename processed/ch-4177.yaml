@@ -1,3 +1,4 @@
+---
 ssid: '4177'
 sanctions_set_id: '4021'
 individual:
@@ -39,4 +40,5 @@ individual:
       day: 15
       month: 3
       year: 1948
-  justification: Associate of former Liberian President Charles Taylor with ongoing ties to him.
+  justification: Associate of former Liberian President Charles Taylor with ongoing
+    ties to him.

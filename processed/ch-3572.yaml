@@ -1,3 +1,4 @@
+---
 ssid: '3572'
 sanctions_set_id: '3978'
 entity:
@@ -29,4 +30,5 @@ entity:
     addresses:
     - address_details: Pot’onggang District
     - address_details: Rakwon-dong, Pothonggang District
-  justification: Defense conglomerate specializing in acquisition for DPRK defense industries and support to that country’s military-related sales.
+  justification: Defense conglomerate specializing in acquisition for DPRK defense
+    industries and support to that country’s military-related sales.

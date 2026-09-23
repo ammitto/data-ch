@@ -1,3 +1,4 @@
+---
 ssid: '64706'
 sanctions_set_id: '38066'
 individual:
@@ -29,4 +30,7 @@ individual:
       day: 10
       month: 10
       year: 1974
-  justification: Bernard Byamungu holds a leading position in the military branch of the March 23 Movement/Congolese Revolutionary Army (Mouvement du 23 mars/Armée révolutionnaire congolaise – M23/ARC) as Brigadier-General and Deputy-Commander of operations of this non-governmental armed group operating in Eastern DRC.
+  justification: Bernard Byamungu holds a leading position in the military branch
+    of the March 23 Movement/Congolese Revolutionary Army (Mouvement du 23 mars/Armée
+    révolutionnaire congolaise – M23/ARC) as Brigadier-General and Deputy-Commander
+    of operations of this non-governmental armed group operating in Eastern DRC.

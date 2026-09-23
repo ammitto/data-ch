@@ -1,3 +1,4 @@
+---
 ssid: '30729'
 sanctions_set_id: '3986'
 entity:
@@ -21,4 +22,5 @@ entity:
         value: Borouj Trading Company
     addresses:
     - address_details: Hamsho Building, 31 Baghdad Street
-  justification: Subsidiary of Hamsho Trading and therefore ultimately of Hamsho International, which has been designated.
+  justification: Subsidiary of Hamsho Trading and therefore ultimately of Hamsho International,
+    which has been designated.

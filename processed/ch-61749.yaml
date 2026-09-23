@@ -1,3 +1,4 @@
+---
 ssid: '61749'
 sanctions_set_id: '29445'
 entity:
@@ -55,9 +56,11 @@ entity:
         name_part_type: whole-name
         value: Joint Stock Company “Research and Production Enterprise “Digital Solutions”
     addresses:
-    - address_details: 2nd Sinichkina Str., 9A, Building 7, Floor 3, Office I, Room 4
+    - address_details: 2nd Sinichkina Str., 9A, Building 7, Floor 3, Office I, Room
+        4
       zip_code: '111020'
-    - address_details: 2nd Sinichkina Str., 9a, Building 7, Business Centre Sinitsa Plaza
+    - address_details: 2nd Sinichkina Str., 9a, Building 7, Business Centre Sinitsa
+        Plaza
       zip_code: '111020'
     - zip_code: '105066'
     - address_details: Zavoda Serp i Molot Drive, 10, Business Centre Integral

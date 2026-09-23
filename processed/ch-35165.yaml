@@ -1,3 +1,4 @@
+---
 ssid: '35165'
 sanctions_set_id: '3986'
 individual:
@@ -40,4 +41,7 @@ individual:
       day: 26
       month: 11
       year: 1953
-  justification: Member of the Syrian security and intelligence services under the former al-Assad regime in post after May 2011; Deputy Director of the Air Force Intelligence Directorate in Damascus; previously Head of Air Force Intelligence in Aleppo.
+  justification: Member of the Syrian security and intelligence services under the
+    former al-Assad regime in post after May 2011; Deputy Director of the Air Force
+    Intelligence Directorate in Damascus; previously Head of Air Force Intelligence
+    in Aleppo.

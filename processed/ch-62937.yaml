@@ -1,3 +1,4 @@
+---
 ssid: '62937'
 sanctions_set_id: '27286'
 individual:
@@ -35,4 +36,6 @@ individual:
       day: 13
       month: 12
       year: 1988
-  justification: Igor Chaika is the younger son of Yuri Chaika, the ex-Prosecutor General and the Plenipotentiary Representative of the President of the Russian Federation in the North Caucasus Federal District.
+  justification: Igor Chaika is the younger son of Yuri Chaika, the ex-Prosecutor
+    General and the Plenipotentiary Representative of the President of the Russian
+    Federation in the North Caucasus Federal District.

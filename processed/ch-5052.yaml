@@ -1,3 +1,4 @@
+---
 ssid: '5052'
 sanctions_set_id: '4387'
 individual:
@@ -19,6 +20,14 @@ individual:
         name_part_type: father-name
         value: Viktarauna
     addresses:
-    - address_details: Минская областная юридическая консультация no. 1, ул.Красная, 18
+    - address_details: Минская областная юридическая консультация no. 1, ул.Красная,
+        18
       zip_code: '220005'
-  justification: Former Judge at the Partizanski District Court of the city of Minsk. She was directly involved in the judicial repression of the peaceful demonstrators on 19 December 2010. On 20 December 2010, she sentenced civil society activists Anton Hulak to 15 days in jail, Ales Milinets, Paval Kamarou to 12 days in jail, and Siarhei Piatrushyn to 11 days in jail. In July 2011, she sentenced other activists to 5 and 10 days in jail. The way she conducted the trials was a clear violation of the Code of Criminal Procedure. She sustained the use of evidence and testimonies irrelevant to the accused.
+  justification: Former Judge at the Partizanski District Court of the city of Minsk.
+    She was directly involved in the judicial repression of the peaceful demonstrators
+    on 19 December 2010. On 20 December 2010, she sentenced civil society activists
+    Anton Hulak to 15 days in jail, Ales Milinets, Paval Kamarou to 12 days in jail,
+    and Siarhei Piatrushyn to 11 days in jail. In July 2011, she sentenced other activists
+    to 5 and 10 days in jail. The way she conducted the trials was a clear violation
+    of the Code of Criminal Procedure. She sustained the use of evidence and testimonies
+    irrelevant to the accused.

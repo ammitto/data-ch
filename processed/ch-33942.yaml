@@ -1,3 +1,4 @@
+---
 ssid: '33942'
 sanctions_set_id: '3978'
 entity:
@@ -34,4 +35,5 @@ entity:
         name_part_type: whole-name
         value: NATA
     addresses:
-  justification: NATA is involved in the DPRK's development of space science and technology, including satellite launches and carrier rockets.
+  justification: NATA is involved in the DPRK's development of space science and technology,
+    including satellite launches and carrier rockets.

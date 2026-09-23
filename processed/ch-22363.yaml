@@ -1,3 +1,4 @@
+---
 ssid: '22363'
 sanctions_set_id: '3986'
 individual:
@@ -33,4 +34,6 @@ individual:
       day: 17
       month: 7
       year: 1941
-  justification: Vice Prime Minister, Minister of Foreign Affairs and Expatriates. As a Government Minister, shares responsibility for the Syrian regime’s violent repression of the civilian population.
+  justification: Vice Prime Minister, Minister of Foreign Affairs and Expatriates.
+    As a Government Minister, shares responsibility for the Syrian regime’s violent
+    repression of the civilian population.

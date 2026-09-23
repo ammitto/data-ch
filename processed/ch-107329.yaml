@@ -1,3 +1,4 @@
+---
 ssid: '107329'
 sanctions_set_id: '62614'
 individual:
@@ -19,4 +20,10 @@ individual:
       day: 3
       month: 6
       year: 1970
-  justification: Ruslan Garbalî is the Head of the “Vulcănești” territorial organisation of the “Renaștere” political party in the Republic of Moldova. He was involved in organising paid protests in anticipation of the parliamentary elections of 2025. The protests were announced by Ilan Shor, and Ruslan Garbalî had the executive role of contacting the participants and ensuring they were paid. Moreover, he participated in the launch event for the “Victory/Pobeda” political bloc, alongside Ilan Shor.
+  justification: Ruslan Garbalî is the Head of the “Vulcănești” territorial organisation
+    of the “Renaștere” political party in the Republic of Moldova. He was involved
+    in organising paid protests in anticipation of the parliamentary elections of
+    2025. The protests were announced by Ilan Shor, and Ruslan Garbalî had the executive
+    role of contacting the participants and ensuring they were paid. Moreover, he
+    participated in the launch event for the “Victory/Pobeda” political bloc, alongside
+    Ilan Shor.

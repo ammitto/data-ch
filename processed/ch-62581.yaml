@@ -1,3 +1,4 @@
+---
 ssid: '62581'
 sanctions_set_id: '27286'
 individual:
@@ -19,4 +20,9 @@ individual:
       day: 16
       month: 2
       year: 1977
-  justification: Aleksandr Kalinin is a Moldovan politician and the leader of the Party of Regions of Moldova. Since the start of the Russian war of aggression against Ukraine, he has travelled in the occupied areas of eastern Ukraine and provided support to Russian military forces. Additionally, he has publicly promoted the Russian symbols of the invasion of Ukraine and Russian actions in eastern Ukraine.
+  justification: Aleksandr Kalinin is a Moldovan politician and the leader of the
+    Party of Regions of Moldova. Since the start of the Russian war of aggression
+    against Ukraine, he has travelled in the occupied areas of eastern Ukraine and
+    provided support to Russian military forces. Additionally, he has publicly promoted
+    the Russian symbols of the invasion of Ukraine and Russian actions in eastern
+    Ukraine.

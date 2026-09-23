@@ -1,3 +1,4 @@
+---
 ssid: '9339'
 sanctions_set_id: '8174'
 entity:
@@ -21,4 +22,6 @@ entity:
         value: Noor Afzar Gostar
     addresses:
     - address_details: Opp Seventh Alley, Zarafrshan Street, Eivanak Street
-  justification: A company that is a subsidiary of the UN-sanctioned Atomic Energy Organisation of Iran (AEOI). Involved in the procurement of equipment for the nuclear programme.
+  justification: A company that is a subsidiary of the UN-sanctioned Atomic Energy
+    Organisation of Iran (AEOI). Involved in the procurement of equipment for the
+    nuclear programme.

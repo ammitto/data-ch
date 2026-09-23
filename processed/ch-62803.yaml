@@ -1,3 +1,4 @@
+---
 ssid: '62803'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 15
       month: 8
       year: 1977
-  justification: Vladimir Khromov is a representative for the Commissioner of Children’s Rights in the Office of the President of the Russian Federation, Maria Lvova-Belova. He was involved in the organisation of military-patriotic camps in Chechnya for Ukrainian children who were illegally transferred from Donbas to the territory of the Russian Federation. His actions infringe Ukraine’s law and administrative order, and violate the rights of Ukrainian children.
+  justification: Vladimir Khromov is a representative for the Commissioner of Children’s
+    Rights in the Office of the President of the Russian Federation, Maria Lvova-Belova.
+    He was involved in the organisation of military-patriotic camps in Chechnya for
+    Ukrainian children who were illegally transferred from Donbas to the territory
+    of the Russian Federation. His actions infringe Ukraine’s law and administrative
+    order, and violate the rights of Ukrainian children.

@@ -1,3 +1,4 @@
+---
 ssid: '40241'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,11 @@ individual:
       day: 26
       month: 1
       year: 1971
-  justification: Head of the Service of the Kerch Control Point for the “Republic of Crimea and City of Sevastopol” of the Federal Security Service of the Russian Federation. He participatedmin operations against Ukrainian vessels during the actions of the Russian Federation against Ukrainian vessels and their crews on 25 Nov 2018 which prevented access by Ukrainian vessels to their coast on the Sea of Azov, thereby undermining the territorial integrity and sovereignty of Ukraine and undermining the security of Ukraine through the disruption of the movements and operability of Ukrainian naval vessels.
+  justification: Head of the Service of the Kerch Control Point for the “Republic
+    of Crimea and City of Sevastopol” of the Federal Security Service of the Russian
+    Federation. He participatedmin operations against Ukrainian vessels during the
+    actions of the Russian Federation against Ukrainian vessels and their crews on
+    25 Nov 2018 which prevented access by Ukrainian vessels to their coast on the
+    Sea of Azov, thereby undermining the territorial integrity and sovereignty of
+    Ukraine and undermining the security of Ukraine through the disruption of the
+    movements and operability of Ukrainian naval vessels.

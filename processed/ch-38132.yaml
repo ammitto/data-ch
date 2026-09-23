@@ -1,3 +1,4 @@
+---
 ssid: '38132'
 sanctions_set_id: '38066'
 individual:
@@ -53,4 +54,7 @@ individual:
       year: 1969
     addresses:
     - address_details: 1, 14eme rue, Quartier Industriel, Linete
-  justification: Delphin Kahimbi has been assistant Chief of Staff within the FARDC General Staff since Jul 2018, with responsibility for intelligence. Owing to his role, he bears responsibility for the recent human rights violations committed by the FARDC.
+  justification: Delphin Kahimbi has been assistant Chief of Staff within the FARDC
+    General Staff since Jul 2018, with responsibility for intelligence. Owing to his
+    role, he bears responsibility for the recent human rights violations committed
+    by the FARDC.

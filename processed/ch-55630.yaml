@@ -1,3 +1,4 @@
+---
 ssid: '55630'
 sanctions_set_id: '29445'
 entity:
@@ -25,7 +26,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Общество с Ограниченной Ответственностью «Научно-Производственное Объединение «Эталон»
+        value: Общество с Ограниченной Ответственностью «Научно-Производственное Объединение
+          «Эталон»
     addresses:
     - address_details: Proezd Tsentralny, 3
       zip_code: '618740'

@@ -1,3 +1,4 @@
+---
 ssid: '55229'
 sanctions_set_id: '27286'
 individual:
@@ -29,4 +30,6 @@ individual:
       day: 3
       month: 2
       year: 1990
-  justification: Nikolay Peskov is a son of Dmitry Peskov, press secretary of the President of the Russian Federation, Vladimir Putin, who has been listed under Decision 2014/145/CFSP.
+  justification: Nikolay Peskov is a son of Dmitry Peskov, press secretary of the
+    President of the Russian Federation, Vladimir Putin, who has been listed under
+    Decision 2014/145/CFSP.

@@ -1,3 +1,4 @@
+---
 ssid: '35183'
 sanctions_set_id: '3986'
 individual:
@@ -36,4 +37,6 @@ individual:
       day: 4
       month: 6
       year: 1954
-  justification: Holds the rank of Major General, a senior officer in the Syrian Artillery and Missile Directorate of the Syrian Armed Forces under the former al-Assad regime, in post after May 2011.
+  justification: Holds the rank of Major General, a senior officer in the Syrian Artillery
+    and Missile Directorate of the Syrian Armed Forces under the former al-Assad regime,
+    in post after May 2011.

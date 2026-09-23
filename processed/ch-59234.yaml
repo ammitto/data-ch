@@ -1,3 +1,4 @@
+---
 ssid: '59234'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: 35, Bolshaya Tatarskaya Str., Bldg. 5
       zip_code: '115184'
-  justification: Technodinamika is a weapons, ammunition, chemistry and aviation products manufacturer, and military provider of the Armed Forces of the Russian Federation. It is a holding company which includes more than 100 enterprises.
+  justification: Technodinamika is a weapons, ammunition, chemistry and aviation products
+    manufacturer, and military provider of the Armed Forces of the Russian Federation.
+    It is a holding company which includes more than 100 enterprises.

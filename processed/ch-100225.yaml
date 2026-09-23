@@ -1,3 +1,4 @@
+---
 ssid: '100225'
 sanctions_set_id: '8174'
 individual:
@@ -19,4 +20,7 @@ individual:
       day: 16
       month: 12
       year: 1962
-  justification: Naser Bateni was the managing director of the Hanseatic Trade Trust & Shipping GmbH (HTTS), a shipping company owned by IRISL Europe, which is in turn a company owned by IRISL. As a result, Mr Bateni is involved in providing services to IRISL.
+  justification: Naser Bateni was the managing director of the Hanseatic Trade Trust
+    & Shipping GmbH (HTTS), a shipping company owned by IRISL Europe, which is in
+    turn a company owned by IRISL. As a result, Mr Bateni is involved in providing
+    services to IRISL.

@@ -1,3 +1,4 @@
+---
 ssid: '104480'
 sanctions_set_id: '27286'
 entity:
@@ -14,4 +15,7 @@ entity:
         value: Alghaf Marine DMCC
     addresses:
     - address_details: Almas-49-A18, Almas Tower, JLT-PH1-A0, Jumeirah Lakes Towers
-  justification: Alghaf Marine DMCC is a UAE company, which supplies Russian crude oil. The energy sector, in particular the oil sector, is a sector providing a substantial source of revenue to the Russian Government. Valery Kildiyarov is a manager at Alghaf Marine DMCC.
+  justification: Alghaf Marine DMCC is a UAE company, which supplies Russian crude
+    oil. The energy sector, in particular the oil sector, is a sector providing a
+    substantial source of revenue to the Russian Government. Valery Kildiyarov is
+    a manager at Alghaf Marine DMCC.

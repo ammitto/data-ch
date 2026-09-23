@@ -1,3 +1,4 @@
+---
 ssid: '45044'
 sanctions_set_id: '39362'
 individual:
@@ -16,4 +17,5 @@ individual:
       day: 18
       month: 4
       year: 1947
-  justification: Sai Long Hseng was a member of the State Administrative Council (SAC) and its Central Advisory Body.
+  justification: Sai Long Hseng was a member of the State Administrative Council (SAC)
+    and its Central Advisory Body.

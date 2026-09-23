@@ -1,3 +1,4 @@
+---
 ssid: '58595'
 sanctions_set_id: '27286'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation
+        value: Main Intelligence Directorate of the General Staff of the Armed Forces
+          of the Russian Federation
     - name_type: alias
       quality: good
       lang: eng
@@ -22,4 +24,6 @@ entity:
     addresses:
     - address_details: Grizodubovoy, 3
       zip_code: '125252'
-  justification: Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation is Russia’s military intelligence agency. It took part in Russia’s war of aggression against Ukraine.
+  justification: Main Intelligence Directorate of the General Staff of the Armed Forces
+    of the Russian Federation is Russia’s military intelligence agency. It took part
+    in Russia’s war of aggression against Ukraine.

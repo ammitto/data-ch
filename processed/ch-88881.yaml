@@ -1,3 +1,4 @@
+---
 ssid: '88881'
 sanctions_set_id: '27286'
 individual:
@@ -35,4 +36,9 @@ individual:
       day: 21
       month: 9
       year: 1965
-  justification: Alexander Zakharov is a majority stakeholder of LLC CST (also known as Zala Aero), which is engaged in the development, production and operation of aerial target complexes and unmanned aerial vehicles (UAVs). LLC CST manufactures UAVs KUB and Lancet-1, used by the Russian military in its war of aggression against Ukraine. LLC CST is listed by the Union. JCS Kalashnikov Concern, an entity listed by the Union, has a significant shareholding in LLC CST.
+  justification: Alexander Zakharov is a majority stakeholder of LLC CST (also known
+    as Zala Aero), which is engaged in the development, production and operation of
+    aerial target complexes and unmanned aerial vehicles (UAVs). LLC CST manufactures
+    UAVs KUB and Lancet-1, used by the Russian military in its war of aggression against
+    Ukraine. LLC CST is listed by the Union. JCS Kalashnikov Concern, an entity listed
+    by the Union, has a significant shareholding in LLC CST.

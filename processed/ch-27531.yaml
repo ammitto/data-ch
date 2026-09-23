@@ -1,3 +1,4 @@
+---
 ssid: '27531'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 15
       month: 9
       year: 1949
-  justification: Former Plenipotentiary Representative of the President of the Russian Federation into the so-called "Crimean Federal District", responsible for the implementation of the constitutional prerogatives of the Russian Head of State on the territory of the annexed "Autonomous Republic of Crimea". Former non-permanent member of the Russian Security Council.
+  justification: Former Plenipotentiary Representative of the President of the Russian
+    Federation into the so-called "Crimean Federal District", responsible for the
+    implementation of the constitutional prerogatives of the Russian Head of State
+    on the territory of the annexed "Autonomous Republic of Crimea". Former non-permanent
+    member of the Russian Security Council.

@@ -1,3 +1,4 @@
+---
 ssid: '65268'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 8
       month: 1
       year: 1987
-  justification: In her position as Judge of Moskovsky district of Minsk, Tatsiana Pirozhnikava sentenced several Belarusian citizens on political grounds, including for their participation in protests and for publishing anti-government comments on Telegram. She is documented as occasionally issuing heavier sentences than those requested by the prosecutor. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition In Belarus.
+  justification: In her position as Judge of Moskovsky district of Minsk, Tatsiana
+    Pirozhnikava sentenced several Belarusian citizens on political grounds, including
+    for their participation in protests and for publishing anti-government comments
+    on Telegram. She is documented as occasionally issuing heavier sentences than
+    those requested by the prosecutor. She is therefore responsible for serious human
+    rights violations and for seriously undermining the rule of law, as well as for
+    the repression of civil society and democratic opposition In Belarus.

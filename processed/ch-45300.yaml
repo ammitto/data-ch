@@ -1,3 +1,4 @@
+---
 ssid: '45300'
 sanctions_set_id: '39362'
 individual:
@@ -16,4 +17,6 @@ individual:
       day: 29
       month: 3
       year: 1960
-  justification: Lieutenant General Soe Htut was a member of the Myanmar Armed Forces (Tatmadaw) and a member of the State Administrative Council (SAC) led by Commander-in-Chief Min Aung Hlaing.
+  justification: Lieutenant General Soe Htut was a member of the Myanmar Armed Forces
+    (Tatmadaw) and a member of the State Administrative Council (SAC) led by Commander-in-Chief
+    Min Aung Hlaing.

@@ -1,3 +1,4 @@
+---
 ssid: '53388'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 15
       month: 1
       year: 1968
-  justification: Former so-called “Chairman of the State Committee for Taxes and Duties” of the so-called “Luhansk People’s Republic”. In taking on and acting in this capacity, Sergey Borodin has actively undermined the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Former so-called “Chairman of the State Committee for Taxes and Duties”
+    of the so-called “Luhansk People’s Republic”. In taking on and acting in this
+    capacity, Sergey Borodin has actively undermined the territorial integrity, sovereignty
+    and independence of Ukraine.

@@ -1,3 +1,4 @@
+---
 ssid: '9288'
 sanctions_set_id: '8174'
 entity:
@@ -20,5 +21,7 @@ entity:
         name_part_type: whole-name
         value: Saakhte Tajhizate Niroogahi
     addresses:
-    - address_details: No. 10, Jahanara Alley, after Hemmat Bridge, Abbaspour St. (previously called Tavanir)
-  justification: Subordinate to AEOI and Novin Energy (both designated under UNSCR 1737). Involved in the development of nuclear reactors.
+    - address_details: No. 10, Jahanara Alley, after Hemmat Bridge, Abbaspour St.
+        (previously called Tavanir)
+  justification: Subordinate to AEOI and Novin Energy (both designated under UNSCR
+    1737). Involved in the development of nuclear reactors.

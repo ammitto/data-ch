@@ -1,3 +1,4 @@
+---
 ssid: '60702'
 sanctions_set_id: '27286'
 entity:
@@ -25,7 +26,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint-stock company “Dubnensky machine-building plant” named after N.P. Fedorov
+        value: Joint-stock company “Dubnensky machine-building plant” named after
+          N.P. Fedorov
     - name_type: alias
       quality: good
       lang: eng
@@ -54,4 +56,11 @@ entity:
     addresses:
     - address_details: Zhukovsky Str. 2, building 1
       zip_code: '141983'
-  justification: Dubnensky Machine-Building Plant JSC is an entity actively contributing to Russia’s military-industrial complex. The company develops Orion reconnaissance and strike drones, as well as maritime drones for the Russian armed forces. Drones manufactured by Dubnensky Machine-Building Plant JSC have been equipped with guided missiles. Those drones are deployed by the Russian armed forces in its war of aggression against Ukraine. Between February and April 2022, there were six confirmed kills in Ukraine by Russian Orion drones manufactured by Dubnensky Machine-Building Plant JSC.
+  justification: Dubnensky Machine-Building Plant JSC is an entity actively contributing
+    to Russia’s military-industrial complex. The company develops Orion reconnaissance
+    and strike drones, as well as maritime drones for the Russian armed forces. Drones
+    manufactured by Dubnensky Machine-Building Plant JSC have been equipped with guided
+    missiles. Those drones are deployed by the Russian armed forces in its war of
+    aggression against Ukraine. Between February and April 2022, there were six confirmed
+    kills in Ukraine by Russian Orion drones manufactured by Dubnensky Machine-Building
+    Plant JSC.

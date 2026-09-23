@@ -1,3 +1,4 @@
+---
 ssid: '38104'
 sanctions_set_id: '38066'
 individual:
@@ -49,4 +50,6 @@ individual:
       year: 1960
     addresses:
     - address_details: 56, avenue Usika
-  justification: As Commissioner of the Congolese National Police (PNC), Célestin Kanyama was responsible for the disproportionate use of force and violent repression in September 2016 in Kinshasa.
+  justification: As Commissioner of the Congolese National Police (PNC), Célestin
+    Kanyama was responsible for the disproportionate use of force and violent repression
+    in September 2016 in Kinshasa.

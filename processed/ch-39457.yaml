@@ -1,3 +1,4 @@
+---
 ssid: '39457'
 sanctions_set_id: '27286'
 entity:
@@ -22,4 +23,8 @@ entity:
     addresses:
     - address_details: 4 Tankistov street
       zip_code: '298310'
-  justification: JSC Zaliv Shipyard actively participated in the construction of a new railway to the Kerch Bridge, connecting Russia to the illegally annexed Crimean Peninsula. Therefore, it is supporting the consolidation of the illegally annexed Crimean Peninsula into the Russian Federation, which in turn further undermines the territorial integrity, sovereignty and independence of Ukraine.
+  justification: JSC Zaliv Shipyard actively participated in the construction of a
+    new railway to the Kerch Bridge, connecting Russia to the illegally annexed Crimean
+    Peninsula. Therefore, it is supporting the consolidation of the illegally annexed
+    Crimean Peninsula into the Russian Federation, which in turn further undermines
+    the territorial integrity, sovereignty and independence of Ukraine.

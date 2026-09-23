@@ -1,3 +1,4 @@
+---
 ssid: '72718'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 24
       month: 3
       year: 1989
-  justification: Olga Nikishina is Deputy Head of the Department for Supporting the Activities of the Russian Presidential Commissioner for Children’s Rights. The Russian Federation is involved in the illegal transportation of Ukrainian children to Russia and their adoption by Russian families. Those actions violate the rights of Ukrainian children and infringe Ukrainian law and administrative order.
+  justification: Olga Nikishina is Deputy Head of the Department for Supporting the
+    Activities of the Russian Presidential Commissioner for Children’s Rights. The
+    Russian Federation is involved in the illegal transportation of Ukrainian children
+    to Russia and their adoption by Russian families. Those actions violate the rights
+    of Ukrainian children and infringe Ukrainian law and administrative order.

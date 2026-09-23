@@ -1,3 +1,4 @@
+---
 ssid: '78492'
 sanctions_set_id: '68945'
 entity:
@@ -49,4 +50,6 @@ entity:
         value: Iran Air Catering
     addresses:
     - address_details: Central Offices, Airport Boulevard
-  justification: Iran Air is an Iranian state airline controlled by Iran’s Ministry of Infrastructure, and therefore subordinate to the country’s military-political leadership.
+  justification: Iran Air is an Iranian state airline controlled by Iran’s Ministry
+    of Infrastructure, and therefore subordinate to the country’s military-political
+    leadership.

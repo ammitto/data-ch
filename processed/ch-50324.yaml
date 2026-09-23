@@ -1,3 +1,4 @@
+---
 ssid: '50324'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 20
       month: 6
       year: 1971
-  justification: Former member of the State Duma who ratified the government decisions of the “Treaty of Friendship, Cooperation and Mutual Assistance between the Russian Federation and the Donetsk People’s Republic” and the “Treaty of Friendship, Cooperation and Mutual Assistance between the Russian Federation and the Luhansk People’s Republic”.
+  justification: Former member of the State Duma who ratified the government decisions
+    of the “Treaty of Friendship, Cooperation and Mutual Assistance between the Russian
+    Federation and the Donetsk People’s Republic” and the “Treaty of Friendship, Cooperation
+    and Mutual Assistance between the Russian Federation and the Luhansk People’s
+    Republic”.

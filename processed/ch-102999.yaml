@@ -1,3 +1,4 @@
+---
 ssid: '102999'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 27
       month: 7
       year: 1971
-  justification: Alexandr Chayko, head of the Armed Forces Group in Syria, is the former Commander of the Eastern Military District and was the most senior Russian military officer on the ground in Ukraine at the beginning of Russia’s full-scale invasion.
+  justification: Alexandr Chayko, head of the Armed Forces Group in Syria, is the
+    former Commander of the Eastern Military District and was the most senior Russian
+    military officer on the ground in Ukraine at the beginning of Russia’s full-scale
+    invasion.

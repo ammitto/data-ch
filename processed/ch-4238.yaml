@@ -1,3 +1,4 @@
+---
 ssid: '4238'
 sanctions_set_id: '4021'
 individual:
@@ -18,4 +19,7 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Joseph Kiia
-  justification: Executive of the Oriental Timber Company. Provided military and financial support for Taylor [S/2001/1015, para. 334]. Arms dealer in contravention of UNSC resolution 1343. Supported former President Taylor’s regime in effort to destabilize Sierra Leone and gain illicit access to diamonds.
+  justification: Executive of the Oriental Timber Company. Provided military and financial
+    support for Taylor [S/2001/1015, para. 334]. Arms dealer in contravention of UNSC
+    resolution 1343. Supported former President Taylor’s regime in effort to destabilize
+    Sierra Leone and gain illicit access to diamonds.

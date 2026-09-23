@@ -1,3 +1,4 @@
+---
 ssid: '45867'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,11 @@ individual:
       day: 25
       month: 6
       year: 1979
-  justification: In his position as the Head of the Internal Affairs Directorate of the Frunzensky District Administration of Minsk, Aliaksandr Palulekh is responsible for the repression led by the police forces in this district against peaceful protesters in the wake of the 2020 presidential elections, in particular with ill-treatment, including torture, of peaceful protesters who were detained inside the police station under his control. He is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition.
+  justification: In his position as the Head of the Internal Affairs Directorate of
+    the Frunzensky District Administration of Minsk, Aliaksandr Palulekh is responsible
+    for the repression led by the police forces in this district against peaceful
+    protesters in the wake of the 2020 presidential elections, in particular with
+    ill-treatment, including torture, of peaceful protesters who were detained inside
+    the police station under his control. He is therefore responsible for serious
+    violations of human rights and the repression of civil society and democratic
+    opposition.

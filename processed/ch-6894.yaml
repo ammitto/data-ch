@@ -1,3 +1,4 @@
+---
 ssid: '6894'
 sanctions_set_id: '6094'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 2
       month: 8
       year: 1950
-  justification: Former ZANU-PF Member of the Government. Organised torture bases in Murehwa North and provided support to gangs who murdered Edward Pfukwa on 17 June 2008 and Alloys Chandisareva Sanyangore in November 2008.
+  justification: Former ZANU-PF Member of the Government. Organised torture bases
+    in Murehwa North and provided support to gangs who murdered Edward Pfukwa on 17
+    June 2008 and Alloys Chandisareva Sanyangore in November 2008.

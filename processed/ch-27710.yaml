@@ -1,3 +1,4 @@
+---
 ssid: '27710'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 30
       month: 12
       year: 1965
-  justification: Former Head of the Federal Migration Service office for Sevastopol. Responsible for the systematic and expedited issuance of Russian passports for the residents of Sevastopol.
+  justification: Former Head of the Federal Migration Service office for Sevastopol.
+    Responsible for the systematic and expedited issuance of Russian passports for
+    the residents of Sevastopol.

@@ -1,3 +1,4 @@
+---
 ssid: '9112'
 sanctions_set_id: '8174'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: 167 Darya boulevard – Shahrak Ghods
       zip_code: 14669 – 8356
-  justification: Fulmen was involved in the installation of electrical equipment on the Qom/ Fordoo site before its existence had been revealed.
+  justification: Fulmen was involved in the installation of electrical equipment on
+    the Qom/ Fordoo site before its existence had been revealed.

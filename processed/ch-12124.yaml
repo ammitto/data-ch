@@ -1,3 +1,4 @@
+---
 ssid: '12124'
 sanctions_set_id: '3986'
 individual:
@@ -25,4 +26,6 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Younes
-  justification: Gave orders to troops to shoot at protestors in Mo’adamiyeh under the former al-Assad regime. Head of the Military Security Committee in Hama in 2018.
+  justification: Gave orders to troops to shoot at protestors in Mo’adamiyeh under
+    the former al-Assad regime. Head of the Military Security Committee in Hama in
+    2018.

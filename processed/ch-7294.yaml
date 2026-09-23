@@ -1,3 +1,4 @@
+---
 ssid: '7294'
 sanctions_set_id: '6373'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 18
       month: 9
       year: 1968
-  justification: Member of the "Military Command" which has assumed responsibility for the coup d'état of 12 April 2012. Close advisor to Armed Forces Chief of Staff António Injai.
+  justification: Member of the "Military Command" which has assumed responsibility
+    for the coup d'état of 12 April 2012. Close advisor to Armed Forces Chief of Staff
+    António Injai.

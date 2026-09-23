@@ -1,3 +1,4 @@
+---
 ssid: '28272'
 sanctions_set_id: '27286'
 individual:
@@ -29,4 +30,8 @@ individual:
       day: 23
       month: 6
       year: 1972
-  justification: Senior aid to Igor Strelkov/Girkin who is responsible for actions which undermine or threaten the territorial integrity, sovereignty and independence of Ukraine. In taking on and acting in this capacity, Zdriliuk has therefore supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Senior aid to Igor Strelkov/Girkin who is responsible for actions
+    which undermine or threaten the territorial integrity, sovereignty and independence
+    of Ukraine. In taking on and acting in this capacity, Zdriliuk has therefore supported
+    actions and policies which undermine the territorial integrity, sovereignty and
+    independence of Ukraine.

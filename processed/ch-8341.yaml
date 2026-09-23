@@ -1,3 +1,4 @@
+---
 ssid: '8341'
 sanctions_set_id: '3984'
 entity:
@@ -19,4 +20,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Naval Defence Missile Industry Group
-  justification: Production and development of cruise missiles. Responsible for naval missiles including cruise missiles
+  justification: Production and development of cruise missiles. Responsible for naval
+    missiles including cruise missiles

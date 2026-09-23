@@ -1,3 +1,4 @@
+---
 ssid: '10606'
 sanctions_set_id: '8174'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: Schottweg 5
       zip_code: '22087'
-  justification: Owned by IRISL through Ocean Capital Administration GmbH which is an IRISL holding company.
+  justification: Owned by IRISL through Ocean Capital Administration GmbH which is
+    an IRISL holding company.

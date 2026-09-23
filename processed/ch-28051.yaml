@@ -1,3 +1,4 @@
+---
 ssid: '28051'
 sanctions_set_id: '3986'
 individual:
@@ -27,4 +28,6 @@ individual:
         value: Malik
     day_month_year:
       year: 1956
-  justification: Former Higher Education Minister under the former al-Assad regime in power after May 2011. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Higher Education Minister under the former al-Assad regime
+    in power after May 2011. As a former Government Minister, shares responsibility
+    for the former al-Assad regime’s violent repression of the civilian population.

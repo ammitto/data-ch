@@ -1,3 +1,4 @@
+---
 ssid: '97280'
 sanctions_set_id: '3984'
 individual:
@@ -32,4 +33,5 @@ individual:
       day: 9
       month: 9
       year: 1977
-  justification: Designated for involvement in production management at the Uranium Conversion Facility (UCF) at Esfahan.
+  justification: Designated for involvement in production management at the Uranium
+    Conversion Facility (UCF) at Esfahan.

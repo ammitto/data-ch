@@ -1,3 +1,4 @@
+---
 ssid: '99053'
 sanctions_set_id: '27286'
 entity:
@@ -26,4 +27,10 @@ entity:
     addresses:
     - address_details: Ramensky boulevard, 1
       zip_code: '119607'
-  justification: LLC “Urban Air Mobility Operations Center” (LLC UAMOC) is Russia-based company involved in the manufacturing of first-person view (FPV) unmanned aerial vehicles (UAVs) for the Russian Armed Forces. The company was founded after the start of Russia’s full-scale war against Ukraine and rapidly expanded its production. LLC UAMOC produces FPV UAVs “Kort”, “Brus-1”, “Osa” and “Boomerang”, which are used in the war against Ukraine. It also launched a production and testing facility in illegally occupied Luhansk.
+  justification: LLC “Urban Air Mobility Operations Center” (LLC UAMOC) is Russia-based
+    company involved in the manufacturing of first-person view (FPV) unmanned aerial
+    vehicles (UAVs) for the Russian Armed Forces. The company was founded after the
+    start of Russia’s full-scale war against Ukraine and rapidly expanded its production.
+    LLC UAMOC produces FPV UAVs “Kort”, “Brus-1”, “Osa” and “Boomerang”, which are
+    used in the war against Ukraine. It also launched a production and testing facility
+    in illegally occupied Luhansk.

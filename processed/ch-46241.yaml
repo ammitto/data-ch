@@ -1,3 +1,4 @@
+---
 ssid: '46241'
 sanctions_set_id: '42032'
 individual:
@@ -35,4 +36,12 @@ individual:
       day: 16
       month: 2
       year: 1959
-  justification: In her position as Attorney General, the highest civil servant in the Prosecutor’s Office, Ana Julia Guido Ochoa, who is loyal to the Ortega regime, is responsible for the politically motivated prosecution of numerous protesters and members of the political opposition. She created a specialised unit that fabricated allegations against protesters and brought charges against them. She is moreover responsible for the disqualification from public office of the main opposition candidate for the general elections. She is therefore responsible for serious human rights violations, for the repression of civil society and democratic opposition, and for undermining democracy and the rule of law in Nicaragua.
+  justification: In her position as Attorney General, the highest civil servant in
+    the Prosecutor’s Office, Ana Julia Guido Ochoa, who is loyal to the Ortega regime,
+    is responsible for the politically motivated prosecution of numerous protesters
+    and members of the political opposition. She created a specialised unit that fabricated
+    allegations against protesters and brought charges against them. She is moreover
+    responsible for the disqualification from public office of the main opposition
+    candidate for the general elections. She is therefore responsible for serious
+    human rights violations, for the repression of civil society and democratic opposition,
+    and for undermining democracy and the rule of law in Nicaragua.

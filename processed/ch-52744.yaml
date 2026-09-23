@@ -1,3 +1,4 @@
+---
 ssid: '52744'
 sanctions_set_id: '29445'
 entity:
@@ -43,5 +44,6 @@ entity:
     addresses:
     - address_details: Korabelnaya Str., 1
       zip_code: '150006'
-    - address_details: Izmailovskoye Municipal District, Krasutskogo Str., 4b, Letter B
+    - address_details: Izmailovskoye Municipal District, Krasutskogo Str., 4b, Letter
+        B
       zip_code: '196084'

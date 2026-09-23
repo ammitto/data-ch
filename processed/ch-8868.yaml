@@ -1,3 +1,4 @@
+---
 ssid: '8868'
 sanctions_set_id: '8174'
 entity:
@@ -22,4 +23,6 @@ entity:
     addresses:
     - address_details: Suite 1, 59 Azadi Ali North Sohrevardi Avenue
       zip_code: '1576935561'
-  justification: Known to procure for designated Iran Centrifuge Technology Company (TESA) Commercial Department. They have made efforts to procure designated materials, including goods from the EU, which have applications in the Iranian nuclear programme.
+  justification: Known to procure for designated Iran Centrifuge Technology Company
+    (TESA) Commercial Department. They have made efforts to procure designated materials,
+    including goods from the EU, which have applications in the Iranian nuclear programme.

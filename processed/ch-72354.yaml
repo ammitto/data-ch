@@ -1,3 +1,4 @@
+---
 ssid: '72354'
 sanctions_set_id: '27286'
 individual:
@@ -18,4 +19,10 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Egorovich
-  justification: Vladimir Zaitsev is the Director of Joint Stock Company (JSC) VNIIRT (a.k.a. All-Russian Research Institute of Radio Engineering). JSC VNIIRT is a Russian military-industrial state enterprise that develops radar systems deployed by the Russian Armed Forces, including radar systems used for Russia’s Pantsir-S1 missile system. Moreover, JSC VNIIRT is part of the Almaz-Antey concern, a Russian state-owned arms manufacturer that develops anti-aircraft defence and cruise missile systems for the Russian military.
+  justification: Vladimir Zaitsev is the Director of Joint Stock Company (JSC) VNIIRT
+    (a.k.a. All-Russian Research Institute of Radio Engineering). JSC VNIIRT is a
+    Russian military-industrial state enterprise that develops radar systems deployed
+    by the Russian Armed Forces, including radar systems used for Russia’s Pantsir-S1
+    missile system. Moreover, JSC VNIIRT is part of the Almaz-Antey concern, a Russian
+    state-owned arms manufacturer that develops anti-aircraft defence and cruise missile
+    systems for the Russian military.

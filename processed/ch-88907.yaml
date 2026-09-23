@@ -1,3 +1,4 @@
+---
 ssid: '88907'
 sanctions_set_id: '27286'
 entity:
@@ -27,6 +28,15 @@ entity:
         name_part_type: whole-name
         value: 53 Arsenal PAO
     addresses:
-    - address_details: Nizhny Novgorod Oblast, r-n Volodarskii, rp. Iuganets, ul. Parkovaia, 1
+    - address_details: Nizhny Novgorod Oblast, r-n Volodarskii, rp. Iuganets, ul.
+        Parkovaia, 1
       zip_code: '606077'
-  justification: JSC 53 Arsenal is a Russian military industry company. JSC 53 Arsenal restores and produces ammunition used by the Russian military in Russia’s war of aggression against Ukraine. JSC 53 Arsenal therefore materially supports and benefits from the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.In addition, the parent company of JSC 53 Arsenal is JSC Technodinamika, and therefore JSC 53 Arsenal is associated with JSC Technodinamika. JSC Technodinamika is a weapons, ammunition, chemistry and aviation products manufacturer, and military provider of the Armed Forces of the Russian Federation.
+  justification: JSC 53 Arsenal is a Russian military industry company. JSC 53 Arsenal
+    restores and produces ammunition used by the Russian military in Russia’s war
+    of aggression against Ukraine. JSC 53 Arsenal therefore materially supports and
+    benefits from the Government of the Russian Federation, which is responsible for
+    the annexation of Crimea and the destabilisation of Ukraine.In addition, the parent
+    company of JSC 53 Arsenal is JSC Technodinamika, and therefore JSC 53 Arsenal
+    is associated with JSC Technodinamika. JSC Technodinamika is a weapons, ammunition,
+    chemistry and aviation products manufacturer, and military provider of the Armed
+    Forces of the Russian Federation.

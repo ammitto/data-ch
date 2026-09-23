@@ -1,3 +1,4 @@
+---
 ssid: '100742'
 sanctions_set_id: '8174'
 entity:
@@ -22,4 +23,8 @@ entity:
     addresses:
     - address_details: Pars Special Economic Energy Zone Org.
     - address_details: Pars Special Economic Energy Zone Organization
-  justification: Pars Special Economic Energy Zone (PSEEZ) is a subsidiary (100 %) of the State-owned National Iranian Oil Company (NIOC). The National Iranian Oil Company (NIOC) is a State-owned and operated entity providing substantial financial resources and support to the Government of Iran. Furthermore, PSEEZ’s Assaluyeh Port provides port operating services to IRISL.
+  justification: Pars Special Economic Energy Zone (PSEEZ) is a subsidiary (100 %)
+    of the State-owned National Iranian Oil Company (NIOC). The National Iranian Oil
+    Company (NIOC) is a State-owned and operated entity providing substantial financial
+    resources and support to the Government of Iran. Furthermore, PSEEZ’s Assaluyeh
+    Port provides port operating services to IRISL.

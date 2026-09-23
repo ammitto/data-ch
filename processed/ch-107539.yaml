@@ -1,3 +1,4 @@
+---
 ssid: '107539'
 sanctions_set_id: '27286'
 entity:
@@ -29,4 +30,6 @@ entity:
     addresses:
     - address_details: Kalinin Str. 3
       zip_code: '427968'
-  justification: Joint Stock Company “Elekond” is a leading Russian manufacturer of capacitors. Its products are used in electronics, aerospace products, transportation and special-purpose equipment.
+  justification: Joint Stock Company “Elekond” is a leading Russian manufacturer of
+    capacitors. Its products are used in electronics, aerospace products, transportation
+    and special-purpose equipment.

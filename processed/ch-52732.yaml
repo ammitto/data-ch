@@ -1,3 +1,4 @@
+---
 ssid: '52732'
 sanctions_set_id: '29445'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Experimental Plant Vega – Branch of Joint Stock Company Zvezdochka Ship Repair Centre
+        value: Experimental Plant Vega – Branch of Joint Stock Company Zvezdochka
+          Ship Repair Centre
     - name_type: alias
       quality: good
       lang: eng

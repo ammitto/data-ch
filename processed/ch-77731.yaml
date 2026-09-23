@@ -1,3 +1,4 @@
+---
 ssid: '77731'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 11
       month: 6
       year: 1977
-  justification: Pavel Kazakou is the head of the correctional institution Prison No 1 in Grodno, where the political prisoner Ales Pushkin and the artist Ruslan Karchauli died due to not receiving proper medical care. Other prisoners detained in that institution testified to the inhumane conditions.
+  justification: Pavel Kazakou is the head of the correctional institution Prison
+    No 1 in Grodno, where the political prisoner Ales Pushkin and the artist Ruslan
+    Karchauli died due to not receiving proper medical care. Other prisoners detained
+    in that institution testified to the inhumane conditions.

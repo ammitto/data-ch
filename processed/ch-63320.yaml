@@ -1,3 +1,4 @@
+---
 ssid: '63320'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 19
       month: 3
       year: 1980
-  justification: Viktor Sineok is a correspondent and columnist for Multimedia Information Center (MIC) Izvestia, a project of the National Media Group (NMG) holding providing news services for the REN TV Channel, Channel Five and the Izvestia newspaper.
+  justification: Viktor Sineok is a correspondent and columnist for Multimedia Information
+    Center (MIC) Izvestia, a project of the National Media Group (NMG) holding providing
+    news services for the REN TV Channel, Channel Five and the Izvestia newspaper.

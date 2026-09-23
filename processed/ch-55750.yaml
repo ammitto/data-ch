@@ -1,3 +1,4 @@
+---
 ssid: '55750'
 sanctions_set_id: '29445'
 entity:
@@ -39,7 +40,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Акционерное Общество «Специальное Конструкторско-Технологическое Бюро по Релейной Технике»
+        value: Акционерное Общество «Специальное Конструкторско-Технологическое Бюро
+          по Релейной Технике»
     addresses:
     - address_details: Nekhinskaya Str., 55
       zip_code: '173021'

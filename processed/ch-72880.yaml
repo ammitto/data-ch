@@ -1,3 +1,4 @@
+---
 ssid: '72880'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 13
       month: 3
       year: 1971
-  justification: Eduard Epishin is the General Director of JSC Avangard. JSC Avangard is a Russian manufacturer of large-sized fiberglass products, as well as plastic and rubber products, and is part of one of the largest rocket-building holdings in Russia, JSC MIC NPO Mashinostroyenia, which is itself part of JSC Tactical Missile Armament Corporation. JSC Avangard is involved in the production of armoured vehicles and missiles, which are used by the Russian Armed Forces in the war of aggression against Ukraine.
+  justification: Eduard Epishin is the General Director of JSC Avangard. JSC Avangard
+    is a Russian manufacturer of large-sized fiberglass products, as well as plastic
+    and rubber products, and is part of one of the largest rocket-building holdings
+    in Russia, JSC MIC NPO Mashinostroyenia, which is itself part of JSC Tactical
+    Missile Armament Corporation. JSC Avangard is involved in the production of armoured
+    vehicles and missiles, which are used by the Russian Armed Forces in the war of
+    aggression against Ukraine.

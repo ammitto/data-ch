@@ -1,3 +1,4 @@
+---
 ssid: '77770'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 20
       month: 4
       year: 1978
-  justification: Andrei Tsedryk is the former head of Pre-trial Detention Centre No 1 in Minsk, which is also known as “Voldarka”. Many political prisoners, including Ales Pushkin, have gone through that centre and have testified that the conditions in the centre are inhumane. Ales Bialiatski is being held in custody there. The centre also lacks a proper hospital.
+  justification: Andrei Tsedryk is the former head of Pre-trial Detention Centre No
+    1 in Minsk, which is also known as “Voldarka”. Many political prisoners, including
+    Ales Pushkin, have gone through that centre and have testified that the conditions
+    in the centre are inhumane. Ales Bialiatski is being held in custody there. The
+    centre also lacks a proper hospital.

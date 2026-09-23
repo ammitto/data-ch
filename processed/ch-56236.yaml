@@ -1,3 +1,4 @@
+---
 ssid: '56236'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 20
       month: 8
       year: 1963
-  justification: Alexander Maksimtsev is a Russian military leader and a Deputy Commander-in-Chief of the Aerospace Forces for military-political work. The Russian Aerospace Forces have delivered strikes on both military and civilian targets in Ukraine. As Alexander Maksimtsev is a Deputy Commander-in-Chief, he is responsible for the actions of this unit. Alexander Maksimtsev is therefore responsible for, supporting and implementing, actions which undermine the territorial integrity, sovereignty and independence of Ukraine and stability and security in Ukraine.
+  justification: Alexander Maksimtsev is a Russian military leader and a Deputy Commander-in-Chief
+    of the Aerospace Forces for military-political work. The Russian Aerospace Forces
+    have delivered strikes on both military and civilian targets in Ukraine. As Alexander
+    Maksimtsev is a Deputy Commander-in-Chief, he is responsible for the actions of
+    this unit. Alexander Maksimtsev is therefore responsible for, supporting and implementing,
+    actions which undermine the territorial integrity, sovereignty and independence
+    of Ukraine and stability and security in Ukraine.

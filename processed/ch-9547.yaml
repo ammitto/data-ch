@@ -1,3 +1,4 @@
+---
 ssid: '9547'
 sanctions_set_id: '8174'
 entity:
@@ -26,4 +27,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Presidential Center for Cooperation on Transformation and Progress
-  justification: The Technology Cooperation Office (TCO) of the Iranian President’s Office operates in the fields of research, biotechnology, nanotechnology, renewable energy and information technology.
+  justification: The Technology Cooperation Office (TCO) of the Iranian President’s
+    Office operates in the fields of research, biotechnology, nanotechnology, renewable
+    energy and information technology.

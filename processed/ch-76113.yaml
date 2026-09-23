@@ -1,3 +1,4 @@
+---
 ssid: '76113'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,11 @@ entity:
     addresses:
     - address_details: st. Karbysheva, 14
       zip_code: '432064'
-  justification: Volga Dnepr Airlines LLC is part of the Volga Dnepr Group, a leading group of Russian companies specialising in cargo and charter flights. The Volga Dnepr Group’s fleet consists of 12 Antonov An-124 type planes, five Boeing 747-8F and five IL-76TD-90VD (IV). Volga Dnepr Airlines LLC has significant air operations and carries on business in a sector of strategic significance for the Russian Government. It provides transport from third countries of electronics, IT and communication equipment, which are used in Russia’s war of aggression against Ukraine and help Russia to circumvent the existing sanctions.
+  justification: Volga Dnepr Airlines LLC is part of the Volga Dnepr Group, a leading
+    group of Russian companies specialising in cargo and charter flights. The Volga
+    Dnepr Group’s fleet consists of 12 Antonov An-124 type planes, five Boeing 747-8F
+    and five IL-76TD-90VD (IV). Volga Dnepr Airlines LLC has significant air operations
+    and carries on business in a sector of strategic significance for the Russian
+    Government. It provides transport from third countries of electronics, IT and
+    communication equipment, which are used in Russia’s war of aggression against
+    Ukraine and help Russia to circumvent the existing sanctions.

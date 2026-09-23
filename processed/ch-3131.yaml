@@ -1,3 +1,4 @@
+---
 ssid: '3131'
 sanctions_set_id: '3976'
 individual:
@@ -20,4 +21,6 @@ individual:
       month: 4
       year: 1978
     addresses:
-  justification: FRPI chief. Involved in weapons transfers, in violation of the arms embargo. According to the Office of the SRSG on Children and Armed Conflict, he was responsible for recruitment and use of children in Ituri from 2002 to 2003.
+  justification: FRPI chief. Involved in weapons transfers, in violation of the arms
+    embargo. According to the Office of the SRSG on Children and Armed Conflict, he
+    was responsible for recruitment and use of children in Ituri from 2002 to 2003.

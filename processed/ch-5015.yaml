@@ -1,3 +1,4 @@
+---
 ssid: '5015'
 sanctions_set_id: '4387'
 individual:
@@ -24,4 +25,7 @@ individual:
       year: 1956
     addresses:
     - address_details: ул. Бобруйская, 5a
-  justification: Rector of Belorusian State University. He was responsible for the expulsion of several students from the University because they participated in the demonstrations on 19 December 2010 and in other peaceful demonstrations in 2011.
+  justification: Rector of Belorusian State University. He was responsible for the
+    expulsion of several students from the University because they participated in
+    the demonstrations on 19 December 2010 and in other peaceful demonstrations in
+    2011.

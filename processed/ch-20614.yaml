@@ -1,3 +1,4 @@
+---
 ssid: '20614'
 sanctions_set_id: '3980'
 individual:
@@ -17,4 +18,8 @@ individual:
         value: Ahmed Mohammed
     day_month_year:
       year: 1952
-  justification: Cousin of Muammar Qadhafi. Since 1995, he is believed to have had command of an elite army battalion in charge of Qadhafi's personal security and to have a key role in External Security Organisation. He has been involved in planning operations against Libyan dissidents abroad and was directly involved in terrorist activity.
+  justification: Cousin of Muammar Qadhafi. Since 1995, he is believed to have had
+    command of an elite army battalion in charge of Qadhafi's personal security and
+    to have a key role in External Security Organisation. He has been involved in
+    planning operations against Libyan dissidents abroad and was directly involved
+    in terrorist activity.

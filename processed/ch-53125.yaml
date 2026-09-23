@@ -1,3 +1,4 @@
+---
 ssid: '53125'
 sanctions_set_id: '27286'
 individual:
@@ -19,4 +20,6 @@ individual:
       day: 15
       month: 2
       year: 1988
-  justification: Anastasia Ignatova is the stepdaughter of Sergei Chemezov, who is the CEO of the Russian state corporation Rostec (State Corporation for the Promotion of the Development, Manufacture and Export of High-Tech Products).
+  justification: Anastasia Ignatova is the stepdaughter of Sergei Chemezov, who is
+    the CEO of the Russian state corporation Rostec (State Corporation for the Promotion
+    of the Development, Manufacture and Export of High-Tech Products).

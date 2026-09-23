@@ -1,3 +1,4 @@
+---
 ssid: '33788'
 sanctions_set_id: '3978'
 individual:
@@ -23,4 +24,5 @@ individual:
       day: 27
       month: 5
       year: 1961
-  justification: Hyon Kwang Il is the Department Director for Scientific Development at the National Aerospace Development Administration.
+  justification: Hyon Kwang Il is the Department Director for Scientific Development
+    at the National Aerospace Development Administration.

@@ -1,3 +1,4 @@
+---
 ssid: '4683'
 sanctions_set_id: '4387'
 individual:
@@ -25,4 +26,7 @@ individual:
     addresses:
     - address_details: ул. Советская, 11
       zip_code: '220010'
-  justification: Deputy Chairperson, Central Electoral Commission (CEC). As a Member of the CEC, he was responsible for the violations of international electoral standards in the Presidential elections on 19 Dec 2010 and in the Parliamentary elections of September 2012.
+  justification: Deputy Chairperson, Central Electoral Commission (CEC). As a Member
+    of the CEC, he was responsible for the violations of international electoral standards
+    in the Presidential elections on 19 Dec 2010 and in the Parliamentary elections
+    of September 2012.

@@ -1,3 +1,4 @@
+---
 ssid: '96712'
 sanctions_set_id: '73477'
 individual:
@@ -15,4 +16,7 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Hussein
-  justification: Hussein Barsham is a Military Field Commander of the Rapid Support Forces (RSF), an organisation that has been accused by international non-governmental organisations of ethnic cleansing and even genocide against the Masalit tribe and other non-Arab groups in Darfur.
+  justification: Hussein Barsham is a Military Field Commander of the Rapid Support
+    Forces (RSF), an organisation that has been accused by international non-governmental
+    organisations of ethnic cleansing and even genocide against the Masalit tribe
+    and other non-Arab groups in Darfur.

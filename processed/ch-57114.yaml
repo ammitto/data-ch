@@ -1,3 +1,4 @@
+---
 ssid: '57114'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: Klary Tsetkin street 33
       zip_code: '125130'
-  justification: Russian defense contractor, which provides weapons to the Russian Armed Forces.
+  justification: Russian defense contractor, which provides weapons to the Russian
+    Armed Forces.

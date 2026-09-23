@@ -1,3 +1,4 @@
+---
 ssid: '86906'
 sanctions_set_id: '27286'
 entity:
@@ -19,4 +20,6 @@ entity:
     addresses:
     - address_details: Bolshaya Tatarskaya, 7k4, office 203
       zip_code: '115184'
-  justification: LLC “Leading Charter Technologies” is a Russian company operating as a private air transportation company. It charters aircraft to land in, take off from and overfly the territory of the European Union.
+  justification: LLC “Leading Charter Technologies” is a Russian company operating
+    as a private air transportation company. It charters aircraft to land in, take
+    off from and overfly the territory of the European Union.

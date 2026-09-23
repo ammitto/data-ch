@@ -1,3 +1,4 @@
+---
 ssid: '4035'
 sanctions_set_id: '3973'
 entity:
@@ -15,4 +16,9 @@ entity:
     addresses:
     - address_details: 225 Syracuse Place
       zip_code: '75081'
-  justification: Daytona Pools was incorporated by Gloria Chichakli, wife of Richard Chichakli. However, a few years later, the company’s annual fillings indicated that Richard Chichakli was the President, and Gloria Chichakli was Vice-President. The company is located at the same address in Richardson, Texas as Richard Chichakli’s accounting firm, along with the other firms owned or controlled by Chichakli thate are being proposed for listing.
+  justification: Daytona Pools was incorporated by Gloria Chichakli, wife of Richard
+    Chichakli. However, a few years later, the company’s annual fillings indicated
+    that Richard Chichakli was the President, and Gloria Chichakli was Vice-President.
+    The company is located at the same address in Richardson, Texas as Richard Chichakli’s
+    accounting firm, along with the other firms owned or controlled by Chichakli thate
+    are being proposed for listing.

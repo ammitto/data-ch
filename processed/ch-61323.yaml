@@ -1,3 +1,4 @@
+---
 ssid: '61323'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 8
       month: 6
       year: 1956
-  justification: Nikolai Ivanov is a Russian writer and propagandist. He is a member of the Presidential Council for Civil Society and Human Rights. He is also a chairman of the board of the Union of Writers of Russia.
+  justification: Nikolai Ivanov is a Russian writer and propagandist. He is a member
+    of the Presidential Council for Civil Society and Human Rights. He is also a chairman
+    of the board of the Union of Writers of Russia.

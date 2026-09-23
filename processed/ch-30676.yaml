@@ -1,3 +1,4 @@
+---
 ssid: '30676'
 sanctions_set_id: '3986'
 individual:
@@ -87,4 +88,7 @@ individual:
     - address_details: 16 Martello Road
       zip_code: BH13 7DH
     - address_details: 290, Qura Al Assad
-  justification: Samir Hamsho is a prominent Syrian businessman benefiting from and supporting the regime. He is the owner and chairman of Al Buroj and Syria Steel/Hmisho Steel, subsidiaries of Hamsho Trading, a subsidiary of Hamsho International, which has been designated.
+  justification: Samir Hamsho is a prominent Syrian businessman benefiting from and
+    supporting the regime. He is the owner and chairman of Al Buroj and Syria Steel/Hmisho
+    Steel, subsidiaries of Hamsho Trading, a subsidiary of Hamsho International, which
+    has been designated.

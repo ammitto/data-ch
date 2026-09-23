@@ -1,3 +1,4 @@
+---
 ssid: '101134'
 sanctions_set_id: '73477'
 individual:
@@ -35,4 +36,6 @@ individual:
       day: 1
       month: 1
       year: 1972
-  justification: Abdelrahim Hamdan Dagalo is Deputy Commander of the Rapid Support Forces (RSF) and the brother of Mohamed Hamdan Dagalo (Hemedti), Commander of the RSF.
+  justification: Abdelrahim Hamdan Dagalo is Deputy Commander of the Rapid Support
+    Forces (RSF) and the brother of Mohamed Hamdan Dagalo (Hemedti), Commander of
+    the RSF.

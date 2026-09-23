@@ -1,3 +1,4 @@
+---
 ssid: '11064'
 sanctions_set_id: '8174'
 individual:
@@ -27,4 +28,8 @@ individual:
         value: Hossein
     addresses:
     - address_details: 'NFPC: AEOI-NFPD'
-  justification: Dr.; Deputy and Director-General of the Nuclear Fuel Production and Procurement Company (NFPC), part of the AEOI. The AEOI oversees Iran’s nuclear programme and is designated under UNSCR 1737 (2006). The NFPC is involved in enrichment related activities that Iran is required by the IAEA Board and Security Council to suspend.
+  justification: Dr.; Deputy and Director-General of the Nuclear Fuel Production and
+    Procurement Company (NFPC), part of the AEOI. The AEOI oversees Iran’s nuclear
+    programme and is designated under UNSCR 1737 (2006). The NFPC is involved in enrichment
+    related activities that Iran is required by the IAEA Board and Security Council
+    to suspend.

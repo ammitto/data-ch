@@ -1,3 +1,4 @@
+---
 ssid: '4799'
 sanctions_set_id: '4387'
 individual:
@@ -18,4 +19,5 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Kanstantsinavich
-  justification: Prosecutor on Transport Issues of Belarus. Responsible for the repression of civil society following the December 2010 elections.
+  justification: Prosecutor on Transport Issues of Belarus. Responsible for the repression
+    of civil society following the December 2010 elections.

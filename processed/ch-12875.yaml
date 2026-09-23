@@ -1,3 +1,4 @@
+---
 ssid: '12875'
 sanctions_set_id: '12786'
 individual:
@@ -20,4 +21,7 @@ individual:
         value: Colonel
     day_month_year:
       year: 1949
-  justification: Director Military Intelligence. Military Intelligence involvement in suppression of demonstrations. Past history includes suspicion of involvement in Abu Selim prison massacre. Convicted in absentia for bombing of UTA flight. Brother-in-law of Muammar Qadhafi.
+  justification: Director Military Intelligence. Military Intelligence involvement
+    in suppression of demonstrations. Past history includes suspicion of involvement
+    in Abu Selim prison massacre. Convicted in absentia for bombing of UTA flight.
+    Brother-in-law of Muammar Qadhafi.

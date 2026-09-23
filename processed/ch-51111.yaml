@@ -1,3 +1,4 @@
+---
 ssid: '51111'
 sanctions_set_id: '27286'
 individual:
@@ -18,4 +19,7 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Anatolyevich
-  justification: Anatoly Bulavko holds the position of deputy in the House of Representatives of the National Assembly of Belarus. He is former deputy commander for ideological work and a head of ideological work of the Belarusian Air Force and Air Defence Forces.
+  justification: Anatoly Bulavko holds the position of deputy in the House of Representatives
+    of the National Assembly of Belarus. He is former deputy commander for ideological
+    work and a head of ideological work of the Belarusian Air Force and Air Defence
+    Forces.

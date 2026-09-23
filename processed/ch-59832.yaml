@@ -1,3 +1,4 @@
+---
 ssid: '59832'
 sanctions_set_id: '29445'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: A.A. Kharkevich Institute for Information Transmission Problems (IITP), Russian Academy of Sciences (RAS)
+        value: A.A. Kharkevich Institute for Information Transmission Problems (IITP),
+          Russian Academy of Sciences (RAS)
     - name_type: alias
       quality: good
       lang: eng
@@ -32,7 +34,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Федеральное Государственное Бюджетное Учреждение Науки Институт Проблем Передачи Информации им. А.А. Харкевича Российской Академии Наук (ИППИ РАН)
+        value: Федеральное Государственное Бюджетное Учреждение Науки Институт Проблем
+          Передачи Информации им. А.А. Харкевича Российской Академии Наук (ИППИ РАН)
     addresses:
     - address_details: Bolshoy Karetny Pereulok, 19, Building 1
       zip_code: '127051'

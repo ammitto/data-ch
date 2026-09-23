@@ -1,3 +1,4 @@
+---
 ssid: '88623'
 sanctions_set_id: '27286'
 individual:
@@ -20,4 +21,7 @@ individual:
         value: Anatolyevich
     day_month_year:
       year: 1970
-  justification: Boris Turchak is the General Director of JSC “Holding Company ‘Leninetz’”, a Russian entity owned by his father, Anatoly Turchak, and which controls PJSC “Central Scientific and Production Association ‘Leninetz’” (PJSC CSPA Leninetz). Boris Turchak is also a shareholder of PJSC CSPA Leninetz.
+  justification: Boris Turchak is the General Director of JSC “Holding Company ‘Leninetz’”,
+    a Russian entity owned by his father, Anatoly Turchak, and which controls PJSC
+    “Central Scientific and Production Association ‘Leninetz’” (PJSC CSPA Leninetz).
+    Boris Turchak is also a shareholder of PJSC CSPA Leninetz.

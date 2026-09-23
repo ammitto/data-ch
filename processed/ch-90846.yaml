@@ -1,3 +1,4 @@
+---
 ssid: '90846'
 sanctions_set_id: '4387'
 individual:
@@ -19,4 +20,8 @@ individual:
       day: 20
       month: 7
       year: 1977
-  justification: Andrei Vasiliuk is a Belarusian judge of the court of the Brest region. He has issued politically motivated rulings concerning, inter alia, freedom of expression or freedom of assembly against Aliaksandr Bazarau, Anastasiya Padhaiskaya, Aliaksandr Veliasnitski. Andrei Vasiliuk is therefore responsible for the repression of civil society in Belarus.
+  justification: Andrei Vasiliuk is a Belarusian judge of the court of the Brest region.
+    He has issued politically motivated rulings concerning, inter alia, freedom of
+    expression or freedom of assembly against Aliaksandr Bazarau, Anastasiya Padhaiskaya,
+    Aliaksandr Veliasnitski. Andrei Vasiliuk is therefore responsible for the repression
+    of civil society in Belarus.

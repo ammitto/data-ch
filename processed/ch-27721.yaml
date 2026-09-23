@@ -1,3 +1,4 @@
+---
 ssid: '27721'
 sanctions_set_id: '27286'
 individual:
@@ -42,4 +43,9 @@ individual:
       day: 30
       month: 12
       year: 1965
-  justification: One of the former leaders of the self-proclaimed militia of Horlivka. He took control of the building of the Security Service of Ukraine’s Office in the regional government in Donetsk and afterwards seized the Ministry of Internal Affairs’ district station in the town of Horlivka. He has links to Igor Strelkov/Girkin under whose command he was involved in the murder of the Peoples’ Deputy of Horlivka’s Municipal Council, Volodymyr Rybak.
+  justification: One of the former leaders of the self-proclaimed militia of Horlivka.
+    He took control of the building of the Security Service of Ukraine’s Office in
+    the regional government in Donetsk and afterwards seized the Ministry of Internal
+    Affairs’ district station in the town of Horlivka. He has links to Igor Strelkov/Girkin
+    under whose command he was involved in the murder of the Peoples’ Deputy of Horlivka’s
+    Municipal Council, Volodymyr Rybak.

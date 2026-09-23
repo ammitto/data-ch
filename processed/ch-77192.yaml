@@ -1,3 +1,4 @@
+---
 ssid: '77192'
 sanctions_set_id: '29445'
 entity:
@@ -18,14 +19,16 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal State Unitary Enterprise Scientific and Production Enterprise Gamma
+        value: Federal State Unitary Enterprise Scientific and Production Enterprise
+          Gamma
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal State Unitary Enterprise "Research and Production Enterprise “Gamma”
+        value: Federal State Unitary Enterprise "Research and Production Enterprise
+          “Gamma”
     - name_type: alias
       quality: good
       lang: eng

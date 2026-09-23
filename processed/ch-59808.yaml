@@ -1,3 +1,4 @@
+---
 ssid: '59808'
 sanctions_set_id: '29445'
 entity:
@@ -46,7 +47,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Общество с Ограниченной Ответственностью «Специальный Технологический Центр» (ООО «СТЦ»)
+        value: Общество с Ограниченной Ответственностью «Специальный Технологический
+          Центр» (ООО «СТЦ»)
     addresses:
     - address_details: Gzhatskaya Str., 21, Office 53, Letter B
       zip_code: '195220'

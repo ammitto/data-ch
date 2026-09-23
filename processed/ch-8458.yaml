@@ -1,3 +1,4 @@
+---
 ssid: '8458'
 sanctions_set_id: '3984'
 entity:
@@ -12,4 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Kavoshyar Company
-  justification: Subsidiary company of AEOI (E.37.A.1.), which has sought glass fibres, vacuum chamber furnaces and laboratory equipment for Iran’s nuclear programme.
+  justification: Subsidiary company of AEOI (E.37.A.1.), which has sought glass fibres,
+    vacuum chamber furnaces and laboratory equipment for Iran’s nuclear programme.

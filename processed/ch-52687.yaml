@@ -1,3 +1,4 @@
+---
 ssid: '52687'
 sanctions_set_id: '29445'
 entity:
@@ -25,7 +26,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: JSC “State Scientific Research Institute of Mechanical Engineering named after V.V. Bakhirev”
+        value: JSC “State Scientific Research Institute of Mechanical Engineering
+          named after V.V. Bakhirev”
     addresses:
     - address_details: Sverdlova Prospekt, 11 A
       zip_code: '606002'

@@ -1,3 +1,4 @@
+---
 ssid: '11871'
 sanctions_set_id: '3986'
 individual:
@@ -20,4 +21,6 @@ individual:
         value: Al-Turkmani
     day_month_year:
       year: 1935
-  justification: Deputy Vice Minister, former Minister for Defence, Special Envoy of President Bashar Al-Assad. He is reported to have died in the bombing of 18 July 2012.
+  justification: Deputy Vice Minister, former Minister for Defence, Special Envoy
+    of President Bashar Al-Assad. He is reported to have died in the bombing of 18
+    July 2012.

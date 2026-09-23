@@ -1,3 +1,4 @@
+---
 ssid: '81192'
 sanctions_set_id: '68945'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: Apartment 1, ul Lenina, 18D
       zip_code: '368730'
-  justification: MG Flot LLC is a Russian shipping company whose vessels are involved in shipping Iranian military-related commodities, including unmanned aerial vehicles (UAV) components, to Russia.
+  justification: MG Flot LLC is a Russian shipping company whose vessels are involved
+    in shipping Iranian military-related commodities, including unmanned aerial vehicles
+    (UAV) components, to Russia.

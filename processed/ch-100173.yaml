@@ -1,3 +1,4 @@
+---
 ssid: '100173'
 sanctions_set_id: '8174'
 individual:
@@ -19,4 +20,9 @@ individual:
       day: 14
       month: 3
       year: 1949
-  justification: Reza Aghazadeh is an Iranian national, member of the Expediency Discernment Council. He served as Head of the Atomic Energy Organization between 1997 and 2009. His positions have led him to be at the forefront of the development of Iran’s nuclear programme. He is still consulted by his AEOI colleagues on nuclear issues. Reza Aghazadeh is therefore responsible for directly participating in Iran’s nuclear programme and nuclear escalation.
+  justification: Reza Aghazadeh is an Iranian national, member of the Expediency Discernment
+    Council. He served as Head of the Atomic Energy Organization between 1997 and
+    2009. His positions have led him to be at the forefront of the development of
+    Iran’s nuclear programme. He is still consulted by his AEOI colleagues on nuclear
+    issues. Reza Aghazadeh is therefore responsible for directly participating in
+    Iran’s nuclear programme and nuclear escalation.

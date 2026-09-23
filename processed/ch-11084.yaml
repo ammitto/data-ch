@@ -1,3 +1,4 @@
+---
 ssid: '11084'
 sanctions_set_id: '8174'
 individual:
@@ -15,4 +16,6 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Alireza
-  justification: Captain; Chief Executive officer of designated Lead Maritime which acts on behalf of HDSL in Singapore. Additionally CEO of EU-designated Asia Marine Network, which is IRISL’s regional office in Singapore.
+  justification: Captain; Chief Executive officer of designated Lead Maritime which
+    acts on behalf of HDSL in Singapore. Additionally CEO of EU-designated Asia Marine
+    Network, which is IRISL’s regional office in Singapore.

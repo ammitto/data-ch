@@ -1,3 +1,4 @@
+---
 ssid: '12610'
 sanctions_set_id: '3986'
 individual:
@@ -25,4 +26,6 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Qaddour
-  justification: Former Head of Branch 291 (Damascus) of the army’s intelligence service under the former al-Assad regime. Responsible for the torture of opponents in custody.
+  justification: Former Head of Branch 291 (Damascus) of the army’s intelligence service
+    under the former al-Assad regime. Responsible for the torture of opponents in
+    custody.

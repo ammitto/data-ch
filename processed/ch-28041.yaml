@@ -1,3 +1,4 @@
+---
 ssid: '28041'
 sanctions_set_id: '3986'
 individual:
@@ -23,4 +24,7 @@ individual:
         value: Amin
     day_month_year:
       year: 1966
-  justification: Former Internal Trade and Consumer Protection Minister under the former al-Assad regime in power after May 2011. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Internal Trade and Consumer Protection Minister under the
+    former al-Assad regime in power after May 2011. As a former Government Minister,
+    shares responsibility for the former al-Assad regime’s violent repression of the
+    civilian population.

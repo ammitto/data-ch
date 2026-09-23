@@ -1,3 +1,4 @@
+---
 ssid: '52578'
 sanctions_set_id: '29445'
 entity:
@@ -32,7 +33,9 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Novosibirsk Branch of the Federal State Budgetary Institution of Science of the A.V. Rzhanov Institute of Semiconductor Physics SB RAS “Design and Technology Institute of Applied Microelectronics”
+        value: Novosibirsk Branch of the Federal State Budgetary Institution of Science
+          of the A.V. Rzhanov Institute of Semiconductor Physics SB RAS “Design and
+          Technology Institute of Applied Microelectronics”
     addresses:
     - address_details: Nikolaeva Str., 8
       zip_code: '630090'

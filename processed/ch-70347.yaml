@@ -1,3 +1,4 @@
+---
 ssid: '70347'
 sanctions_set_id: '27286'
 entity:
@@ -26,4 +27,9 @@ entity:
     addresses:
     - address_details: Lane. Bolshoy Strochenovsky, 5, Floor 2, Room 5
       zip_code: '115054'
-  justification: JSC “Promyshlennye Tekhnologii” and its subsidiary LLC “Promtechnologiya”, which operates under the trade name ORSIS, manufactures and supplies firearms under State procurement contracts to the Russian Armed Forces, which are used in the war of aggression against Ukraine. Therefore, JSC “Promyshlennye Tekhnologii” supports materially actions which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.
+  justification: JSC “Promyshlennye Tekhnologii” and its subsidiary LLC “Promtechnologiya”,
+    which operates under the trade name ORSIS, manufactures and supplies firearms
+    under State procurement contracts to the Russian Armed Forces, which are used
+    in the war of aggression against Ukraine. Therefore, JSC “Promyshlennye Tekhnologii”
+    supports materially actions which undermine and threaten the territorial integrity,
+    sovereignty and independence of Ukraine.

@@ -1,3 +1,4 @@
+---
 ssid: '4559'
 sanctions_set_id: '4387'
 individual:
@@ -18,4 +19,8 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Tsimafeevich
-  justification: Has actively undermined democracy in Belarus. Former Сhairman of the Regional Electoral Commission of the Mogilev district. As Chairman of a Regional Electoral Commission, he was directly responsible for the violations of international electoral standards in the Presidential elections, in particular in 2006 in the Mogilev region.
+  justification: Has actively undermined democracy in Belarus. Former Сhairman of
+    the Regional Electoral Commission of the Mogilev district. As Chairman of a Regional
+    Electoral Commission, he was directly responsible for the violations of international
+    electoral standards in the Presidential elections, in particular in 2006 in the
+    Mogilev region.

@@ -1,3 +1,4 @@
+---
 ssid: '58291'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: Bolshaya Polyanka str., 50/1 STR.1
       zip_code: '119180'
-  justification: Strategic Culture Foundation is an organisation financed by the Russian Federation. According to official reports, it is closely associated with Russian special services, including the SVR.
+  justification: Strategic Culture Foundation is an organisation financed by the Russian
+    Federation. According to official reports, it is closely associated with Russian
+    special services, including the SVR.

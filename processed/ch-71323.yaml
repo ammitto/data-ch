@@ -1,3 +1,4 @@
+---
 ssid: '71323'
 sanctions_set_id: '62614'
 individual:
@@ -19,4 +20,7 @@ individual:
       day: 29
       month: 6
       year: 1975
-  justification: Victor Petrov is a deputy to the bashkan of the People’s Assembly of Gagauzia and the leader of the People’s Union of Gagauzia, a manifestly pro-Russian socio-political movement that merged with the “Renaștere” political party. He receives political backing from listed person Ilan Shor.
+  justification: Victor Petrov is a deputy to the bashkan of the People’s Assembly
+    of Gagauzia and the leader of the People’s Union of Gagauzia, a manifestly pro-Russian
+    socio-political movement that merged with the “Renaștere” political party. He
+    receives political backing from listed person Ilan Shor.

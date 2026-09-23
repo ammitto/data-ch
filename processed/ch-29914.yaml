@@ -1,3 +1,4 @@
+---
 ssid: '29914'
 sanctions_set_id: '3986'
 individual:
@@ -32,4 +33,8 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Ahmad Adballa
-  justification: Chairman of Overseas Petroleum Trading Company (OPT) which has been listed by the Council for benefiting from and supporting the former al-Assad regime. He coordinated shipments of oil to the former al-Assad regime with listed Syrian state oil company Sytrol. Therefore, he is benefitting from and providing support to the former al-Assad regime.
+  justification: Chairman of Overseas Petroleum Trading Company (OPT) which has been
+    listed by the Council for benefiting from and supporting the former al-Assad regime.
+    He coordinated shipments of oil to the former al-Assad regime with listed Syrian
+    state oil company Sytrol. Therefore, he is benefitting from and providing support
+    to the former al-Assad regime.

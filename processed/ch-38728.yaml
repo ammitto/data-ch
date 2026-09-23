@@ -1,3 +1,4 @@
+---
 ssid: '38728'
 sanctions_set_id: '3978'
 entity:
@@ -28,4 +29,5 @@ entity:
         value: Korea Ansan Shpg Co
     addresses:
     - address_details: Pyongchon 1-dong, Pyongchon-guyok
-  justification: Registered owner of DPRK tanker AN SAN 1 believed to have been involved in ship to ship transfer operations for oil.
+  justification: Registered owner of DPRK tanker AN SAN 1 believed to have been involved
+    in ship to ship transfer operations for oil.

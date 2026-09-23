@@ -1,3 +1,4 @@
+---
 ssid: '76705'
 sanctions_set_id: '29445'
 entity:
@@ -13,5 +14,7 @@ entity:
         name_part_type: whole-name
         value: Shenzhen 5G High Tech Innovation Co., Ltd
     addresses:
-    - address_details: B502, Block B, Rongchao Yinglong Building, Longfu Road, Shangjing Community, Longcheng Sub-district, Longgang District
-    - address_details: 306 Garden Road, Pingxi Community, Pingdi Sub-district, Longgang District
+    - address_details: B502, Block B, Rongchao Yinglong Building, Longfu Road, Shangjing
+        Community, Longcheng Sub-district, Longgang District
+    - address_details: 306 Garden Road, Pingxi Community, Pingdi Sub-district, Longgang
+        District

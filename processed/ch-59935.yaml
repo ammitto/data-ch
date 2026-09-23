@@ -1,3 +1,4 @@
+---
 ssid: '59935'
 sanctions_set_id: '29445'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company “V.V. Bakhirev Research and Development Machine Building Institute”
+        value: Joint Stock Company “V.V. Bakhirev Research and Development Machine
+          Building Institute”
     - name_type: alias
       quality: good
       lang: eng
@@ -32,7 +34,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company “Scientific Research Mechanical Engineering Institute named after V.V. Bakhirev”
+        value: Joint Stock Company “Scientific Research Mechanical Engineering Institute
+          named after V.V. Bakhirev”
     - name_type: alias
       quality: good
       lang: eng

@@ -1,3 +1,4 @@
+---
 ssid: '59475'
 sanctions_set_id: '29445'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal State Unitary Enterprise "State Scientific-Research Institute for Aviation Systems" (GosNIIAS)
+        value: Federal State Unitary Enterprise "State Scientific-Research Institute
+          for Aviation Systems" (GosNIIAS)
     addresses:
     - address_details: Viktorenko Str., 7, Building 2
       zip_code: '125319'

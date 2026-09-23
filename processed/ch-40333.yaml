@@ -1,3 +1,4 @@
+---
 ssid: '40333'
 sanctions_set_id: '3986'
 individual:
@@ -20,4 +21,6 @@ individual:
         value: al-Azab
     day_month_year:
       year: 1970
-  justification: Former Minister of Education under the former al-Assad regime. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Minister of Education under the former al-Assad regime. As
+    a former Government Minister, shares responsibility for the former al-Assad regime’s
+    violent repression of the civilian population.

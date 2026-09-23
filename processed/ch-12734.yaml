@@ -1,3 +1,4 @@
+---
 ssid: '12734'
 sanctions_set_id: '3986'
 entity:
@@ -21,4 +22,5 @@ entity:
         value: SAA
     addresses:
     - address_details: Al-Mohafazeh Square
-  justification: Public company controlled by the Syrian regime. Provides financial support for the regime.
+  justification: Public company controlled by the Syrian regime. Provides financial
+    support for the regime.

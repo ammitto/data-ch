@@ -1,3 +1,4 @@
+---
 ssid: '6194'
 sanctions_set_id: '6094'
 individual:
@@ -19,4 +20,8 @@ individual:
       day: 10
       month: 3
       year: 1953
-  justification: Senior police officer and member of the Joint Operational Command, closely associated with the repressive policies of ZANU-PF. Publically confessed to support ZANU-PF in contravention of the Police Act. In June 2009 ordered the police to drop all cases related to murders committed to the run-up to the June 2008 Presidential election.
+  justification: Senior police officer and member of the Joint Operational Command,
+    closely associated with the repressive policies of ZANU-PF. Publically confessed
+    to support ZANU-PF in contravention of the Police Act. In June 2009 ordered the
+    police to drop all cases related to murders committed to the run-up to the June
+    2008 Presidential election.

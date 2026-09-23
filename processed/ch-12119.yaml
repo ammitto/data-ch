@@ -1,3 +1,4 @@
+---
 ssid: '12119'
 sanctions_set_id: '3986'
 individual:
@@ -25,4 +26,6 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Ismael
-  justification: Gave orders to troops to shoot at houses and people on roofs during a funeral in Talbiseh for protesters killed the previous day under the former al-Assad regime.
+  justification: Gave orders to troops to shoot at houses and people on roofs during
+    a funeral in Talbiseh for protesters killed the previous day under the former
+    al-Assad regime.

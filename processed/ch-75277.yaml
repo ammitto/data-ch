@@ -1,3 +1,4 @@
+---
 ssid: '75277'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: Botanicheskaya st. 25
       zip_code: '127106'
-  justification: JSC Concern Avtomatika is a Russian military industry company which develops and manufactures, among others. anti-drone weapon systems.
+  justification: JSC Concern Avtomatika is a Russian military industry company which
+    develops and manufactures, among others. anti-drone weapon systems.

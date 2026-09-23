@@ -1,3 +1,4 @@
+---
 ssid: '4955'
 sanctions_set_id: '4387'
 individual:
@@ -23,4 +24,9 @@ individual:
     addresses:
     - address_details: пр. Победителей, 11
       zip_code: '220004'
-  justification: Minister of Information since 30.6.2014, former First Deputy Minister of Information. She has played a major role since 2003 in promoting state propaganda, which provokes, supports and justifies the repression of the democratic opposition and of civil society, and by suppressing the freedom of the media. Democratic opposition and civil society are systematically highlighted in a negative and derogatory way using falsified information.
+  justification: Minister of Information since 30.6.2014, former First Deputy Minister
+    of Information. She has played a major role since 2003 in promoting state propaganda,
+    which provokes, supports and justifies the repression of the democratic opposition
+    and of civil society, and by suppressing the freedom of the media. Democratic
+    opposition and civil society are systematically highlighted in a negative and
+    derogatory way using falsified information.

@@ -1,3 +1,4 @@
+---
 ssid: '9634'
 sanctions_set_id: '3984'
 entity:
@@ -14,4 +15,6 @@ entity:
         value: Sad Import Export Company
     addresses:
     - address_details: Haftom Tir Square, South Mofte Avenue, Tour Line No 3/1
-  justification: Assisted Parchin Chemical Industries and 7th of Tir Industries, designated in resolutions 1747 (2007) and 1737 (2006), in violating paragraph 5 of resolution 1747 (2007).
+  justification: Assisted Parchin Chemical Industries and 7th of Tir Industries, designated
+    in resolutions 1747 (2007) and 1737 (2006), in violating paragraph 5 of resolution
+    1747 (2007).

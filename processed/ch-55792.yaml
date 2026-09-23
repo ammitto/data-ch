@@ -1,3 +1,4 @@
+---
 ssid: '55792'
 sanctions_set_id: '29445'
 entity:
@@ -18,21 +19,24 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company “Research and Production Corporation “Design Bureau of Mechanical Engineering”
+        value: Joint Stock Company “Research and Production Corporation “Design Bureau
+          of Mechanical Engineering”
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: AO NPK KBM; Joint Stock Company “Research and Production Corporation “Machine Building Design Bureau”
+        value: AO NPK KBM; Joint Stock Company “Research and Production Corporation
+          “Machine Building Design Bureau”
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company Research and Production Corporation Konstruktorskoye Byuro Mashynostroyeniya
+        value: Joint Stock Company Research and Production Corporation Konstruktorskoye
+          Byuro Mashynostroyeniya
     - name_type: alias
       quality: good
       lang: eng

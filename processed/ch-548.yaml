@@ -1,3 +1,4 @@
+---
 ssid: '548'
 sanctions_set_id: '2720'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 1
       month: 1
       year: 1961
-  justification: Indicted by International Criminal Tribunal for former Yugoslavia (IT-95-13a)
+  justification: Indicted by International Criminal Tribunal for former Yugoslavia
+    (IT-95-13a)

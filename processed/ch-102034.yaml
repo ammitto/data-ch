@@ -1,3 +1,4 @@
+---
 ssid: '102034'
 sanctions_set_id: '13065'
 individual:
@@ -15,4 +16,5 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Seyed Ali-Asghar
-  justification: Seyed Ali-Asghar Pourbehesht is Commander of the Islamic Revolutionary Guard Corps (IRGC) and of the Basij Resistance Force in Kohgiluyeh County.
+  justification: Seyed Ali-Asghar Pourbehesht is Commander of the Islamic Revolutionary
+    Guard Corps (IRGC) and of the Basij Resistance Force in Kohgiluyeh County.

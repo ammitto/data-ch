@@ -1,3 +1,4 @@
+---
 ssid: '8500'
 sanctions_set_id: '3984'
 entity:
@@ -41,4 +42,6 @@ entity:
         name_part_type: whole-name
         value: Rahkar Sanaye Novin
     addresses:
-  justification: Modern Industries Technique Company is responsible for design and construction of the IR-40 heavy water reactor in Arak. MITEC has spearheaded procurement for the construction of the IR-40 heavy water reactor.
+  justification: Modern Industries Technique Company is responsible for design and
+    construction of the IR-40 heavy water reactor in Arak. MITEC has spearheaded procurement
+    for the construction of the IR-40 heavy water reactor.

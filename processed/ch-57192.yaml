@@ -1,3 +1,4 @@
+---
 ssid: '57192'
 sanctions_set_id: '27286'
 entity:
@@ -19,4 +20,10 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Shahed Aviation Industries Research Center
-  justification: Shahed Aviation Industries is an Islamic Revolutionary Guard Corps Aerospace Force-linked company in Iran responsible for the design and development of the Shahed series of Iranian Unmanned Aerial Vehicles (UAVs). Shahed series drones were supplied to the Russian Federation and are used in the war of aggression against Ukraine. Therefore, Shahed Aviation Industries is responsible for supporting materially actions which undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Shahed Aviation Industries is an Islamic Revolutionary Guard Corps
+    Aerospace Force-linked company in Iran responsible for the design and development
+    of the Shahed series of Iranian Unmanned Aerial Vehicles (UAVs). Shahed series
+    drones were supplied to the Russian Federation and are used in the war of aggression
+    against Ukraine. Therefore, Shahed Aviation Industries is responsible for supporting
+    materially actions which undermine or threaten the territorial integrity, sovereignty
+    and independence of Ukraine.

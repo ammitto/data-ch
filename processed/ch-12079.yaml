@@ -1,3 +1,4 @@
+---
 ssid: '12079'
 sanctions_set_id: '3986'
 individual:
@@ -25,4 +26,5 @@ individual:
       day: 10
       month: 3
       year: 1962
-  justification: Ordered troops to shoot protestors in Baniyas and Deraa, under the former al-Assad regime.
+  justification: Ordered troops to shoot protestors in Baniyas and Deraa, under the
+    former al-Assad regime.

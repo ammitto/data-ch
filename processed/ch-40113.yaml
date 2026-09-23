@@ -1,3 +1,4 @@
+---
 ssid: '40113'
 sanctions_set_id: '3986'
 individual:
@@ -28,4 +29,10 @@ individual:
       year: 1965
     addresses:
     - address_details: Young Avenue
-  justification: Leading businessperson operating in Syria, with significant investments in the construction industry, including a 50 % stake in Zubaidi and Qalei LLC, which is constructing the luxury tourist city Grand Town and to which the regime has granted a 45-year agreement in return for 19-21 % of its revenue. In this capacity, he is linked to Khaled al-Zubaidi. Nader Qalei benefits from and/or supports the Syrian regime through his business activities, in particular through this stake in the Grand Town development.
+  justification: Leading businessperson operating in Syria, with significant investments
+    in the construction industry, including a 50 % stake in Zubaidi and Qalei LLC,
+    which is constructing the luxury tourist city Grand Town and to which the regime
+    has granted a 45-year agreement in return for 19-21 % of its revenue. In this
+    capacity, he is linked to Khaled al-Zubaidi. Nader Qalei benefits from and/or
+    supports the Syrian regime through his business activities, in particular through
+    this stake in the Grand Town development.

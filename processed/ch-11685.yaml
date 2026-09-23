@@ -1,3 +1,4 @@
+---
 ssid: '11685'
 sanctions_set_id: '3986'
 individual:
@@ -33,4 +34,7 @@ individual:
       day: 7
       month: 7
       year: 1953
-  justification: Officer of the rank of Major-General in the Syrian Air Force in post after May 2011 under the former al-Assad regime. Former head of the Syrian Air Force Intelligence in post after May 2011 and until July 2019. Responsible for violent repression of the civilian population in Syria.
+  justification: Officer of the rank of Major-General in the Syrian Air Force in post
+    after May 2011 under the former al-Assad regime. Former head of the Syrian Air
+    Force Intelligence in post after May 2011 and until July 2019. Responsible for
+    violent repression of the civilian population in Syria.

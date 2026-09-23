@@ -1,3 +1,4 @@
+---
 ssid: '59736'
 sanctions_set_id: '29445'
 entity:
@@ -32,14 +33,16 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company “Chemical Machine Building Design Bureau named after A.M. Isaev”
+        value: Joint Stock Company “Chemical Machine Building Design Bureau named
+          after A.M. Isaev”
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Акционерное Общество «Конструкторское Бюро Химического Машиностроения имени А.М. Исаева»
+        value: Акционерное Общество «Конструкторское Бюро Химического Машиностроения
+          имени А.М. Исаева»
     addresses:
     - address_details: Bogomolova Str., 12
       zip_code: '141070'

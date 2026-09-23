@@ -1,3 +1,4 @@
+---
 ssid: '89076'
 sanctions_set_id: '27286'
 entity:
@@ -27,6 +28,10 @@ entity:
         name_part_type: whole-name
         value: Beijing Hede Aerospace Technology
     addresses:
-    - address_details: 5F, Bldg 5, Science and Technology Park, A-2 North Xisanhuan Road, Haidian District
+    - address_details: 5F, Bldg 5, Science and Technology Park, A-2 North Xisanhuan
+        Road, Haidian District
       zip_code: '100021'
-  justification: China Head Aerospace Technology is a PRC-based firm specialised in the production of satellite imagery. The firm is an official supplier of remote sensing data to Russian firm Rakurs, which is a supplier of the Russian Ministry of Defence.
+  justification: China Head Aerospace Technology is a PRC-based firm specialised in
+    the production of satellite imagery. The firm is an official supplier of remote
+    sensing data to Russian firm Rakurs, which is a supplier of the Russian Ministry
+    of Defence.

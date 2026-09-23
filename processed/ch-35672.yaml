@@ -1,3 +1,4 @@
+---
 ssid: '35672'
 sanctions_set_id: '3986'
 individual:
@@ -26,4 +27,6 @@ individual:
       day: 15
       month: 9
       year: 1964
-  justification: Former Transport Minister under the former al-Assad regime. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Transport Minister under the former al-Assad regime. As a
+    former Government Minister, shares responsibility for the former al-Assad regime’s
+    violent repression of the civilian population.

@@ -1,3 +1,4 @@
+---
 ssid: '6313'
 sanctions_set_id: '6094'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 23
       month: 10
       year: 1970
-  justification: ZANU-PF Member of the Government. Organised those involved in violent riots in Harare in February 2011.
+  justification: ZANU-PF Member of the Government. Organised those involved in violent
+    riots in Harare in February 2011.

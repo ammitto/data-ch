@@ -1,3 +1,4 @@
+---
 ssid: '48067'
 sanctions_set_id: '27286'
 entity:
@@ -23,4 +24,8 @@ entity:
       year: 1995
     addresses:
     - address_details: Respublikanskaya st. 16
-  justification: PSB Bank (formerly PROMSVYAZBANK) is a Russian State-owned bank, which provides financial support to the Russian defence sector and the Russian military, which is responsible for the massive deployment of Russian troops along the border with Ukraine and for the presence of Russian troops in the Crimean peninsula.
+  justification: PSB Bank (formerly PROMSVYAZBANK) is a Russian State-owned bank,
+    which provides financial support to the Russian defence sector and the Russian
+    military, which is responsible for the massive deployment of Russian troops along
+    the border with Ukraine and for the presence of Russian troops in the Crimean
+    peninsula.

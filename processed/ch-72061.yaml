@@ -1,3 +1,4 @@
+---
 ssid: '72061'
 sanctions_set_id: '27286'
 entity:
@@ -14,4 +15,6 @@ entity:
         value: JSC NPO Elektromechaniki
     addresses:
     - address_details: Mendeleeva street 31
-  justification: JSC NPO Elektromechaniki is a Russian military industry company. It produces parts for Iskander missiles that are used by the Russian Armed Forces in the war of aggression against Ukraine.
+  justification: JSC NPO Elektromechaniki is a Russian military industry company.
+    It produces parts for Iskander missiles that are used by the Russian Armed Forces
+    in the war of aggression against Ukraine.

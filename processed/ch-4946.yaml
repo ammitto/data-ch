@@ -1,3 +1,4 @@
+---
 ssid: '4946'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 14
       month: 11
       year: 1954
-  justification: Former Minister of Defence. He was actively involved in undermining democracy in Belarus. As a member of the Security Council, he approved the repressive decisions agreed at ministerial level, including the decision to repress the peaceful demonstrations on 19 Dec 2010. After December 2010, he praised the "total defeat of destructive forces", when referring to the democratic opposition.
+  justification: Former Minister of Defence. He was actively involved in undermining
+    democracy in Belarus. As a member of the Security Council, he approved the repressive
+    decisions agreed at ministerial level, including the decision to repress the peaceful
+    demonstrations on 19 Dec 2010. After December 2010, he praised the "total defeat
+    of destructive forces", when referring to the democratic opposition.

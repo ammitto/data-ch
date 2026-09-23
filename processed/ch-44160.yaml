@@ -1,3 +1,4 @@
+---
 ssid: '44160'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 8
       month: 1
       year: 1977
-  justification: In his former position of Deputy Head of the Belarus President Property Management Directorate, he oversees the functioning of numerous enterprises. The body under his leadership provides financial, material and technical, social, household and medical support to the State apparatus and republican authorities. He is closely associated with the President and continues to support the Lukashenka regime.
+  justification: In his former position of Deputy Head of the Belarus President Property
+    Management Directorate, he oversees the functioning of numerous enterprises. The
+    body under his leadership provides financial, material and technical, social,
+    household and medical support to the State apparatus and republican authorities.
+    He is closely associated with the President and continues to support the Lukashenka
+    regime.

@@ -1,3 +1,4 @@
+---
 ssid: '9430'
 sanctions_set_id: '8174'
 entity:
@@ -53,4 +54,5 @@ entity:
     - address_details: No 313, Farvardin Street, Golestan Zone
     - address_details: No 233, Lane 15, Vazir Akbar Khan Zone
     - address_details: No 137, First floor, Building No. 16
-  justification: Communications firm that supplied equipment for the Fordow (Qom) facility built without being declared to the IAEA.
+  justification: Communications firm that supplied equipment for the Fordow (Qom)
+    facility built without being declared to the IAEA.

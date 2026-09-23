@@ -1,3 +1,4 @@
+---
 ssid: '72275'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: 30A, Stantsionnaya Str., office. 307
       zip_code: '630108'
-  justification: Novosibirsk Cartridge Plant is a Russian military industry company. It is a cartridges supplier for Rosgvardia.
+  justification: Novosibirsk Cartridge Plant is a Russian military industry company.
+    It is a cartridges supplier for Rosgvardia.

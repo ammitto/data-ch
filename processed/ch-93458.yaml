@@ -1,3 +1,4 @@
+---
 ssid: '93458'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 26
       month: 4
       year: 1953
-  justification: Victor Anatolievich Polyakov is Managing Director of PJSC “UEC-Saturn”, part of the JSC United Engine Corporation Russia (UECRUS), which belongs to the State Corporation Rostec.
+  justification: Victor Anatolievich Polyakov is Managing Director of PJSC “UEC-Saturn”,
+    part of the JSC United Engine Corporation Russia (UECRUS), which belongs to the
+    State Corporation Rostec.

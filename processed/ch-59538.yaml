@@ -1,3 +1,4 @@
+---
 ssid: '59538'
 sanctions_set_id: '29445'
 entity:
@@ -18,14 +19,16 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Акционерное Общество «Корпорация «Московский Институт Теплотехники» (АО «Корпорация «МИТ»)
+        value: Акционерное Общество «Корпорация «Московский Институт Теплотехники»
+          (АО «Корпорация «МИТ»)
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: AO Koporatsiya Moskovskiy Institut Teplotekhniki, JSC Corporation MIHT, Moscow Institute of Thermal Technology
+        value: AO Koporatsiya Moskovskiy Institut Teplotekhniki, JSC Corporation MIHT,
+          Moscow Institute of Thermal Technology
     addresses:
     - address_details: Berezovaya Alleya, 10
       zip_code: '127273'

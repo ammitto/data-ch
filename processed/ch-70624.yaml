@@ -1,3 +1,4 @@
+---
 ssid: '70624'
 sanctions_set_id: '27286'
 entity:
@@ -29,4 +30,5 @@ entity:
     addresses:
     - address_details: Nikoloyamskaya 11 st., building 1
       zip_code: '109240'
-  justification: Znanie is a Russian educational and propagandist organisation, which was created by a decree of the President of the Russian Federation.
+  justification: Znanie is a Russian educational and propagandist organisation, which
+    was created by a decree of the President of the Russian Federation.

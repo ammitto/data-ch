@@ -1,3 +1,4 @@
+---
 ssid: '38633'
 sanctions_set_id: '3986'
 individual:
@@ -30,4 +31,8 @@ individual:
         name_part_type: family-name
         value: Suleiman
     addresses:
-  justification: Director of the Higher Institute for Applied Sciences and Technology (HIAST), which provides training and support as part of the Syrian chemical weapons proliferation sector. Due to his senior position at the HIAST, which is an affiliate and subsidiary of the Scientific Studies and Research Centre (SSRC), he is associated with the HIAST and SSRC, both of which are designated entities.
+  justification: Director of the Higher Institute for Applied Sciences and Technology
+    (HIAST), which provides training and support as part of the Syrian chemical weapons
+    proliferation sector. Due to his senior position at the HIAST, which is an affiliate
+    and subsidiary of the Scientific Studies and Research Centre (SSRC), he is associated
+    with the HIAST and SSRC, both of which are designated entities.

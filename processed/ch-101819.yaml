@@ -1,3 +1,4 @@
+---
 ssid: '101819'
 sanctions_set_id: '73477'
 individual:
@@ -36,4 +37,6 @@ individual:
       day: 9
       month: 8
       year: 1990
-  justification: Algoney Hamdan Dagalo Musa is a major in the RSF and the brother of Mohammad Hamdan Dagalo (Hemedti), who is the head of the RSF. Algoney Hamdan Dagalo Musa is also involved in the procurement of arms for the RSF.
+  justification: Algoney Hamdan Dagalo Musa is a major in the RSF and the brother
+    of Mohammad Hamdan Dagalo (Hemedti), who is the head of the RSF. Algoney Hamdan
+    Dagalo Musa is also involved in the procurement of arms for the RSF.

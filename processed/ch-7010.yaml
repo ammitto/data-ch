@@ -1,3 +1,4 @@
+---
 ssid: '7010'
 sanctions_set_id: '6094'
 individual:
@@ -25,4 +26,6 @@ individual:
       day: 3
       month: 5
       year: 1949
-  justification: Associated with ZANU-PF faction of Government. In March 2010 gave instructions to ministers and cabinet secretaries to report to ZANU-PF politicians and not the Prime Minister Morgan Tsvangirai.
+  justification: Associated with ZANU-PF faction of Government. In March 2010 gave
+    instructions to ministers and cabinet secretaries to report to ZANU-PF politicians
+    and not the Prime Minister Morgan Tsvangirai.

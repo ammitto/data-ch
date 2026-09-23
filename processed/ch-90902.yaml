@@ -1,3 +1,4 @@
+---
 ssid: '90902'
 sanctions_set_id: '4387'
 entity:
@@ -18,4 +19,6 @@ entity:
       year: 1999
     addresses:
     - address_details: Budzyonnaha 10
-  justification: Republican unitary enterprise Belorusskiye Loterei is a Belarusian company owned by the Belarus President Property Management Directorate; a government body subordinated directly to Aliaksandr Lukashenka.
+  justification: Republican unitary enterprise Belorusskiye Loterei is a Belarusian
+    company owned by the Belarus President Property Management Directorate; a government
+    body subordinated directly to Aliaksandr Lukashenka.

@@ -1,3 +1,4 @@
+---
 ssid: '11281'
 sanctions_set_id: '8174'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 27
       month: 5
       year: 1956
-  justification: Managing Director of sanctioned IRISL China Shipping Company, alias Santelines (a.k.a. Santexlines), alias Rice Shipping, alias E-sail Shipping.
+  justification: Managing Director of sanctioned IRISL China Shipping Company, alias
+    Santelines (a.k.a. Santexlines), alias Rice Shipping, alias E-sail Shipping.

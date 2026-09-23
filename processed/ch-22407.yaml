@@ -1,3 +1,4 @@
+---
 ssid: '22407'
 sanctions_set_id: '3986'
 individual:
@@ -33,4 +34,6 @@ individual:
       day: 26
       month: 3
       year: 1951
-  justification: Former Minister of Public Works under the former al-Assad regime. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Minister of Public Works under the former al-Assad regime.
+    As a former Government Minister, shares responsibility for the former al-Assad
+    regime’s violent repression of the civilian population.

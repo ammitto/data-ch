@@ -1,3 +1,4 @@
+---
 ssid: '72513'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,11 @@ individual:
       day: 26
       month: 4
       year: 1961
-  justification: Sergei Petrov is the CEO and owner of PSV Technologies LLC. PSV Technologies LLC is a Russian entity involved in the procurement of high-tech goods on behalf of the Government of the Russian Federation. The entity functions as a supplier in at least 10 contracts with the Russian Government, which includes contracts with leading state owned weapons manufacturers within Russia’s military-industrial complex. In particular, PSV Technologies LLC facilitates the acquisition of sanctioned dual-use and military goods from the European Union on behalf of Russian state-owned weapons manufacturers.
+  justification: Sergei Petrov is the CEO and owner of PSV Technologies LLC. PSV Technologies
+    LLC is a Russian entity involved in the procurement of high-tech goods on behalf
+    of the Government of the Russian Federation. The entity functions as a supplier
+    in at least 10 contracts with the Russian Government, which includes contracts
+    with leading state owned weapons manufacturers within Russia’s military-industrial
+    complex. In particular, PSV Technologies LLC facilitates the acquisition of sanctioned
+    dual-use and military goods from the European Union on behalf of Russian state-owned
+    weapons manufacturers.

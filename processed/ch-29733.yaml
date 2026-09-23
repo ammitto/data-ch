@@ -1,3 +1,4 @@
+---
 ssid: '29733'
 sanctions_set_id: '27286'
 individual:
@@ -32,4 +33,5 @@ individual:
       day: 11
       month: 3
       year: 1976
-  justification: Former “Minister of Education, Science, Culture and Religion” of the so-called “Luhansk People’s Republic”.
+  justification: Former “Minister of Education, Science, Culture and Religion” of
+    the so-called “Luhansk People’s Republic”.

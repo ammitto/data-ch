@@ -1,3 +1,4 @@
+---
 ssid: '12411'
 sanctions_set_id: '3986'
 entity:
@@ -21,4 +22,5 @@ entity:
         value: Abraj Tech
     addresses:
     - address_details: Dair Ali Jordan Highway
-  justification: Manufacturing and supplying communication and transmission towers and other equipment for the Syrian army under the former al-Assad regime.
+  justification: Manufacturing and supplying communication and transmission towers
+    and other equipment for the Syrian army under the former al-Assad regime.

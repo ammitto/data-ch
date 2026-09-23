@@ -1,3 +1,4 @@
+---
 ssid: '52374'
 sanctions_set_id: '27286'
 individual:
@@ -20,4 +21,6 @@ individual:
         value: Vladimirovna
     day_month_year:
       year: 1962
-  justification: Marina Sechina is a former wife of Igor Sechin, the CEO of Rosneft. She has used connections with various actors in the Russian government and Russian business structures, including with her former husband, for personal benefit.
+  justification: Marina Sechina is a former wife of Igor Sechin, the CEO of Rosneft.
+    She has used connections with various actors in the Russian government and Russian
+    business structures, including with her former husband, for personal benefit.

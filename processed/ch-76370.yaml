@@ -1,3 +1,4 @@
+---
 ssid: '76370'
 sanctions_set_id: '27286'
 entity:
@@ -47,6 +48,12 @@ entity:
     addresses:
     - address_details: Salova street, 45 letter Ya, room 1N room 35
       zip_code: '192102'
-    - address_details: Salova street, building 27, letter AD, premises 18-n, premises 27 (office 305)
+    - address_details: Salova street, building 27, letter AD, premises 18-n, premises
+        27 (office 305)
       zip_code: '192102'
-  justification: LLC IQ Components is a Russian importer of electronic components. The company delivers products such as semiconductor and microwave components from abroad to the largest Russian military-industrial complex enterprises that manufacture equipment used in Russia’s war of aggression against Ukraine. Therefore, LLC IQ Components is supporting materially the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.
+  justification: LLC IQ Components is a Russian importer of electronic components.
+    The company delivers products such as semiconductor and microwave components from
+    abroad to the largest Russian military-industrial complex enterprises that manufacture
+    equipment used in Russia’s war of aggression against Ukraine. Therefore, LLC IQ
+    Components is supporting materially the Government of the Russian Federation,
+    which is responsible for the annexation of Crimea and the destabilisation of Ukraine.

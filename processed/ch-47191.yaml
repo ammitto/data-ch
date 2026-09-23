@@ -1,3 +1,4 @@
+---
 ssid: '47191'
 sanctions_set_id: '42032'
 individual:
@@ -24,4 +25,13 @@ individual:
       year: 1949
     addresses:
     - address_details: 'Planes De Puntaldia Casa #16'
-  justification: Luis Ángel Montenegro Espinoza is the Superintendent of the Superintendency of Banks and other Financial Institutions of Nicaragua (SIBOIF). In that position he is responsible for the persecution of financial actors that resisted the Ortega regime’s policies, as well as for enforcing the regime’s control over the financial sector. He was appointed to that position directly by Daniel Ortega, as a reward for his loyalty. In his previous role as Controller General of the Republic he ensured that Ortega’s corrupt financial activities would not be audited and equally contributed to Ortega’s control of the regime. He is therefore responsible for undermining the rule of law in Nicaragua as well as for the repression of civil society and democratic opposition.
+  justification: Luis Ángel Montenegro Espinoza is the Superintendent of the Superintendency
+    of Banks and other Financial Institutions of Nicaragua (SIBOIF). In that position
+    he is responsible for the persecution of financial actors that resisted the Ortega
+    regime’s policies, as well as for enforcing the regime’s control over the financial
+    sector. He was appointed to that position directly by Daniel Ortega, as a reward
+    for his loyalty. In his previous role as Controller General of the Republic he
+    ensured that Ortega’s corrupt financial activities would not be audited and equally
+    contributed to Ortega’s control of the regime. He is therefore responsible for
+    undermining the rule of law in Nicaragua as well as for the repression of civil
+    society and democratic opposition.

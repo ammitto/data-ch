@@ -1,3 +1,4 @@
+---
 ssid: '12167'
 sanctions_set_id: '3986'
 individual:
@@ -32,4 +33,5 @@ individual:
       - order: 1
         name_part_type: family-name
         value: al-Ali
-  justification: Head of the Political Security Directorate since July 2019 under the former al-Assad regime. Responsible for detention and torture of detainees.
+  justification: Head of the Political Security Directorate since July 2019 under
+    the former al-Assad regime. Responsible for detention and torture of detainees.

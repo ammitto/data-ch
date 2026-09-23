@@ -1,3 +1,4 @@
+---
 ssid: '8778'
 sanctions_set_id: '3984'
 individual:
@@ -15,4 +16,6 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Mohammad Mehdi
-  justification: Lieutenant General, Rector of Malek Ashtar University of Defence Technology (chemistry Department, affiliated to MODAFL, has conducted experiments on beryllium).
+  justification: Lieutenant General, Rector of Malek Ashtar University of Defence
+    Technology (chemistry Department, affiliated to MODAFL, has conducted experiments
+    on beryllium).

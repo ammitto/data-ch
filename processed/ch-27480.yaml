@@ -1,3 +1,4 @@
+---
 ssid: '27480'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 21
       month: 8
       year: 1946
-  justification: Former Chair of Sevastopol Electoral Commission (until 26 May 2017). Responsible for administering the Crimean referendum. Responsible under the Russian system for signing referendum results.
+  justification: Former Chair of Sevastopol Electoral Commission (until 26 May 2017).
+    Responsible for administering the Crimean referendum. Responsible under the Russian
+    system for signing referendum results.

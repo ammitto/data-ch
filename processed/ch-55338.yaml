@@ -1,3 +1,4 @@
+---
 ssid: '55338'
 sanctions_set_id: '27286'
 individual:
@@ -29,4 +30,8 @@ individual:
       day: 12
       month: 5
       year: 1983
-  justification: Alina Kabaeva is the Chairwoman of the Board of Directors of the National Media Group (NMG), a holding that owns large stakes in almost all major Russian federal media that reproduce the Russian Government propaganda. She is a former Russian gymnast and a former member of the State Duma. She is closely associated with President Vladimir Putin.
+  justification: Alina Kabaeva is the Chairwoman of the Board of Directors of the
+    National Media Group (NMG), a holding that owns large stakes in almost all major
+    Russian federal media that reproduce the Russian Government propaganda. She is
+    a former Russian gymnast and a former member of the State Duma. She is closely
+    associated with President Vladimir Putin.

@@ -1,3 +1,4 @@
+---
 ssid: '52518'
 sanctions_set_id: '29445'
 entity:
@@ -34,7 +35,8 @@ entity:
         name_part_type: whole-name
         value: OOO Avant-Spejs
     addresses:
-    - address_details: Skolkovo Innovation Center, Bolshoi Boulevard, 42, Building 1, Floor 4, Room 1434, 1431
+    - address_details: Skolkovo Innovation Center, Bolshoi Boulevard, 42, Building
+        1, Floor 4, Room 1434, 1431
       zip_code: '121205'
     - address_details: Presnenskaya Embankment, 12
       zip_code: '123112'

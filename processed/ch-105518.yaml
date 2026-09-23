@@ -1,3 +1,4 @@
+---
 ssid: '105518'
 sanctions_set_id: '27286'
 entity:
@@ -19,4 +20,6 @@ entity:
     addresses:
     - address_details: st. Kossyushko-Grigorovich, d. 5, the land. 13 office 405
       zip_code: '672000'
-  justification: Mangazeya Mining Ltd. is a leading Russian gold mining company owning and operating several mines in Russia. The sector provides substantial revenue to the Government of the Russian Federation.
+  justification: Mangazeya Mining Ltd. is a leading Russian gold mining company owning
+    and operating several mines in Russia. The sector provides substantial revenue
+    to the Government of the Russian Federation.

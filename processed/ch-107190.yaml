@@ -1,3 +1,4 @@
+---
 ssid: '107190'
 sanctions_set_id: '27286'
 entity:
@@ -14,4 +15,13 @@ entity:
         value: Transbunker-Novo Company Limited
     addresses:
     - zip_code: '353900'
-  justification: Transbunker-Novo Company Limited is a shipping company based in Russia that specialises in providing technical support. The company is the technical manager of the vessel Ulika, as well as the bunkering tankers Transbunker and Korsakov. Those vessels lack adequate liability insurance and engage in manipulation of Automatic Identification Systems as well as ship-to-ship transfers while transporting crude oil or petroleum products exported from Russia. Therefore, Transbunker-Novo Company Limited manages vessels that transport crude oil or petroleum products exported from Russia and practice irregular and high-risk shipping practices as set out in the International Maritime Organization General Assembly resolution A.1192(33).
+  justification: Transbunker-Novo Company Limited is a shipping company based in Russia
+    that specialises in providing technical support. The company is the technical
+    manager of the vessel Ulika, as well as the bunkering tankers Transbunker and
+    Korsakov. Those vessels lack adequate liability insurance and engage in manipulation
+    of Automatic Identification Systems as well as ship-to-ship transfers while transporting
+    crude oil or petroleum products exported from Russia. Therefore, Transbunker-Novo
+    Company Limited manages vessels that transport crude oil or petroleum products
+    exported from Russia and practice irregular and high-risk shipping practices as
+    set out in the International Maritime Organization General Assembly resolution
+    A.1192(33).

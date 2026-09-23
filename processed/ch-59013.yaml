@@ -1,3 +1,4 @@
+---
 ssid: '59013'
 sanctions_set_id: '27286'
 individual:
@@ -24,4 +25,9 @@ individual:
       year: 1979
     addresses:
     - address_details: 26 30-letia Pobedi Blvd., Apt. 3
-  justification: Andrey Leonidovich Siguta is the Russian-appointed acting head of the military-civilian administration of the Melitopol district. In his role, he supervises the seizure of Ukrainian agricultural products and grain for their transfer into Russia. He is therefore responsible for, supporting and implementing actions or policies, which undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Andrey Leonidovich Siguta is the Russian-appointed acting head of
+    the military-civilian administration of the Melitopol district. In his role, he
+    supervises the seizure of Ukrainian agricultural products and grain for their
+    transfer into Russia. He is therefore responsible for, supporting and implementing
+    actions or policies, which undermine or threaten the territorial integrity, sovereignty
+    and independence of Ukraine.

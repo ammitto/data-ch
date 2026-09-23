@@ -1,3 +1,4 @@
+---
 ssid: '63763'
 sanctions_set_id: '27286'
 individual:
@@ -48,4 +49,6 @@ individual:
       day: 26
       month: 2
       year: 1980
-  justification: Aleksandra Kosterina (Kosharnitskaya) is a First Deputy Director General, Director of the Information Directorate and Editor-in-Chief of NTV (HTB), a major Russian TV channel which is direct control of the Russian Federation.
+  justification: Aleksandra Kosterina (Kosharnitskaya) is a First Deputy Director
+    General, Director of the Information Directorate and Editor-in-Chief of NTV (HTB),
+    a major Russian TV channel which is direct control of the Russian Federation.

@@ -1,3 +1,4 @@
+---
 ssid: '50624'
 sanctions_set_id: '29445'
 entity:
@@ -18,14 +19,16 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Публичное Акционерное Общество «Таганрогский Авиационный Научно-Технический Комплекс им. Г.М. Бериева» (ПАО «ТАНТК им. Г.М. Бериева»)
+        value: Публичное Акционерное Общество «Таганрогский Авиационный Научно-Технический
+          Комплекс им. Г.М. Бериева» (ПАО «ТАНТК им. Г.М. Бериева»)
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Taganrog Aviation Scientific and Technical Complex named after G. M. Beriev
+        value: Taganrog Aviation Scientific and Technical Complex named after G. M.
+          Beriev
     - name_type: alias
       quality: good
       lang: eng

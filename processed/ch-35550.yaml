@@ -1,3 +1,4 @@
+---
 ssid: '35550'
 sanctions_set_id: '3978'
 entity:
@@ -13,4 +14,6 @@ entity:
         name_part_type: whole-name
         value: Ilsim International Bank
     addresses:
-  justification: Ilsim International Bank is affiliated with the DPRK military and has a close relationship with Korea Kwangson Banking Corporation (KKBC). Ilsim International Bank has attempted to evade United Nations sanctions.
+  justification: Ilsim International Bank is affiliated with the DPRK military and
+    has a close relationship with Korea Kwangson Banking Corporation (KKBC). Ilsim
+    International Bank has attempted to evade United Nations sanctions.

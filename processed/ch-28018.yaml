@@ -1,3 +1,4 @@
+---
 ssid: '28018'
 sanctions_set_id: '3986'
 individual:
@@ -24,4 +25,6 @@ individual:
         value: Shmat
     day_month_year:
       year: 1973
-  justification: Former Social Affairs Minister under the former al-Assad regime in power after May 2011. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Social Affairs Minister under the former al-Assad regime in
+    power after May 2011. As a former Government Minister, shares responsibility for
+    the former al-Assad regime’s violent repression of the civilian population.

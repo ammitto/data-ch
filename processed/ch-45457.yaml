@@ -1,3 +1,4 @@
+---
 ssid: '45457'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 4
       month: 7
       year: 1987
-  justification: In her position as judge of the Frunzensky District Court in Minsk, Mariya Yerokhina is responsible for numerous politically motivated rulings against journalists, opposition leaders, trade union activists, sportsmen and protesters, in particular the sentencing of journalist Uladzimir Hrydzin. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition.
+  justification: In her position as judge of the Frunzensky District Court in Minsk,
+    Mariya Yerokhina is responsible for numerous politically motivated rulings against
+    journalists, opposition leaders, trade union activists, sportsmen and protesters,
+    in particular the sentencing of journalist Uladzimir Hrydzin. She is therefore
+    responsible for serious human rights violations and for seriously undermining
+    the rule of law, as well as for the repression of civil society and democratic
+    opposition.

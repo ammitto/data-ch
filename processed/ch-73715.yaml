@@ -1,3 +1,4 @@
+---
 ssid: '73715'
 sanctions_set_id: '73477'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: Ahmed Khair Street
       zip_code: '11111'
-  justification: GSK is a Sudan-based information technology and security company, which is 60 % owned by RSF Major Algoney Hamdan Dagalo, the youngest brother of Mohamed Hamdan Dagalo (Hemedti).
+  justification: GSK is a Sudan-based information technology and security company,
+    which is 60 % owned by RSF Major Algoney Hamdan Dagalo, the youngest brother of
+    Mohamed Hamdan Dagalo (Hemedti).

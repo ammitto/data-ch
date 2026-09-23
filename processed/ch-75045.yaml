@@ -1,3 +1,4 @@
+---
 ssid: '75045'
 sanctions_set_id: '27286'
 entity:
@@ -21,4 +22,7 @@ entity:
         value: АО “Концерн КЭМЗ”
     addresses:
     - address_details: 1 Kutuzova str.
-  justification: JSC Kizlyar Electromechanical Plant is a Russian military industry company. It specialises in the development and manufacture of aircraft ground control and diagnostic systems, and the production of attachments and on-board equipment.
+  justification: JSC Kizlyar Electromechanical Plant is a Russian military industry
+    company. It specialises in the development and manufacture of aircraft ground
+    control and diagnostic systems, and the production of attachments and on-board
+    equipment.

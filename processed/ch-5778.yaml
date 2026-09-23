@@ -1,3 +1,4 @@
+---
 ssid: '5778'
 sanctions_set_id: '4387'
 individual:
@@ -21,4 +22,8 @@ individual:
     addresses:
     - address_details: КГБ, проспект Независимости, 17
       zip_code: '210623'
-  justification: Colonel, head of the KGB detention centre in Minsk. He was personally responsible for cruel, inhuman or degrading treatment or punishment of those who were detained in the weeks and months after the crackdown on the post-election protest demonstration in Minsk on 19 Dec 2010. His actions constituted a direct violation of the international commitments of Belarus in the field of human rights.
+  justification: Colonel, head of the KGB detention centre in Minsk. He was personally
+    responsible for cruel, inhuman or degrading treatment or punishment of those who
+    were detained in the weeks and months after the crackdown on the post-election
+    protest demonstration in Minsk on 19 Dec 2010. His actions constituted a direct
+    violation of the international commitments of Belarus in the field of human rights.

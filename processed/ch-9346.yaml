@@ -1,3 +1,4 @@
+---
 ssid: '9346'
 sanctions_set_id: '8174'
 entity:
@@ -15,4 +16,8 @@ entity:
     addresses:
     - address_details: AEOI-NFPD
     - address_details: End of North Karegar Ave.
-  justification: Nuclear Fuel Production Division (NFPD) of AEOI runs research and development in the field of nuclear fuel cycle including uranium exploration, mining, milling, conversion and nuclear waste management. The NFPC is the successor to the NFPD, the subsidiary company under the AEOI that runs research and development in the nuclear fuel cycle including conversion and enrichment.
+  justification: Nuclear Fuel Production Division (NFPD) of AEOI runs research and
+    development in the field of nuclear fuel cycle including uranium exploration,
+    mining, milling, conversion and nuclear waste management. The NFPC is the successor
+    to the NFPD, the subsidiary company under the AEOI that runs research and development
+    in the nuclear fuel cycle including conversion and enrichment.

@@ -1,3 +1,4 @@
+---
 ssid: '10945'
 sanctions_set_id: '8174'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: 143/1 Tower Road
       zip_code: SLM1604
-  justification: Shere Shipping Company Limited is a wholly owned subsidiary of Woking Shipping Investments Ltd, owned by IRISL.
+  justification: Shere Shipping Company Limited is a wholly owned subsidiary of Woking
+    Shipping Investments Ltd, owned by IRISL.

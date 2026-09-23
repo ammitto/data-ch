@@ -1,3 +1,4 @@
+---
 ssid: '33924'
 sanctions_set_id: '3978'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Korea Kwangsong Trading Corporation
     addresses:
     - address_details: Rakwon-dong
-  justification: The Korea Ryongbong General Corporation is the parent company of Korea Kwangsong Trading Corporation.
+  justification: The Korea Ryongbong General Corporation is the parent company of
+    Korea Kwangsong Trading Corporation.

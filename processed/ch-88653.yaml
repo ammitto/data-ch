@@ -1,3 +1,4 @@
+---
 ssid: '88653'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 10
       month: 6
       year: 1975
-  justification: Vladimir Kolbin is the son of President Vladimir Putin’s childhood friend and business associate, Peter Kolbin. Vladimir Kolbin is acting as representative, director or shareholder of various entities belonging to a network of companies and holding entities securing the financial assets of Vladimir Putin and Gennady Timchenko.
+  justification: Vladimir Kolbin is the son of President Vladimir Putin’s childhood
+    friend and business associate, Peter Kolbin. Vladimir Kolbin is acting as representative,
+    director or shareholder of various entities belonging to a network of companies
+    and holding entities securing the financial assets of Vladimir Putin and Gennady
+    Timchenko.

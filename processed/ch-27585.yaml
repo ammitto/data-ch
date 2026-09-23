@@ -1,3 +1,4 @@
+---
 ssid: '27585'
 sanctions_set_id: '27286'
 individual:
@@ -26,4 +27,5 @@ individual:
       day: 6
       month: 7
       year: 1993
-  justification: Active member of the “Luhansk Guard”. Took part in the seizure of the building of the Luhansk regional office of the Security Service.
+  justification: Active member of the “Luhansk Guard”. Took part in the seizure of
+    the building of the Luhansk regional office of the Security Service.

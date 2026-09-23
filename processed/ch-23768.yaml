@@ -1,3 +1,4 @@
+---
 ssid: '23768'
 sanctions_set_id: '3982'
 individual:
@@ -19,4 +20,7 @@ individual:
       day: 27
       month: 1
       year: 1959
-  justification: 'Secretary-General of the so-called "presidency" of Mr. Gbagbo: participation in the illegitimate government of Mr. Gbagbo, obstruction of the peace and reconciliation process, rejection of the results of the presidential election, participation in violent repressions of popular movements.'
+  justification: 'Secretary-General of the so-called "presidency" of Mr. Gbagbo: participation
+    in the illegitimate government of Mr. Gbagbo, obstruction of the peace and reconciliation
+    process, rejection of the results of the presidential election, participation
+    in violent repressions of popular movements.'

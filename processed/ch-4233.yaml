@@ -1,3 +1,4 @@
+---
 ssid: '4233'
 sanctions_set_id: '4021'
 individual:
@@ -15,4 +16,6 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Pasti
-  justification: Arms dealer in contravention of UNSC resolution 1343. Supported former President Taylor’s regime in effort to destabilize Sierra Leone and gain illicit access to diamonds.
+  justification: Arms dealer in contravention of UNSC resolution 1343. Supported former
+    President Taylor’s regime in effort to destabilize Sierra Leone and gain illicit
+    access to diamonds.

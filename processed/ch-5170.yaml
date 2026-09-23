@@ -1,3 +1,4 @@
+---
 ssid: '5170'
 sanctions_set_id: '4387'
 individual:
@@ -20,4 +21,11 @@ individual:
         value: Anatolievich
     day_month_year:
       year: 1952
-  justification: Former Deputy Minister of Justice, in charge of the judiciary staff, the ideology and the control of the implementation of sentences. His functions include the supervision and control of the judiciary staff. He was responsible for the role and the action of the Ministry of Justice and judiciary of Belarus, which are major instruments of repression of the population, by imposing state propaganda in the judiciary, and by ensuring that judicial staff take decisions that are in line with the repressive nature of the regime or that deliberately ignore the unlawful acts undertaken by the security services against the population.
+  justification: Former Deputy Minister of Justice, in charge of the judiciary staff,
+    the ideology and the control of the implementation of sentences. His functions
+    include the supervision and control of the judiciary staff. He was responsible
+    for the role and the action of the Ministry of Justice and judiciary of Belarus,
+    which are major instruments of repression of the population, by imposing state
+    propaganda in the judiciary, and by ensuring that judicial staff take decisions
+    that are in line with the repressive nature of the regime or that deliberately
+    ignore the unlawful acts undertaken by the security services against the population.

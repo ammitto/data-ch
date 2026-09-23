@@ -1,3 +1,4 @@
+---
 ssid: '52569'
 sanctions_set_id: '29445'
 entity:
@@ -20,5 +21,6 @@ entity:
         name_part_type: whole-name
         value: OOO Tsentr
     addresses:
-    - address_details: Yablochkova Str., 21, Building 3, Floor 3, Premises VIII, Room 1L
+    - address_details: Yablochkova Str., 21, Building 3, Floor 3, Premises VIII, Room
+        1L
       zip_code: '127322'

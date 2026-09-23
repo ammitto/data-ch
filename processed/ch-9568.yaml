@@ -1,3 +1,4 @@
+---
 ssid: '9568'
 sanctions_set_id: '8174'
 entity:
@@ -45,5 +46,9 @@ entity:
       zip_code: '14157'
     - address_details: No. 139 Hoveyzeh Street
       zip_code: '15337'
-    - address_details: 15, Fatemi Eshragi Alley, Gerda Afrid Building, science and Technology Park, Tarbiat Modares University, S.S 2 – Development Center, 4th Floor
-  justification: Procurement company for EU-listed Kalaye Electric Company (KEC). Involved in purchasing equipment and materials, which have direct applications in the Iranian nuclear programme, for example instruments for uranium enrichment.
+    - address_details: 15, Fatemi Eshragi Alley, Gerda Afrid Building, science and
+        Technology Park, Tarbiat Modares University, S.S 2 – Development Center, 4th
+        Floor
+  justification: Procurement company for EU-listed Kalaye Electric Company (KEC).
+    Involved in purchasing equipment and materials, which have direct applications
+    in the Iranian nuclear programme, for example instruments for uranium enrichment.

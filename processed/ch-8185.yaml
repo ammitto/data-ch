@@ -1,3 +1,4 @@
+---
 ssid: '8185'
 sanctions_set_id: '4021'
 individual:
@@ -19,4 +20,6 @@ individual:
       day: 6
       month: 12
       year: 1950
-  justification: Employee of the Serbian company Aviogenex that was involved in making the necessary arrangement to fly more than 200 tons of weapons to Liberia. He accompanied Tezic and Dragas on their trips to Liberia.
+  justification: Employee of the Serbian company Aviogenex that was involved in making
+    the necessary arrangement to fly more than 200 tons of weapons to Liberia. He
+    accompanied Tezic and Dragas on their trips to Liberia.

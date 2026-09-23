@@ -1,3 +1,4 @@
+---
 ssid: '43636'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 30
       month: 10
       year: 1964
-  justification: As Deputy Chairman of the CEC, he is responsible for its misconduct of the 2020 presidential electoral process, its non-compliance with basic international standards of fairness and transparency and its falsification of election results.
+  justification: As Deputy Chairman of the CEC, he is responsible for its misconduct
+    of the 2020 presidential electoral process, its non-compliance with basic international
+    standards of fairness and transparency and its falsification of election results.

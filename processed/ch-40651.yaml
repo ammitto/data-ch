@@ -1,3 +1,4 @@
+---
 ssid: '40651'
 sanctions_set_id: '39942'
 individual:
@@ -31,4 +32,8 @@ individual:
       year: 1963
     addresses:
     - address_details: Quartier Aliou
-  justification: Ahmed Ag Albachar is a prominent businessman and, since early 2018, a special advisor to the Governor of Kidal region. An influential member of the Haut Conseil pour l'unité de l'Azawad (HCUA), belonging to the Ifoghas Tuareg community, Ahmed Ag Albachar also mediates relations between the Coordination des Mouvements de l’Azawad (CMA) and Ansar Dine (QDe.135)
+  justification: Ahmed Ag Albachar is a prominent businessman and, since early 2018,
+    a special advisor to the Governor of Kidal region. An influential member of the
+    Haut Conseil pour l'unité de l'Azawad (HCUA), belonging to the Ifoghas Tuareg
+    community, Ahmed Ag Albachar also mediates relations between the Coordination
+    des Mouvements de l’Azawad (CMA) and Ansar Dine (QDe.135)

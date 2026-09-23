@@ -1,3 +1,4 @@
+---
 ssid: '35688'
 sanctions_set_id: '3986'
 individual:
@@ -26,4 +27,6 @@ individual:
       day: 27
       month: 7
       year: 1958
-  justification: Former Finance Minister under the former al-Assad regime. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Finance Minister under the former al-Assad regime. As a former
+    Government Minister, shares responsibility for the former al-Assad regime’s violent
+    repression of the civilian population.

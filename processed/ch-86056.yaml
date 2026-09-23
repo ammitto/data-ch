@@ -1,3 +1,4 @@
+---
 ssid: '86056'
 sanctions_set_id: '27286'
 individual:
@@ -18,4 +19,10 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Valerievich
-  justification: Alexander Gavrilov is the General Director of LLC Gumich, a Russian company which fully owns LLC Gumich RTK. LLC Gumich RTK is a producer of Impulse-M robot platforms, which are intended to be used in Russia’s war of aggression against Ukraine and have already been tested on the field by Russian Armed Forces as of summer 2024. As the General Director of LLC Gumich, Alexander Gavrilov is therefore supporting actions which threaten the territorial integrity of Ukraine. Furthermore, he is associated with LLC Gumich.
+  justification: Alexander Gavrilov is the General Director of LLC Gumich, a Russian
+    company which fully owns LLC Gumich RTK. LLC Gumich RTK is a producer of Impulse-M
+    robot platforms, which are intended to be used in Russia’s war of aggression against
+    Ukraine and have already been tested on the field by Russian Armed Forces as of
+    summer 2024. As the General Director of LLC Gumich, Alexander Gavrilov is therefore
+    supporting actions which threaten the territorial integrity of Ukraine. Furthermore,
+    he is associated with LLC Gumich.

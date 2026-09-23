@@ -1,3 +1,4 @@
+---
 ssid: '56873'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 26
       month: 1
       year: 1958
-  justification: Former so-called “Minister of Education and Science” of the Kherson Military-Civilian Administration, a position he was appointed to by the government of the Russian Federation on 4 July 2022. He was responsible for adapting the Kherson education system to Russian standards.
+  justification: Former so-called “Minister of Education and Science” of the Kherson
+    Military-Civilian Administration, a position he was appointed to by the government
+    of the Russian Federation on 4 July 2022. He was responsible for adapting the
+    Kherson education system to Russian standards.

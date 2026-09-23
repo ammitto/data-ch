@@ -1,3 +1,4 @@
+---
 ssid: '50930'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 26
       month: 5
       year: 1962
-  justification: Mr Arkady Mamontov is host of the television show “Author’s Program of Arkady Mamontov” and author of documentary films for Russian TV. He has spread anti-Ukrainian propaganda.
+  justification: Mr Arkady Mamontov is host of the television show “Author’s Program
+    of Arkady Mamontov” and author of documentary films for Russian TV. He has spread
+    anti-Ukrainian propaganda.

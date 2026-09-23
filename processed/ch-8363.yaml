@@ -1,3 +1,4 @@
+---
 ssid: '8363'
 sanctions_set_id: '3984'
 entity:
@@ -19,4 +20,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Esfahan Nuclear Technology Centre (ENTC)
-  justification: Parts of the AEOI (E.37.A.1.) Nuclear Fuel Production and Procurement Company, which is involved in enrichmentrelated activities.
+  justification: Parts of the AEOI (E.37.A.1.) Nuclear Fuel Production and Procurement
+    Company, which is involved in enrichmentrelated activities.

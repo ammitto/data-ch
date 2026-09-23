@@ -1,3 +1,4 @@
+---
 ssid: '8548'
 sanctions_set_id: '3984'
 entity:
@@ -12,4 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Pishgam (Pioneer) Energy Industries
-  justification: Has participated in construction of the Uranium Conversion Facility at Esfahan.
+  justification: Has participated in construction of the Uranium Conversion Facility
+    at Esfahan.

@@ -1,3 +1,4 @@
+---
 ssid: '76473'
 sanctions_set_id: '71360'
 entity:
@@ -12,4 +13,8 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Al Zawaya Group for Development and Investment Sociedad limitada
-  justification: Al Zawaya Group for Development and Investment Sociedad limitada is a Spanish real estate company. It is owned and controlled by Hamas financier Abdelbasit Elhassan Mohamed Khair Hamza, enables his activities, and has been linked to Hamas’ investment portfolio. It serves as a front company to facilitate Hamas financial streams.
+  justification: Al Zawaya Group for Development and Investment Sociedad limitada
+    is a Spanish real estate company. It is owned and controlled by Hamas financier
+    Abdelbasit Elhassan Mohamed Khair Hamza, enables his activities, and has been
+    linked to Hamas’ investment portfolio. It serves as a front company to facilitate
+    Hamas financial streams.

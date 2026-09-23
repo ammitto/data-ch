@@ -1,3 +1,4 @@
+---
 ssid: '12017'
 sanctions_set_id: '3986'
 individual:
@@ -26,4 +27,6 @@ individual:
       day: 13
       month: 6
       year: 1945
-  justification: Former Minister of Finance, in office until 9.2.2013 under the former al-Assad regime. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Minister of Finance, in office until 9.2.2013 under the former
+    al-Assad regime. As a former Government Minister, shares responsibility for the
+    former al-Assad regime’s violent repression of the civilian population.

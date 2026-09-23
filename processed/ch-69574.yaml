@@ -1,3 +1,4 @@
+---
 ssid: '69574'
 sanctions_set_id: '27286'
 entity:
@@ -37,4 +38,10 @@ entity:
       day: 10
       month: 5
       year: 2012
-  justification: JSC Kometa is a leading company in the military-industrial complex of the Russian Federation. It develops weapons systems for the Russian Armed Forces, as well as space information management and intelligence systems, including Russia’s ballistic missile defence system “Kupol”, jet weapons, space reconnaissance systems, anti-space defence systems and missile systems. Moreover, JSC Kometa holds a licence administered by the Russian Ministry for Industry and Trade for the servicing of weapons and military equipment.
+  justification: JSC Kometa is a leading company in the military-industrial complex
+    of the Russian Federation. It develops weapons systems for the Russian Armed Forces,
+    as well as space information management and intelligence systems, including Russia’s
+    ballistic missile defence system “Kupol”, jet weapons, space reconnaissance systems,
+    anti-space defence systems and missile systems. Moreover, JSC Kometa holds a licence
+    administered by the Russian Ministry for Industry and Trade for the servicing
+    of weapons and military equipment.

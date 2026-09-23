@@ -1,3 +1,4 @@
+---
 ssid: '54286'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: 16, Budyonny Avenue
       zip_code: '105118'
-  justification: United Engine Corporation is a Rostec subsidiary which designs, manufactures and services military aviation, rocket engines and marine gas-turbine engines.
+  justification: United Engine Corporation is a Rostec subsidiary which designs, manufactures
+    and services military aviation, rocket engines and marine gas-turbine engines.

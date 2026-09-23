@@ -1,3 +1,4 @@
+---
 ssid: '86596'
 sanctions_set_id: '27286'
 individual:
@@ -32,4 +33,10 @@ individual:
       day: 18
       month: 5
       year: 1978
-  justification: Artyom Zdunov is the Head of the Republic of Mordovia (a Russian federal subject) since at least 18 November 2020. In this position, Artyom Zdunov has played a leadership role in implementing the Russian Government’s policy of illegally removing Ukrainian children from regions of Ukraine that are under temporary Russian control, in particular by organising the movement of children from occupied Ukrainian regions, in particular from the Kherson region and the Kalanchak Raion to the Republic of Mordovia.
+  justification: Artyom Zdunov is the Head of the Republic of Mordovia (a Russian
+    federal subject) since at least 18 November 2020. In this position, Artyom Zdunov
+    has played a leadership role in implementing the Russian Government’s policy of
+    illegally removing Ukrainian children from regions of Ukraine that are under temporary
+    Russian control, in particular by organising the movement of children from occupied
+    Ukrainian regions, in particular from the Kherson region and the Kalanchak Raion
+    to the Republic of Mordovia.

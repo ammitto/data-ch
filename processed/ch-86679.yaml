@@ -1,3 +1,4 @@
+---
 ssid: '86679'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 21
       month: 9
       year: 1951
-  justification: Alexander Balashov is the General Director of JSC Plastmass Plant. JSC Plastmass Plant is a Russian entity and part of Rostec State Corporation, producing artillery ammunition for the Russian Armed Forces, in particular for howitzers, which are widely used by the Russian military in Russia’s war of aggression against Ukraine.
+  justification: Alexander Balashov is the General Director of JSC Plastmass Plant.
+    JSC Plastmass Plant is a Russian entity and part of Rostec State Corporation,
+    producing artillery ammunition for the Russian Armed Forces, in particular for
+    howitzers, which are widely used by the Russian military in Russia’s war of aggression
+    against Ukraine.

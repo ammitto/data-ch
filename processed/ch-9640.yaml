@@ -1,3 +1,4 @@
+---
 ssid: '9640'
 sanctions_set_id: '8174'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Rosmachin
     addresses:
     - address_details: Haftom Tir Square, South Mofte Avenue, Tour Line No; 3/1
-  justification: Front company of Sad Export Import Company. Involved in illicit arms transfer aboard M/V Monchgorsk.
+  justification: Front company of Sad Export Import Company. Involved in illicit arms
+    transfer aboard M/V Monchgorsk.

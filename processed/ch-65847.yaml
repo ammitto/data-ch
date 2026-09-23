@@ -1,3 +1,4 @@
+---
 ssid: '65847'
 sanctions_set_id: '8174'
 entity:
@@ -28,4 +29,9 @@ entity:
         value: Samen al-Aemeh Industries Group
     addresses:
     - address_details: 28 Shian 5, Lavizan
-  justification: Naval Defense Missile Industry Group (a.k.a. Cruise Missile Industry Group) is involved in the development of missile systems as a subsidiary of the Aerospace Industries Organization (AIO), an entity directly controlled by the Iranian Ministry of Defense and Armed Forces Logistics (MODAFL). The Naval Defense Missile Industry Group is therefore associated with an entity providing support to the government of Iran.
+  justification: Naval Defense Missile Industry Group (a.k.a. Cruise Missile Industry
+    Group) is involved in the development of missile systems as a subsidiary of the
+    Aerospace Industries Organization (AIO), an entity directly controlled by the
+    Iranian Ministry of Defense and Armed Forces Logistics (MODAFL). The Naval Defense
+    Missile Industry Group is therefore associated with an entity providing support
+    to the government of Iran.

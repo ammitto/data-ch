@@ -1,3 +1,4 @@
+---
 ssid: '4210'
 sanctions_set_id: '4021'
 individual:
@@ -15,4 +16,5 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Duane
-  justification: Chief Executive Officer of Ducor World Airlines, wich provided the Lockheed aircraft used to fly weapons to Liberia in Aug 2002.
+  justification: Chief Executive Officer of Ducor World Airlines, wich provided the
+    Lockheed aircraft used to fly weapons to Liberia in Aug 2002.

@@ -1,3 +1,4 @@
+---
 ssid: '30451'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 10
       month: 12
       year: 1976
-  justification: Former so-called "Minister of Economic Development and Trade" of the so-called "Luhansk People's Republic".
+  justification: Former so-called "Minister of Economic Development and Trade" of
+    the so-called "Luhansk People's Republic".

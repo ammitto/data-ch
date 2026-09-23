@@ -1,3 +1,4 @@
+---
 ssid: '107659'
 sanctions_set_id: '27286'
 entity:
@@ -40,4 +41,9 @@ entity:
     addresses:
     - address_details: Ordzhonikidze st., 2
       zip_code: '426063'
-  justification: Limited Liability Company (LLC) “Izhevsk Aviation Plant” is a Russian company which develops and manufactures unmanned aerial vehicles (UAV). In particular, it produces the reconnaissance drone SKAT 350 M, which is used by the Russian military in Russia’s war of aggression against Ukraine. LLC “Izhevsk Aviation Plant” is also part of Kalashnikov Concern, one of the main Russian developers of military equipment.
+  justification: Limited Liability Company (LLC) “Izhevsk Aviation Plant” is a Russian
+    company which develops and manufactures unmanned aerial vehicles (UAV). In particular,
+    it produces the reconnaissance drone SKAT 350 M, which is used by the Russian
+    military in Russia’s war of aggression against Ukraine. LLC “Izhevsk Aviation
+    Plant” is also part of Kalashnikov Concern, one of the main Russian developers
+    of military equipment.

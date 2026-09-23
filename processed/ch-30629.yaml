@@ -1,3 +1,4 @@
+---
 ssid: '30629'
 sanctions_set_id: '3986'
 individual:
@@ -28,4 +29,8 @@ individual:
       year: 1973
     addresses:
     - zip_code: '5797'
-  justification: Leading businessperson operating in Syria in the oil, chemicals and manufacturing industries. Specifically, he represents Abdulkarim Group, a.k.a Al Karim Group/Alkarim for Trade and Industry/Al Karim Trading and Industry/Al Karim for Trade and Industry. Abdulkarim Group is a leading manufacturer of lubricants, greases and industrial chemicals in Syria.
+  justification: Leading businessperson operating in Syria in the oil, chemicals and
+    manufacturing industries. Specifically, he represents Abdulkarim Group, a.k.a
+    Al Karim Group/Alkarim for Trade and Industry/Al Karim Trading and Industry/Al
+    Karim for Trade and Industry. Abdulkarim Group is a leading manufacturer of lubricants,
+    greases and industrial chemicals in Syria.

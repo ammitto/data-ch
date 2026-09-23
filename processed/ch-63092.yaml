@@ -1,3 +1,4 @@
+---
 ssid: '63092'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 30
       month: 6
       year: 1973
-  justification: Andrey Kondrashov is the former First Deputy Director General of All-Russia Television and Radio Broadcasting Company (VGTRK), Russia’s largest media corporation. He is also the Director General of the Russian News Agency TASS.
+  justification: Andrey Kondrashov is the former First Deputy Director General of
+    All-Russia Television and Radio Broadcasting Company (VGTRK), Russia’s largest
+    media corporation. He is also the Director General of the Russian News Agency
+    TASS.

@@ -1,3 +1,4 @@
+---
 ssid: '94672'
 sanctions_set_id: '4387'
 entity:
@@ -40,4 +41,9 @@ entity:
     addresses:
     - address_details: Vostochny Lane, 17
       zip_code: '211390'
-  justification: Legmash Plant OJSC is a Belarusian plant which produces 152-mm and 122-mm shells for cannon artillery (including howitzers D-30, D-20, Msta-B, Giatsint-B, and the self-propelled modifications thereof). The facility also manufactures 122-mm unguided rockets of the 9M22U-1 line for the 9K51 Grad MLRS multiple rocket launcher. Therefore, Legmash Plant OJSC is an entity forming part of the military and industrial complex of Belarus.
+  justification: Legmash Plant OJSC is a Belarusian plant which produces 152-mm and
+    122-mm shells for cannon artillery (including howitzers D-30, D-20, Msta-B, Giatsint-B,
+    and the self-propelled modifications thereof). The facility also manufactures
+    122-mm unguided rockets of the 9M22U-1 line for the 9K51 Grad MLRS multiple rocket
+    launcher. Therefore, Legmash Plant OJSC is an entity forming part of the military
+    and industrial complex of Belarus.

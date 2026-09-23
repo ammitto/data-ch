@@ -1,3 +1,4 @@
+---
 ssid: '59610'
 sanctions_set_id: '29445'
 entity:
@@ -11,14 +12,16 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: The Institute of Solid-State Physics of the Russian Academy of Sciences (ISSP)
+        value: The Institute of Solid-State Physics of the Russian Academy of Sciences
+          (ISSP)
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Федеральное Государственное Бюджетное Учреждение Науки Институт Физики Твердого Тела имени Ю.А. Осипьяна Российской Академии Наук (ИФТТ РАН)
+        value: Федеральное Государственное Бюджетное Учреждение Науки Институт Физики
+          Твердого Тела имени Ю.А. Осипьяна Российской Академии Наук (ИФТТ РАН)
     - name_type: alias
       quality: good
       lang: eng
@@ -32,7 +35,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal State Budgetary Institution of Science Institute of Solid-State Physics N.A. Yu. A. Osipyan of the Russian Academy of Sciences
+        value: Federal State Budgetary Institution of Science Institute of Solid-State
+          Physics N.A. Yu. A. Osipyan of the Russian Academy of Sciences
     - name_type: alias
       quality: good
       lang: eng

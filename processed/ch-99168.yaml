@@ -1,3 +1,4 @@
+---
 ssid: '99168'
 sanctions_set_id: '29445'
 entity:
@@ -20,4 +21,5 @@ entity:
         name_part_type: whole-name
         value: Yiwu Wotai Si Import and Export Co., Ltd
     addresses:
-    - address_details: Unit 1503, Office 62, Level 15, Admiralty Centre Tower 1, 18 Harcourt Road, Admiralty
+    - address_details: Unit 1503, Office 62, Level 15, Admiralty Centre Tower 1, 18
+        Harcourt Road, Admiralty

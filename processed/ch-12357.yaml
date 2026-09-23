@@ -1,3 +1,4 @@
+---
 ssid: '12357'
 sanctions_set_id: '3986'
 entity:
@@ -19,4 +20,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: MILIHOUSE
-  justification: Public works company controlled by Riyad Shalish and Ministry of Defence; provides funding to the former al-Assad regime.
+  justification: Public works company controlled by Riyad Shalish and Ministry of
+    Defence; provides funding to the former al-Assad regime.

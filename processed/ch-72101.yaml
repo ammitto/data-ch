@@ -1,3 +1,4 @@
+---
 ssid: '72101'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 8
       month: 4
       year: 1969
-  justification: Vice-Admiral Arkady Romanov is, since October 2021, the Deputy Commander of the Black Sea Fleet of the Russian Navy, which is subordinate to the Southern Military District of the Russian Armed Forces, and has been involved in Russia’s war of aggression against Ukraine.
+  justification: Vice-Admiral Arkady Romanov is, since October 2021, the Deputy Commander
+    of the Black Sea Fleet of the Russian Navy, which is subordinate to the Southern
+    Military District of the Russian Armed Forces, and has been involved in Russia’s
+    war of aggression against Ukraine.

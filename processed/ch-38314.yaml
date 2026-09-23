@@ -1,3 +1,4 @@
+---
 ssid: '38314'
 sanctions_set_id: '3986'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 17
       month: 5
       year: 1969
-  justification: Former Minister of Industry under the former al-Assad regime. Appointed in January 2018. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Minister of Industry under the former al-Assad regime. Appointed
+    in January 2018. As a former Government Minister, shares responsibility for the
+    former al-Assad regime’s violent repression of the civilian population.

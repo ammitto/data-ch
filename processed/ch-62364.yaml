@@ -1,3 +1,4 @@
+---
 ssid: '62364'
 sanctions_set_id: '3986'
 entity:
@@ -18,4 +19,5 @@ entity:
       year: 2017
     addresses:
     - address_details: F6XR+495, Malek Bin Rabeaa
-  justification: Al-Jabal Security and Protection LLC is owned and managed by Osama al-Maliki.
+  justification: Al-Jabal Security and Protection LLC is owned and managed by Osama
+    al-Maliki.

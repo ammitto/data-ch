@@ -1,3 +1,4 @@
+---
 ssid: '106752'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,15 @@ individual:
       day: 11
       month: 9
       year: 1983
-  justification: Andranik Gasparyan is a senior Russian military officer and currently serves as Commander of the Centre for Military and Patriotic Training and Education of Youth “Warrior” and as deputy to the head of the “Warrior” centre’s supervisory board. The Warrior Centre is a Russian state-led youth organisation established in the Russian Federation to promote patriotic and military education among young people. It involves cadet-style military instruction, weapons and tactical training. It operates with the support of the President of the Russian Federation, who instructed the Warrior Centre to work in close cooperation with participants in Russia’s war of aggression against Ukraine. The Warrior Centre also conducts activities in the illegally occupied territories of Ukraine, through local branches. Ukrainian minors from occupied territories are reportedly subject to militarised education and cadet training.
+  justification: Andranik Gasparyan is a senior Russian military officer and currently
+    serves as Commander of the Centre for Military and Patriotic Training and Education
+    of Youth “Warrior” and as deputy to the head of the “Warrior” centre’s supervisory
+    board. The Warrior Centre is a Russian state-led youth organisation established
+    in the Russian Federation to promote patriotic and military education among young
+    people. It involves cadet-style military instruction, weapons and tactical training.
+    It operates with the support of the President of the Russian Federation, who instructed
+    the Warrior Centre to work in close cooperation with participants in Russia’s
+    war of aggression against Ukraine. The Warrior Centre also conducts activities
+    in the illegally occupied territories of Ukraine, through local branches. Ukrainian
+    minors from occupied territories are reportedly subject to militarised education
+    and cadet training.

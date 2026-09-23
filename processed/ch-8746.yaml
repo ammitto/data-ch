@@ -1,3 +1,4 @@
+---
 ssid: '8746'
 sanctions_set_id: '3984'
 individual:
@@ -18,4 +19,5 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Hussein
-  justification: AEOI (E.37.A.1.) official involved in the heavy water research reactor project at Arak.
+  justification: AEOI (E.37.A.1.) official involved in the heavy water research reactor
+    project at Arak.

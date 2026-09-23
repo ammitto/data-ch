@@ -1,3 +1,4 @@
+---
 ssid: '11179'
 sanctions_set_id: '8174'
 individual:
@@ -26,4 +27,8 @@ individual:
       day: 16
       month: 1
       year: 1956
-  justification: Managing Director and shareholder of Rahbaran Omid Darya Shipmanagement Company, the new name for the Soroush Sarzamin Asatir Ship Management Company (a.k.a. Soroush Saramin Asatir Ship Management Company) (SSA SMC) designated on the European Union lists, in charge of IRISL’s technical ship management. Nabipour is shipping manager for IRISL.
+  justification: Managing Director and shareholder of Rahbaran Omid Darya Shipmanagement
+    Company, the new name for the Soroush Sarzamin Asatir Ship Management Company
+    (a.k.a. Soroush Saramin Asatir Ship Management Company) (SSA SMC) designated on
+    the European Union lists, in charge of IRISL’s technical ship management. Nabipour
+    is shipping manager for IRISL.

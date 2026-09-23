@@ -1,3 +1,4 @@
+---
 ssid: '45064'
 sanctions_set_id: '39362'
 individual:
@@ -19,4 +20,6 @@ individual:
       day: 14
       month: 8
       year: 1947
-  justification: Banyar Aung Moe is a member of the National Defence and Security Council (NDSC) and its Central Advisory Body, as well as a former member of the State Administrative Council (SAC) and its Central Advisory Body.
+  justification: Banyar Aung Moe is a member of the National Defence and Security
+    Council (NDSC) and its Central Advisory Body, as well as a former member of the
+    State Administrative Council (SAC) and its Central Advisory Body.

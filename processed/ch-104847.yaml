@@ -1,3 +1,4 @@
+---
 ssid: '104847'
 sanctions_set_id: '27286'
 individual:
@@ -15,4 +16,9 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Guerman
-  justification: Guerman Goutorov is the CEO of Streit Group FZE, which is a military-industrial company specialising in the production of armoured personnel carriers. Streit Group FZE has partnered with Russian military-industrial entities. Therefore, Guerman Goutorov is supporting Russia’s military and industrial complex by being involved in the supply of military technology and equipment. Moreover, Guerman Goutorov is associated with Streit Group FZE.
+  justification: Guerman Goutorov is the CEO of Streit Group FZE, which is a military-industrial
+    company specialising in the production of armoured personnel carriers. Streit
+    Group FZE has partnered with Russian military-industrial entities. Therefore,
+    Guerman Goutorov is supporting Russia’s military and industrial complex by being
+    involved in the supply of military technology and equipment. Moreover, Guerman
+    Goutorov is associated with Streit Group FZE.

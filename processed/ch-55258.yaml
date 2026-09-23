@@ -1,3 +1,4 @@
+---
 ssid: '55258'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 23
       month: 11
       year: 1969
-  justification: Andrei Lipov is the head of the Russian Federal Service for Supervision of Communications, Information Technology and Mass Media (Roskomnadzor). Roskomnadzor is a central instrument in the execution of censorship and repression of free media in Russia.
+  justification: Andrei Lipov is the head of the Russian Federal Service for Supervision
+    of Communications, Information Technology and Mass Media (Roskomnadzor). Roskomnadzor
+    is a central instrument in the execution of censorship and repression of free
+    media in Russia.

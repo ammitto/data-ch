@@ -1,3 +1,4 @@
+---
 ssid: '8303'
 sanctions_set_id: '3984'
 entity:
@@ -29,4 +30,6 @@ entity:
     addresses:
     - address_details: Amin Industrial Estate, Khalage Rd., Seyedi District
     - address_details: Kaveh Complex, Khalaj Rd., Seyedi St.
-  justification: Sought temperature controllers which may be used in nuclear research and operational/production facilities. Amin Industrial Complex is owned or controlled by, or acts on behalf of, DIO, which was designated in resolution 1737 (2006).
+  justification: Sought temperature controllers which may be used in nuclear research
+    and operational/production facilities. Amin Industrial Complex is owned or controlled
+    by, or acts on behalf of, DIO, which was designated in resolution 1737 (2006).

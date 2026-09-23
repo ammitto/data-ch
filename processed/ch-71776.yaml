@@ -1,3 +1,4 @@
+---
 ssid: '71776'
 sanctions_set_id: '27286'
 entity:
@@ -39,4 +40,7 @@ entity:
       year: 2006
     addresses:
     - address_details: Gospitalnaya 3
-  justification: JSC Concern Granit-Electron is developing and producing warfare systems for use in the Russian military-industrial complex. It is producing automatic control systems for P-800 Oniks (Yakhont) missiles, which are used by the Russian Armed Forces in the war of aggression against Ukraine.
+  justification: JSC Concern Granit-Electron is developing and producing warfare systems
+    for use in the Russian military-industrial complex. It is producing automatic
+    control systems for P-800 Oniks (Yakhont) missiles, which are used by the Russian
+    Armed Forces in the war of aggression against Ukraine.

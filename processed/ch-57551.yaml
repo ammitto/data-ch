@@ -1,3 +1,4 @@
+---
 ssid: '57551'
 sanctions_set_id: '27286'
 individual:
@@ -17,4 +18,6 @@ individual:
         value: Hossein
     day_month_year:
       year: 1960
-  justification: Major-General Hossein Salami is the Commander of the Islamic Revolutionary Guard Corps, which supervises the development of Iran’s Unmanned Aerial Vehicle (UAV) programme as well as the transfer of UAVs abroad.
+  justification: Major-General Hossein Salami is the Commander of the Islamic Revolutionary
+    Guard Corps, which supervises the development of Iran’s Unmanned Aerial Vehicle
+    (UAV) programme as well as the transfer of UAVs abroad.

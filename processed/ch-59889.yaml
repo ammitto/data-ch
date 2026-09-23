@@ -1,3 +1,4 @@
+---
 ssid: '59889'
 sanctions_set_id: '29445'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: JSC “Scientific and Production Association “Pribor” named after S.S. Golembiovsky”
+        value: JSC “Scientific and Production Association “Pribor” named after S.S.
+          Golembiovsky”
     - name_type: alias
       quality: good
       lang: eng

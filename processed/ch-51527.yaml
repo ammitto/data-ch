@@ -1,3 +1,4 @@
+---
 ssid: '51527'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 29
       month: 3
       year: 1949
-  justification: Former member of the Federation Council of the Russian Federation that ratified the government decisions on the “Treaty of Friendship, Cooperation and Mutual Assistance between the Russian Federation and the Donetsk People’s Republic and between the Russian Federation and the Luhansk People’s Republic”.
+  justification: Former member of the Federation Council of the Russian Federation
+    that ratified the government decisions on the “Treaty of Friendship, Cooperation
+    and Mutual Assistance between the Russian Federation and the Donetsk People’s
+    Republic and between the Russian Federation and the Luhansk People’s Republic”.

@@ -1,3 +1,4 @@
+---
 ssid: '59505'
 sanctions_set_id: '29445'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company Moscow Machine-Building Enterprise named after V. V. Chernyshev (MMP V. V. Chernyshev)
+        value: Joint Stock Company Moscow Machine-Building Enterprise named after
+          V. V. Chernyshev (MMP V. V. Chernyshev)
     - name_type: alias
       quality: good
       lang: eng

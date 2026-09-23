@@ -1,3 +1,4 @@
+---
 ssid: '1300'
 sanctions_set_id: '3974'
 individual:
@@ -14,4 +15,5 @@ individual:
         value: Mizban Khadr Hadi
     day_month_year:
       year: 1938
-  justification: Member, Ba’th Party Regional Command and Revolutionary Command Council since 1991
+  justification: Member, Ba’th Party Regional Command and Revolutionary Command Council
+    since 1991

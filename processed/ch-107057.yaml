@@ -1,3 +1,4 @@
+---
 ssid: '107057'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 21
       month: 11
       year: 2001
-  justification: Alina Nikishaeva is the Head of the Simferopol military-patriotic club “Battalion Forpost,” operating in the temporarily occupied territory of Crimea under Russian state-supported youth and patriotic education initiatives. The club promotes pro-Russian patriotism and militarised values among children and adolescents, contributing to the ideological indoctrination of minors, including those from occupied territories of Ukraine.
+  justification: Alina Nikishaeva is the Head of the Simferopol military-patriotic
+    club “Battalion Forpost,” operating in the temporarily occupied territory of Crimea
+    under Russian state-supported youth and patriotic education initiatives. The club
+    promotes pro-Russian patriotism and militarised values among children and adolescents,
+    contributing to the ideological indoctrination of minors, including those from
+    occupied territories of Ukraine.

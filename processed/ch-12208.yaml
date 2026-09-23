@@ -1,3 +1,4 @@
+---
 ssid: '12208'
 sanctions_set_id: '3986'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 7
       month: 9
       year: 1955
-  justification: Former Minister of Industry under the former al-Assad regime. Former Minister of Education and current business development consultant in the Ministry of Local Administration. Associated with the former al-Assad regime and its violent repression of the civilian population.
+  justification: Former Minister of Industry under the former al-Assad regime. Former
+    Minister of Education and current business development consultant in the Ministry
+    of Local Administration. Associated with the former al-Assad regime and its violent
+    repression of the civilian population.

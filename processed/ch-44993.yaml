@@ -1,3 +1,4 @@
+---
 ssid: '44993'
 sanctions_set_id: '39362'
 individual:
@@ -28,4 +29,6 @@ individual:
         value: Phado Man Nyein Maung
     day_month_year:
       year: 1947
-  justification: Mahn Nyein Maung is a member of the National Defence and Security Council (NDSC) and its Central Advisory Body, as well as a former member of the State Administrative Council (SAC).
+  justification: Mahn Nyein Maung is a member of the National Defence and Security
+    Council (NDSC) and its Central Advisory Body, as well as a former member of the
+    State Administrative Council (SAC).

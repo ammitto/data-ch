@@ -1,3 +1,4 @@
+---
 ssid: '96081'
 sanctions_set_id: '29445'
 entity:
@@ -20,4 +21,5 @@ entity:
         name_part_type: whole-name
         value: BOSFORLAB
     addresses:
-    - address_details: 'Inönü Mahallesi 19 Mayıs Caddesi Serhat Apartmanı No:106 Daire: 5 ATAŞEHİR'
+    - address_details: 'Inönü Mahallesi 19 Mayıs Caddesi Serhat Apartmanı No:106 Daire:
+        5 ATAŞEHİR'

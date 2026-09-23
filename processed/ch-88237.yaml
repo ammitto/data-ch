@@ -1,3 +1,4 @@
+---
 ssid: '88237'
 sanctions_set_id: '47224'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Hanifa Money Exchange Office (branch located in Albu Kamal, Syrian Arab Republic)
+        value: Hanifa Money Exchange Office (branch located in Albu Kamal, Syrian
+          Arab Republic)
     - name_type: alias
       quality: good
       lang: eng

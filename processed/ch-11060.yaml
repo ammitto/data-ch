@@ -1,3 +1,4 @@
+---
 ssid: '11060'
 sanctions_set_id: '8174'
 individual:
@@ -19,4 +20,6 @@ individual:
       day: 13
       month: 3
       year: 1961
-  justification: Rear Admiral Ali Fadavi is Deputy Commander of the Islamic Revolutionary Guard Corps (IRGC) and was temporarily acting Commander of the IRGC. He is the former Commander of the IRGC Navy.
+  justification: Rear Admiral Ali Fadavi is Deputy Commander of the Islamic Revolutionary
+    Guard Corps (IRGC) and was temporarily acting Commander of the IRGC. He is the
+    former Commander of the IRGC Navy.

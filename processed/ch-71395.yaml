@@ -1,3 +1,4 @@
+---
 ssid: '71395'
 sanctions_set_id: '71360'
 individual:
@@ -107,4 +108,8 @@ individual:
       day: 12
       month: 6
       year: 1972
-  justification: Musa Muhammad Salim Dudin is a senior Hamas operative and member of the Hamas political bureau. In this capacity, he has frequently made public statements on behalf of the organisation. Furthermore, as a member of the Hamas investment office, he has been involved in financing operations for the organisation. Thus, Musa Muhammad Salim Dudin participates in the financing of Hamas.
+  justification: Musa Muhammad Salim Dudin is a senior Hamas operative and member
+    of the Hamas political bureau. In this capacity, he has frequently made public
+    statements on behalf of the organisation. Furthermore, as a member of the Hamas
+    investment office, he has been involved in financing operations for the organisation.
+    Thus, Musa Muhammad Salim Dudin participates in the financing of Hamas.

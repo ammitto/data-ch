@@ -1,3 +1,4 @@
+---
 ssid: '85591'
 sanctions_set_id: '47224'
 individual:
@@ -79,7 +80,8 @@ individual:
       month: 6
       year: 1966
     addresses:
-    - address_details: B-3B-19 Glenview Villa, Jalan 49 Off Jalan Kuari, Taman Pinggiran Cheras
+    - address_details: B-3B-19 Glenview Villa, Jalan 49 Off Jalan Kuari, Taman Pinggiran
+        Cheras
       zip_code: '56000'
     - address_details: 90-00-04 Flat Sri Kota, Bandar Tun Razak
       zip_code: '56100'

@@ -1,3 +1,4 @@
+---
 ssid: '11125'
 sanctions_set_id: '8174'
 individual:
@@ -29,4 +30,5 @@ individual:
       day: 24
       month: 11
       year: 1945
-  justification: Deputy Head of AEOI. The AEOI oversees Iran’s nuclear programme and is designated under UNSCR 1737 (2006).
+  justification: Deputy Head of AEOI. The AEOI oversees Iran’s nuclear programme and
+    is designated under UNSCR 1737 (2006).

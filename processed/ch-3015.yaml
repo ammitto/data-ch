@@ -1,3 +1,4 @@
+---
 ssid: '3015'
 sanctions_set_id: '3974'
 entity:
@@ -16,4 +17,5 @@ entity:
     - address_details: Al-Razi Medical Complex, Jabal Al-Hussein
     - zip_code: '11121'
     - zip_code: '11191'
-  justification: Trading and Transport Services Company, Ltd was associated with Uday Saddam Hussein’s front companies.
+  justification: Trading and Transport Services Company, Ltd was associated with Uday
+    Saddam Hussein’s front companies.

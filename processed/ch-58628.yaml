@@ -1,3 +1,4 @@
+---
 ssid: '58628'
 sanctions_set_id: '27286'
 entity:
@@ -14,4 +15,8 @@ entity:
         value: JSC Central Research Institute 'Burevestnik'
     addresses:
     - address_details: Sormovskoe highway 1a
-  justification: 'JSC CENTRAL RESEARCH INSTITUTE “BUREVESTNIK” is a Russian arms industry company. During its existence (since 1970), the company developed around 400 different types of arms and military equipment. It is best known for producing the following arms: artillery installations for naval artillery AK-176, A-190; mobile Mortars (types 2B11, 2K32, 2C12, 2B25), howitzer 2C35 and others.'
+  justification: 'JSC CENTRAL RESEARCH INSTITUTE “BUREVESTNIK” is a Russian arms industry
+    company. During its existence (since 1970), the company developed around 400 different
+    types of arms and military equipment. It is best known for producing the following
+    arms: artillery installations for naval artillery AK-176, A-190; mobile Mortars
+    (types 2B11, 2K32, 2C12, 2B25), howitzer 2C35 and others.'

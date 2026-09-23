@@ -1,3 +1,4 @@
+---
 ssid: '5210'
 sanctions_set_id: '4387'
 individual:
@@ -18,4 +19,5 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Danatavich
-  justification: Director of Minsk State Polytechnic College. Responsible for the expulsion of students involved in protests following the December 2010 elections.
+  justification: Director of Minsk State Polytechnic College. Responsible for the
+    expulsion of students involved in protests following the December 2010 elections.

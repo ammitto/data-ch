@@ -1,3 +1,4 @@
+---
 ssid: '89178'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,13 @@ individual:
       day: 19
       month: 8
       year: 1967
-  justification: Andrii Derkach is a former Ukrainian politician, and is a Senator of the Federation Council since 12 September 2024 and a member of that Council’s Committee on Defence and Security since 23 October 2024. Since becoming a Senator, he has supported policies contributing to Russia’s illegal annexation of Crimea and Russia’s war of aggression against Ukraine. During his time as a member of Ukraine’s parliament before 2022, he actively supported the Russian Government by collaborating with the Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU). Andrii Derkach received funds from the GRU to create private security companies that Russia planned to use to invade Ukraine.
+  justification: Andrii Derkach is a former Ukrainian politician, and is a Senator
+    of the Federation Council since 12 September 2024 and a member of that Council’s
+    Committee on Defence and Security since 23 October 2024. Since becoming a Senator,
+    he has supported policies contributing to Russia’s illegal annexation of Crimea
+    and Russia’s war of aggression against Ukraine. During his time as a member of
+    Ukraine’s parliament before 2022, he actively supported the Russian Government
+    by collaborating with the Main Intelligence Directorate of the General Staff of
+    the Armed Forces of the Russian Federation (GRU). Andrii Derkach received funds
+    from the GRU to create private security companies that Russia planned to use to
+    invade Ukraine.

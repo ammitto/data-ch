@@ -1,3 +1,4 @@
+---
 ssid: '35557'
 sanctions_set_id: '3978'
 entity:
@@ -28,4 +29,5 @@ entity:
         value: Taesong Bank
     addresses:
     - address_details: Segori-dong, Gyongheung Street
-  justification: Daesong Bank is owned and controlled by Office 39 of the Korea Workers’ Party.
+  justification: Daesong Bank is owned and controlled by Office 39 of the Korea Workers’
+    Party.

@@ -1,3 +1,4 @@
+---
 ssid: '72507'
 sanctions_set_id: '27286'
 individual:
@@ -18,4 +19,7 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Akhmedovich
-  justification: Igor Bekbulatov is the General Director of Corporation Proekttechnika, a Russian military industry company. The company produces special purpose vehicles, such as MTP-A2.7 and MTPA2.1, which are used by the Russian Armed Forces in the war of aggression against Ukraine.
+  justification: Igor Bekbulatov is the General Director of Corporation Proekttechnika,
+    a Russian military industry company. The company produces special purpose vehicles,
+    such as MTP-A2.7 and MTPA2.1, which are used by the Russian Armed Forces in the
+    war of aggression against Ukraine.

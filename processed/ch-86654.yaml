@@ -1,3 +1,4 @@
+---
 ssid: '86654'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 17
       month: 12
       year: 1956
-  justification: Nikolai Kolesov is General Director of Russian Helicopters JSC. As the primary producer of military helicopters, Russian Helicopters JSC is a key company within the Russian military–industrial complex. Various types of helicopters and other defence hardware and equipment of Russian Helicopters JSC are in use by the Russian Armed Forces in their war of aggression against Ukraine.
+  justification: Nikolai Kolesov is General Director of Russian Helicopters JSC. As
+    the primary producer of military helicopters, Russian Helicopters JSC is a key
+    company within the Russian military–industrial complex. Various types of helicopters
+    and other defence hardware and equipment of Russian Helicopters JSC are in use
+    by the Russian Armed Forces in their war of aggression against Ukraine.

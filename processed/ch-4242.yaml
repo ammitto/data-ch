@@ -1,3 +1,4 @@
+---
 ssid: '4242'
 sanctions_set_id: '4021'
 individual:
@@ -26,4 +27,5 @@ individual:
       day: 30
       month: 4
       year: 1961
-  justification: Illicit diamond dealer who sold conflict diamonds and indirectly or directly supported the Taylor regime.
+  justification: Illicit diamond dealer who sold conflict diamonds and indirectly
+    or directly supported the Taylor regime.

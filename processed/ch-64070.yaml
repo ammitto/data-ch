@@ -1,3 +1,4 @@
+---
 ssid: '64070'
 sanctions_set_id: '29445'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company Concern Central Institute for Scientific Research Elektropribor
+        value: Joint Stock Company Concern Central Institute for Scientific Research
+          Elektropribor
     - name_type: alias
       quality: good
       lang: eng
@@ -25,7 +27,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: State Research Center of the Russian Federation Concern CSRI Elektropribor, JSC
+        value: State Research Center of the Russian Federation Concern CSRI Elektropribor,
+          JSC
     - name_type: alias
       quality: good
       lang: eng

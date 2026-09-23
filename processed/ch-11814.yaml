@@ -1,3 +1,4 @@
+---
 ssid: '11814'
 sanctions_set_id: '3986'
 individual:
@@ -33,4 +34,5 @@ individual:
       day: 3
       month: 2
       year: 1967
-  justification: Business associate of Maher al-Assad and responsible for managing some of his business interests; provides funding to the former al-Assad regime.
+  justification: Business associate of Maher al-Assad and responsible for managing
+    some of his business interests; provides funding to the former al-Assad regime.

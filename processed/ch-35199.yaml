@@ -1,3 +1,4 @@
+---
 ssid: '35199'
 sanctions_set_id: '3986'
 individual:
@@ -26,4 +27,7 @@ individual:
       day: 30
       month: 6
       year: 1966
-  justification: Member of the regime-affiliated militias known as “Kataeb al-Baath” (the Baath Party militia). Vice-Chairman of the Baath Party. Supports the former al-Assad regime through his role in the recruitment and organisation of the Baath Party militia.
+  justification: Member of the regime-affiliated militias known as “Kataeb al-Baath”
+    (the Baath Party militia). Vice-Chairman of the Baath Party. Supports the former
+    al-Assad regime through his role in the recruitment and organisation of the Baath
+    Party militia.

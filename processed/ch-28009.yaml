@@ -1,3 +1,4 @@
+---
 ssid: '28009'
 sanctions_set_id: '3986'
 individual:
@@ -15,4 +16,6 @@ individual:
       - order: 2
         name_part_type: family-name
         value: Al Abbas
-  justification: Former Oil and Mineral Resources Minister under the former al-Assad regime in power after May 2011. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Oil and Mineral Resources Minister under the former al-Assad
+    regime in power after May 2011. As a former Government Minister, shares responsibility
+    for the former al-Assad regime’s violent repression of the civilian population.

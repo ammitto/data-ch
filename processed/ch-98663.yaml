@@ -1,3 +1,4 @@
+---
 ssid: '98663'
 sanctions_set_id: '27286'
 entity:
@@ -32,4 +33,6 @@ entity:
       year: 2002
     addresses:
     - address_details: Borodinskaya 46/50
-  justification: PJSC “Dalpribor” is a instrument-making company of the Russian military-industrial complex. It has delivered equipment to the Russian Ministry of Defence, thereby implementing the State defence order.
+  justification: PJSC “Dalpribor” is a instrument-making company of the Russian military-industrial
+    complex. It has delivered equipment to the Russian Ministry of Defence, thereby
+    implementing the State defence order.

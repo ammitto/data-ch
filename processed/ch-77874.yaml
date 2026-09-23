@@ -1,3 +1,4 @@
+---
 ssid: '77874'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 29
       month: 7
       year: 1982
-  justification: Stanislau Ivaniutsenka is a judge who has served in the the court of the Rechitsa district of the Gomel region since 2019, having been appointed by Aliaksandr Lukashenka. He has issued politically motivated sentences against citizens of Belarus who voiced their opinions against the President and the brutality of Belarusian law-enforcement structures. He ruled on the case of Polina Sharendo, a social activist from Belarus, who was detained in January 2021.
+  justification: Stanislau Ivaniutsenka is a judge who has served in the the court
+    of the Rechitsa district of the Gomel region since 2019, having been appointed
+    by Aliaksandr Lukashenka. He has issued politically motivated sentences against
+    citizens of Belarus who voiced their opinions against the President and the brutality
+    of Belarusian law-enforcement structures. He ruled on the case of Polina Sharendo,
+    a social activist from Belarus, who was detained in January 2021.

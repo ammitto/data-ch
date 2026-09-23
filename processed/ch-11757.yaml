@@ -1,3 +1,4 @@
+---
 ssid: '11757'
 sanctions_set_id: '3986'
 individual:
@@ -15,4 +16,5 @@ individual:
       - order: 2
         name_part_type: family-name
         value: Rajiha
-  justification: Chief of Staff of the Armed Forces responsible for the military involvement in violence against peaceful protesters. Died in the 18 Jul 2012 bombing.
+  justification: Chief of Staff of the Armed Forces responsible for the military involvement
+    in violence against peaceful protesters. Died in the 18 Jul 2012 bombing.

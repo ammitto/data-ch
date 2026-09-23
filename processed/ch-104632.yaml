@@ -1,3 +1,4 @@
+---
 ssid: '104632'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 6
       month: 8
       year: 1974
-  justification: Andrey Polyakov is the Director of the Federal State Budgetary Institution of Science “Institute of the History of Material Culture of the Russian Academy of Sciences (IHMC RAS)”.
+  justification: Andrey Polyakov is the Director of the Federal State Budgetary Institution
+    of Science “Institute of the History of Material Culture of the Russian Academy
+    of Sciences (IHMC RAS)”.

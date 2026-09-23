@@ -1,3 +1,4 @@
+---
 ssid: '55451'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,8 @@ entity:
     addresses:
     - address_details: Kolomensky proezd, 13a
       zip_code: '115446'
-  justification: Voentekstilprom manufactures clothing for the needs of the Government of the Russian Federation. It has provided clothing supplies to the Russian military as part of a State defence order. It manufactures field uniforms for the National Guard of Russia and shirts for soldiers of the Russian Navy and the National Guard of Russia.
+  justification: Voentekstilprom manufactures clothing for the needs of the Government
+    of the Russian Federation. It has provided clothing supplies to the Russian military
+    as part of a State defence order. It manufactures field uniforms for the National
+    Guard of Russia and shirts for soldiers of the Russian Navy and the National Guard
+    of Russia.

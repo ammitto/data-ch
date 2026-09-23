@@ -1,3 +1,4 @@
+---
 ssid: '4890'
 sanctions_set_id: '4387'
 individual:
@@ -18,4 +19,5 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Heorhevich
-  justification: Head of the KGB Board on State Communications. Responsible for the repressive activity of the KGB against civil society and democratic opposition.
+  justification: Head of the KGB Board on State Communications. Responsible for the
+    repressive activity of the KGB against civil society and democratic opposition.

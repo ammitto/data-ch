@@ -1,3 +1,4 @@
+---
 ssid: '90123'
 sanctions_set_id: '29445'
 entity:
@@ -20,5 +21,6 @@ entity:
         name_part_type: whole-name
         value: Assistagro LLC
     addresses:
-    - address_details: "“Wall street” biznes-tsentr, building 256, 35 Valovaya street, munitsipalny okrug Zamoskvoreche"
+    - address_details: "“Wall street” biznes-tsentr, building 256, 35 Valovaya street,
+        munitsipalny okrug Zamoskvoreche"
       zip_code: '11504'

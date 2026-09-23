@@ -1,3 +1,4 @@
+---
 ssid: '9660'
 sanctions_set_id: '8174'
 entity:
@@ -35,4 +36,8 @@ entity:
         value: Sepah Cooperative Foundation
     addresses:
     - address_details: Niayes Highway, Seoul Street
-  justification: Bonyad Taavon Sepah, also known as the IRGC Cooperative Foundation, was formed by the Commanders of the EU-listed Islamic Revolutionary Guard Corps (IRGC) to structure the IRGC's investments and to provide the IRGC’s permanent personnel with financial loans, mortgages, business loans, as well as with land and construction materials.
+  justification: Bonyad Taavon Sepah, also known as the IRGC Cooperative Foundation,
+    was formed by the Commanders of the EU-listed Islamic Revolutionary Guard Corps
+    (IRGC) to structure the IRGC's investments and to provide the IRGC’s permanent
+    personnel with financial loans, mortgages, business loans, as well as with land
+    and construction materials.

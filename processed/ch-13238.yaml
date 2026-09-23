@@ -1,3 +1,4 @@
+---
 ssid: '13238'
 sanctions_set_id: '13065'
 individual:
@@ -61,4 +62,8 @@ individual:
       day: 3
       month: 2
       year: 1951
-  justification: As Chief of Staff of Iran's Armed Forces (1989 to 2016), he was the highest military commander responsible for directing all military divisions and policies, including the Islamic Revolutionary Guards Corps (IRGC) and police. In 2009, forces under his formal chain of command brutally suppressed peaceful protestors and perpetrated mass detentions.
+  justification: As Chief of Staff of Iran's Armed Forces (1989 to 2016), he was the
+    highest military commander responsible for directing all military divisions and
+    policies, including the Islamic Revolutionary Guards Corps (IRGC) and police.
+    In 2009, forces under his formal chain of command brutally suppressed peaceful
+    protestors and perpetrated mass detentions.

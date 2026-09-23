@@ -1,3 +1,4 @@
+---
 ssid: '61848'
 sanctions_set_id: '29445'
 entity:
@@ -39,7 +40,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: 929 Gosudarstvenniy Letno-Ispytatelniy Tsentr Ministerstvo Oboroni Rossiiskoi Federatsii IM. V.P. Chkalova
+        value: 929 Gosudarstvenniy Letno-Ispytatelniy Tsentr Ministerstvo Oboroni
+          Rossiiskoi Federatsii IM. V.P. Chkalova
     - name_type: alias
       quality: good
       lang: eng

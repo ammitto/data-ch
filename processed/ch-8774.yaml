@@ -1,3 +1,4 @@
+---
 ssid: '8774'
 sanctions_set_id: '3984'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 11
       month: 2
       year: 1949
-  justification: Brigadier-General, former Deputy Chief of Armed Forces General Staff for Logistics and Industrial Research, Head of State Anti-Smuggling Headquarters.
+  justification: Brigadier-General, former Deputy Chief of Armed Forces General Staff
+    for Logistics and Industrial Research, Head of State Anti-Smuggling Headquarters.

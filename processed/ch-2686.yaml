@@ -1,3 +1,4 @@
+---
 ssid: '2686'
 sanctions_set_id: '3974'
 entity:
@@ -11,6 +12,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: State Establishment Of Agriculture In Dujaila/Dujaila Agro-Industrial Complex
+        value: State Establishment Of Agriculture In Dujaila/Dujaila Agro-Industrial
+          Complex
     addresses:
     - address_details: K 29 Oroba

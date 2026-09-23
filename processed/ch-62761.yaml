@@ -1,3 +1,4 @@
+---
 ssid: '62761'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,11 @@ individual:
       day: 29
       month: 5
       year: 1975
-  justification: In her capacity as Deputy Prime Minister of the Republic of Tatarstan as well as Chairwoman of the Republic’s Commission on Juvenile Affairs and the Protection of their Rights, Leyla Fazleeva is contributing to the illegal deportation of Ukrainian children. She is facilitating the illegal deportation of Ukrainian children to camps located in her region, including the “Miras” camp in the district of Zelenodolsky. She is one of the regional officials involved in the planning, budgeting and oversight of camps in Tatarstan, hosting groups of children from occupied territories of Ukraine.
+  justification: In her capacity as Deputy Prime Minister of the Republic of Tatarstan
+    as well as Chairwoman of the Republic’s Commission on Juvenile Affairs and the
+    Protection of their Rights, Leyla Fazleeva is contributing to the illegal deportation
+    of Ukrainian children. She is facilitating the illegal deportation of Ukrainian
+    children to camps located in her region, including the “Miras” camp in the district
+    of Zelenodolsky. She is one of the regional officials involved in the planning,
+    budgeting and oversight of camps in Tatarstan, hosting groups of children from
+    occupied territories of Ukraine.

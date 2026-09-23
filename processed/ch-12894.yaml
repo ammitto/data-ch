@@ -1,3 +1,4 @@
+---
 ssid: '12894'
 sanctions_set_id: '12786'
 entity:
@@ -22,4 +23,5 @@ entity:
     addresses:
     - address_details: 1 Fateh Tower Office, No 99, 22nd Floor, Borgaida Street
       zip_code: '1103'
-  justification: Under control of Muammar Qadhafi and his family, and potential source of funding for his regime.
+  justification: Under control of Muammar Qadhafi and his family, and potential source
+    of funding for his regime.

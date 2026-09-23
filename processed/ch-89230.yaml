@@ -1,3 +1,4 @@
+---
 ssid: '89230'
 sanctions_set_id: '29445'
 entity:
@@ -20,4 +21,5 @@ entity:
         name_part_type: whole-name
         value: Hytera Communications Ltd.
     addresses:
-    - address_details: Flat A516, 5/F, Efficiency House, 35 Tai Yau Street, San Po Kong, Kln
+    - address_details: Flat A516, 5/F, Efficiency House, 35 Tai Yau Street, San Po
+        Kong, Kln

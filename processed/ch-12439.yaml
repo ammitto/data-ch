@@ -1,3 +1,4 @@
+---
 ssid: '12439'
 sanctions_set_id: '3986'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Al Watan
     addresses:
     - address_details: Al Watan Newspaper
-  justification: Daily newspaper which participates in campaigns to spread disinformation and incite violence against demonstrators.
+  justification: Daily newspaper which participates in campaigns to spread disinformation
+    and incite violence against demonstrators.

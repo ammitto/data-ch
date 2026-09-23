@@ -1,3 +1,4 @@
+---
 ssid: '6950'
 sanctions_set_id: '6094'
 individual:
@@ -35,4 +36,5 @@ individual:
       day: 30
       month: 3
       year: 1944
-  justification: ZANU-PF Member of Government and member of ZANU-PF Joint Operational Command.
+  justification: ZANU-PF Member of Government and member of ZANU-PF Joint Operational
+    Command.

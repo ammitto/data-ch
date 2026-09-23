@@ -1,3 +1,4 @@
+---
 ssid: '57629'
 sanctions_set_id: '38066'
 individual:
@@ -38,4 +39,11 @@ individual:
         value: Punny Boy
     day_month_year:
       year: 1987
-  justification: Meddie Nkalubo is a senior leader of the Allied Democratic Forces (ADF), a non-governmental armed group operating in Uganda, Rwanda and the Eastern DRC. He has been identified as holding various responsibilities in the ADF, including communication and propaganda, recruitment, fabrication of arms, and rapprochement with ISIL (Da’esh). Meddie Nkalubo has also been identified as the leading figure in charge of the ADF’s external operations, tasked with organising and overseeing its external financing and coordinating the flow of ISIL (Da’esh) funds towards the ADF.
+  justification: Meddie Nkalubo is a senior leader of the Allied Democratic Forces
+    (ADF), a non-governmental armed group operating in Uganda, Rwanda and the Eastern
+    DRC. He has been identified as holding various responsibilities in the ADF, including
+    communication and propaganda, recruitment, fabrication of arms, and rapprochement
+    with ISIL (Da’esh). Meddie Nkalubo has also been identified as the leading figure
+    in charge of the ADF’s external operations, tasked with organising and overseeing
+    its external financing and coordinating the flow of ISIL (Da’esh) funds towards
+    the ADF.

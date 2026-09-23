@@ -1,3 +1,4 @@
+---
 ssid: '59158'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 6
       month: 9
       year: 1975
-  justification: Daniil Vyacheslavovich Egorov is a member of the ‘Coordination Council under the Government of the Russian federation to meet the needs of the Armed Forces of the Russian Federation, other troops, military formations and bodies’, established on 21 October 2022. The Coordination Council was created in order to organise interaction between federal executive bodies and executive bodies of the constituent entities of Russia in resolving issues related to ensuring the needs of the Russian Armed Forces during the war of aggression against Ukraine.
+  justification: Daniil Vyacheslavovich Egorov is a member of the ‘Coordination Council
+    under the Government of the Russian federation to meet the needs of the Armed
+    Forces of the Russian Federation, other troops, military formations and bodies’,
+    established on 21 October 2022. The Coordination Council was created in order
+    to organise interaction between federal executive bodies and executive bodies
+    of the constituent entities of Russia in resolving issues related to ensuring
+    the needs of the Russian Armed Forces during the war of aggression against Ukraine.

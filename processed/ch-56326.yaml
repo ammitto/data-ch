@@ -1,3 +1,4 @@
+---
 ssid: '56326'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 25
       month: 9
       year: 1977
-  justification: Dmitryi Kholin is a member of the Samara Provincial Duma, where he served as the Chairman of the Regulations Committee. He is currently the Deputy Governor of the Samara Region and Head of Administration for the Governor of the Region. From 2020 to 2021 he was the head of the Executive Committee of the Samara Regional Branch of the Kremlin-aligned ruling party “United Russia”. He is also a member of the Samara Regional Branch of the all-Russian public organisation “Combat Brotherhood” (organisation for veterans).
+  justification: Dmitryi Kholin is a member of the Samara Provincial Duma, where he
+    served as the Chairman of the Regulations Committee. He is currently the Deputy
+    Governor of the Samara Region and Head of Administration for the Governor of the
+    Region. From 2020 to 2021 he was the head of the Executive Committee of the Samara
+    Regional Branch of the Kremlin-aligned ruling party “United Russia”. He is also
+    a member of the Samara Regional Branch of the all-Russian public organisation
+    “Combat Brotherhood” (organisation for veterans).

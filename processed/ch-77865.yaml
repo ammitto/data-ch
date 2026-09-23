@@ -1,3 +1,4 @@
+---
 ssid: '77865'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 17
       month: 11
       year: 1959
-  justification: Vasil Skok is a judge who has served in the Grodno Regional Court since 2003, having been appointed by Aliaksandr Lukashenka. He has issued politically motivated sentences against citizens of Belarus who voiced their opinions against the President, the regime and the brutality of Belarusian law-enforcement structures. He sentenced Andrey Sachevko to six years in a high-security penal colony.
+  justification: Vasil Skok is a judge who has served in the Grodno Regional Court
+    since 2003, having been appointed by Aliaksandr Lukashenka. He has issued politically
+    motivated sentences against citizens of Belarus who voiced their opinions against
+    the President, the regime and the brutality of Belarusian law-enforcement structures.
+    He sentenced Andrey Sachevko to six years in a high-security penal colony.

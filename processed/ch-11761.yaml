@@ -1,3 +1,4 @@
+---
 ssid: '11761'
 sanctions_set_id: '3986'
 individual:
@@ -26,4 +27,7 @@ individual:
       day: 21
       month: 1
       year: 1973
-  justification: Leading businessman operating in Syria linked to the former al-Assad regime. He has business interests in several Syrian companies and entities, including Ramak Construction Co and Syrian International Private University for Science and Technology (SIUST).
+  justification: Leading businessman operating in Syria linked to the former al-Assad
+    regime. He has business interests in several Syrian companies and entities, including
+    Ramak Construction Co and Syrian International Private University for Science
+    and Technology (SIUST).

@@ -1,3 +1,4 @@
+---
 ssid: '28326'
 sanctions_set_id: '27286'
 entity:
@@ -14,4 +15,6 @@ entity:
         value: Russian community "Sobol"
     addresses:
     - address_details: Str. Kiev, 4
-  justification: Radical paramilitary organisation, responsible for openly supporting using force to end Ukraine's control over Crimea, thus undermining the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Radical paramilitary organisation, responsible for openly supporting
+    using force to end Ukraine's control over Crimea, thus undermining the territorial
+    integrity, sovereignty and independence of Ukraine.

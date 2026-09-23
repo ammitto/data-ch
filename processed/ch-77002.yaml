@@ -1,3 +1,4 @@
+---
 ssid: '77002'
 sanctions_set_id: '29445'
 entity:
@@ -45,5 +46,6 @@ entity:
       zip_code: '623630'
     - address_details: Khokhryakova Str., 72, Office 306
       zip_code: '620014'
-    - address_details: Khokhryakova Str., 74, (Business Centre “Kristal”), Office 1102
+    - address_details: Khokhryakova Str., 74, (Business Centre “Kristal”), Office
+        1102
       zip_code: '620014'

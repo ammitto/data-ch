@@ -1,3 +1,4 @@
+---
 ssid: '12273'
 sanctions_set_id: '3986'
 individual:
@@ -17,4 +18,7 @@ individual:
         value: Suwaid
     day_month_year:
       year: 1958
-  justification: Former Minister of State under the former al-Assad regime, in office until at least 21.1.2014. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population. Chair of the Amana wing of the Syrian Social Nationalist Party.
+  justification: Former Minister of State under the former al-Assad regime, in office
+    until at least 21.1.2014. As a former Government Minister, shares responsibility
+    for the former al-Assad regime’s violent repression of the civilian population.
+    Chair of the Amana wing of the Syrian Social Nationalist Party.

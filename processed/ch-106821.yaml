@@ -1,3 +1,4 @@
+---
 ssid: '106821'
 sanctions_set_id: '27286'
 individual:
@@ -25,4 +26,12 @@ individual:
     addresses:
     - address_details: Petrovsky Boulevard, 21/99
       zip_code: '346780'
-  justification: Dmitriy Shevchenko is the Director of the “Warrior” (“Voin”) Centre and a former Deputy Minister of Education and Science of the so-called Luhansk People’s Republic. The “Warrior” centre is a state-led youth organisation established in the Russian Federation to promote patriotic and military education among young people. Under his leadership, a branch of the centre was opened in April 2025 in Luhansk, where it provides large-scale military-patriotic training to children and young people, including firearms handling and drone operation. The centre operates in cooperation with the Russian Ministry of Education and implements additional youth programmes such as “Time of Young Heroes.”.
+  justification: Dmitriy Shevchenko is the Director of the “Warrior” (“Voin”) Centre
+    and a former Deputy Minister of Education and Science of the so-called Luhansk
+    People’s Republic. The “Warrior” centre is a state-led youth organisation established
+    in the Russian Federation to promote patriotic and military education among young
+    people. Under his leadership, a branch of the centre was opened in April 2025
+    in Luhansk, where it provides large-scale military-patriotic training to children
+    and young people, including firearms handling and drone operation. The centre
+    operates in cooperation with the Russian Ministry of Education and implements
+    additional youth programmes such as “Time of Young Heroes.”.

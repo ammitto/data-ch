@@ -1,3 +1,4 @@
+---
 ssid: '61647'
 sanctions_set_id: '29445'
 entity:
@@ -11,12 +12,14 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organization (IRGC SSJO)
+        value: Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad
+          Organization (IRGC SSJO)
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: سازمان تحقیقات و جهادخودکفایی سپاه پاسداران · سازمان جهاد خودکفایی و تحقیقات سپاه
+        value: سازمان تحقیقات و جهادخودکفایی سپاه پاسداران · سازمان جهاد خودکفایی
+          و تحقیقات سپاه
     addresses:

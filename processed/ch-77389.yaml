@@ -1,3 +1,4 @@
+---
 ssid: '77389'
 sanctions_set_id: '29445'
 entity:
@@ -20,4 +21,5 @@ entity:
         name_part_type: whole-name
         value: Dason (HK) Technology Co., Limited
     addresses:
-    - address_details: Unit 08, 15/F Witty Commercial Building 1A-1L Tung Choi St. KLN
+    - address_details: Unit 08, 15/F Witty Commercial Building 1A-1L Tung Choi St.
+        KLN

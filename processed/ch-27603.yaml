@@ -1,3 +1,4 @@
+---
 ssid: '27603'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 1
       month: 5
       year: 1983
-  justification: One of the leaders of the ideologically radical organisation “People's Militia of Donbas”. He took active part in the seizure of a number of State buildings in the Donetsk region.
+  justification: One of the leaders of the ideologically radical organisation “People's
+    Militia of Donbas”. He took active part in the seizure of a number of State buildings
+    in the Donetsk region.

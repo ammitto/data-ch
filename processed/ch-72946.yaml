@@ -1,3 +1,4 @@
+---
 ssid: '72946'
 sanctions_set_id: '27286'
 entity:
@@ -38,4 +39,10 @@ entity:
       zip_code: '129090'
     - address_details: Kashire Highway, d. 13A, g.
       zip_code: '115230'
-  justification: JSC “State Scientific and Production Enterprise ‘Region’” is a leading Russian developer and supplier of guided bombs for front-line aviation. JSC “State Scientific and Production Enterprise ‘Region’” produces naval and aviation engines and naval and aviation armaments, as well as mine countermeasure systems, for the Russian Ministry of Defence. Moreover, JSC “State Scientific and Production Enterprise ‘Region’” is a subsidiary of JSC Tactical Missile Armament Corporation which significantly contributes to enhancing Russia’s military and defence capabilities.
+  justification: JSC “State Scientific and Production Enterprise ‘Region’” is a leading
+    Russian developer and supplier of guided bombs for front-line aviation. JSC “State
+    Scientific and Production Enterprise ‘Region’” produces naval and aviation engines
+    and naval and aviation armaments, as well as mine countermeasure systems, for
+    the Russian Ministry of Defence. Moreover, JSC “State Scientific and Production
+    Enterprise ‘Region’” is a subsidiary of JSC Tactical Missile Armament Corporation
+    which significantly contributes to enhancing Russia’s military and defence capabilities.

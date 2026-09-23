@@ -1,3 +1,4 @@
+---
 ssid: '5782'
 sanctions_set_id: '4387'
 individual:
@@ -21,4 +22,9 @@ individual:
     addresses:
     - address_details: КГБ проспект Независимости, 17
       zip_code: '210623'
-  justification: Major, senior investigator of the KGB. He conducted investigations which included the use of falsified evidence against opposition activists in the KGB detention centre in Minsk after the crackdown on the post-election protest demonstration in Minsk on 19 Dec 2010. His actions constituted a clear violation of the human rights by denying the right to a fair trial and the international commitments of Belarus in the field of human rights.
+  justification: Major, senior investigator of the KGB. He conducted investigations
+    which included the use of falsified evidence against opposition activists in the
+    KGB detention centre in Minsk after the crackdown on the post-election protest
+    demonstration in Minsk on 19 Dec 2010. His actions constituted a clear violation
+    of the human rights by denying the right to a fair trial and the international
+    commitments of Belarus in the field of human rights.

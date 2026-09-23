@@ -1,3 +1,4 @@
+---
 ssid: '6275'
 sanctions_set_id: '6094'
 individual:
@@ -19,4 +20,6 @@ individual:
       day: 29
       month: 11
       year: 1959
-  justification: Ties to the ZANU-PF faction of the Government and complicit informing or directing repressive state policy. Illegally channelled funds to ZANU-PF in 2008.
+  justification: Ties to the ZANU-PF faction of the Government and complicit informing
+    or directing repressive state policy. Illegally channelled funds to ZANU-PF in
+    2008.

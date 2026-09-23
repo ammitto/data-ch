@@ -1,3 +1,4 @@
+---
 ssid: '43776'
 sanctions_set_id: '3986'
 individual:
@@ -24,4 +25,6 @@ individual:
         value: Barazi
     day_month_year:
       year: 1963
-  justification: Former Minister of Internal Trade and Consumer Protection under the former al-Assad regime. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Minister of Internal Trade and Consumer Protection under the
+    former al-Assad regime. As a former Government Minister, shares responsibility
+    for the former al-Assad regime’s violent repression of the civilian population.

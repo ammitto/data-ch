@@ -1,3 +1,4 @@
+---
 ssid: '104739'
 sanctions_set_id: '27286'
 entity:
@@ -26,6 +27,10 @@ entity:
         name_part_type: whole-name
         value: Gaskar Group of Companies
     addresses:
-    - address_details: Skolkovo Innovation Center Territory, Nobelya Street, 7, Floor 4, Room/Workplace 15/6
+    - address_details: Skolkovo Innovation Center Territory, Nobelya Street, 7, Floor
+        4, Room/Workplace 15/6
       zip_code: '121205'
-  justification: LLC “Gaskar Group” is a Russian company specialising in the development and production of unmanned aerial vehicles (UAVs), electronics, and software. Its products include reconnaissance drones Sibiryachok and Siberia-1, widely deployed in military context.
+  justification: LLC “Gaskar Group” is a Russian company specialising in the development
+    and production of unmanned aerial vehicles (UAVs), electronics, and software.
+    Its products include reconnaissance drones Sibiryachok and Siberia-1, widely deployed
+    in military context.

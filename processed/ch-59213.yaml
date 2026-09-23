@@ -1,3 +1,4 @@
+---
 ssid: '59213'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: Troitskiy pr., 4, building B
       zip_code: '190005'
-  justification: Radioavionika is a Russian technology sector company and arms supplier of the Armed Forces of the Russian Federation.
+  justification: Radioavionika is a Russian technology sector company and arms supplier
+    of the Armed Forces of the Russian Federation.

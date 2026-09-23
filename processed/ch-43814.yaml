@@ -1,3 +1,4 @@
+---
 ssid: '43814'
 sanctions_set_id: '3986'
 individual:
@@ -31,4 +32,6 @@ individual:
         value: Yagi
     day_month_year:
       year: 1976
-  justification: Minister of Finance under the former al-Assad regime. Appointed in August 2020. As a Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Minister of Finance under the former al-Assad regime. Appointed in
+    August 2020. As a Government Minister, shares responsibility for the former al-Assad
+    regime’s violent repression of the civilian population.

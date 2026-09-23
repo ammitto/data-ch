@@ -1,3 +1,4 @@
+---
 ssid: '105800'
 sanctions_set_id: '27286'
 entity:
@@ -24,6 +25,9 @@ entity:
       month: 3
       year: 2002
     addresses:
-    - address_details: '050059, Almaty, Medeu District, Taimanov street, house 136, apt. 86'
+    - address_details: '050059, Almaty, Medeu District, Taimanov street, house 136,
+        apt. 86'
       zip_code: '050059'
-  justification: LLP “United Trading Group” is a Kazakhstan-based company. Its founder and director, Alimzhan Bekov, is a representative of UrSeCo Handels GmbH & Co. KG.
+  justification: LLP “United Trading Group” is a Kazakhstan-based company. Its founder
+    and director, Alimzhan Bekov, is a representative of UrSeCo Handels GmbH & Co.
+    KG.

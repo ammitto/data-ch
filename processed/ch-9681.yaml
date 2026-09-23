@@ -1,3 +1,4 @@
+---
 ssid: '9681'
 sanctions_set_id: '8174'
 entity:
@@ -29,4 +30,7 @@ entity:
     addresses:
     - address_details: No. 182, Shahid Tohidi St, 4th Golsetan, Pasdaran Ave
       zip_code: '1666943'
-  justification: Mehr Bank is controlled by Bonyad Taavon Sepah and the IRGC. Mehr Bank provides financial services to the IRGC. According to an open source interview with the head of Bonyad Taavon Sepah, Parviz Fattah, Bonyad Taavon Sepah created Mehr Bank to serve the Basij (paramilitary arm of the IRGC).
+  justification: Mehr Bank is controlled by Bonyad Taavon Sepah and the IRGC. Mehr
+    Bank provides financial services to the IRGC. According to an open source interview
+    with the head of Bonyad Taavon Sepah, Parviz Fattah, Bonyad Taavon Sepah created
+    Mehr Bank to serve the Basij (paramilitary arm of the IRGC).

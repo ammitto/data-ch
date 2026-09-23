@@ -1,3 +1,4 @@
+---
 ssid: '86203'
 sanctions_set_id: '29445'
 entity:
@@ -34,7 +35,8 @@ entity:
         name_part_type: whole-name
         value: Mistral LLC
     addresses:
-    - address_details: Alekseevsky Municipal District; 1st Mytihchinskaya Str., 3, Building 1, Room 8
+    - address_details: Alekseevsky Municipal District; 1st Mytihchinskaya Str., 3,
+        Building 1, Room 8
       zip_code: '129626'
     - address_details: Bolshoy Strochenovsky Pereulok, 13, Building 1
       zip_code: '113054'

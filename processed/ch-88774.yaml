@@ -1,3 +1,4 @@
+---
 ssid: '88774'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 7
       month: 8
       year: 2002
-  justification: Denis Chernobay is the Chairman of the so-called “Donetsk People Republic” branch of the All-Russian public-state movement of children and youth “Movement of the First”, an entity listed by the Union.
+  justification: Denis Chernobay is the Chairman of the so-called “Donetsk People
+    Republic” branch of the All-Russian public-state movement of children and youth
+    “Movement of the First”, an entity listed by the Union.

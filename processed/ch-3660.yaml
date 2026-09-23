@@ -1,3 +1,4 @@
+---
 ssid: '3660'
 sanctions_set_id: '3973'
 individual:
@@ -37,4 +38,12 @@ individual:
       zip_code: '75081'
     - address_details: 811 South Central Expressway Suite 210
       zip_code: '75080'
-  justification: A Syrian-born US citizen who has been an employee/associate of Viktor Bout for about a decade. The UN identified Richard Chichakli as Viktor Bout’s Chief Financial Manager and, therefore, as one who acts at Bout's direction. His own resume details his senior positions with several Bout-controlled companies. A certified public accountant and certified fraud examiner with more than 12 years of experience, plays a significant role in assisting Bout in setting up and managing a number of his key firms and moving money (both for acquisition of assets and reparation of profits). In media interviews, reportedly has held himself out as spokesperson for Viktor Bout and his network.
+  justification: A Syrian-born US citizen who has been an employee/associate of Viktor
+    Bout for about a decade. The UN identified Richard Chichakli as Viktor Bout’s
+    Chief Financial Manager and, therefore, as one who acts at Bout's direction. His
+    own resume details his senior positions with several Bout-controlled companies.
+    A certified public accountant and certified fraud examiner with more than 12 years
+    of experience, plays a significant role in assisting Bout in setting up and managing
+    a number of his key firms and moving money (both for acquisition of assets and
+    reparation of profits). In media interviews, reportedly has held himself out as
+    spokesperson for Viktor Bout and his network.

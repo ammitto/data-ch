@@ -1,3 +1,4 @@
+---
 ssid: '89169'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 4
       month: 8
       year: 1985
-  justification: Ivan Antsev is the Executive Director of JSC NPP Radar MMS, which produces unmanned aerial systems in Russia. Some of those systems include non-military drones, also made available to Russian armed forces for use in the context of Russia’s war of aggression against Ukraine. JSC NPP Radar MMS works under Russian government contracts and cooperates with the military-defence industry. As the Executive Director of JSC NPP Radar MMS, Ivan Antsev has ultimate executive control over that work.
+  justification: Ivan Antsev is the Executive Director of JSC NPP Radar MMS, which
+    produces unmanned aerial systems in Russia. Some of those systems include non-military
+    drones, also made available to Russian armed forces for use in the context of
+    Russia’s war of aggression against Ukraine. JSC NPP Radar MMS works under Russian
+    government contracts and cooperates with the military-defence industry. As the
+    Executive Director of JSC NPP Radar MMS, Ivan Antsev has ultimate executive control
+    over that work.

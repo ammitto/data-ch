@@ -1,3 +1,4 @@
+---
 ssid: '4029'
 sanctions_set_id: '3973'
 entity:
@@ -22,4 +23,7 @@ entity:
     addresses:
     - address_details: 811 S. Central Expressway, Suite 210
       zip_code: '75080'
-  justification: The president of this company is Richard Chichakli, Viktor Bout’s Chief Financial Officer. The company is located at the same address in Richardson, Texas as Richard Chichakli’s accounting firm, along with all of the other firms owned or controlled by Chichakli that are being proposed for listing.
+  justification: The president of this company is Richard Chichakli, Viktor Bout’s
+    Chief Financial Officer. The company is located at the same address in Richardson,
+    Texas as Richard Chichakli’s accounting firm, along with all of the other firms
+    owned or controlled by Chichakli that are being proposed for listing.

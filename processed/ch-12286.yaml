@@ -1,3 +1,4 @@
+---
 ssid: '12286'
 sanctions_set_id: '3986'
 individual:
@@ -36,4 +37,6 @@ individual:
       day: 6
       month: 9
       year: 1957
-  justification: Former Minister of State under the former al-Assad regime, in office until at least 2014. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Minister of State under the former al-Assad regime, in office
+    until at least 2014. As a former Government Minister, shares responsibility for
+    the former al-Assad regime’s violent repression of the civilian population.

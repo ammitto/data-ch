@@ -1,3 +1,4 @@
+---
 ssid: '10441'
 sanctions_set_id: '8174'
 entity:
@@ -12,4 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Mount Everest Maritime Incorporation
-  justification: IRISL front company. It is the registered owner of a vessel owned by IRISL or an IRISL affiliate.
+  justification: IRISL front company. It is the registered owner of a vessel owned
+    by IRISL or an IRISL affiliate.

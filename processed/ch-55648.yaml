@@ -1,3 +1,4 @@
+---
 ssid: '55648'
 sanctions_set_id: '29445'
 entity:
@@ -39,7 +40,9 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal State Budgetary Institution “Institute of Theoretical and Experimental Physics named after A. I. Alikhanov of the National Research Center “Kurchatov Institute”
+        value: Federal State Budgetary Institution “Institute of Theoretical and Experimental
+          Physics named after A. I. Alikhanov of the National Research Center “Kurchatov
+          Institute”
     - name_type: alias
       quality: good
       lang: eng

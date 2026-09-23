@@ -1,3 +1,4 @@
+---
 ssid: '59781'
 sanctions_set_id: '29445'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Main Directorate of Deep-Sea Research of the Ministry of Defense of the Russian Federation
+        value: Main Directorate of Deep-Sea Research of the Ministry of Defense of
+          the Russian Federation
     - name_type: alias
       quality: good
       lang: eng
@@ -39,14 +41,16 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Department of Navigation and Oceanography of the Ministry of Defence of the Russian Federation
+        value: Department of Navigation and Oceanography of the Ministry of Defence
+          of the Russian Federation
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Главное Управление Глубоководных Исследований Министерства Обороны Российской Федерации (ГУГИ)
+        value: Главное Управление Глубоководных Исследований Министерства Обороны
+          Российской Федерации (ГУГИ)
     addresses:
     - address_details: Onezhskaya Str., 26A / 119019
       zip_code: '125413'

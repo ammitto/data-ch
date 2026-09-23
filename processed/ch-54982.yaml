@@ -1,3 +1,4 @@
+---
 ssid: '54982'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 27
       month: 1
       year: 1985
-  justification: Evgeny Yurievich Vazhenov is a major of the 64th Separate Motorised Rifle Brigade of the 35th Combined Arms Army of the Russian Federation, which reportedly killed, raped and tortured civilians in Bucha, Ukraine. These atrocities may constitute crimes against humanity and war crimes.
+  justification: Evgeny Yurievich Vazhenov is a major of the 64th Separate Motorised
+    Rifle Brigade of the 35th Combined Arms Army of the Russian Federation, which
+    reportedly killed, raped and tortured civilians in Bucha, Ukraine. These atrocities
+    may constitute crimes against humanity and war crimes.

@@ -1,3 +1,4 @@
+---
 ssid: '62336'
 sanctions_set_id: '3986'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Areen foundation
     day_month_year:
       year: 1999
-  justification: The al-Areen foundation poses as a charitable foundation, but is closely affiliated with former al-Assad regime-affiliated militias.
+  justification: The al-Areen foundation poses as a charitable foundation, but is
+    closely affiliated with former al-Assad regime-affiliated militias.

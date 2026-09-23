@@ -1,3 +1,4 @@
+---
 ssid: '72580'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 21
       month: 3
       year: 1959
-  justification: Valeriy Shatilo held the position of Director of OJSC 2566 Plant for the Repair of Radio-Electronic Weapons until February 2025. The enterprise specialises in the repair and modernisation of weapons and air defence equipment, as well as other complex radio-electronic equipment and military products. OJSC 2566 Radioelectronic Armament Repair Plant is providing maintenance and repair services to the Russian Armed Forces.
+  justification: Valeriy Shatilo held the position of Director of OJSC 2566 Plant
+    for the Repair of Radio-Electronic Weapons until February 2025. The enterprise
+    specialises in the repair and modernisation of weapons and air defence equipment,
+    as well as other complex radio-electronic equipment and military products. OJSC
+    2566 Radioelectronic Armament Repair Plant is providing maintenance and repair
+    services to the Russian Armed Forces.

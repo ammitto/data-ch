@@ -1,3 +1,4 @@
+---
 ssid: '73223'
 sanctions_set_id: '27286'
 entity:
@@ -26,4 +27,11 @@ entity:
     addresses:
     - address_details: Entuziastov highway, 56 bldg. 22
       zip_code: '111123'
-  justification: LLC Favorit Research and Production Company creates automated information and control systems for monitoring the surface and ground situation of geographically distributed objects, operating on the basis of special software. LLC Favorit Research and Production Company produces situation awareness systems, mobile complexes, stationary automated complexes, optoelectronic equipment, radar stations, lighting equipment and multifunctional navigation system (Azimuth-F), as well as mobile maintenance complex (Arsenal) and special software designed to automate the activities of control bodies.
+  justification: LLC Favorit Research and Production Company creates automated information
+    and control systems for monitoring the surface and ground situation of geographically
+    distributed objects, operating on the basis of special software. LLC Favorit Research
+    and Production Company produces situation awareness systems, mobile complexes,
+    stationary automated complexes, optoelectronic equipment, radar stations, lighting
+    equipment and multifunctional navigation system (Azimuth-F), as well as mobile
+    maintenance complex (Arsenal) and special software designed to automate the activities
+    of control bodies.

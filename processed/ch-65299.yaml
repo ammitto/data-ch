@@ -1,3 +1,4 @@
+---
 ssid: '65299'
 sanctions_set_id: '4387'
 individual:
@@ -18,4 +19,9 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Ivanavich
-  justification: In his position of Head of Penal Colony No.°14, Yuri Vasilevich is responsible for the mistreatment of the convicts detained under his jurisdiction, and for inhuman and degrading treatment, including torture, inflicted on the political prisoners and other citizens detained in that penal colony. He is therefore responsible for serious violations of human rights and for the repression of civil society in Belarus.
+  justification: In his position of Head of Penal Colony No.°14, Yuri Vasilevich is
+    responsible for the mistreatment of the convicts detained under his jurisdiction,
+    and for inhuman and degrading treatment, including torture, inflicted on the political
+    prisoners and other citizens detained in that penal colony. He is therefore responsible
+    for serious violations of human rights and for the repression of civil society
+    in Belarus.

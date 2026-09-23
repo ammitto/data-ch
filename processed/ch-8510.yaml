@@ -1,3 +1,4 @@
+---
 ssid: '8510'
 sanctions_set_id: '3984'
 entity:
@@ -12,4 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Niru Battery Manufacturing Company
-  justification: Subsidiary of DIO. Its role is to manufacture power units for the Iranian military including missile systems.
+  justification: Subsidiary of DIO. Its role is to manufacture power units for the
+    Iranian military including missile systems.

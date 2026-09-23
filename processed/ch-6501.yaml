@@ -1,3 +1,4 @@
+---
 ssid: '6501'
 sanctions_set_id: '6094'
 individual:
@@ -15,4 +16,5 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Titus
-  justification: Provincial Governor associated with ZANU-PF members of Government. Championed land invasions in Masvingo in 2009.
+  justification: Provincial Governor associated with ZANU-PF members of Government.
+    Championed land invasions in Masvingo in 2009.

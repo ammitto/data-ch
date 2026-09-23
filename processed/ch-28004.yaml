@@ -1,3 +1,4 @@
+---
 ssid: '28004'
 sanctions_set_id: '3986'
 individual:
@@ -17,4 +18,6 @@ individual:
         value: al-Qadri
     day_month_year:
       year: 1956
-  justification: Former Agriculture and Agrarian Reform Minister. As a former Government Minister, shares responsibility for the Syrian regime’s violent repression of the civilian population.
+  justification: Former Agriculture and Agrarian Reform Minister. As a former Government
+    Minister, shares responsibility for the Syrian regime’s violent repression of
+    the civilian population.

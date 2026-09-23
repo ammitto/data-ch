@@ -1,3 +1,4 @@
+---
 ssid: '41292'
 sanctions_set_id: '3986'
 individual:
@@ -36,4 +37,9 @@ individual:
       day: 22
       month: 8
       year: 1978
-  justification: Leading businessperson operating in Syria linked to the former al-Assad regime. Supports and/or benefits from the former al-Assad regime through business dealings, including fuel smuggling and weapons transfers. Yasser Aziz Abbas profits from facilitating oil imports on behalf of the former al-Assad regime and uses his relations with the former al-Assad regime to obtain preferential dealings and treatment.
+  justification: Leading businessperson operating in Syria linked to the former al-Assad
+    regime. Supports and/or benefits from the former al-Assad regime through business
+    dealings, including fuel smuggling and weapons transfers. Yasser Aziz Abbas profits
+    from facilitating oil imports on behalf of the former al-Assad regime and uses
+    his relations with the former al-Assad regime to obtain preferential dealings
+    and treatment.

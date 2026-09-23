@@ -1,3 +1,4 @@
+---
 ssid: '75726'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,13 @@ individual:
       day: 2
       month: 1
       year: 1970
-  justification: Vadim Yakovenko is Head of the Federal Agency for State Property Management (Rosimushchestvo), a Russian federal executive body managing federal property, which organises the sale of federal property to be privatised and property seized in accordance with a court decision or directives of other agencies. Rosimuschestvo is responsible for taking control over multiple Western assets with Decree No. 302 “On Temporary Management of Certain Property” signed by the President of the Russian Federation Vladimir Putin. That decree was signed to ensure the stable functioning of the Russian energy sector and the uninterrupted operation of companies significant for the Russian economy. In addition, Rosimuschestvo contributes significantly to the revenue of the Russian Federation.
+  justification: Vadim Yakovenko is Head of the Federal Agency for State Property
+    Management (Rosimushchestvo), a Russian federal executive body managing federal
+    property, which organises the sale of federal property to be privatised and property
+    seized in accordance with a court decision or directives of other agencies. Rosimuschestvo
+    is responsible for taking control over multiple Western assets with Decree No.
+    302 “On Temporary Management of Certain Property” signed by the President of the
+    Russian Federation Vladimir Putin. That decree was signed to ensure the stable
+    functioning of the Russian energy sector and the uninterrupted operation of companies
+    significant for the Russian economy. In addition, Rosimuschestvo contributes significantly
+    to the revenue of the Russian Federation.

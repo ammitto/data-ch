@@ -1,3 +1,4 @@
+---
 ssid: '9398'
 sanctions_set_id: '8174'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Pouya Control
     addresses:
     - address_details: No 2, Sharif Alley, Shariati Street
-  justification: A company involved in procurement of inverters for Iran’s proscribed enrichment programme.
+  justification: A company involved in procurement of inverters for Iran’s proscribed
+    enrichment programme.

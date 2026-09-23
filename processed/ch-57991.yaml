@@ -1,3 +1,4 @@
+---
 ssid: '57991'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 5
       month: 10
       year: 1961
-  justification: Andrey Shokhin is a member of the Federation Council who on 4 Oct 2022 ratified the four treaties between the Russian Federation and the Donetsk People’s Republic, the Luhansk People’s Republic, the Zaporizhzhia region, and the Kherson region, and their admission to the Russian Federation. Therefore, he has supported and implemented actions and policies, which undermine the territorial integrity, sovereignty and independence of Ukraine, and further destabilised Ukraine.
+  justification: Andrey Shokhin is a member of the Federation Council who on 4 Oct
+    2022 ratified the four treaties between the Russian Federation and the Donetsk
+    People’s Republic, the Luhansk People’s Republic, the Zaporizhzhia region, and
+    the Kherson region, and their admission to the Russian Federation. Therefore,
+    he has supported and implemented actions and policies, which undermine the territorial
+    integrity, sovereignty and independence of Ukraine, and further destabilised Ukraine.

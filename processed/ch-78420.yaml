@@ -1,3 +1,4 @@
+---
 ssid: '78420'
 sanctions_set_id: '68945'
 individual:
@@ -17,4 +18,5 @@ individual:
         value: Ali
     day_month_year:
       year: 1975
-  justification: Ali Jafarabadi is the commander of the Islamic Revolutionary Guard Corps (IRGC) Aerospace Force Space Division.
+  justification: Ali Jafarabadi is the commander of the Islamic Revolutionary Guard
+    Corps (IRGC) Aerospace Force Space Division.

@@ -1,3 +1,4 @@
+---
 ssid: '9387'
 sanctions_set_id: '8174'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: 15 Avenue de Montchoisi
       zip_code: 1006 VD
-  justification: Pearl Energy Services S.A. is a wholly-owned subsidiary of Pearl Energy Company Ltd, located in Switzerland; its mission is to provide financing and expertise to entities seeking to enter in to Iran’s petroleum sector.
+  justification: Pearl Energy Services S.A. is a wholly-owned subsidiary of Pearl
+    Energy Company Ltd, located in Switzerland; its mission is to provide financing
+    and expertise to entities seeking to enter in to Iran’s petroleum sector.

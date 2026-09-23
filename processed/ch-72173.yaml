@@ -1,3 +1,4 @@
+---
 ssid: '72173'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 18
       month: 4
       year: 1987
-  justification: Alexey Galchenkov is the so-called former “Minister of Education” of Kherson Region. He assumed this role without the consent of Ukrainian authorities, in the illegally occupied territories of Kherson Region and implemented the official policies of the Russian Federation in the region.
+  justification: Alexey Galchenkov is the so-called former “Minister of Education”
+    of Kherson Region. He assumed this role without the consent of Ukrainian authorities,
+    in the illegally occupied territories of Kherson Region and implemented the official
+    policies of the Russian Federation in the region.

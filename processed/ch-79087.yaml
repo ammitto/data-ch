@@ -1,3 +1,4 @@
+---
 ssid: '79087'
 sanctions_set_id: '47225'
 individual:
@@ -27,4 +28,5 @@ individual:
         value: Abdul Haq son of M. Anwar Khan
     day_month_year:
       year: 1973
-  justification: Director of the Information and Culture Department in Kandahar Province under the Taliban regime.
+  justification: Director of the Information and Culture Department in Kandahar Province
+    under the Taliban regime.

@@ -1,3 +1,4 @@
+---
 ssid: '63165'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 12
       month: 8
       year: 1977
-  justification: Natalya Kapustnikova is the director of the Mariupol Museum of Local History. She discovered the location of artworks from the Kuindzhi Art Museum of Mariupol and gave those works willingly over to the Russian authorities, who facilitated their transfer to the Local History Museum of Donetsk. This was done without the knowledge or consent of the Ukrainian authorities or the Director of the Kuindzhi Art Museum.
+  justification: Natalya Kapustnikova is the director of the Mariupol Museum of Local
+    History. She discovered the location of artworks from the Kuindzhi Art Museum
+    of Mariupol and gave those works willingly over to the Russian authorities, who
+    facilitated their transfer to the Local History Museum of Donetsk. This was done
+    without the knowledge or consent of the Ukrainian authorities or the Director
+    of the Kuindzhi Art Museum.

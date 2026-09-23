@@ -1,3 +1,4 @@
+---
 ssid: '5300'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 1
       month: 7
       year: 1957
-  justification: Person associated with President Lukashenka, Viktar Lukashenka and Dzmitry Lukashenka. Benefits from and supports the Lukashenka regime. Provides economic advice to President Lukashenka and is a key financial sponsor of the Lukashenka regime through his business interests which include BT Telecommunications.
+  justification: Person associated with President Lukashenka, Viktar Lukashenka and
+    Dzmitry Lukashenka. Benefits from and supports the Lukashenka regime. Provides
+    economic advice to President Lukashenka and is a key financial sponsor of the
+    Lukashenka regime through his business interests which include BT Telecommunications.

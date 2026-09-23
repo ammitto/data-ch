@@ -1,3 +1,4 @@
+---
 ssid: '57142'
 sanctions_set_id: '27286'
 entity:
@@ -22,4 +23,5 @@ entity:
     addresses:
     - address_details: Shcheglovskaya zaseka Str. 33
       zip_code: '300004'
-  justification: Russian weapons manufacturer, which provides weapons to the Russian Armed Forces.
+  justification: Russian weapons manufacturer, which provides weapons to the Russian
+    Armed Forces.

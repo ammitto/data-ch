@@ -1,3 +1,4 @@
+---
 ssid: '62890'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,11 @@ individual:
       day: 31
       month: 7
       year: 1955
-  justification: Alexander Kolmakov is a member of the working group established by President Putin in December 2022 that is tasked with coordinating the mobilisation efforts of the Russian Federation to support its war of aggression against Ukraine. Beyond his role in the working group, he served during and after the full-scale invasion of Ukraine as the chairman of the all-Russian public-state organisation “Voluntary Society for Assistance to the Army, Aviation and Navy of Russia” which acts as link between Russian military and society by facilitating the recruitment of young people into the military reserves.
+  justification: Alexander Kolmakov is a member of the working group established by
+    President Putin in December 2022 that is tasked with coordinating the mobilisation
+    efforts of the Russian Federation to support its war of aggression against Ukraine.
+    Beyond his role in the working group, he served during and after the full-scale
+    invasion of Ukraine as the chairman of the all-Russian public-state organisation
+    “Voluntary Society for Assistance to the Army, Aviation and Navy of Russia” which
+    acts as link between Russian military and society by facilitating the recruitment
+    of young people into the military reserves.

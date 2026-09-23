@@ -1,3 +1,4 @@
+---
 ssid: '4740'
 sanctions_set_id: '4387'
 individual:
@@ -19,6 +20,11 @@ individual:
         name_part_type: father-name
         value: Vasilievich
     addresses:
-    - address_details: Главное статистическое управление Могилевской области Беларусь, пер. Пожарный,16
+    - address_details: Главное статистическое управление Могилевской области Беларусь,
+        пер. Пожарный,16
       zip_code: '212030'
-  justification: Head of the regional office of the Statistics Committee. Former Head of Regional Election Commission in the Mogilev region for the Presidential election of 2010. As the Chairman of a Regional Electoral Commission, he was responsible for the violations of international electoral standards in the Presidential elections on 19 December 2010 in the Mogilev region.
+  justification: Head of the regional office of the Statistics Committee. Former Head
+    of Regional Election Commission in the Mogilev region for the Presidential election
+    of 2010. As the Chairman of a Regional Electoral Commission, he was responsible
+    for the violations of international electoral standards in the Presidential elections
+    on 19 December 2010 in the Mogilev region.

@@ -1,3 +1,4 @@
+---
 ssid: '84961'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 15
       month: 10
       year: 1951
-  justification: Ihar Subotsin is a long-term close business associate of Alexander Shakutin. Ihar Subotsin has been working with Alexander Shakutin since the early 1990s and was also his assistant when Alexander Shakutin was a member of the Council of the Republic of the National Assembly of the Republic of Belarus and his deputy at the Belarusian Tennis Federation.
+  justification: Ihar Subotsin is a long-term close business associate of Alexander
+    Shakutin. Ihar Subotsin has been working with Alexander Shakutin since the early
+    1990s and was also his assistant when Alexander Shakutin was a member of the Council
+    of the Republic of the National Assembly of the Republic of Belarus and his deputy
+    at the Belarusian Tennis Federation.

@@ -1,3 +1,4 @@
+---
 ssid: '59217'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 5
       month: 4
       year: 1970
-  justification: Igor Babushkin is the governor of Astrakhan Oblast, appointed by President Vladimir Putin. In his role as governor, Igor Babushkin manages a regional state body of the Russian Federation and is responsible for implementing state policies at regional level. He has expressed support for the illegal recognition of the so-called independence of the so-called Donetsk and Luhansk Peoples Republics and the war of aggression against Ukraine.
+  justification: Igor Babushkin is the governor of Astrakhan Oblast, appointed by
+    President Vladimir Putin. In his role as governor, Igor Babushkin manages a regional
+    state body of the Russian Federation and is responsible for implementing state
+    policies at regional level. He has expressed support for the illegal recognition
+    of the so-called independence of the so-called Donetsk and Luhansk Peoples Republics
+    and the war of aggression against Ukraine.

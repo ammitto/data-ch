@@ -1,3 +1,4 @@
+---
 ssid: '77931'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 11
       month: 8
       year: 1986
-  justification: Anton Dudal was a judge who served in the court of the Bobruisk district and the city of Bobruisk. He was appointed by Aliaksandr Lukashenka in 2019. He has issued politically motivated sentences, including against citizens of Belarus who voiced their opinions against the President. He sentenced a citizen for acting in self-defence against law-enforcement brutality. He transferred Andrey Sachevko to prison in Mahiliou.
+  justification: Anton Dudal was a judge who served in the court of the Bobruisk district
+    and the city of Bobruisk. He was appointed by Aliaksandr Lukashenka in 2019. He
+    has issued politically motivated sentences, including against citizens of Belarus
+    who voiced their opinions against the President. He sentenced a citizen for acting
+    in self-defence against law-enforcement brutality. He transferred Andrey Sachevko
+    to prison in Mahiliou.

@@ -1,3 +1,4 @@
+---
 ssid: '43568'
 sanctions_set_id: '4387'
 individual:
@@ -18,4 +19,7 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Aliaksandravich
-  justification: In his command position over OMON forces in Gomel/Homyel, he is responsible for the repression and intimidation campaign led by OMON forces in Gomel/Homyel in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment of peaceful demonstrators.
+  justification: In his command position over OMON forces in Gomel/Homyel, he is responsible
+    for the repression and intimidation campaign led by OMON forces in Gomel/Homyel
+    in the wake of the 2020 presidential election, in particular arbitrary arrests
+    and ill-treatment of peaceful demonstrators.

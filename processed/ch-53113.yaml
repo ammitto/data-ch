@@ -1,3 +1,4 @@
+---
 ssid: '53113'
 sanctions_set_id: '27286'
 individual:
@@ -27,4 +28,9 @@ individual:
         value: Jekatarina Ignatova
     day_month_year:
       year: 1968
-  justification: Ekaterina Ignatova is the wife of Sergei Chemezov, who is the CEO of the Russian state corporation Rostec (State Corporation for the Promotion of the Development, Manufacture and Export of High Tech Products). As the wife of Sergei Chemezov, Ekaterina Ignatova holds large assets in connection with him. On Sergei Chemezov’s last public asset declaration in 2019, Ekaterina Ignatova’s annual income of USD 24 million was included.
+  justification: Ekaterina Ignatova is the wife of Sergei Chemezov, who is the CEO
+    of the Russian state corporation Rostec (State Corporation for the Promotion of
+    the Development, Manufacture and Export of High Tech Products). As the wife of
+    Sergei Chemezov, Ekaterina Ignatova holds large assets in connection with him.
+    On Sergei Chemezov’s last public asset declaration in 2019, Ekaterina Ignatova’s
+    annual income of USD 24 million was included.

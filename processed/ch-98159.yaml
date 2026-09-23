@@ -1,3 +1,4 @@
+---
 ssid: '98159'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 2
       month: 6
       year: 1982
-  justification: Konstantin Domogatsky is the Commissioner for Children’s Rights in Orel Region. In that role, he has been involved in the illegal deportation of Ukrainian children to Russia, in particular orphans from illegally occupied territories. He is also involved in the organisation and the promotion of so-called “recreational camps” where Ukrainian children taken from illegally occupied territories of Ukraine receive Russian patriotic and military education.
+  justification: Konstantin Domogatsky is the Commissioner for Children’s Rights in
+    Orel Region. In that role, he has been involved in the illegal deportation of
+    Ukrainian children to Russia, in particular orphans from illegally occupied territories.
+    He is also involved in the organisation and the promotion of so-called “recreational
+    camps” where Ukrainian children taken from illegally occupied territories of Ukraine
+    receive Russian patriotic and military education.

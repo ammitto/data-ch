@@ -1,3 +1,4 @@
+---
 ssid: '91905'
 sanctions_set_id: '29445'
 entity:
@@ -20,4 +21,5 @@ entity:
         name_part_type: whole-name
         value: Gateway Ventures
     addresses:
-    - address_details: Building T1, Saif Zone, Sharjah International Airport Free Zone, 050100
+    - address_details: Building T1, Saif Zone, Sharjah International Airport Free
+        Zone, 050100

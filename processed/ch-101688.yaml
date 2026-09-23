@@ -1,3 +1,4 @@
+---
 ssid: '101688'
 sanctions_set_id: '68945'
 individual:
@@ -19,4 +20,8 @@ individual:
       day: 27
       month: 10
       year: 1982
-  justification: Hossein Hemsi is the CEO and shareholder of Fanavaran Sanat Ertebatat Company (FSE). FSE is a private company supplying critical electronic components and jam-resistance guidance systems to the Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC SSJO) and thereby involved in Iran’s unmanned aerial vehicle (UAV) programme.
+  justification: Hossein Hemsi is the CEO and shareholder of Fanavaran Sanat Ertebatat
+    Company (FSE). FSE is a private company supplying critical electronic components
+    and jam-resistance guidance systems to the Islamic Revolutionary Guard Corps Research
+    and Self-Sufficiency Jihad Organisation (IRGC SSJO) and thereby involved in Iran’s
+    unmanned aerial vehicle (UAV) programme.

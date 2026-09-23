@@ -1,3 +1,4 @@
+---
 ssid: '72164'
 sanctions_set_id: '27286'
 individual:
@@ -20,4 +21,8 @@ individual:
         value: Evgenievich
     day_month_year:
       year: 1976
-  justification: Alexander Reznik is the General Director of JSC Petrovsky Electromechanical Plant “Molot”, which is a military industry company producing various components and instruments for weapons used in the war of aggression against Ukraine. JSC Petrovsky Electromechanical Plant “Molot” is a subsidiary of JSC Concern Granit-Electron, which is part of JSC Tactical Missiles Corporation.
+  justification: Alexander Reznik is the General Director of JSC Petrovsky Electromechanical
+    Plant “Molot”, which is a military industry company producing various components
+    and instruments for weapons used in the war of aggression against Ukraine. JSC
+    Petrovsky Electromechanical Plant “Molot” is a subsidiary of JSC Concern Granit-Electron,
+    which is part of JSC Tactical Missiles Corporation.

@@ -1,3 +1,4 @@
+---
 ssid: '9319'
 sanctions_set_id: '8174'
 entity:
@@ -56,4 +57,6 @@ entity:
         value: MULTIMAT TRADING COMPANY
     addresses:
     - address_details: Guvendik Mahallesi 132/1 Sokak
-  justification: Company run by EU-designated Milad Jafari who has supplied goods, mostly metals, to EU-designated Shahid Hemmat Industries Group (SHIG) through front companies.
+  justification: Company run by EU-designated Milad Jafari who has supplied goods,
+    mostly metals, to EU-designated Shahid Hemmat Industries Group (SHIG) through
+    front companies.

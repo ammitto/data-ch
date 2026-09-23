@@ -1,3 +1,4 @@
+---
 ssid: '75319'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: Kalinina Ave. 28
       zip_code: '656037'
-  justification: OJSC Barnaultransmash is a Russian military industry company manufacturing diesel engines for military vehicles and it is a supplier to the Russian Armed Forces.
+  justification: OJSC Barnaultransmash is a Russian military industry company manufacturing
+    diesel engines for military vehicles and it is a supplier to the Russian Armed
+    Forces.

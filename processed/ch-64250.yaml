@@ -1,3 +1,4 @@
+---
 ssid: '64250'
 sanctions_set_id: '29445'
 entity:
@@ -34,5 +35,6 @@ entity:
         name_part_type: whole-name
         value: OOO GK Yadro
     addresses:
-    - address_details: Rochdelskaya Str. 15, Building 13, Technical Floor/IV, Room 1
+    - address_details: Rochdelskaya Str. 15, Building 13, Technical Floor/IV, Room
+        1
       zip_code: '123376'

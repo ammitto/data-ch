@@ -1,3 +1,4 @@
+---
 ssid: '35498'
 sanctions_set_id: '3978'
 individual:
@@ -23,4 +24,5 @@ individual:
       day: 30
       month: 9
       year: 1973
-  justification: Jo Yong Chol is a DPRK Ministry of State Security Official stationed in Syria supporting KOMID.
+  justification: Jo Yong Chol is a DPRK Ministry of State Security Official stationed
+    in Syria supporting KOMID.

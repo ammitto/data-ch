@@ -1,3 +1,4 @@
+---
 ssid: '68988'
 sanctions_set_id: '68945'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 30
       month: 4
       year: 1963
-  justification: Nader Khoon Siavash is the Director of Aerospace Industries Organization (AIO). AIO is an organisation which reports to the Iranian Ministry of Defence and Armed Forces Logistics (MODAFL), and is active in Iran’s unmanned aerial vehicle (UAV) programme. As Director of AIO, Nader Khoon Siavash is therefore supporting and involved in Iran’s UAV programme.
+  justification: Nader Khoon Siavash is the Director of Aerospace Industries Organization
+    (AIO). AIO is an organisation which reports to the Iranian Ministry of Defence
+    and Armed Forces Logistics (MODAFL), and is active in Iran’s unmanned aerial vehicle
+    (UAV) programme. As Director of AIO, Nader Khoon Siavash is therefore supporting
+    and involved in Iran’s UAV programme.

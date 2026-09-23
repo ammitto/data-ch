@@ -1,3 +1,4 @@
+---
 ssid: '78234'
 sanctions_set_id: '68945'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 23
       month: 9
       year: 1982
-  justification: Mehdi Dehghani Mohammadabadi serves as CEO, member of the board of directors, as well as a shareholder of the Iran-based and EU-listed Kavan Electronics Behrad LLC.
+  justification: Mehdi Dehghani Mohammadabadi serves as CEO, member of the board of
+    directors, as well as a shareholder of the Iran-based and EU-listed Kavan Electronics
+    Behrad LLC.

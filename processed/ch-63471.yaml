@@ -1,3 +1,4 @@
+---
 ssid: '63471'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 7
       month: 1
       year: 1967
-  justification: Colonel General Sergei Kuzovlev is the Commander of the Southern Military District of the Russian Federation since 23 Jan 2023. Under his command and control, the Russian Armed Forces, including troops of the Southern Military District, are engaged in fighting in Ukraine.
+  justification: Colonel General Sergei Kuzovlev is the Commander of the Southern
+    Military District of the Russian Federation since 23 Jan 2023. Under his command
+    and control, the Russian Armed Forces, including troops of the Southern Military
+    District, are engaged in fighting in Ukraine.

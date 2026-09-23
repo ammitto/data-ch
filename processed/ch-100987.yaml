@@ -1,3 +1,4 @@
+---
 ssid: '100987'
 sanctions_set_id: '8174'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: 6 Lothbury
       zip_code: EC2R 7HH
-  justification: Persia International Bank PLC is an entity owned and controlled by Bank Mellat and Bank Tejarat.
+  justification: Persia International Bank PLC is an entity owned and controlled by
+    Bank Mellat and Bank Tejarat.

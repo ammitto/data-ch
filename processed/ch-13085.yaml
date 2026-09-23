@@ -1,3 +1,4 @@
+---
 ssid: '13085'
 sanctions_set_id: '13065'
 individual:
@@ -15,4 +16,7 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Hossein
-  justification: Head of the IRGC’s Rassoulollah Corps in charge of Greater Tehran since November 2009. The Rassoulollah Corps is in charge of security in greater Tehran, and played a key role in violent suppression of protesters in 2009. Responsible for the crackdown of protests through Ashura events (December 2009) and since.
+  justification: Head of the IRGC’s Rassoulollah Corps in charge of Greater Tehran
+    since November 2009. The Rassoulollah Corps is in charge of security in greater
+    Tehran, and played a key role in violent suppression of protesters in 2009. Responsible
+    for the crackdown of protests through Ashura events (December 2009) and since.

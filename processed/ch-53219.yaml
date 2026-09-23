@@ -1,3 +1,4 @@
+---
 ssid: '53219'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 5
       month: 7
       year: 1974
-  justification: Former so-called “Minister of Internal Affairs” of the so-called “Donetsk People’s Republic”. He is also President of the football club Gvardeets (“Guardian”) of Donetsk. In taking on and acting in this capacity, he has actively undermined the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Former so-called “Minister of Internal Affairs” of the so-called
+    “Donetsk People’s Republic”. He is also President of the football club Gvardeets
+    (“Guardian”) of Donetsk. In taking on and acting in this capacity, he has actively
+    undermined the territorial integrity, sovereignty and independence of Ukraine.

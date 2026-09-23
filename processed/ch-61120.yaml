@@ -1,3 +1,4 @@
+---
 ssid: '61120'
 sanctions_set_id: '27286'
 individual:
@@ -27,4 +28,10 @@ individual:
         value: Yelizarov
     day_month_year:
       year: 1981
-  justification: Anton Elizarov, code name “Lotus” was the military commander of the Wagner unit responsible for the capture of the Ukrainian town of Soledar in January 2023. In this position, he was responsible for coordinating and planning operations and for the deployment of mercenaries. He actively participated in the Russian war of aggression against Ukraine. Therefore, he is responsible for supporting and implementing actions and policies which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Anton Elizarov, code name “Lotus” was the military commander of the
+    Wagner unit responsible for the capture of the Ukrainian town of Soledar in January
+    2023. In this position, he was responsible for coordinating and planning operations
+    and for the deployment of mercenaries. He actively participated in the Russian
+    war of aggression against Ukraine. Therefore, he is responsible for supporting
+    and implementing actions and policies which undermine and threaten the territorial
+    integrity, sovereignty and independence of Ukraine.

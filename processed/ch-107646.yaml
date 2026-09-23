@@ -1,3 +1,4 @@
+---
 ssid: '107646'
 sanctions_set_id: '27286'
 entity:
@@ -24,4 +25,8 @@ entity:
     addresses:
     - address_details: Dazhaoying Township (North of Xinhuo Rd)
       zip_code: '453700'
-  justification: Xinxiang Richful Lubricant Additive Company is one of the largest lubricant additive manufacturers and distributors based in China. It supplies chemical additives for mechanical lubricants used in the Russian military. Therefore, Xinxiang Richful Lubricant Additive Company is an entity supporting Russia’s military and industrial complex.
+  justification: Xinxiang Richful Lubricant Additive Company is one of the largest
+    lubricant additive manufacturers and distributors based in China. It supplies
+    chemical additives for mechanical lubricants used in the Russian military. Therefore,
+    Xinxiang Richful Lubricant Additive Company is an entity supporting Russia’s military
+    and industrial complex.

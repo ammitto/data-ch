@@ -1,3 +1,4 @@
+---
 ssid: '60148'
 sanctions_set_id: '39362'
 individual:
@@ -12,4 +13,6 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Myo Myint Aung
-  justification: Lieutenant Colonel Myo Myint Aung has been the Yangon Region Economic Minister since 2 September 2022. As the Minister of the Yangon Region, he is directly involved in and responsible for decision making concerning Yangon region.
+  justification: Lieutenant Colonel Myo Myint Aung has been the Yangon Region Economic
+    Minister since 2 September 2022. As the Minister of the Yangon Region, he is directly
+    involved in and responsible for decision making concerning Yangon region.

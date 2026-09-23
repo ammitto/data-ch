@@ -1,3 +1,4 @@
+---
 ssid: '12152'
 sanctions_set_id: '3986'
 individual:
@@ -33,4 +34,6 @@ individual:
       day: 15
       month: 11
       year: 1961
-  justification: As Head of the Deraa Regional Branch of the General Security Directorate under the former al-Assad regime, responsible for arbitrary detention and torture of detainees in Deraa.
+  justification: As Head of the Deraa Regional Branch of the General Security Directorate
+    under the former al-Assad regime, responsible for arbitrary detention and torture
+    of detainees in Deraa.

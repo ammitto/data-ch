@@ -1,3 +1,4 @@
+---
 ssid: '77940'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 22
       month: 8
       year: 1983
-  justification: Mikalai Siarheevich was a Belarusian judge who served in the Zhlobinsky District Court of the Gomel Region He was appointed by Aliaksandr Lukashenka. He has issued politically motivated sentences against citizens of Belarus who voiced their opinions against the fraudulent presidential elections of 2020, including participants in the Zhlobin protests.
+  justification: Mikalai Siarheevich was a Belarusian judge who served in the Zhlobinsky
+    District Court of the Gomel Region He was appointed by Aliaksandr Lukashenka.
+    He has issued politically motivated sentences against citizens of Belarus who
+    voiced their opinions against the fraudulent presidential elections of 2020, including
+    participants in the Zhlobin protests.

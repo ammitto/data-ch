@@ -1,3 +1,4 @@
+---
 ssid: '55864'
 sanctions_set_id: '29445'
 entity:
@@ -11,4 +12,5 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: United Shipbuilding Corporation “Production Association Northern Machine Building Enterprise”
+        value: United Shipbuilding Corporation “Production Association Northern Machine
+          Building Enterprise”

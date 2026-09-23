@@ -1,3 +1,4 @@
+---
 ssid: '55789'
 sanctions_set_id: '29445'
 entity:
@@ -11,13 +12,15 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Tactical Missile Company, Joint-Stock Company “Research Center for Automated Design”
+        value: Tactical Missile Company, Joint-Stock Company “Research Center for
+          Automated Design”
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: AO NITs ASK; Joint Stock Company “Scientific Research Center for Automated Design Systems”
+        value: AO NITs ASK; Joint Stock Company “Scientific Research Center for Automated
+          Design Systems”
     addresses:
     - address_details: Leningradsky Prospekt, 37, Building 12

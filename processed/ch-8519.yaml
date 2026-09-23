@@ -1,3 +1,4 @@
+---
 ssid: '8519'
 sanctions_set_id: '3984'
 entity:
@@ -27,4 +28,6 @@ entity:
         name_part_type: whole-name
         value: Karaji Agricultural and Medical Research Center
     addresses:
-  justification: The Nuclear Research Center for Agriculture and Medicine is a large research component of the AEOI (E.37.A.1.). The NFRPC is AEOI’s center for the development of nuclear fuel and is involved in enrichmentrelated activities.
+  justification: The Nuclear Research Center for Agriculture and Medicine is a large
+    research component of the AEOI (E.37.A.1.). The NFRPC is AEOI’s center for the
+    development of nuclear fuel and is involved in enrichmentrelated activities.

@@ -1,3 +1,4 @@
+---
 ssid: '39452'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,12 @@ entity:
     addresses:
     - address_details: 6 Barklaya street, Bld. 5
       zip_code: '121087'
-  justification: PJSC Mostotrest actively participated in the construction of the Kerch Bridge through its state contracts for the maintenance of the bridge, connecting Russia to the illegally annexed Crimean peninsula and for servicing the railway part of the bridge. Furthermore it is owned by an individual (Arkady Rotenberg) that is already designated for his actions undermining Ukrainian sovereignty (person No 92 in this Annex). Therefore the company is supporting the consolidation of the illegally annexed Crimean peninsula into the Russian Federation, which in turn further undermines the territorial integrity, sovereignty and independence of Ukraine.
+  justification: PJSC Mostotrest actively participated in the construction of the
+    Kerch Bridge through its state contracts for the maintenance of the bridge, connecting
+    Russia to the illegally annexed Crimean peninsula and for servicing the railway
+    part of the bridge. Furthermore it is owned by an individual (Arkady Rotenberg)
+    that is already designated for his actions undermining Ukrainian sovereignty (person
+    No 92 in this Annex). Therefore the company is supporting the consolidation of
+    the illegally annexed Crimean peninsula into the Russian Federation, which in
+    turn further undermines the territorial integrity, sovereignty and independence
+    of Ukraine.

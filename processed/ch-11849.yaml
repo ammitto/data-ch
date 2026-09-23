@@ -1,3 +1,4 @@
+---
 ssid: '11849'
 sanctions_set_id: '3986'
 individual:
@@ -33,4 +34,5 @@ individual:
       day: 8
       month: 9
       year: 1968
-  justification: Assistant to Maher al-Assad; Head of the military police unit of the army’s 4th Division under the former al-Assad regime, involved in repression.
+  justification: Assistant to Maher al-Assad; Head of the military police unit of
+    the army’s 4th Division under the former al-Assad regime, involved in repression.

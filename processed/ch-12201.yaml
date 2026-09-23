@@ -1,3 +1,4 @@
+---
 ssid: '12201'
 sanctions_set_id: '3986'
 individual:
@@ -19,4 +20,6 @@ individual:
       day: 8
       month: 2
       year: 1944
-  justification: Former Minister of Oil and Mineral Resources under the former al-Assad regime. Associated with the former al-Assad regime and its violent repression of the civilian population.
+  justification: Former Minister of Oil and Mineral Resources under the former al-Assad
+    regime. Associated with the former al-Assad regime and its violent repression
+    of the civilian population.

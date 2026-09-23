@@ -1,3 +1,4 @@
+---
 ssid: '60856'
 sanctions_set_id: '27286'
 entity:
@@ -28,4 +29,10 @@ entity:
       zip_code: '129366'
     - address_details: Город, Пр-Кт Мира, Д. 176
       zip_code: '129366'
-  justification: JSC Shvabe (Shvabe), a holding firm owned by Rostec, specialises in research into and the mass manufacture of optical and laser systems and complexes. Shvabe connects a number of industrial sites and research institutions around Russia, forming the backbone of the country's optical sector. The Shvabe holding carries out the complete cycle of developing cutting-edge optoelectronic and laser technology for Russia's national security. Shvabe also produces and develops optoelectronic and laser systems for the Russian Federation's armed forces.
+  justification: JSC Shvabe (Shvabe), a holding firm owned by Rostec, specialises
+    in research into and the mass manufacture of optical and laser systems and complexes.
+    Shvabe connects a number of industrial sites and research institutions around
+    Russia, forming the backbone of the country's optical sector. The Shvabe holding
+    carries out the complete cycle of developing cutting-edge optoelectronic and laser
+    technology for Russia's national security. Shvabe also produces and develops optoelectronic
+    and laser systems for the Russian Federation's armed forces.

@@ -1,3 +1,4 @@
+---
 ssid: '12292'
 sanctions_set_id: '3986'
 individual:
@@ -27,4 +28,5 @@ individual:
         value: Al-Ahmed
     day_month_year:
       year: 1956
-  justification: Former Minister of State under the former al-Assad regime. Associated with the former al-Assad regime and its violent repression of the civilian population.
+  justification: Former Minister of State under the former al-Assad regime. Associated
+    with the former al-Assad regime and its violent repression of the civilian population.

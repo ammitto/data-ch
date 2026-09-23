@@ -1,3 +1,4 @@
+---
 ssid: '79244'
 sanctions_set_id: '39362'
 individual:
@@ -19,4 +20,6 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Saw Tin Win
-  justification: Major Tin Win is a direct subordinate to Colonel Saw Chit Thu in the Karen/Kayin Border Guard Forces (BGF)/Karen National Army (KNA), an armed group affiliated with the Tatmadaw (Myanmar Armed Forces).
+  justification: Major Tin Win is a direct subordinate to Colonel Saw Chit Thu in
+    the Karen/Kayin Border Guard Forces (BGF)/Karen National Army (KNA), an armed
+    group affiliated with the Tatmadaw (Myanmar Armed Forces).

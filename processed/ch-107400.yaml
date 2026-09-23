@@ -1,3 +1,4 @@
+---
 ssid: '107400'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,12 @@ entity:
     addresses:
     - address_details: Apartment 28, Building 5, Estate 4
       zip_code: '5000'
-  justification: "“Global Ship Solutions” LLC is a shipping company based in the Republic of Azerbaijan that specialises in providing technical support. The company is the technical manager of the vessels Fulger, Deneb and Odune. Those vessels lack adequate liability insurance and engage in manipulation of Automatic Identification Systems while transporting crude oil or petroleum products exported from Russia. Therefore, “Global Ship Solutions” LLC manages vessels that transport crude oil or petroleum products exported from Russia and practice irregular and high-risk shipping practices as set out in the International Maritime Organization General Assembly resolution A.1192(33)."
+  justification: "“Global Ship Solutions” LLC is a shipping company based in the Republic
+    of Azerbaijan that specialises in providing technical support. The company is
+    the technical manager of the vessels Fulger, Deneb and Odune. Those vessels lack
+    adequate liability insurance and engage in manipulation of Automatic Identification
+    Systems while transporting crude oil or petroleum products exported from Russia.
+    Therefore, “Global Ship Solutions” LLC manages vessels that transport crude oil
+    or petroleum products exported from Russia and practice irregular and high-risk
+    shipping practices as set out in the International Maritime Organization General
+    Assembly resolution A.1192(33)."

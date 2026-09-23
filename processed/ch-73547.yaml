@@ -1,3 +1,4 @@
+---
 ssid: '73547'
 sanctions_set_id: '73477'
 entity:
@@ -31,4 +32,7 @@ entity:
     addresses:
     - address_details: Khartoum North
       zip_code: '10783'
-  justification: Defense Industries System (DIS), previously known as the Military Industrial Corporation (MIC), is a large Sudanese Armed Forces (SAF)-owned conglomerate which manages a network of military-controlled companies. DIS generates substantial annual revenues, estimated at USD 2 billion in 2020.
+  justification: Defense Industries System (DIS), previously known as the Military
+    Industrial Corporation (MIC), is a large Sudanese Armed Forces (SAF)-owned conglomerate
+    which manages a network of military-controlled companies. DIS generates substantial
+    annual revenues, estimated at USD 2 billion in 2020.

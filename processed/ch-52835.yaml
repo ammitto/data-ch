@@ -1,3 +1,4 @@
+---
 ssid: '52835'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 12
       month: 2
       year: 1983
-  justification: Alexey Filatov is the Head of the Russian Presidential Administration’s Directorate of Cross-Border Cooperation. He is a high-ranking Kremlin official responsible for the coordination of the Kremlin's aggressive policy, including malign influence activities, towards Ukraine and the occupied regions of Donetsk and Luhansk.
+  justification: Alexey Filatov is the Head of the Russian Presidential Administration’s
+    Directorate of Cross-Border Cooperation. He is a high-ranking Kremlin official
+    responsible for the coordination of the Kremlin's aggressive policy, including
+    malign influence activities, towards Ukraine and the occupied regions of Donetsk
+    and Luhansk.

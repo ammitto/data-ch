@@ -1,3 +1,4 @@
+---
 ssid: '102120'
 sanctions_set_id: '13065'
 entity:
@@ -29,5 +30,7 @@ entity:
     addresses:
     - address_details: No.37, Unit 13, Qasemi Street, Habibollah Street, Azadi Avenue
       zip_code: '1576984418'
-    - address_details: No. 56, 4th and 5th floors, Ghasemi Alley, Shahid Akbari Boulevard, Azadi St
-  justification: Yaftar is a company in Iran that collaborates with the Working Group for Determining Instances of Criminal Content (WGDICC).
+    - address_details: No. 56, 4th and 5th floors, Ghasemi Alley, Shahid Akbari Boulevard,
+        Azadi St
+  justification: Yaftar is a company in Iran that collaborates with the Working Group
+    for Determining Instances of Criminal Content (WGDICC).

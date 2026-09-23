@@ -1,3 +1,4 @@
+---
 ssid: '11985'
 sanctions_set_id: '3986'
 individual:
@@ -26,4 +27,6 @@ individual:
       day: 1
       month: 1
       year: 1977
-  justification: Member of the Syrian electronic army (territorial army intelligence service) under the former al-Assad regime. Involved in the violent crackdown and call for violence against the civilian population across Syria.
+  justification: Member of the Syrian electronic army (territorial army intelligence
+    service) under the former al-Assad regime. Involved in the violent crackdown and
+    call for violence against the civilian population across Syria.

@@ -1,3 +1,4 @@
+---
 ssid: '64621'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 20
       month: 11
       year: 1965
-  justification: Nina Dorokhova is a founder and General Director of Inforos, an online news agency responsible for setting up more than 270 media proxy online news outlets that disseminate propaganda in support of the Russian war of aggression against Ukraine. It is a front organisation for Unit 54777 of the Russian military intelligence service GRU, responsible for psychological operations. Therefore, Nina Dorokhova is responsible for supporting and implementing actions and policies which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Nina Dorokhova is a founder and General Director of Inforos, an online
+    news agency responsible for setting up more than 270 media proxy online news outlets
+    that disseminate propaganda in support of the Russian war of aggression against
+    Ukraine. It is a front organisation for Unit 54777 of the Russian military intelligence
+    service GRU, responsible for psychological operations. Therefore, Nina Dorokhova
+    is responsible for supporting and implementing actions and policies which undermine
+    and threaten the territorial integrity, sovereignty and independence of Ukraine.

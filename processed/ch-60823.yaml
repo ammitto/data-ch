@@ -1,3 +1,4 @@
+---
 ssid: '60823'
 sanctions_set_id: '27286'
 entity:
@@ -26,4 +27,9 @@ entity:
     addresses:
     - address_details: st. River 8
       zip_code: '143403'
-  justification: PJSC “Krasnogorsk Plant named after S.A. Zvereva” is a Russian enterprise owned by JSC Shvabe, part of the Rostec corporation engaged in the defence industry. It produces military technology, military equipment and other military hardware. PJSC “Krasnogorsk Plant named after S.A. Zvereva” provides manufactured optoelectronic items which are used by the Russian military in the war of aggression against Ukraine.
+  justification: PJSC “Krasnogorsk Plant named after S.A. Zvereva” is a Russian enterprise
+    owned by JSC Shvabe, part of the Rostec corporation engaged in the defence industry.
+    It produces military technology, military equipment and other military hardware.
+    PJSC “Krasnogorsk Plant named after S.A. Zvereva” provides manufactured optoelectronic
+    items which are used by the Russian military in the war of aggression against
+    Ukraine.

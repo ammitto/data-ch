@@ -1,3 +1,4 @@
+---
 ssid: '4139'
 sanctions_set_id: '3973'
 entity:
@@ -13,4 +14,8 @@ entity:
         name_part_type: whole-name
         value: Vial Company
     addresses:
-  justification: According to a Belgian arrest warrant filed with Interpol in February 2002, Viktor Bout had power of attorney over Vial’s bank accounts and used them to launder proceeds from weapons trafficking. An article in a South African academic journal reports that Viktor Bout also used Vial as the mechanism to sell aircraft to the Taliban regime in Afghanistan.
+  justification: According to a Belgian arrest warrant filed with Interpol in February
+    2002, Viktor Bout had power of attorney over Vial’s bank accounts and used them
+    to launder proceeds from weapons trafficking. An article in a South African academic
+    journal reports that Viktor Bout also used Vial as the mechanism to sell aircraft
+    to the Taliban regime in Afghanistan.

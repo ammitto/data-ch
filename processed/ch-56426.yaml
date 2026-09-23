@@ -1,3 +1,4 @@
+---
 ssid: '56426'
 sanctions_set_id: '27286'
 entity:
@@ -19,4 +20,6 @@ entity:
     addresses:
     - address_details: Mosfilmovskaya Str. 40A
       zip_code: '119285'
-  justification: The “Russkiy Mir” Foundation was created, and has been financed, by the Government of the Russian Federation. It has been used by the Russian Federation to advance its interests in the post-Soviet countries.
+  justification: The “Russkiy Mir” Foundation was created, and has been financed,
+    by the Government of the Russian Federation. It has been used by the Russian Federation
+    to advance its interests in the post-Soviet countries.

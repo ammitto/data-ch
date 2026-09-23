@@ -1,3 +1,4 @@
+---
 ssid: '6999'
 sanctions_set_id: '6094'
 individual:
@@ -15,4 +16,5 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Chris
-  justification: Directly involved in the terror campaign waged before and during the elections in Byo in 2008.
+  justification: Directly involved in the terror campaign waged before and during
+    the elections in Byo in 2008.

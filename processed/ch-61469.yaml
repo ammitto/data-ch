@@ -1,3 +1,4 @@
+---
 ssid: '61469'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 22
       month: 11
       year: 1957
-  justification: Alexander Akopov is the former Deputy CEO of National Media Group (NMG), a large media holding controlling media outlets which are actively spreading propaganda and disinformation related to the Russian war of aggression against Ukraine. He is former deputy to Svetlana Balanova, head of NMG.
+  justification: Alexander Akopov is the former Deputy CEO of National Media Group
+    (NMG), a large media holding controlling media outlets which are actively spreading
+    propaganda and disinformation related to the Russian war of aggression against
+    Ukraine. He is former deputy to Svetlana Balanova, head of NMG.

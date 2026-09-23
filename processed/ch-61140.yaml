@@ -1,3 +1,4 @@
+---
 ssid: '61140'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,11 @@ individual:
       day: 1
       month: 1
       year: 1955
-  justification: Vladimir Selin is the Director of the Federal Service for Technical and Export Control (FSTEK), which is subordinate to the Ministry of Defence of the Russian Federation. The FSTEK is a federal executive body responsible for control and oversight in the field of information security, including in the military sphere, and for implementing export controls. In this role, he is responsible for the control and supervision and development of state policy in the field of export controls and military-technical cooperation, thus making him responsible for the Russian war effort in general.
+  justification: Vladimir Selin is the Director of the Federal Service for Technical
+    and Export Control (FSTEK), which is subordinate to the Ministry of Defence of
+    the Russian Federation. The FSTEK is a federal executive body responsible for
+    control and oversight in the field of information security, including in the military
+    sphere, and for implementing export controls. In this role, he is responsible
+    for the control and supervision and development of state policy in the field of
+    export controls and military-technical cooperation, thus making him responsible
+    for the Russian war effort in general.

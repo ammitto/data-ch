@@ -1,3 +1,4 @@
+---
 ssid: '104690'
 sanctions_set_id: '27286'
 individual:
@@ -18,4 +19,10 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Viktorovich
-  justification: Aleksey Rtishchev is Head of the Radiological, Chemical and Biological Defence Troops, a unit forming part of the Russian Ministry of Defence. The Radiological, Chemical and Biological Troops systematically employ chemical weapons against Ukraine as part of a wider Russian strategy to weaken and destabilise Ukraine. Therefore, Aleksey Rtishchev is supporting and implementing actions and policies which undermine or threaten the territorial integrity, sovereignty and independence of Ukraine as well as stability and security in Ukraine.
+  justification: Aleksey Rtishchev is Head of the Radiological, Chemical and Biological
+    Defence Troops, a unit forming part of the Russian Ministry of Defence. The Radiological,
+    Chemical and Biological Troops systematically employ chemical weapons against
+    Ukraine as part of a wider Russian strategy to weaken and destabilise Ukraine.
+    Therefore, Aleksey Rtishchev is supporting and implementing actions and policies
+    which undermine or threaten the territorial integrity, sovereignty and independence
+    of Ukraine as well as stability and security in Ukraine.

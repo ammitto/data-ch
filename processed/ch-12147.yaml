@@ -1,3 +1,4 @@
+---
 ssid: '12147'
 sanctions_set_id: '3986'
 individual:
@@ -22,4 +23,6 @@ individual:
       - order: 1
         name_part_type: given-name
         value: Wafeeq
-  justification: As Head of the Suwayda Regional Branch of the Department for Military Intelligence under the former al-Assad regime, responsible for arbitrary detention and torture of detainees in Suwayda.
+  justification: As Head of the Suwayda Regional Branch of the Department for Military
+    Intelligence under the former al-Assad regime, responsible for arbitrary detention
+    and torture of detainees in Suwayda.

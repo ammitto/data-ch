@@ -1,3 +1,4 @@
+---
 ssid: '59613'
 sanctions_set_id: '29445'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Rzhanov Institute of Semiconductor Physics, Siberian Branch of Russian Academy of Sciences (IPP SB RAS)
+        value: Rzhanov Institute of Semiconductor Physics, Siberian Branch of Russian
+          Academy of Sciences (IPP SB RAS)
     - name_type: alias
       quality: good
       lang: eng

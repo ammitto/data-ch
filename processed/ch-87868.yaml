@@ -1,3 +1,4 @@
+---
 ssid: '87868'
 sanctions_set_id: '38373'
 individual:
@@ -22,4 +23,11 @@ individual:
       day: 16
       month: 7
       year: 1967
-  justification: President of the Supreme Court of Justice of Venezuela (TSJ) and President of the Electoral Chamber of the Supreme Court of Justice of Venezuela since January 2024. In her function as President of the Electoral Chamber, Caryslia Beatriz Rodríguez Rodríguez is responsible for declaring the proclaimed win of Nicolás Maduro in the 28 July 2024 presidential election as indisputable, although the TSJ did not divulge the detailed voting data on which its ruling was based and despite irregularities in the management of the electoral process by the National Electoral Council (CNE).
+  justification: President of the Supreme Court of Justice of Venezuela (TSJ) and
+    President of the Electoral Chamber of the Supreme Court of Justice of Venezuela
+    since January 2024. In her function as President of the Electoral Chamber, Caryslia
+    Beatriz Rodríguez Rodríguez is responsible for declaring the proclaimed win of
+    Nicolás Maduro in the 28 July 2024 presidential election as indisputable, although
+    the TSJ did not divulge the detailed voting data on which its ruling was based
+    and despite irregularities in the management of the electoral process by the National
+    Electoral Council (CNE).

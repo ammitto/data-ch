@@ -1,3 +1,4 @@
+---
 ssid: '37021'
 sanctions_set_id: '3978'
 entity:
@@ -28,4 +29,6 @@ entity:
         value: Korea Trading Bank
     addresses:
     - address_details: FTB Building, Jungsong-dong
-  justification: Foreign Trade Bank is a State-owned bank and acts as the DPRK’s primary foreign exchange bank and has provided key financial support to the Korea Kwangson Banking Corporation.
+  justification: Foreign Trade Bank is a State-owned bank and acts as the DPRK’s primary
+    foreign exchange bank and has provided key financial support to the Korea Kwangson
+    Banking Corporation.

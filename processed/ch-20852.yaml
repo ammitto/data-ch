@@ -1,3 +1,4 @@
+---
 ssid: '20852'
 sanctions_set_id: '3980'
 entity:
@@ -12,4 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Capitana Seas Limited
-  justification: BVI-incorporated entity owned by Saadi Qadhafi. Closely associated with the former regime of Muammar Qadhafi.
+  justification: BVI-incorporated entity owned by Saadi Qadhafi. Closely associated
+    with the former regime of Muammar Qadhafi.

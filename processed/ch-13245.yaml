@@ -1,3 +1,4 @@
+---
 ssid: '13245'
 sanctions_set_id: '13065'
 individual:
@@ -15,4 +16,9 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Mostafa Barzegar
-  justification: General Director of Inspection Supervision and Performance Evaluation of Courts since Jun 2020. Former Prosecutor General of Qom (2008-2017) and former Head of the Directorate-General for prisons. He was responsible for the arbitrary detention and maltreatment of dozens of offenders in Qom. He was complicit in a grave violation of the right to due process, contributing to the excessive and increasing use of the death penalty and a sharp increase in executions in 2009/2010.
+  justification: General Director of Inspection Supervision and Performance Evaluation
+    of Courts since Jun 2020. Former Prosecutor General of Qom (2008-2017) and former
+    Head of the Directorate-General for prisons. He was responsible for the arbitrary
+    detention and maltreatment of dozens of offenders in Qom. He was complicit in
+    a grave violation of the right to due process, contributing to the excessive and
+    increasing use of the death penalty and a sharp increase in executions in 2009/2010.

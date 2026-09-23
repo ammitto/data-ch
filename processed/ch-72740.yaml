@@ -1,3 +1,4 @@
+---
 ssid: '72740'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,11 @@ individual:
       day: 12
       month: 5
       year: 1954
-  justification: Sergey Ponomarev is the General Director of JSC Corporation MIT. JSC Corporation MIT is a Russian developer of missile armament. JSC Corporation MIT developed mobile ground-based missile systems with solid-propellant guided ballistic missilesTemp-S, Temp-2S, Pioneer, Topol, Topol-M, Yars and others. Mobile ground-based complexes with ballistic missiles, developed by the corporation, are used by the Russian Armed Forces. In addition, JSC Corporation MIT ran an aid collection campaign entitled “MIT Helps!” to help soldiers and militias of the unrecognised so-called Donetsk and Lugansk People’s Republics.
+  justification: Sergey Ponomarev is the General Director of JSC Corporation MIT.
+    JSC Corporation MIT is a Russian developer of missile armament. JSC Corporation
+    MIT developed mobile ground-based missile systems with solid-propellant guided
+    ballistic missilesTemp-S, Temp-2S, Pioneer, Topol, Topol-M, Yars and others. Mobile
+    ground-based complexes with ballistic missiles, developed by the corporation,
+    are used by the Russian Armed Forces. In addition, JSC Corporation MIT ran an
+    aid collection campaign entitled “MIT Helps!” to help soldiers and militias of
+    the unrecognised so-called Donetsk and Lugansk People’s Republics.

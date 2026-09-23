@@ -1,3 +1,4 @@
+---
 ssid: '7039'
 sanctions_set_id: '6094'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 6
       month: 10
       year: 1960
-  justification: Senior military officer directly involved in the terror campaign waged before and during the elections. In charge of torture base in Makoni West, Mutasa Central in 2007/2008.
+  justification: Senior military officer directly involved in the terror campaign
+    waged before and during the elections. In charge of torture base in Makoni West,
+    Mutasa Central in 2007/2008.

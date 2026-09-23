@@ -1,3 +1,4 @@
+---
 ssid: '57583'
 sanctions_set_id: '27286'
 entity:
@@ -19,4 +20,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Qods Aeronautics Industries
-  justification: Qods Aviation Industries is an Iranian company that designs and manufactures Unmanned Aerial Vehicles (UAVs).
+  justification: Qods Aviation Industries is an Iranian company that designs and manufactures
+    Unmanned Aerial Vehicles (UAVs).

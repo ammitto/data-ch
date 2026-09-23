@@ -1,3 +1,4 @@
+---
 ssid: '12104'
 sanctions_set_id: '3986'
 individual:
@@ -18,4 +19,6 @@ individual:
       - order: 3
         name_part_type: title
         value: Major General
-  justification: Gave soldiers orders to pick up the bodies and hand them over to the mukhabarat and responsible for the violence in Bukamal under the former al-Assad regime.
+  justification: Gave soldiers orders to pick up the bodies and hand them over to
+    the mukhabarat and responsible for the violence in Bukamal under the former al-Assad
+    regime.

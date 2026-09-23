@@ -1,3 +1,4 @@
+---
 ssid: '36655'
 sanctions_set_id: '3986'
 individual:
@@ -51,4 +52,5 @@ individual:
         value: al-Mousa
     day_month_year:
       year: 1954
-  justification: Former Governor of Hasaka, appointed by former President Bashar al-Assad; he is associated with former President Bashar al-Assad.
+  justification: Former Governor of Hasaka, appointed by former President Bashar al-Assad;
+    he is associated with former President Bashar al-Assad.

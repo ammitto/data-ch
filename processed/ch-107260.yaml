@@ -1,3 +1,4 @@
+---
 ssid: '107260'
 sanctions_set_id: '27286'
 entity:
@@ -14,4 +15,9 @@ entity:
         value: LLC “IONOS”
     addresses:
     - zip_code: '346741'
-  justification: LLC “IONOS” is a Russian company specialising in the manufacture of electric lamps and lighting equipment, as well as in the manufacture of aircraft equipment. The company, in particular through the project “Alaska”, produces the First Person View (FPV) drones “Alyosha”, which have been actively used by Russian forces in Ukraine for reconnaissance, strike, and kamikaze missions. The company plays a growing role in Russia’s expanding drone warfare capabilities.
+  justification: LLC “IONOS” is a Russian company specialising in the manufacture
+    of electric lamps and lighting equipment, as well as in the manufacture of aircraft
+    equipment. The company, in particular through the project “Alaska”, produces the
+    First Person View (FPV) drones “Alyosha”, which have been actively used by Russian
+    forces in Ukraine for reconnaissance, strike, and kamikaze missions. The company
+    plays a growing role in Russia’s expanding drone warfare capabilities.

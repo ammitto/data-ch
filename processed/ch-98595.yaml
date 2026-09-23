@@ -1,3 +1,4 @@
+---
 ssid: '98595'
 sanctions_set_id: '27286'
 entity:
@@ -18,4 +19,9 @@ entity:
       year: 2024
     addresses:
     - address_details: building 14/1, 35
-  justification: Grinex is a crypto-currency exchange registered in Kyrgyzstan. Grinex is a major platform for trading the stablecoin A7A5, which is collateralised by PSB Bank, a Russian State-owned institution. For every rouble spent on A7A5, an equivalent sum is deposited into PSB Bank, thereby increasing the State-owned institution’s capital. A7A5 was developed by LLC A7 and PSB Bank, and is issued by LLC Old Vector.
+  justification: Grinex is a crypto-currency exchange registered in Kyrgyzstan. Grinex
+    is a major platform for trading the stablecoin A7A5, which is collateralised by
+    PSB Bank, a Russian State-owned institution. For every rouble spent on A7A5, an
+    equivalent sum is deposited into PSB Bank, thereby increasing the State-owned
+    institution’s capital. A7A5 was developed by LLC A7 and PSB Bank, and is issued
+    by LLC Old Vector.

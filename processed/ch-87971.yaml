@@ -1,3 +1,4 @@
+---
 ssid: '87971'
 sanctions_set_id: '38373'
 individual:
@@ -18,4 +19,8 @@ individual:
       - order: 3
         name_part_type: family-name
         value: Briceño Cisneros
-  justification: Special Judge of the First Court of First Instance with jurisdiction over cases related to crimes associated with terrorism, and competence to hear crimes associated with corruption and organised crime. In this role, Edward Miguel Briceño Cisneros issued an arrest warrant on 2 September 2024 against Edmundo González Urrutia, presidential candidate of the democratic opposition.
+  justification: Special Judge of the First Court of First Instance with jurisdiction
+    over cases related to crimes associated with terrorism, and competence to hear
+    crimes associated with corruption and organised crime. In this role, Edward Miguel
+    Briceño Cisneros issued an arrest warrant on 2 September 2024 against Edmundo
+    González Urrutia, presidential candidate of the democratic opposition.

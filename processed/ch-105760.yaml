@@ -1,3 +1,4 @@
+---
 ssid: '105760'
 sanctions_set_id: '29445'
 entity:
@@ -27,6 +28,9 @@ entity:
         name_part_type: whole-name
         value: Woeroon Electronic Resource Ltd.
     addresses:
-    - address_details: Workshop A27 24/F, Regent’s Park Prince Industrial Bldg, No. 706 Prince Edward Rd East Kowloon
-    - address_details: lat 7A, 3/F, Winsum Industrial Bldg 588-592 Castle Peal Road, Lai Chi Kok, KL
-    - address_details: 605, Building L2, Exhibition Bay South Bank, Zhancheng Community, Fuhai Street, Bao’an
+    - address_details: Workshop A27 24/F, Regent’s Park Prince Industrial Bldg, No.
+        706 Prince Edward Rd East Kowloon
+    - address_details: lat 7A, 3/F, Winsum Industrial Bldg 588-592 Castle Peal Road,
+        Lai Chi Kok, KL
+    - address_details: 605, Building L2, Exhibition Bay South Bank, Zhancheng Community,
+        Fuhai Street, Bao’an

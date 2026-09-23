@@ -1,3 +1,4 @@
+---
 ssid: '77922'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 26
       month: 8
       year: 1978
-  justification: Volha Dubovik is a Belarusian judge who serves in the court of the Maladzechna district of the Minsk region. She was appointed by Aliaksandr Lukashenka in 2020. She has issued politically motivated sentences, including against citizens of Belarus who protested against the fraudulent presidential elections of 2020. She also sentenced a citizen for acting in self-defence against law-enforcement brutality.
+  justification: Volha Dubovik is a Belarusian judge who serves in the court of the
+    Maladzechna district of the Minsk region. She was appointed by Aliaksandr Lukashenka
+    in 2020. She has issued politically motivated sentences, including against citizens
+    of Belarus who protested against the fraudulent presidential elections of 2020.
+    She also sentenced a citizen for acting in self-defence against law-enforcement
+    brutality.

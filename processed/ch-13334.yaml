@@ -1,3 +1,4 @@
+---
 ssid: '13334'
 sanctions_set_id: '13065'
 individual:
@@ -15,4 +16,6 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Mohammad- Kazem
-  justification: Head of the administrative justice court until Apr 2021. He was complicit in the repression of peaceful demonstrators in 2009 as head of the judiciary branch of the armed forces.
+  justification: Head of the administrative justice court until Apr 2021. He was complicit
+    in the repression of peaceful demonstrators in 2009 as head of the judiciary branch
+    of the armed forces.

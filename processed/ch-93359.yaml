@@ -1,3 +1,4 @@
+---
 ssid: '93359'
 sanctions_set_id: '27286'
 entity:
@@ -26,4 +27,8 @@ entity:
     addresses:
     - address_details: Sukharnaya street, bldg. 35A, office 3
       zip_code: '630001'
-  justification: LLC Aerofregat is active in the Russian military and industrial complex, namely in the development and production of unmanned aerial vehicles (UAVs). Since 2024, it has developed two specific UAV models, named “Kasatka” and “Tribunal”, both of which have military application and have been used in Russia’s war of aggression against Ukraine.
+  justification: LLC Aerofregat is active in the Russian military and industrial complex,
+    namely in the development and production of unmanned aerial vehicles (UAVs). Since
+    2024, it has developed two specific UAV models, named “Kasatka” and “Tribunal”,
+    both of which have military application and have been used in Russia’s war of
+    aggression against Ukraine.

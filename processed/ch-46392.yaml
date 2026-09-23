@@ -1,3 +1,4 @@
+---
 ssid: '46392'
 sanctions_set_id: '27286'
 individual:
@@ -25,4 +26,5 @@ individual:
     addresses:
     - address_details: 35 Marshala Zhukova St, App. 53
     - address_details: Anhars’ka St, 8
-  justification: Vice-chairman of the Central District Court in Simferopol and former judge of the Kievskiy District Court in Simferopol.
+  justification: Vice-chairman of the Central District Court in Simferopol and former
+    judge of the Kievskiy District Court in Simferopol.

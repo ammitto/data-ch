@@ -1,3 +1,4 @@
+---
 ssid: '55240'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 13
       month: 4
       year: 1975
-  justification: Tatiana Navka is the wife of Dmitry Peskov, press secretary of the President of the Russian Federation, Vladimir Putin, who has been listed under Decision 2014/145/CFSP.
+  justification: Tatiana Navka is the wife of Dmitry Peskov, press secretary of the
+    President of the Russian Federation, Vladimir Putin, who has been listed under
+    Decision 2014/145/CFSP.

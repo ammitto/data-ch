@@ -1,3 +1,4 @@
+---
 ssid: '43596'
 sanctions_set_id: '4387'
 individual:
@@ -20,4 +21,8 @@ individual:
         value: Yaugenavich
     day_month_year:
       year: 1972
-  justification: In his leadership position as First Deputy Chairman of the State Security Committee (KGB), he is responsible for the participation of the KGB in the repression and intimidation campaign in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators and opposition members.
+  justification: In his leadership position as First Deputy Chairman of the State
+    Security Committee (KGB), he is responsible for the participation of the KGB in
+    the repression and intimidation campaign in the wake of the 2020 presidential
+    election, in particular arbitrary arrests and ill-treatment, including torture,
+    of peaceful demonstrators and opposition members.

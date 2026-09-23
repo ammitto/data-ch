@@ -1,3 +1,4 @@
+---
 ssid: '50801'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,15 @@ individual:
       day: 28
       month: 9
       year: 1951
-  justification: Roldugin is a businessperson with close ties to the President of the Russian Federation Vladimir Putin. He is part of Putin’s network financial scheme. He owns at least five offshore entities and he keeps his assets in Bank Rossiya (sanctioned by the Union), known in Moscow as “Putin’s wallet”. According to the investigation of the International Consortium of Investigative Journalists, Roldugin is responsible for “shuffling” at least USD 2 billion through banks and offshore companies as a part of the hidden financial network of the President of the Russian Federation Vladimir Putin. He also took part in “Troika Laundromat”, and he funnelled billions of USD through the system. Moreover, he received more than USD 69 million through companies within the “Troika Laundromat”. The fact that Sergei Roldugin was not acting in his own interest has been acknowledged by a Swiss Court.
+  justification: Roldugin is a businessperson with close ties to the President of
+    the Russian Federation Vladimir Putin. He is part of Putin’s network financial
+    scheme. He owns at least five offshore entities and he keeps his assets in Bank
+    Rossiya (sanctioned by the Union), known in Moscow as “Putin’s wallet”. According
+    to the investigation of the International Consortium of Investigative Journalists,
+    Roldugin is responsible for “shuffling” at least USD 2 billion through banks and
+    offshore companies as a part of the hidden financial network of the President
+    of the Russian Federation Vladimir Putin. He also took part in “Troika Laundromat”,
+    and he funnelled billions of USD through the system. Moreover, he received more
+    than USD 69 million through companies within the “Troika Laundromat”. The fact
+    that Sergei Roldugin was not acting in his own interest has been acknowledged
+    by a Swiss Court.

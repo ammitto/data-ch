@@ -1,3 +1,4 @@
+---
 ssid: '55538'
 sanctions_set_id: '27286'
 entity:
@@ -22,4 +23,7 @@ entity:
     addresses:
     - address_details: Entuziastov sh., 4
       zip_code: '143900'
-  justification: BLMZ is a Russian casting and mechanical plant. It supplies materials used for the production of weapons to the Russian military equipment providers that were sanctioned by the Union in view of Russia’s actions destabilising the situation in Ukraine.
+  justification: BLMZ is a Russian casting and mechanical plant. It supplies materials
+    used for the production of weapons to the Russian military equipment providers
+    that were sanctioned by the Union in view of Russia’s actions destabilising the
+    situation in Ukraine.

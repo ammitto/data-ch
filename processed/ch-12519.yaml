@@ -1,3 +1,4 @@
+---
 ssid: '12519'
 sanctions_set_id: '3986'
 entity:
@@ -13,5 +14,6 @@ entity:
         name_part_type: whole-name
         value: Deir ez-Zur Petroleum Company
     addresses:
-    - address_details: Dar Al Saadi Building 1st, 5th, and 6th Floor Zillat Street Mazza Area
+    - address_details: Dar Al Saadi Building 1st, 5th, and 6th Floor Zillat Street
+        Mazza Area
   justification: Joint venture of GPC. Provides financial support to the Syrian regime.

@@ -1,3 +1,4 @@
+---
 ssid: '4894'
 sanctions_set_id: '4387'
 individual:
@@ -21,4 +22,7 @@ individual:
     addresses:
     - address_details: НИИ электронных вычислительных машин, ул. М.Богдановича, 155
       zip_code: '220040'
-  justification: Deputy General Manager for Scientific work of the company "Research Institute on electronic computers" under the control of the State military-industrial committee and former Head of the KGB Board on State Communications. Responsible for the repressive work of the KGB against civil society and democratic opposition.
+  justification: Deputy General Manager for Scientific work of the company "Research
+    Institute on electronic computers" under the control of the State military-industrial
+    committee and former Head of the KGB Board on State Communications. Responsible
+    for the repressive work of the KGB against civil society and democratic opposition.

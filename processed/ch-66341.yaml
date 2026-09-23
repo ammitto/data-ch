@@ -1,3 +1,4 @@
+---
 ssid: '66341'
 sanctions_set_id: '3984'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 31
       month: 12
       year: 1952
-  justification: Head of Finance and Budget Department of the Aerospace Industries Organization (AIO).
+  justification: Head of Finance and Budget Department of the Aerospace Industries
+    Organization (AIO).

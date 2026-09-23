@@ -1,3 +1,4 @@
+---
 ssid: '56824'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 14
       month: 8
       year: 1967
-  justification: Deputy head of the Division of Operation of the State Council in the Administration of the President of the Russian Federation. The Division has been tasked with the preparations for the illegal referenda in the occupied regions of Ukraine.
+  justification: Deputy head of the Division of Operation of the State Council in
+    the Administration of the President of the Russian Federation. The Division has
+    been tasked with the preparations for the illegal referenda in the occupied regions
+    of Ukraine.

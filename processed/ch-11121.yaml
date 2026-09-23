@@ -1,3 +1,4 @@
+---
 ssid: '11121'
 sanctions_set_id: '8174'
 individual:
@@ -15,4 +16,5 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Ali
-  justification: Iranian national supplying goods, mostly carbon fibre to EU-designated SHIG and SBIG.
+  justification: Iranian national supplying goods, mostly carbon fibre to EU-designated
+    SHIG and SBIG.

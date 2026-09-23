@@ -1,3 +1,4 @@
+---
 ssid: '12539'
 sanctions_set_id: '3986'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Syrian Petroleum Company
     addresses:
     - address_details: Expansion Square, Island 19 - Building 32
-  justification: State-owned oil company. Provides financial support to the Syrian regime.
+  justification: State-owned oil company. Provides financial support to the Syrian
+    regime.

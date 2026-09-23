@@ -1,3 +1,4 @@
+---
 ssid: '64373'
 sanctions_set_id: '39362'
 individual:
@@ -12,4 +13,7 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Porel Aung Thein
-  justification: Porel Aung Thein is a member of the National Defence and Security Council (NDSC) and its Central Advisory Body, as well as a former member of the State Administration Council (SAC). He is also a member of a military-proxy party, Union Solidarity and Development Party (USDP).
+  justification: Porel Aung Thein is a member of the National Defence and Security
+    Council (NDSC) and its Central Advisory Body, as well as a former member of the
+    State Administration Council (SAC). He is also a member of a military-proxy party,
+    Union Solidarity and Development Party (USDP).

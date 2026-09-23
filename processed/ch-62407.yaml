@@ -1,3 +1,4 @@
+---
 ssid: '62407'
 sanctions_set_id: '3986'
 individual:
@@ -24,4 +25,7 @@ individual:
       year: 1982
     addresses:
     - address_details: Mazze, Western Villas, Saraya 36 Building, 3rd Floor
-  justification: Ahmad Ali Taher owns shares in Castle Security and Protection LLC, which operates as a shell company for the Fourth Division of the Syrian Arab Army, led by Maher al-Assad. He therefore benefits from and supports the former al-Assad regime.
+  justification: Ahmad Ali Taher owns shares in Castle Security and Protection LLC,
+    which operates as a shell company for the Fourth Division of the Syrian Arab Army,
+    led by Maher al-Assad. He therefore benefits from and supports the former al-Assad
+    regime.

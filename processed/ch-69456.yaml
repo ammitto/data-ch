@@ -1,3 +1,4 @@
+---
 ssid: '69456'
 sanctions_set_id: '27286'
 entity:
@@ -18,4 +19,9 @@ entity:
       year: 2006
     addresses:
     - address_details: Sadovoye Koltso str., 1
-  justification: Federal State Enterprise Anosit is a Russian producer of chemical substances used in explosives and rocket fuel. It is owned by the Russian State but according to a decree of the President of the Russian Federation it will be transformed and transferred to the possession of the State corporation Rostec. Therefore, Federal State Enterprise Anosit will remain in the control of the Russian Government.
+  justification: Federal State Enterprise Anosit is a Russian producer of chemical
+    substances used in explosives and rocket fuel. It is owned by the Russian State
+    but according to a decree of the President of the Russian Federation it will be
+    transformed and transferred to the possession of the State corporation Rostec.
+    Therefore, Federal State Enterprise Anosit will remain in the control of the Russian
+    Government.

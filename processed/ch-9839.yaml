@@ -1,3 +1,4 @@
+---
 ssid: '9839'
 sanctions_set_id: '8174'
 entity:
@@ -17,4 +18,5 @@ entity:
       zip_code: '22087'
     - address_details: Schottweg 6
       zip_code: '22087'
-  justification: Darya Capital Administration is a wholly owned subsidiary of IRISL Europe GmbH. Its Managing Director is Mohammad Talai.
+  justification: Darya Capital Administration is a wholly owned subsidiary of IRISL
+    Europe GmbH. Its Managing Director is Mohammad Talai.

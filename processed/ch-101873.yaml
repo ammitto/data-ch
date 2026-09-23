@@ -1,3 +1,4 @@
+---
 ssid: '101873'
 sanctions_set_id: '73477'
 individual:
@@ -21,4 +22,7 @@ individual:
       - order: 4
         name_part_type: family-name
         value: Al-Misbah
-  justification: Abu Zaid Talha Al-Misbah is the Commander of the Baraa bin Malik Battalion (BBMB), an Islamist militia fighting alongside the Sudanese Armed Forces (SAF) in the conflict between the SAF, the Rapid Support Forces (RSF) and their allied armed groups, which has been ongoing since 15 April 2023.
+  justification: Abu Zaid Talha Al-Misbah is the Commander of the Baraa bin Malik
+    Battalion (BBMB), an Islamist militia fighting alongside the Sudanese Armed Forces
+    (SAF) in the conflict between the SAF, the Rapid Support Forces (RSF) and their
+    allied armed groups, which has been ongoing since 15 April 2023.

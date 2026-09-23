@@ -1,3 +1,4 @@
+---
 ssid: '49820'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 3
       month: 5
       year: 1966
-  justification: Prime Minister of the Russian Federation. As a member of the Security Council of the Russian Federation, supported Russia’s immediate recognition of the two self-proclaimed republics.
+  justification: Prime Minister of the Russian Federation. As a member of the Security
+    Council of the Russian Federation, supported Russia’s immediate recognition of
+    the two self-proclaimed republics.

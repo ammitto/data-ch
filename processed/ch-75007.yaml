@@ -1,3 +1,4 @@
+---
 ssid: '75007'
 sanctions_set_id: '73477'
 individual:
@@ -18,4 +19,6 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Ibrahim
-  justification: Mustafa Ibrahim Abdel Nabi Mohamed is a former senior official of the Sudanese Central Bank who became the RSF’s financial adviser, helping it to manage a web of proxy companies and entities.
+  justification: Mustafa Ibrahim Abdel Nabi Mohamed is a former senior official of
+    the Sudanese Central Bank who became the RSF’s financial adviser, helping it to
+    manage a web of proxy companies and entities.

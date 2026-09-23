@@ -1,3 +1,4 @@
+---
 ssid: '63961'
 sanctions_set_id: '29445'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal Research and Production Center “Nizhny Novgorod Scientific Research Institute of Radio Engineering”
+        value: Federal Research and Production Center “Nizhny Novgorod Scientific
+          Research Institute of Radio Engineering”
     - name_type: alias
       quality: good
       lang: eng

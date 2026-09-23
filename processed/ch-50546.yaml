@@ -1,3 +1,4 @@
+---
 ssid: '50546'
 sanctions_set_id: '29445'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Department of Information and Mass Communications of the Ministry of Defence of the Russian Federation
+        value: Department of Information and Mass Communications of the Ministry of
+          Defence of the Russian Federation
     addresses:
     - address_details: Bolshoi Znamensky Pereulok, 21
       zip_code: '119019'

@@ -1,3 +1,4 @@
+---
 ssid: '100187'
 sanctions_set_id: '8174'
 individual:
@@ -26,4 +27,6 @@ individual:
       day: 24
       month: 11
       year: 1945
-  justification: Said Esmail Khalilipour is the former Deputy Head of AEOI. The AEOI oversees Iran’s nuclear programme and is designated under UNSCR 1737 (2006). Therefore, Said Esmail Khalilipour is involved in Iran’s nuclear proliferation activities.
+  justification: Said Esmail Khalilipour is the former Deputy Head of AEOI. The AEOI
+    oversees Iran’s nuclear programme and is designated under UNSCR 1737 (2006). Therefore,
+    Said Esmail Khalilipour is involved in Iran’s nuclear proliferation activities.

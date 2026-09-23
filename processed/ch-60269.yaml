@@ -1,3 +1,4 @@
+---
 ssid: '60269'
 sanctions_set_id: '27286'
 individual:
@@ -35,4 +36,8 @@ individual:
       day: 24
       month: 7
       year: 1980
-  justification: Former CEO of the Crimea Development Corporation. Member of the Federation Council of the Russian Federation since 20 Dec 2022, as the representative of the illegally annexed Zaporizhzhia region. In taking on and acting in this capacity, he is therefore supporting actions and policies, which undermine the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Former CEO of the Crimea Development Corporation. Member of the Federation
+    Council of the Russian Federation since 20 Dec 2022, as the representative of
+    the illegally annexed Zaporizhzhia region. In taking on and acting in this capacity,
+    he is therefore supporting actions and policies, which undermine the territorial
+    integrity, sovereignty and independence of Ukraine.

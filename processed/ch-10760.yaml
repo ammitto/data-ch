@@ -1,3 +1,4 @@
+---
 ssid: '10760'
 sanctions_set_id: '8174'
 entity:
@@ -21,4 +22,5 @@ entity:
         value: Seibow Limited
     addresses:
     - address_details: 111 Futura Plaza, How Ming Street, Kwun Tong
-  justification: IRISL front company in Hong Kong, owned or controlled by IRISL or an IRISL affiliate.
+  justification: IRISL front company in Hong Kong, owned or controlled by IRISL or
+    an IRISL affiliate.

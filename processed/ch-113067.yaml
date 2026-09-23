@@ -1,3 +1,4 @@
+---
 ssid: '113067'
 sanctions_set_id: '8174'
 individual:
@@ -26,4 +27,5 @@ individual:
       day: 26
       month: 12
       year: 1968
-  justification: Ali Ansari is an Iranian businessman and former owner of Bank Ayandeh and of the Iran Mall.
+  justification: Ali Ansari is an Iranian businessman and former owner of Bank Ayandeh
+    and of the Iran Mall.

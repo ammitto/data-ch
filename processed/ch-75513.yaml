@@ -1,3 +1,4 @@
+---
 ssid: '75513'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 31
       month: 1
       year: 1974
-  justification: Between 2014 and 2022, Rodion Miroshnik was a politician of the so-called “Luhansk People’s Republic”. Since the annexation of the so-called “republics” by Russia, Rodion Miroshnik holds the position as “Ambassador-at-large on the crimes of the Kyiv regime” in the Russian Foreign ministry.
+  justification: Between 2014 and 2022, Rodion Miroshnik was a politician of the so-called
+    “Luhansk People’s Republic”. Since the annexation of the so-called “republics”
+    by Russia, Rodion Miroshnik holds the position as “Ambassador-at-large on the
+    crimes of the Kyiv regime” in the Russian Foreign ministry.

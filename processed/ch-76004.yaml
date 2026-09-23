@@ -1,3 +1,4 @@
+---
 ssid: '76004'
 sanctions_set_id: '27286'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: family-name
-        value: Joint Stock Company “Research and Production Enterprise ‘Istok’ Named After A.I. Shokin”
+        value: Joint Stock Company “Research and Production Enterprise ‘Istok’ Named
+          After A.I. Shokin”
     - name_type: alias
       quality: good
       lang: eng
@@ -32,14 +34,16 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Public Joint Stock Company Research & Production Corporation Istok Named After AI Shokin
+        value: Public Joint Stock Company Research & Production Corporation Istok
+          Named After AI Shokin
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: JSC “Scientific and Production Enterprise ‘Istok’ named after A.I. Shokin”
+        value: JSC “Scientific and Production Enterprise ‘Istok’ named after A.I.
+          Shokin”
     day_month_year:
       day: 31
       month: 12
@@ -47,4 +51,6 @@ entity:
     addresses:
     - address_details: st. Vokzalnaya, 2A, building 1, room 65, floor 2
       zip_code: '141190'
-  justification: JSC “Research and Production Enterprise ‘Istok’ Named After A.I. Shokin” (JSC NPP Istok) is a Russian major producer of electronic components for space and military use.
+  justification: JSC “Research and Production Enterprise ‘Istok’ Named After A.I.
+    Shokin” (JSC NPP Istok) is a Russian major producer of electronic components for
+    space and military use.

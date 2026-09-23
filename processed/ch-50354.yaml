@@ -1,3 +1,4 @@
+---
 ssid: '50354'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 11
       month: 5
       year: 1961
-  justification: Minister of the Interior of the Russian Federation. As a member of the Security Council of the Russian Federation, supported Russia’s immediate recognition of the two self-proclaimed republics.
+  justification: Minister of the Interior of the Russian Federation. As a member of
+    the Security Council of the Russian Federation, supported Russia’s immediate recognition
+    of the two self-proclaimed republics.

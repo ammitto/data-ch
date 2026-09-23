@@ -1,3 +1,4 @@
+---
 ssid: '12591'
 sanctions_set_id: '3986'
 entity:
@@ -21,4 +22,5 @@ entity:
         value: Syrian Crude Oil Transportation Company
     addresses:
     - address_details: Banias Industrial Area, Latakia Entrance Way
-  justification: Syrian state-owned oil company. Provides financial support to the Syrian regime.
+  justification: Syrian state-owned oil company. Provides financial support to the
+    Syrian regime.

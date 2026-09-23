@@ -1,3 +1,4 @@
+---
 ssid: '21418'
 sanctions_set_id: '3986'
 entity:
@@ -12,4 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Political Security Directorate
-  justification: Syrian government agency directly involved in repression under the former al-Assad regime.
+  justification: Syrian government agency directly involved in repression under the
+    former al-Assad regime.

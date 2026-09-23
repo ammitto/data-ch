@@ -1,3 +1,4 @@
+---
 ssid: '58242'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 18
       month: 10
       year: 1978
-  justification: Valery Nikolayevich Falkov is the Minister of Science and Higher Education of the Russian Federation. Under his control, the higher education in the so-called ‘Donetsk People’s Republic’ and ‘Luhansk People’s Republic’ has been incorporated into the Russian education system, and financial provisions have been made to fund science and higher education on the territory of the four illegally annexed regions of Ukraine.
+  justification: Valery Nikolayevich Falkov is the Minister of Science and Higher
+    Education of the Russian Federation. Under his control, the higher education in
+    the so-called ‘Donetsk People’s Republic’ and ‘Luhansk People’s Republic’ has
+    been incorporated into the Russian education system, and financial provisions
+    have been made to fund science and higher education on the territory of the four
+    illegally annexed regions of Ukraine.

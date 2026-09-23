@@ -1,3 +1,4 @@
+---
 ssid: '9502'
 sanctions_set_id: '8174'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: 61 Shahid Abthani Street – Karegar e Shomali
     - address_details: Persian Gulf Boulevard, KM 20 SW
-  justification: Affiliate of the UN-sanctioned Atomic Energy Organization of Iran (AEOI).
+  justification: Affiliate of the UN-sanctioned Atomic Energy Organization of Iran
+    (AEOI).

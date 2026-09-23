@@ -1,3 +1,4 @@
+---
 ssid: '3596'
 sanctions_set_id: '3978'
 entity:
@@ -28,4 +29,5 @@ entity:
         value: Korea Changgwang Credit Bank
     addresses:
     - address_details: Saemul 1-Dong Pyongchon District
-  justification: Main DPRK financial entity for sales of conventional arms, ballistic missiles, and goods related to the assembly and manufacture of such weapons.
+  justification: Main DPRK financial entity for sales of conventional arms, ballistic
+    missiles, and goods related to the assembly and manufacture of such weapons.

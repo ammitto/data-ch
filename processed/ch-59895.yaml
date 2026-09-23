@@ -1,3 +1,4 @@
+---
 ssid: '59895'
 sanctions_set_id: '29445'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company “Scientific and Production Association Russian Basic Information Technologies”
+        value: Joint Stock Company “Scientific and Production Association Russian
+          Basic Information Technologies”
     - name_type: alias
       quality: good
       lang: eng

@@ -1,3 +1,4 @@
+---
 ssid: '37033'
 sanctions_set_id: '3978'
 entity:
@@ -34,4 +35,5 @@ entity:
         name_part_type: whole-name
         value: Koryo Global Trust Bank
     addresses:
-  justification: Koryo Credit Development Bank operates in the financial services industry in the DPRK’s economy.
+  justification: Koryo Credit Development Bank operates in the financial services
+    industry in the DPRK’s economy.

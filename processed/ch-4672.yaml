@@ -1,3 +1,4 @@
+---
 ssid: '4672'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 29
       month: 8
       year: 1949
-  justification: Head of the State Border Committee, former Secretary of the Security Council.
+  justification: Head of the State Border Committee, former Secretary of the Security
+    Council.

@@ -1,3 +1,4 @@
+---
 ssid: '12400'
 sanctions_set_id: '3986'
 entity:
@@ -19,4 +20,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Dounia TV
-  justification: Addounia TV has incited violence against the civilian population in Syria under the former al-Assad regime.
+  justification: Addounia TV has incited violence against the civilian population
+    in Syria under the former al-Assad regime.

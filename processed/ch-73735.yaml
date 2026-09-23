@@ -1,3 +1,4 @@
+---
 ssid: '73735'
 sanctions_set_id: '27286'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Scientific and Technical Center for Industrial Technologies and Air Navigation Systems
+        value: Scientific and Technical Center for Industrial Technologies and Air
+          Navigation Systems
     - name_type: alias
       quality: good
       lang: eng
@@ -30,4 +32,10 @@ entity:
       day: 25
       month: 3
       year: 2009
-  justification: JSC STC Promtekhaero (a.k.a. Scientific and Technical Center for Industrial Technologies and Air Navigation Systems) is a Russian military-industrial state enterprise that develops radio transmission and navigation equipment deployed by the Russian armed forces. Moreover, JSC STC Promtekhaero is part of the Joint Stock Company Almaz-Antey air and space defence corporation, a Russian state-owned arms manufacturer that develops anti-aircraft defence and cruise missile systems for the Russian military.
+  justification: JSC STC Promtekhaero (a.k.a. Scientific and Technical Center for
+    Industrial Technologies and Air Navigation Systems) is a Russian military-industrial
+    state enterprise that develops radio transmission and navigation equipment deployed
+    by the Russian armed forces. Moreover, JSC STC Promtekhaero is part of the Joint
+    Stock Company Almaz-Antey air and space defence corporation, a Russian state-owned
+    arms manufacturer that develops anti-aircraft defence and cruise missile systems
+    for the Russian military.

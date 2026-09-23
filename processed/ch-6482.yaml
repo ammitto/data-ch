@@ -1,3 +1,4 @@
+---
 ssid: '6482'
 sanctions_set_id: '6094'
 individual:
@@ -29,4 +30,7 @@ individual:
       day: 11
       month: 7
       year: 1943
-  justification: Member of the ZANU-PF Politburo. Used influence to motivate political prosecutions in February 2008. Involved in violence in Chegutu including the takeover of the Stockade Citrus Estate in 2008, giving direct orders to those leading the repression.
+  justification: Member of the ZANU-PF Politburo. Used influence to motivate political
+    prosecutions in February 2008. Involved in violence in Chegutu including the takeover
+    of the Stockade Citrus Estate in 2008, giving direct orders to those leading the
+    repression.

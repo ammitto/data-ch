@@ -1,3 +1,4 @@
+---
 ssid: '38744'
 sanctions_set_id: '3978'
 entity:
@@ -21,4 +22,8 @@ entity:
         value: Korea Samma Shpg Co
     addresses:
     - address_details: Rakrang 3-dong, Rakrang-guyok
-  justification: A DPRK-flagged tanker, SAM MA 2 owned by Korea Samma Shipping Company, conducted a ship-to-ship transfer of oil and fabricated documents in mid-October 2017, loading almost 1,600 metric tons of fuel oil in one transaction. The ship master was instructed to erase SAMMA SHIPPING and the Korean words found on the ship’s seal and instead put 'Hai Xin You 606' to mask its identity as a DPRK vessel.
+  justification: A DPRK-flagged tanker, SAM MA 2 owned by Korea Samma Shipping Company,
+    conducted a ship-to-ship transfer of oil and fabricated documents in mid-October
+    2017, loading almost 1,600 metric tons of fuel oil in one transaction. The ship
+    master was instructed to erase SAMMA SHIPPING and the Korean words found on the
+    ship’s seal and instead put 'Hai Xin You 606' to mask its identity as a DPRK vessel.

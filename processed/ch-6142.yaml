@@ -1,3 +1,4 @@
+---
 ssid: '6142'
 sanctions_set_id: '6094'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 7
       month: 4
       year: 1957
-  justification: National Chairman of the ZANU-PF fundraising Committee, sponsored militias in 2008 by providing support to militia bases in the Hoyuyu area of Mutoko.
+  justification: National Chairman of the ZANU-PF fundraising Committee, sponsored
+    militias in 2008 by providing support to militia bases in the Hoyuyu area of Mutoko.

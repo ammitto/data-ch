@@ -1,3 +1,4 @@
+---
 ssid: '47964'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 19
       month: 11
       year: 1974
-  justification: Denis Bortnikov is the son of, and as such is associated with, Alexander Bortnikov – Director of the Federal Security Service (FSB) and Permanent member of the Security Council of the Russian Federation, who is involved in shaping the policy of the Russian Government threatening the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Denis Bortnikov is the son of, and as such is associated with, Alexander
+    Bortnikov – Director of the Federal Security Service (FSB) and Permanent member
+    of the Security Council of the Russian Federation, who is involved in shaping
+    the policy of the Russian Government threatening the territorial integrity, sovereignty
+    and independence of Ukraine.

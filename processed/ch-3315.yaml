@@ -1,3 +1,4 @@
+---
 ssid: '3315'
 sanctions_set_id: '3976'
 individual:
@@ -25,4 +26,7 @@ individual:
     day_month_year:
       year: 1967
     addresses:
-  justification: Felicien Nsanzubukire supervised and coordinated the trafficking of ammunition and weapons between at least November 2008 and April 2009 from the United Republic of Tanzania, via Lake Tanganyika, to FDLR units based in the Uvira and Fizi areas of South Kivu.
+  justification: Felicien Nsanzubukire supervised and coordinated the trafficking
+    of ammunition and weapons between at least November 2008 and April 2009 from the
+    United Republic of Tanzania, via Lake Tanganyika, to FDLR units based in the Uvira
+    and Fizi areas of South Kivu.

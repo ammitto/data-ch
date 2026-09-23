@@ -1,3 +1,4 @@
+---
 ssid: '99874'
 sanctions_set_id: '29445'
 entity:
@@ -13,5 +14,6 @@ entity:
         name_part_type: whole-name
         value: Sollers Alabuga LLC
     addresses:
-    - address_details: Office 319, Building 1/6, Sh-2 Street (Alabuga Special Economic Zone territory), Yelabuga City, Yelabuga Municipal District
+    - address_details: Office 319, Building 1/6, Sh-2 Street (Alabuga Special Economic
+        Zone territory), Yelabuga City, Yelabuga Municipal District
       zip_code: '423601'

@@ -1,3 +1,4 @@
+---
 ssid: '77025'
 sanctions_set_id: '29445'
 entity:
@@ -27,4 +28,5 @@ entity:
         name_part_type: whole-name
         value: Most Development Ltd
     addresses:
-    - address_details: 2–16 Fayuen Street, Office 4, 16/F, Ho King Commercial Center, Hong Kong; 9 Yin Chong Street, 21F, Room 01, Prosper Commercial Building
+    - address_details: 2–16 Fayuen Street, Office 4, 16/F, Ho King Commercial Center,
+        Hong Kong; 9 Yin Chong Street, 21F, Room 01, Prosper Commercial Building

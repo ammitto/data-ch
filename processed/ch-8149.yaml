@@ -1,3 +1,4 @@
+---
 ssid: '8149'
 sanctions_set_id: '3983'
 entity:
@@ -139,4 +140,9 @@ entity:
         name_part_type: whole-name
         value: Mujaahidiin Youth Movement
     addresses:
-  justification: Al-Shabaab has engaged in acts that directly or indirectly threaten the peace, security, or stability of Somalia, including but not limited to acts that threaten the Djibouti Agreement of Aug 18, 2008, or the political process and acts that threaten the Transitional Federal Institutions (TFIs), the African Union Mission in Somalia (AMISOM), or other international peacekeeping operations related to Somalia.
+  justification: Al-Shabaab has engaged in acts that directly or indirectly threaten
+    the peace, security, or stability of Somalia, including but not limited to acts
+    that threaten the Djibouti Agreement of Aug 18, 2008, or the political process
+    and acts that threaten the Transitional Federal Institutions (TFIs), the African
+    Union Mission in Somalia (AMISOM), or other international peacekeeping operations
+    related to Somalia.

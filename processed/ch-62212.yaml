@@ -1,3 +1,4 @@
+---
 ssid: '62212'
 sanctions_set_id: '3986'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 3
       month: 10
       year: 1985
-  justification: Raji Falhout leads an al-Assad-regime-affiliated militia that is associated with the Syrian Military Intelligence.
+  justification: Raji Falhout leads an al-Assad-regime-affiliated militia that is
+    associated with the Syrian Military Intelligence.

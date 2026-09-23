@@ -1,3 +1,4 @@
+---
 ssid: '3603'
 sanctions_set_id: '3978'
 individual:
@@ -12,4 +13,5 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Han Yu-ro
-  justification: Director of Korea Ryongaksan General Trading Corporation; involved in DPRK’s ballistic missile program.
+  justification: Director of Korea Ryongaksan General Trading Corporation; involved
+    in DPRK’s ballistic missile program.

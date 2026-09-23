@@ -1,3 +1,4 @@
+---
 ssid: '10691'
 sanctions_set_id: '8174'
 entity:
@@ -13,6 +14,9 @@ entity:
         name_part_type: whole-name
         value: Ocean Express Agencies Private Limited
     addresses:
-    - address_details: Ocean Express Agencies – Ground Floor, KDLB Building, 58 West Wharf Road
+    - address_details: Ocean Express Agencies – Ground Floor, KDLB Building, 58 West
+        Wharf Road
       zip_code: '74000'
-  justification: Company acting on behalf of IRISL. Ocean Express Agencies Private Limited used IRISL transport documents and documents used by entities owned or controlled by IRISL to circumvent sanctions.
+  justification: Company acting on behalf of IRISL. Ocean Express Agencies Private
+    Limited used IRISL transport documents and documents used by entities owned or
+    controlled by IRISL to circumvent sanctions.

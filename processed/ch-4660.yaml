@@ -1,3 +1,4 @@
+---
 ssid: '4660'
 sanctions_set_id: '4387'
 individual:
@@ -25,4 +26,8 @@ individual:
     addresses:
     - address_details: ул.Ленина, 19
       zip_code: '220030'
-  justification: Minister for Foreign Affairs, former Head of the President's Adminstration. As Head of the President's Administration, he was considered to be the second most powerful person in the regime and, as such, was responsible for organising fraudulent elections in 2008 and 2010 and for the subsequent repression of peaceful demonstrators.
+  justification: Minister for Foreign Affairs, former Head of the President's Adminstration.
+    As Head of the President's Administration, he was considered to be the second
+    most powerful person in the regime and, as such, was responsible for organising
+    fraudulent elections in 2008 and 2010 and for the subsequent repression of peaceful
+    demonstrators.

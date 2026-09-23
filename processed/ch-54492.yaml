@@ -1,3 +1,4 @@
+---
 ssid: '54492'
 sanctions_set_id: '4387'
 individual:
@@ -19,4 +20,12 @@ individual:
       day: 20
       month: 9
       year: 1990
-  justification: Andrii Sich is a co-host of the programme “Platform” on state-owned television channel “Belarus 1”. In that position, he has supported regime narratives that aim to discredit independent media, undermine democracy and justify repression. He has supported the Lukashenka regime’s narrative about Western states’ intentions to organise a coup d’état in Belarus and called for harsh punishments for those allegedly involved, supported disinformation campaigns about mistreatment of migrants arriving in the Union from Belarus, and promoted the image of independent media as agents of foreign influence whose activity should be restricted. He is therefore supporting the Lukashenka regime.
+  justification: Andrii Sich is a co-host of the programme “Platform” on state-owned
+    television channel “Belarus 1”. In that position, he has supported regime narratives
+    that aim to discredit independent media, undermine democracy and justify repression.
+    He has supported the Lukashenka regime’s narrative about Western states’ intentions
+    to organise a coup d’état in Belarus and called for harsh punishments for those
+    allegedly involved, supported disinformation campaigns about mistreatment of migrants
+    arriving in the Union from Belarus, and promoted the image of independent media
+    as agents of foreign influence whose activity should be restricted. He is therefore
+    supporting the Lukashenka regime.

@@ -1,3 +1,4 @@
+---
 ssid: '4449'
 sanctions_set_id: '4387'
 individual:
@@ -25,4 +26,8 @@ individual:
     addresses:
     - address_details: Filimonova Str., 55/2
       zip_code: '220114'
-  justification: Has close ties with President Lukashenka with whom he worked closely during the 1980s and mainly in 1990s. Deputy Head of the National Olympic Committee (Head is Alexandr Lukashenka). Head of the Handball federation, re-elected in 2014. Former Chairman of the Lower House of the Parliament. He was one of the main actors in the fraudulent presidential election in 2006.
+  justification: Has close ties with President Lukashenka with whom he worked closely
+    during the 1980s and mainly in 1990s. Deputy Head of the National Olympic Committee
+    (Head is Alexandr Lukashenka). Head of the Handball federation, re-elected in
+    2014. Former Chairman of the Lower House of the Parliament. He was one of the
+    main actors in the fraudulent presidential election in 2006.

@@ -1,3 +1,4 @@
+---
 ssid: '4058'
 sanctions_set_id: '3973'
 entity:
@@ -15,4 +16,10 @@ entity:
     addresses:
     - address_details: UL Furmanova 65, Office 317
       zip_code: '48004'
-  justification: Irbis was formed in 1998 and leases its aircraft exclusively from Air Cess. The «UN Final Report of the Monitoring Mechanism on Angola Sanctions» in 2000 reported «it can be considered that Irbis forms an Eastern European office for Viktor Bout.» The UN Monitoring Mechanism on Angola Sanctions further stated that Irbis has been a front company of Viktor Bout's aircraft leasing operations for the past seven years. Press reports further indicated that the company is owned by Viktor Bout.
+  justification: Irbis was formed in 1998 and leases its aircraft exclusively from
+    Air Cess. The «UN Final Report of the Monitoring Mechanism on Angola Sanctions»
+    in 2000 reported «it can be considered that Irbis forms an Eastern European office
+    for Viktor Bout.» The UN Monitoring Mechanism on Angola Sanctions further stated
+    that Irbis has been a front company of Viktor Bout's aircraft leasing operations
+    for the past seven years. Press reports further indicated that the company is
+    owned by Viktor Bout.

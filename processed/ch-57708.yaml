@@ -1,3 +1,4 @@
+---
 ssid: '57708'
 sanctions_set_id: '27286'
 individual:
@@ -19,4 +20,7 @@ individual:
       day: 29
       month: 5
       year: 1983
-  justification: Yousef Aboutalebi is the managing director of EU-listed Oje Parvaz Mado Nafar Company (Mado), an Iran-based company specialised in manufacturing Unmanned Aerial Vehicle (UAV) components and in importing and exporting commercial goods.
+  justification: Yousef Aboutalebi is the managing director of EU-listed Oje Parvaz
+    Mado Nafar Company (Mado), an Iran-based company specialised in manufacturing
+    Unmanned Aerial Vehicle (UAV) components and in importing and exporting commercial
+    goods.

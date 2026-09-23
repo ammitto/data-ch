@@ -1,3 +1,4 @@
+---
 ssid: '56054'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 16
       month: 10
       year: 1974
-  justification: Deputy Commander of the Chechen branch of the National Guard of the Russian Federation. Responsible for commanding the Chechen forces during Russia's war of aggression against Ukraine, including in the Kyiv and Donbas regions. In this capacity, he is responsible for, supporting or implementing actions or policies which undermine or threaten the territorial integrity, sovereignty and independence of Ukraine, or stability or security in Ukraine.
+  justification: Deputy Commander of the Chechen branch of the National Guard of the
+    Russian Federation. Responsible for commanding the Chechen forces during Russia's
+    war of aggression against Ukraine, including in the Kyiv and Donbas regions. In
+    this capacity, he is responsible for, supporting or implementing actions or policies
+    which undermine or threaten the territorial integrity, sovereignty and independence
+    of Ukraine, or stability or security in Ukraine.

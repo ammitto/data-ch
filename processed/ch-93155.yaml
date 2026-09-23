@@ -1,3 +1,4 @@
+---
 ssid: '93155'
 sanctions_set_id: '27286'
 entity:
@@ -28,4 +29,11 @@ entity:
         value: DMTG
     addresses:
     - address_details: No. 97, Huaihe East Road, Dongjiagou Street
-  justification: General Technology Group Dalian Machine Tool Co., Ltd. is a Chinese company involved in the industrial sector. Through the Stanko Group of companies, an important Russian supplier of machine tools and related services, it sells machine tools on the Russian market, including for use by the Russian military and industrial complex. Therefore, General Technology Group Dalian Machine Tool Co., Ltd is supporting Russia’s military and industrial complex, including by being involved in the development, production or supply of military technology and equipment.
+  justification: General Technology Group Dalian Machine Tool Co., Ltd. is a Chinese
+    company involved in the industrial sector. Through the Stanko Group of companies,
+    an important Russian supplier of machine tools and related services, it sells
+    machine tools on the Russian market, including for use by the Russian military
+    and industrial complex. Therefore, General Technology Group Dalian Machine Tool
+    Co., Ltd is supporting Russia’s military and industrial complex, including by
+    being involved in the development, production or supply of military technology
+    and equipment.

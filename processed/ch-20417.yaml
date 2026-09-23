@@ -1,3 +1,4 @@
+---
 ssid: '20417'
 sanctions_set_id: '12787'
 individual:
@@ -20,4 +21,5 @@ individual:
         value: General
     day_month_year:
       year: 1946
-  justification: Former director of Internal Security Office. Closely associated with the former regime of Muammar Qadhafi.
+  justification: Former director of Internal Security Office. Closely associated with
+    the former regime of Muammar Qadhafi.

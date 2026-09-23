@@ -1,3 +1,4 @@
+---
 ssid: '28141'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 25
       month: 11
       year: 1971
-  justification: Former so-called "Vice Prime Minister of the Council of Ministers of the Luhansk People's Republic", (used to be the so-called "Prime Minister of the Luhansk People's Republic", and former spokesman of the "Army of the South-East").
+  justification: Former so-called "Vice Prime Minister of the Council of Ministers
+    of the Luhansk People's Republic", (used to be the so-called "Prime Minister of
+    the Luhansk People's Republic", and former spokesman of the "Army of the South-East").

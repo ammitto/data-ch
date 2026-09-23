@@ -1,3 +1,4 @@
+---
 ssid: '54204'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: Deryabina avenue, 3B
       zip_code: '394018'
-  justification: Kalashnikov Concern is a Russian developer and manufacturer of army equipment, including personal rifles, missiles and vehicles. It is directly controlled by Rostec.
+  justification: Kalashnikov Concern is a Russian developer and manufacturer of army
+    equipment, including personal rifles, missiles and vehicles. It is directly controlled
+    by Rostec.

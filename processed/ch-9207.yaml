@@ -1,3 +1,4 @@
+---
 ssid: '9207'
 sanctions_set_id: '8174'
 entity:
@@ -16,4 +17,6 @@ entity:
     - address_details: 18 Shahid Dehghani Street, Qarani Street
       zip_code: 19395-5999
     - address_details: No 52 North Kheradmand Avenue (Corner of 6th Alley)
-  justification: Important entity in the energy sector which provides substantial revenues to the Government of Iran. As such, IOEC provides financial and logistical support to the Government of Iran.
+  justification: Important entity in the energy sector which provides substantial
+    revenues to the Government of Iran. As such, IOEC provides financial and logistical
+    support to the Government of Iran.

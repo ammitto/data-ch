@@ -1,3 +1,4 @@
+---
 ssid: '12781'
 sanctions_set_id: '3986'
 individual:
@@ -26,4 +27,7 @@ individual:
       day: 7
       month: 9
       year: 1972
-  justification: President of the Aleppo Chamber of Industry; Chairman of the Federation of Chambers of Industry since 16.12.2018. Vice-Chairman of Cham Holding. Provides economic support to the former al-Assad regime. Member of Syrian Parliament since 2016.
+  justification: President of the Aleppo Chamber of Industry; Chairman of the Federation
+    of Chambers of Industry since 16.12.2018. Vice-Chairman of Cham Holding. Provides
+    economic support to the former al-Assad regime. Member of Syrian Parliament since
+    2016.

@@ -1,3 +1,4 @@
+---
 ssid: '4785'
 sanctions_set_id: '4387'
 individual:
@@ -25,4 +26,5 @@ individual:
     addresses:
     - address_details: ул. Интернациональная, 22
       zip_code: '220030'
-  justification: Deputy Prosecutor General, former Prosecutor of the region of Minsk. Responsible for the repression of civil society following the December 2010 elections.
+  justification: Deputy Prosecutor General, former Prosecutor of the region of Minsk.
+    Responsible for the repression of civil society following the December 2010 elections.

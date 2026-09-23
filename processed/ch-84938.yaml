@@ -1,3 +1,4 @@
+---
 ssid: '84938'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 26
       month: 10
       year: 1976
-  justification: Siarhei Petrakovich is the head of Penal Colony No 9. In this position he is responsible for the inhumane treatment of prisoners, including isolation and beatings. The majority of the inmates are political prisoners, such as Mikola Dedok and the 2022 Nobel Peace Prize winner Ales Bialiatski.
+  justification: Siarhei Petrakovich is the head of Penal Colony No 9. In this position
+    he is responsible for the inhumane treatment of prisoners, including isolation
+    and beatings. The majority of the inmates are political prisoners, such as Mikola
+    Dedok and the 2022 Nobel Peace Prize winner Ales Bialiatski.

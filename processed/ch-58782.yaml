@@ -1,3 +1,4 @@
+---
 ssid: '58782'
 sanctions_set_id: '27286'
 entity:
@@ -18,4 +19,8 @@ entity:
       year: 2003
     addresses:
     - address_details: st. Korolenko 120
-  justification: JSC Eniks is a Russian company engaged in the development, production, operation and repair of aerial target complexes and unmanned aerial vehicles (UAVs), remote surveillance systems and other warfare equipment. JSC Eniks provides manufactured UAVs (Eleron-3 and Eleron-10) to the Russian Armed Forces, which are used in the war of aggression against Ukraine.
+  justification: JSC Eniks is a Russian company engaged in the development, production,
+    operation and repair of aerial target complexes and unmanned aerial vehicles (UAVs),
+    remote surveillance systems and other warfare equipment. JSC Eniks provides manufactured
+    UAVs (Eleron-3 and Eleron-10) to the Russian Armed Forces, which are used in the
+    war of aggression against Ukraine.

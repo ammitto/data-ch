@@ -1,3 +1,4 @@
+---
 ssid: '4624'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 29
       month: 1
       year: 1953
-  justification: Chairwoman of the Central Election Commission of Belarus. Since 1996, she has been one of the main persons participating in the falsifications of the fraudulent elections and referendum, in particular in 2004, 2006, 2008, 2010, 2012.
+  justification: Chairwoman of the Central Election Commission of Belarus. Since 1996,
+    she has been one of the main persons participating in the falsifications of the
+    fraudulent elections and referendum, in particular in 2004, 2006, 2008, 2010,
+    2012.

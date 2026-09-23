@@ -1,3 +1,4 @@
+---
 ssid: '13130'
 sanctions_set_id: '13065'
 individual:
@@ -15,4 +16,9 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Seyeed Hassan
-  justification: Advisor and Member of the 28th Section of the Supreme Court. Head of Mashhad Judiciary until Sep 2014. Trials under his supervision have been conducted summarily and inside closed sessions, without adherence to basic rights of the accused, and with reliance on confessions extracted under pressure and torture. As execution rulings were issued en masse, death sentences were issued without proper observance of fair hearing procedures.
+  justification: Advisor and Member of the 28th Section of the Supreme Court. Head
+    of Mashhad Judiciary until Sep 2014. Trials under his supervision have been conducted
+    summarily and inside closed sessions, without adherence to basic rights of the
+    accused, and with reliance on confessions extracted under pressure and torture.
+    As execution rulings were issued en masse, death sentences were issued without
+    proper observance of fair hearing procedures.

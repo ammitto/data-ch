@@ -1,3 +1,4 @@
+---
 ssid: '85330'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 24
       month: 11
       year: 1983
-  justification: Andrei Svirydau is the financial director of Dimicandum Invest Holding LTD, a company established in the EU. In 2022 and 2023, Dimicandum Invest Holding LTD provided transport and forwarding services to OJSC Belaruskali – which has been designated by the Union since 2022 – at a price nearly double the market rate. As financial director of Dimicandum, Svirydau signed documents confirming this deal, facilitating the undermining of the provisions set out in Council Regulation (EC) No 765/2006.
+  justification: Andrei Svirydau is the financial director of Dimicandum Invest Holding
+    LTD, a company established in the EU. In 2022 and 2023, Dimicandum Invest Holding
+    LTD provided transport and forwarding services to OJSC Belaruskali – which has
+    been designated by the Union since 2022 – at a price nearly double the market
+    rate. As financial director of Dimicandum, Svirydau signed documents confirming
+    this deal, facilitating the undermining of the provisions set out in Council Regulation
+    (EC) No 765/2006.

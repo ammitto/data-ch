@@ -1,3 +1,4 @@
+---
 ssid: '44271'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 27
       month: 2
       year: 1974
-  justification: In her former position as judge of the Central district court in Minsk, she was responsible for numerous politically motivated rulings against journalists, opposition leaders, activists and protesters, in particular the sentencing of opposition presidential candidate Viktar Babarika. Violations of rights of defence were reported during trials conducted under her supervision.
+  justification: In her former position as judge of the Central district court in
+    Minsk, she was responsible for numerous politically motivated rulings against
+    journalists, opposition leaders, activists and protesters, in particular the sentencing
+    of opposition presidential candidate Viktar Babarika. Violations of rights of
+    defence were reported during trials conducted under her supervision.

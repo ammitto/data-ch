@@ -1,3 +1,4 @@
+---
 ssid: '4116'
 sanctions_set_id: '3973'
 entity:
@@ -14,4 +15,6 @@ entity:
         value: Southbound, LTD.
     addresses:
     - address_details: Suite 52 and 553 Monrovia House, 26 Main Street
-  justification: Southbound, Ltd. is a major shareholder in one of Viktor Bout’s flagship companies, Centrafrican Airlines. Documents filed when Viktor Bout registered Centrafrican Airlines indicated that Viktor Bout also controlled Southbound.
+  justification: Southbound, Ltd. is a major shareholder in one of Viktor Bout’s flagship
+    companies, Centrafrican Airlines. Documents filed when Viktor Bout registered
+    Centrafrican Airlines indicated that Viktor Bout also controlled Southbound.

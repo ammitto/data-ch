@@ -1,3 +1,4 @@
+---
 ssid: '6095'
 sanctions_set_id: '6094'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 21
       month: 2
       year: 1924
-  justification: Former President and responsible for activities that seriously undermine democracy, respect for human rights and the rule of law.
+  justification: Former President and responsible for activities that seriously undermine
+    democracy, respect for human rights and the rule of law.

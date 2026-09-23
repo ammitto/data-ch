@@ -1,3 +1,4 @@
+---
 ssid: '7843'
 sanctions_set_id: '3982'
 individual:
@@ -41,5 +42,13 @@ individual:
       month: 1
       year: 1972
     addresses:
-    - address_details: 'Address known in 2001: Yopougon Selmer, Bloc P 170; also at Hotel Ivoire'
-  justification: Leader of COJEP («Young Patriots»), repeated public statements advocating violence against United Nations installations and personnel, and against foreigners; direction of and participation in acts of violence by street militias, including beatings, rapes and extrajudicial killings; intimidation of the United Nations, the International Working Group (IWG), the political opposition and independent press; sabotage of international radio stations; obstacle to the action of the IWG, the United Nations Operation in Côte d'Ivoire (UNOCI), the French Forces and to the peace process as defined by resolution 1643 (2005).
+    - address_details: 'Address known in 2001: Yopougon Selmer, Bloc P 170; also at
+        Hotel Ivoire'
+  justification: Leader of COJEP («Young Patriots»), repeated public statements advocating
+    violence against United Nations installations and personnel, and against foreigners;
+    direction of and participation in acts of violence by street militias, including
+    beatings, rapes and extrajudicial killings; intimidation of the United Nations,
+    the International Working Group (IWG), the political opposition and independent
+    press; sabotage of international radio stations; obstacle to the action of the
+    IWG, the United Nations Operation in Côte d'Ivoire (UNOCI), the French Forces
+    and to the peace process as defined by resolution 1643 (2005).

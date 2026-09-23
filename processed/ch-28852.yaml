@@ -1,3 +1,4 @@
+---
 ssid: '28852'
 sanctions_set_id: '3986'
 entity:
@@ -21,4 +22,5 @@ entity:
         value: Al Jazerra
     addresses:
     - address_details: Shaheen Building, 2nd floor, Sami el Solh
-  justification: Owned or controlled by Ayman Jaber, therefore associated with a designated person.
+  justification: Owned or controlled by Ayman Jaber, therefore associated with a designated
+    person.

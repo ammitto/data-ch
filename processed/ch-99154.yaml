@@ -1,3 +1,4 @@
+---
 ssid: '99154'
 sanctions_set_id: '29445'
 entity:
@@ -27,4 +28,5 @@ entity:
         name_part_type: whole-name
         value: Heilongjiang Province Kalubusi Trade Development Co., Ltd
     addresses:
-    - address_details: Room 509, Building 19, 178 Hongqi Street, Nangang Concentration Zone, Harbin High-tech Industrial Development Zone
+    - address_details: Room 509, Building 19, 178 Hongqi Street, Nangang Concentration
+        Zone, Harbin High-tech Industrial Development Zone

@@ -1,3 +1,4 @@
+---
 ssid: '60284'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,12 @@ individual:
       day: 2
       month: 3
       year: 1968
-  justification: Viktor Yevtukhov is the Head of Presidential Department of the Russian Federation on State Policy in the Field of the Military-Industrial Complex (MIC), which ensures the implementation of state policy as set by the President in the field of the MIC (including assisting the President and acting on his behalf). In that capacity, Viktor Yevtukhov is responsible for actions and activities of the Presidential Department that undermine and threaten the territorial integrity, sovereignty and independence of Ukraine, and he is a natural person supporting the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.
+  justification: Viktor Yevtukhov is the Head of Presidential Department of the Russian
+    Federation on State Policy in the Field of the Military-Industrial Complex (MIC),
+    which ensures the implementation of state policy as set by the President in the
+    field of the MIC (including assisting the President and acting on his behalf).
+    In that capacity, Viktor Yevtukhov is responsible for actions and activities of
+    the Presidential Department that undermine and threaten the territorial integrity,
+    sovereignty and independence of Ukraine, and he is a natural person supporting
+    the Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

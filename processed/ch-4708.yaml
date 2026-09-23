@@ -1,3 +1,4 @@
+---
 ssid: '4708'
 sanctions_set_id: '4387'
 individual:
@@ -18,4 +19,8 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Vasilievich
-  justification: Deputy Chairman of the pro-regime Belarusian scientific-industrial association. Has actively undermined democracy in Belarus. As a former Member of the Central Electoral Commission, he was responsible for the violations of international electoral standards in the Presidential elections on 19 December 2010.
+  justification: Deputy Chairman of the pro-regime Belarusian scientific-industrial
+    association. Has actively undermined democracy in Belarus. As a former Member
+    of the Central Electoral Commission, he was responsible for the violations of
+    international electoral standards in the Presidential elections on 19 December
+    2010.

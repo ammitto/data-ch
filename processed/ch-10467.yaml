@@ -1,3 +1,4 @@
+---
 ssid: '10467'
 sanctions_set_id: '8174'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: Kattrepelsbrücke 1
       zip_code: '20095'
-  justification: Owned or controlled by or acting on behalf of IRISL. IRISL front company, owned or controlled by IRISL or an IRISL affiliate.
+  justification: Owned or controlled by or acting on behalf of IRISL. IRISL front
+    company, owned or controlled by IRISL or an IRISL affiliate.

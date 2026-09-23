@@ -1,3 +1,4 @@
+---
 ssid: '9334'
 sanctions_set_id: '8174'
 entity:
@@ -103,4 +104,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Towsee Fanavari Boshra
-  justification: Involved in procurement of materials that are controlled and have direct application in the manufacture of centrifuges for Iran’s uranium enrichment programme.
+  justification: Involved in procurement of materials that are controlled and have
+    direct application in the manufacture of centrifuges for Iran’s uranium enrichment
+    programme.

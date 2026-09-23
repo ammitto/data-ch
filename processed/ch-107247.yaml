@@ -1,3 +1,4 @@
+---
 ssid: '107247'
 sanctions_set_id: '27286'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint-Stock Company Engels Experimental Design Bureau “Signal” named after A.I. Glukharev
+        value: Joint-Stock Company Engels Experimental Design Bureau “Signal” named
+          after A.I. Glukharev
     - name_type: alias
       quality: good
       lang: eng
@@ -21,4 +23,10 @@ entity:
         value: JSC EOKB “Signal” named after A.I. Glukharev
     addresses:
     - zip_code: '413119'
-  justification: Joint-Stock Company Engels Experimental Design Bureau “Signal” named after A.I. Glukharev develops and manufactures sensor equipment such as alarms, pressure gauges, pressure measurement systems and temperature sensors for use in difficult operating conditions for aviation, rocket, space and marine facilities. Sensors manufactured by Joint-Stock Company Engels Experimental Design Bureau “Signal” named after A.I. Glukharev are used in aircrafts Su-27, Su-35 and helicopters Mi-8, which are all used in Russia’s war of aggression against Ukraine.
+  justification: Joint-Stock Company Engels Experimental Design Bureau “Signal” named
+    after A.I. Glukharev develops and manufactures sensor equipment such as alarms,
+    pressure gauges, pressure measurement systems and temperature sensors for use
+    in difficult operating conditions for aviation, rocket, space and marine facilities.
+    Sensors manufactured by Joint-Stock Company Engels Experimental Design Bureau
+    “Signal” named after A.I. Glukharev are used in aircrafts Su-27, Su-35 and helicopters
+    Mi-8, which are all used in Russia’s war of aggression against Ukraine.

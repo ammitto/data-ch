@@ -1,3 +1,4 @@
+---
 ssid: '87980'
 sanctions_set_id: '38373'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 1
       month: 10
       year: 1965
-  justification: Director of the Bolivarian National Intelligence Service (SEBIN). He was appointed by Nicolás Maduro in that function on 14 October 2024.
+  justification: Director of the Bolivarian National Intelligence Service (SEBIN).
+    He was appointed by Nicolás Maduro in that function on 14 October 2024.

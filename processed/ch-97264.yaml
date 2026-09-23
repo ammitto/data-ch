@@ -1,3 +1,4 @@
+---
 ssid: '97264'
 sanctions_set_id: '3984'
 individual:
@@ -47,4 +48,5 @@ individual:
         value: Haleh
     day_month_year:
       year: 1975
-  justification: Designated for involvement in the production of magnesium at a concentration of 99.9%.
+  justification: Designated for involvement in the production of magnesium at a concentration
+    of 99.9%.

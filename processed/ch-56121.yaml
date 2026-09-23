@@ -1,3 +1,4 @@
+---
 ssid: '56121'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 3
       month: 10
       year: 1963
-  justification: After the capture of the city of Mariupol by the Russian armed forces, the so-called “Head of the Donetsk People’s Republic” Denis Pushilin appointed Konstantin Ivashchenko mayor of Mariupol on 6 April 2022. He was dismissed in January 2023. He publicly supported and participated in the preparations for the illegal referenda in the occupied regions of Ukraine.
+  justification: After the capture of the city of Mariupol by the Russian armed forces,
+    the so-called “Head of the Donetsk People’s Republic” Denis Pushilin appointed
+    Konstantin Ivashchenko mayor of Mariupol on 6 April 2022. He was dismissed in
+    January 2023. He publicly supported and participated in the preparations for the
+    illegal referenda in the occupied regions of Ukraine.

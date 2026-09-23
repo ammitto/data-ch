@@ -1,3 +1,4 @@
+---
 ssid: '63231'
 sanctions_set_id: '27286'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Open Joint Stock Company TV and Radio Company of the Armed Forces of the Russian Federation “Zvezda”
+        value: Open Joint Stock Company TV and Radio Company of the Armed Forces of
+          the Russian Federation “Zvezda”
     - name_type: alias
       quality: good
       lang: eng
@@ -28,4 +30,8 @@ entity:
         Prospekt Mira, 126 (пр-кт
         Мира, д. 126)
       zip_code: '129164'
-  justification: TV and Radio Company of the Armed Forces of the Russian Federation Zvezda is an organisation controlled by Russia’s Ministry of Defence and financed by the Russian state. The company runs a military-patriotic TV channel “Zvezda” devoted to supporting and promoting Russia’s military, and spreads disinformation and propaganda about Russia’s war of aggression against Ukraine.
+  justification: TV and Radio Company of the Armed Forces of the Russian Federation
+    Zvezda is an organisation controlled by Russia’s Ministry of Defence and financed
+    by the Russian state. The company runs a military-patriotic TV channel “Zvezda”
+    devoted to supporting and promoting Russia’s military, and spreads disinformation
+    and propaganda about Russia’s war of aggression against Ukraine.

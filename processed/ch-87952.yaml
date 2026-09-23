@@ -1,3 +1,4 @@
+---
 ssid: '87952'
 sanctions_set_id: '38373'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 20
       month: 9
       year: 1988
-  justification: Assistant Prosecutor in the Venezuelan Public Prosecutor’s office. In this role, Luis Ernesto Dueñez Reyes was involved in the political prosecution of Edmundo González Urrutia, presidential candidate of the democratic opposition.
+  justification: Assistant Prosecutor in the Venezuelan Public Prosecutor’s office.
+    In this role, Luis Ernesto Dueñez Reyes was involved in the political prosecution
+    of Edmundo González Urrutia, presidential candidate of the democratic opposition.

@@ -1,3 +1,4 @@
+---
 ssid: '65276'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 5
       month: 2
       year: 1986
-  justification: Tatsiana Grakun is a Belarusian prosecutor who serves in the Minsk Region Prosecutor’s Office. In this position, she has represented the Lukashenka regime in politically-motivated cases against journalists. In particular, she has prosecuted Maryna Zolatava, TUT.BY editor-in-chief, who was sentenced to 12 years in prison, and Liudmila Chekina, TUT.BY general director, who was sentenced to 12 years in prison in March 2023, based on groundless charges of “harming to the national security of the Republic of Belarus”.
+  justification: Tatsiana Grakun is a Belarusian prosecutor who serves in the Minsk
+    Region Prosecutor’s Office. In this position, she has represented the Lukashenka
+    regime in politically-motivated cases against journalists. In particular, she
+    has prosecuted Maryna Zolatava, TUT.BY editor-in-chief, who was sentenced to 12
+    years in prison, and Liudmila Chekina, TUT.BY general director, who was sentenced
+    to 12 years in prison in March 2023, based on groundless charges of “harming to
+    the national security of the Republic of Belarus”.

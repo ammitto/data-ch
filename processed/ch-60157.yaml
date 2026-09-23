@@ -1,3 +1,4 @@
+---
 ssid: '60157'
 sanctions_set_id: '39362'
 individual:
@@ -12,4 +13,6 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Zin Min Htet
-  justification: Major General Zin Min Htet was the Deputy Minister for Home Affairs and Chief of the Myanmar Police Force. He was directly involved in and responsible for decision making concerning the Yangon region.
+  justification: Major General Zin Min Htet was the Deputy Minister for Home Affairs
+    and Chief of the Myanmar Police Force. He was directly involved in and responsible
+    for decision making concerning the Yangon region.

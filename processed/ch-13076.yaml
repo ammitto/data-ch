@@ -1,3 +1,4 @@
+---
 ssid: '13076'
 sanctions_set_id: '13065'
 individual:
@@ -28,4 +29,7 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Abdollah
-  justification: Brigadier-General in the IRGC. Head of the Security Department of the General Staff of the Armed Forces. Former Deputy Head of IRGC's Ground Forces. He had a direct and personal responsibility in the crackdown of protests all through the summer of 2009.
+  justification: Brigadier-General in the IRGC. Head of the Security Department of
+    the General Staff of the Armed Forces. Former Deputy Head of IRGC's Ground Forces.
+    He had a direct and personal responsibility in the crackdown of protests all through
+    the summer of 2009.

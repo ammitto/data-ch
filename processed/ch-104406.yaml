@@ -1,3 +1,4 @@
+---
 ssid: '104406'
 sanctions_set_id: '29445'
 entity:
@@ -13,7 +14,6 @@ entity:
         name_part_type: whole-name
         value: Shenzhen Sieryou Technology Co. Ltd.
     addresses:
-    - address_details: |-
-        18th Floor, Yifang Building, No. 315 Shuangming Avenue, Dongzhou Community, 
-        Guangming Street
+    - address_details: "18th Floor, Yifang Building, No. 315 Shuangming Avenue, Dongzhou
+        Community, \nGuangming Street"
       zip_code: '518107'

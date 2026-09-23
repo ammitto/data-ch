@@ -1,3 +1,4 @@
+---
 ssid: '46272'
 sanctions_set_id: '42032'
 individual:
@@ -19,4 +20,9 @@ individual:
       day: 21
       month: 3
       year: 1950
-  justification: In his position as Economic Advisor to President Daniel Ortega, Bayardo Arce Castano holds significant influence over the policies of the Ortega regime. He is therefore associated with persons responsible for serious violations of human rights in Nicaragua. He supported the development of legislation preventing opposition candidates from taking part in elections. He is therefore responsible for repression against civil society and democratic opposition in Nicaragua.
+  justification: In his position as Economic Advisor to President Daniel Ortega, Bayardo
+    Arce Castano holds significant influence over the policies of the Ortega regime.
+    He is therefore associated with persons responsible for serious violations of
+    human rights in Nicaragua. He supported the development of legislation preventing
+    opposition candidates from taking part in elections. He is therefore responsible
+    for repression against civil society and democratic opposition in Nicaragua.

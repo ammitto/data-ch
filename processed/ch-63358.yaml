@@ -1,3 +1,4 @@
+---
 ssid: '63358'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 20
       month: 5
       year: 2004
-  justification: Alexander Tronin is the founder and curator of a youth wing of the PMC Wagner Group, which operates in the premises of PMC Wagner Centre. The main aim of this club, formerly called “Wagnerenok” and currently “Leader”, is to recruit young Russians who wish to support the Russian Armed Forces in Ukraine and also the activities of PMC Wagner Group itself. Under the PMC Wagner Centre, they can be involved in projects, such as development and control of unmanned aerial vehicles, which are being used by Russia in its war of aggression against Ukraine.
+  justification: Alexander Tronin is the founder and curator of a youth wing of the
+    PMC Wagner Group, which operates in the premises of PMC Wagner Centre. The main
+    aim of this club, formerly called “Wagnerenok” and currently “Leader”, is to recruit
+    young Russians who wish to support the Russian Armed Forces in Ukraine and also
+    the activities of PMC Wagner Group itself. Under the PMC Wagner Centre, they can
+    be involved in projects, such as development and control of unmanned aerial vehicles,
+    which are being used by Russia in its war of aggression against Ukraine.

@@ -1,3 +1,4 @@
+---
 ssid: '100231'
 sanctions_set_id: '8174'
 individual:
@@ -19,4 +20,7 @@ individual:
       day: 23
       month: 1
       year: 1957
-  justification: Gholam Hossein Golparvar is an Iranian involved in the shipping industry. He is the former commercial manager of IRISL and acts as head of Sapid Shipping company which is owned and controlled by Islamic Republic of Iran Shipping Lines (IRISL). Therefore, he provides essential services to IRISL.
+  justification: Gholam Hossein Golparvar is an Iranian involved in the shipping industry.
+    He is the former commercial manager of IRISL and acts as head of Sapid Shipping
+    company which is owned and controlled by Islamic Republic of Iran Shipping Lines
+    (IRISL). Therefore, he provides essential services to IRISL.

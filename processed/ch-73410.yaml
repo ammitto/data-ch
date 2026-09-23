@@ -1,3 +1,4 @@
+---
 ssid: '73410'
 sanctions_set_id: '27286'
 entity:
@@ -33,4 +34,7 @@ entity:
     addresses:
     - address_details: Novoselkovskaya St., 37A
       zip_code: '197375'
-  justification: Joint Stock Company Research and Production Enterprise Radar MMS (JSC NPP Radar MMS) is a Russian defence industry enterprise that designs and produces homing systems for high-precision weapons, military and civil avionics, monitoring and navigation systems.
+  justification: Joint Stock Company Research and Production Enterprise Radar MMS
+    (JSC NPP Radar MMS) is a Russian defence industry enterprise that designs and
+    produces homing systems for high-precision weapons, military and civil avionics,
+    monitoring and navigation systems.

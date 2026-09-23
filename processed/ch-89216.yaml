@@ -1,3 +1,4 @@
+---
 ssid: '89216'
 sanctions_set_id: '29445'
 entity:
@@ -27,4 +28,5 @@ entity:
         name_part_type: whole-name
         value: Lett Tronic Group Ltd.
     addresses:
-    - address_details: Room 02, 21/F, Hip Kwan Commercial Building, 38 Pik Street, Yau Ma Tei, Kowloon
+    - address_details: Room 02, 21/F, Hip Kwan Commercial Building, 38 Pik Street,
+        Yau Ma Tei, Kowloon

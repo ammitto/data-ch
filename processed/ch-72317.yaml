@@ -1,3 +1,4 @@
+---
 ssid: '72317'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,11 @@ individual:
       day: 4
       month: 1
       year: 1959
-  justification: Alexander Ivanov is the Director of JSC VMP Avitek (a.k.a. Vyatka Machine-Building Enterprise Avitek). JSC VMP Avitek is a Russian military-industrial state enterprise that develops and produces surface-to-air anti-aircraft guided missiles deployed by the Russian Armed Forces. Additionally, JSC VMP Avitek develops and produces ejection seats for fighter jets deployed by the Russian Armed Forces. Notably, JSC VMP Avitek is part of the Almaz-Antey concern, a Russian state-owned arms manufacturer that develops anti-aircraft defence and cruise missile systems for the Russian military.
+  justification: Alexander Ivanov is the Director of JSC VMP Avitek (a.k.a. Vyatka
+    Machine-Building Enterprise Avitek). JSC VMP Avitek is a Russian military-industrial
+    state enterprise that develops and produces surface-to-air anti-aircraft guided
+    missiles deployed by the Russian Armed Forces. Additionally, JSC VMP Avitek develops
+    and produces ejection seats for fighter jets deployed by the Russian Armed Forces.
+    Notably, JSC VMP Avitek is part of the Almaz-Antey concern, a Russian state-owned
+    arms manufacturer that develops anti-aircraft defence and cruise missile systems
+    for the Russian military.

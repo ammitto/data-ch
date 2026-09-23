@@ -1,3 +1,4 @@
+---
 ssid: '56294'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 9
       month: 3
       year: 1970
-  justification: Alexander Ishchenko is the Chairman of the Legislative Assembly of the Rostov Region and Secretary of the Rostov Regional Branch of the Kremlin-aligned ruling party “United Russia” (both since 2016). He is also a member of the General Council of the United Russia party.
+  justification: Alexander Ishchenko is the Chairman of the Legislative Assembly of
+    the Rostov Region and Secretary of the Rostov Regional Branch of the Kremlin-aligned
+    ruling party “United Russia” (both since 2016). He is also a member of the General
+    Council of the United Russia party.

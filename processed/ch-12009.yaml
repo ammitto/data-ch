@@ -1,3 +1,4 @@
+---
 ssid: '12009'
 sanctions_set_id: '3986'
 individual:
@@ -21,4 +22,6 @@ individual:
       - order: 4
         name_part_type: title
         value: Lt. General
-  justification: Deputy Chief of General Staff (Logistics and supplies) under the former al-Assad regime. Responsible for the use of violence against protestors across Syria.
+  justification: Deputy Chief of General Staff (Logistics and supplies) under the
+    former al-Assad regime. Responsible for the use of violence against protestors
+    across Syria.

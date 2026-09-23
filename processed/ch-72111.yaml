@@ -1,3 +1,4 @@
+---
 ssid: '72111'
 sanctions_set_id: '27286'
 entity:
@@ -29,4 +30,8 @@ entity:
     addresses:
     - address_details: Lenin Avenue, 2B
       zip_code: '454085'
-  justification: JSC Special Design Bureau Turbina is a Russian military industry company. The company produces power solutions later used by other Russian military industry companies for the fulfilment of state defence orders. JSC SDB Turbina produces gas turbines for MSTA-S howitzers that are used by the Russian Armed Forces in the war of aggression against Ukraine.
+  justification: JSC Special Design Bureau Turbina is a Russian military industry
+    company. The company produces power solutions later used by other Russian military
+    industry companies for the fulfilment of state defence orders. JSC SDB Turbina
+    produces gas turbines for MSTA-S howitzers that are used by the Russian Armed
+    Forces in the war of aggression against Ukraine.

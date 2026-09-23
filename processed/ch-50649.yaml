@@ -1,3 +1,4 @@
+---
 ssid: '50649'
 sanctions_set_id: '29445'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: State Corporation for the Promotion of the Development, Manufacture, and Export of High-Tech Products “Rostec”
+        value: State Corporation for the Promotion of the Development, Manufacture,
+          and Export of High-Tech Products “Rostec”
     - name_type: alias
       quality: good
       lang: eng

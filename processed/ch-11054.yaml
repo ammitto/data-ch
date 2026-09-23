@@ -1,3 +1,4 @@
+---
 ssid: '11054'
 sanctions_set_id: '8174'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 31
       month: 1
       year: 1965
-  justification: Managing Director of sanctioned IRISL Malta Limited, alias Royal Med Shipping Company.
+  justification: Managing Director of sanctioned IRISL Malta Limited, alias Royal
+    Med Shipping Company.

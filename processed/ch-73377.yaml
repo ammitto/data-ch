@@ -1,3 +1,4 @@
+---
 ssid: '73377'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,10 @@ individual:
       day: 4
       month: 4
       year: 1986
-  justification: Ruslan Bulatov is the General Director of LLC Testkomplekt. LLC Testkomplekt supplies goods falling under Union restrictive measures to the Russian Federation. In particular, LLC Testkomplekt offers wide range of analogue-to-digital components, microcontrollers, diodes and sensors that cannot be exported to the Russian Federation. Furthermore, LLC Testkomplekt is a supplier of Radiopriborsnab, a subsidiary of Concern Radioelectronic Technologies (KRET), Russia’s major developer and manufacturer of military radio-electronic products
+  justification: Ruslan Bulatov is the General Director of LLC Testkomplekt. LLC Testkomplekt
+    supplies goods falling under Union restrictive measures to the Russian Federation.
+    In particular, LLC Testkomplekt offers wide range of analogue-to-digital components,
+    microcontrollers, diodes and sensors that cannot be exported to the Russian Federation.
+    Furthermore, LLC Testkomplekt is a supplier of Radiopriborsnab, a subsidiary of
+    Concern Radioelectronic Technologies (KRET), Russia’s major developer and manufacturer
+    of military radio-electronic products

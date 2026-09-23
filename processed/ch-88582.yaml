@@ -1,3 +1,4 @@
+---
 ssid: '88582'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 2
       month: 11
       year: 1964
-  justification: Svetlana Alyoshina is a deputy of the so-called “People’s Council” of the so-called “Luhansk People’s Republic” and a member of its Committee on Construction, Housing and Utilities, Energy, Transport and Communications.
+  justification: Svetlana Alyoshina is a deputy of the so-called “People’s Council”
+    of the so-called “Luhansk People’s Republic” and a member of its Committee on
+    Construction, Housing and Utilities, Energy, Transport and Communications.

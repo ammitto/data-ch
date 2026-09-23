@@ -1,3 +1,4 @@
+---
 ssid: '90879'
 sanctions_set_id: '4387'
 individual:
@@ -19,4 +20,9 @@ individual:
       day: 18
       month: 10
       year: 1980
-  justification: Ala Skuratovich is a Belarusian judge of the court of the Frunzensky district of the city of Minsk. She has issued politically motivated sentences concerning, inter alia, freedom of expression or freedom of assembly against Andrus Asmalousk, Ivan Charavaka, Dzmitry Lapets , Andrei Akushka, Dziana Charnushyna, Andrei Mirashnichenka , and Artur Smaliakou. Ala Skuratovich is therefore responsible for the repression of civil society in Belarus.
+  justification: Ala Skuratovich is a Belarusian judge of the court of the Frunzensky
+    district of the city of Minsk. She has issued politically motivated sentences
+    concerning, inter alia, freedom of expression or freedom of assembly against Andrus
+    Asmalousk, Ivan Charavaka, Dzmitry Lapets , Andrei Akushka, Dziana Charnushyna,
+    Andrei Mirashnichenka , and Artur Smaliakou. Ala Skuratovich is therefore responsible
+    for the repression of civil society in Belarus.

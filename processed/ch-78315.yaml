@@ -1,3 +1,4 @@
+---
 ssid: '78315'
 sanctions_set_id: '68945'
 entity:
@@ -28,4 +29,6 @@ entity:
         value: NEDSA
     day_month_year:
       year: 1981
-  justification: The Islamic Revolutionary Guard Corps Navy (IRGCN) is part of the IRGC, and includes an unmanned aerial vehicles (UAVs) division and a missiles division.
+  justification: The Islamic Revolutionary Guard Corps Navy (IRGCN) is part of the
+    IRGC, and includes an unmanned aerial vehicles (UAVs) division and a missiles
+    division.

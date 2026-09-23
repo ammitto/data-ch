@@ -1,3 +1,4 @@
+---
 ssid: '57737'
 sanctions_set_id: '27286'
 individual:
@@ -18,4 +19,5 @@ individual:
     day_month_year:
       month: 3
       year: 1965
-  justification: Brigadier General Hamid Vahedi is the Commander-in-Chief of the Iranian Air Force.
+  justification: Brigadier General Hamid Vahedi is the Commander-in-Chief of the Iranian
+    Air Force.

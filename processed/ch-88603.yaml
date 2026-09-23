@@ -1,3 +1,4 @@
+---
 ssid: '88603'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 28
       month: 7
       year: 1945
-  justification: Anatoly Turchak is the main shareholder and President of JSC “Holding Company ‘Leninetz’”, a Russian entity which controls PJSC “Central Scientific and Production Association ‘Leninetz’” (PJSC CSPA Leninetz).
+  justification: Anatoly Turchak is the main shareholder and President of JSC “Holding
+    Company ‘Leninetz’”, a Russian entity which controls PJSC “Central Scientific
+    and Production Association ‘Leninetz’” (PJSC CSPA Leninetz).

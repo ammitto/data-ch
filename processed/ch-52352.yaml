@@ -1,3 +1,4 @@
+---
 ssid: '52352'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 18
       month: 11
       year: 1967
-  justification: Dmitry Kulikov is a pro-Kremlin propagandist. He made public comments on the state-owned TV channels in line with the Kremlin’s narrative on the situation in Donbas region. He also justified the actions of Russian authorities threatening the integrity and territorial sovereignty of Ukraine, such as the suspension of the implementation of the Minsk Agreements or the decision to recognise the “independent republics of Donbas and Luhansk”.
+  justification: Dmitry Kulikov is a pro-Kremlin propagandist. He made public comments
+    on the state-owned TV channels in line with the Kremlin’s narrative on the situation
+    in Donbas region. He also justified the actions of Russian authorities threatening
+    the integrity and territorial sovereignty of Ukraine, such as the suspension of
+    the implementation of the Minsk Agreements or the decision to recognise the “independent
+    republics of Donbas and Luhansk”.

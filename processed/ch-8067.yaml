@@ -1,3 +1,4 @@
+---
 ssid: '8067'
 sanctions_set_id: '3983'
 individual:
@@ -66,4 +67,5 @@ individual:
       month: 4
       year: 1979
     addresses:
-  justification: Hassan Mahat Omar is engaging in acts that threaten the peace, security or stability of Somalia.
+  justification: Hassan Mahat Omar is engaging in acts that threaten the peace, security
+    or stability of Somalia.

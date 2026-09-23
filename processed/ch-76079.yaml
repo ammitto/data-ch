@@ -1,3 +1,4 @@
+---
 ssid: '76079'
 sanctions_set_id: '27286'
 entity:
@@ -18,4 +19,8 @@ entity:
       year: 2023
     addresses:
     - address_details: Artema street 68, Donetsk, 283001
-  justification: The Federal State Unitary Enterprise Novorossiya Railways was created by a decree of the Government of the Russian Federation on 29 May 2023 to consolidate the railways of the territories of Donetsk, Luhansk, Kherson and Zaporizhzhia not under the control of Ukraine’s government and to move them under the control of the Russian authorities.
+  justification: The Federal State Unitary Enterprise Novorossiya Railways was created
+    by a decree of the Government of the Russian Federation on 29 May 2023 to consolidate
+    the railways of the territories of Donetsk, Luhansk, Kherson and Zaporizhzhia
+    not under the control of Ukraine’s government and to move them under the control
+    of the Russian authorities.

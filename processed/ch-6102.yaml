@@ -1,3 +1,4 @@
+---
 ssid: '6102'
 sanctions_set_id: '6094'
 individual:
@@ -25,4 +26,6 @@ individual:
       day: 2
       month: 6
       year: 1956
-  justification: Senior military officer, directly involved in the terror campaign waged before and during the elections in the Gwanda area. Deputy to Air Marshal Perence Shiri.
+  justification: Senior military officer, directly involved in the terror campaign
+    waged before and during the elections in the Gwanda area. Deputy to Air Marshal
+    Perence Shiri.

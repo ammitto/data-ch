@@ -1,3 +1,4 @@
+---
 ssid: '35544'
 sanctions_set_id: '3978'
 entity:
@@ -13,4 +14,5 @@ entity:
         name_part_type: whole-name
         value: Korea United Development Bank
     addresses:
-  justification: Korea United Development Bank operates in the financial services industry of the DPRK economy.
+  justification: Korea United Development Bank operates in the financial services
+    industry of the DPRK economy.

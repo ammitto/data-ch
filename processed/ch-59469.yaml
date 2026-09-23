@@ -1,3 +1,4 @@
+---
 ssid: '59469'
 sanctions_set_id: '29445'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal Autonomous Institution Central Institute of Engine-Building N.A. P.I. Baranov; Central Institute of Aviation Motors (CIAM)
+        value: Federal Autonomous Institution Central Institute of Engine-Building
+          N.A. P.I. Baranov; Central Institute of Aviation Motors (CIAM)
     - name_type: alias
       quality: good
       lang: eng

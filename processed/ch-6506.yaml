@@ -1,3 +1,4 @@
+---
 ssid: '6506'
 sanctions_set_id: '6094'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 10
       month: 8
       year: 1961
-  justification: ZANU-PF Member of the Government. Sponsored and directed activities of ZANU-PF terror gangs in Chivi Central in May/June 2008.
+  justification: ZANU-PF Member of the Government. Sponsored and directed activities
+    of ZANU-PF terror gangs in Chivi Central in May/June 2008.

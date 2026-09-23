@@ -1,3 +1,4 @@
+---
 ssid: '4757'
 sanctions_set_id: '4387'
 individual:
@@ -18,4 +19,7 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Aliaksandravich
-  justification: Has actively undermined democracy in Belarus. In his former role of Deputy Prosecutor General until 2012, he was in charge and directly involved in all the intelligence activities carried out by the Prosecutor General's office against independent and opposition entities, including in 2010.
+  justification: Has actively undermined democracy in Belarus. In his former role
+    of Deputy Prosecutor General until 2012, he was in charge and directly involved
+    in all the intelligence activities carried out by the Prosecutor General's office
+    against independent and opposition entities, including in 2010.

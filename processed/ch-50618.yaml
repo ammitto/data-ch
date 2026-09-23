@@ -1,3 +1,4 @@
+---
 ssid: '50618'
 sanctions_set_id: '29445'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Scientific and Production Association “SPLAV”; JSC A.N. Ganichev Scientific and Production Association “SPLAV
+        value: Scientific and Production Association “SPLAV”; JSC A.N. Ganichev Scientific
+          and Production Association “SPLAV
     addresses:
     - address_details: Shcheglovskaya Zaseka Str., 33
       zip_code: '300004'

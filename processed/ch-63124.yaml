@@ -1,3 +1,4 @@
+---
 ssid: '63124'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 23
       month: 3
       year: 1973
-  justification: Roman Saprunov is a judge of the Southern District Military Court in Rostov-on-Don. He took politically motivated decisions against the Ukrainian citizens who opposed the illegal annexation of Crimea and Sevastopol.
+  justification: Roman Saprunov is a judge of the Southern District Military Court
+    in Rostov-on-Don. He took politically motivated decisions against the Ukrainian
+    citizens who opposed the illegal annexation of Crimea and Sevastopol.

@@ -1,3 +1,4 @@
+---
 ssid: '45915'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 26
       month: 11
       year: 1988
-  justification: In his former position as Head of the Leninsky District Police Department of Minsk, Vital Kapilevich is responsible for the inhumane and degrading treatment, including torture, inflicted on citizens detained at the Leninsky District Police Department. The detainees were denied medical help; paramedics who arrived at the Department were intimidated to prevent the provision of medical assistance to the detainees.
+  justification: In his former position as Head of the Leninsky District Police Department
+    of Minsk, Vital Kapilevich is responsible for the inhumane and degrading treatment,
+    including torture, inflicted on citizens detained at the Leninsky District Police
+    Department. The detainees were denied medical help; paramedics who arrived at
+    the Department were intimidated to prevent the provision of medical assistance
+    to the detainees.

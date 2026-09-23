@@ -1,3 +1,4 @@
+---
 ssid: '8025'
 sanctions_set_id: '3983'
 individual:
@@ -78,4 +79,7 @@ individual:
     day_month_year:
       year: 1979
     addresses:
-  justification: Bashir Mohamed Mahamoud is a military commander of Al-Shabaab. Mahamoud was also one of approximately ten members on Al-Shabaab's leadership council as of late 2008. Mahamoud and an associate were in charge of the 10 Jun 2009 mortar attack against the Somali Transitional Federal Government in Mogadishu.
+  justification: Bashir Mohamed Mahamoud is a military commander of Al-Shabaab. Mahamoud
+    was also one of approximately ten members on Al-Shabaab's leadership council as
+    of late 2008. Mahamoud and an associate were in charge of the 10 Jun 2009 mortar
+    attack against the Somali Transitional Federal Government in Mogadishu.

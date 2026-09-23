@@ -1,3 +1,4 @@
+---
 ssid: '9731'
 sanctions_set_id: '8174'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: 107 Falcon House
     - address_details: Investment Park
-  justification: Aspasis Marine Corporation is a front company owned or controlled by IRISL. It is the registered owner of several vessels owned by IRISL or an IRISL affiliate.
+  justification: Aspasis Marine Corporation is a front company owned or controlled
+    by IRISL. It is the registered owner of several vessels owned by IRISL or an IRISL
+    affiliate.

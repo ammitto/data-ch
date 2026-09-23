@@ -1,3 +1,4 @@
+---
 ssid: '55600'
 sanctions_set_id: '29445'
 entity:
@@ -18,7 +19,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: All-Russian Research Institute for Optical and Physical Measurements Federal State Budgetary Institution
+        value: All-Russian Research Institute for Optical and Physical Measurements
+          Federal State Budgetary Institution
     - name_type: alias
       quality: good
       lang: eng

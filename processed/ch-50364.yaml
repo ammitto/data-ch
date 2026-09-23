@@ -1,3 +1,4 @@
+---
 ssid: '50364'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 10
       month: 11
       year: 1965
-  justification: Representative of the President of the Russian Federation in the Central Federal District, Full State Advisor of the Russian Federation. As a member of the Security Council of the Russian Federation, supported Russia’s immediate recognition of the two self-proclaimed republics.
+  justification: Representative of the President of the Russian Federation in the
+    Central Federal District, Full State Advisor of the Russian Federation. As a member
+    of the Security Council of the Russian Federation, supported Russia’s immediate
+    recognition of the two self-proclaimed republics.

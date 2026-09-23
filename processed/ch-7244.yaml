@@ -1,3 +1,4 @@
+---
 ssid: '7244'
 sanctions_set_id: '3981'
 individual:
@@ -29,4 +30,5 @@ individual:
       day: 26
       month: 4
       year: 1947
-  justification: Member of the "Military Command" which has assumed responsibility for the coup d’état of 12 April 2012.
+  justification: Member of the "Military Command" which has assumed responsibility
+    for the coup d’état of 12 April 2012.

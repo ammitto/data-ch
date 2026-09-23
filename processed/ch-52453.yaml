@@ -1,3 +1,4 @@
+---
 ssid: '52453'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: 1 Bolshaya Pionerskaya Str.
       zip_code: '115054'
-  justification: Russian Helicopters is a major Russian helicopter manufacturing company. The Ka-52 “Alligator” military helicopters produced by Russian Helicopters were used by Russia during the illegal invasion of Ukraine in 2022.
+  justification: Russian Helicopters is a major Russian helicopter manufacturing company.
+    The Ka-52 “Alligator” military helicopters produced by Russian Helicopters were
+    used by Russia during the illegal invasion of Ukraine in 2022.

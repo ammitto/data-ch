@@ -1,3 +1,4 @@
+---
 ssid: '94584'
 sanctions_set_id: '62614'
 individual:
@@ -19,4 +20,10 @@ individual:
       day: 11
       month: 1
       year: 1981
-  justification: Alexandr Nesterovschi is a politician from the Republic of Moldova who has been involved in bribing schemes organised by listed person Ilan Shor in order to corrupt several politicians from the Republic of Moldova to create an apparently pro-European movement, but that was in fact controlled by Ilan Shor from Moscow. During his criminal trial, Alexandr Nesterovschi received support from Russia and Ilan Shor. He was sentenced to 12 years in prison for political corruption.
+  justification: Alexandr Nesterovschi is a politician from the Republic of Moldova
+    who has been involved in bribing schemes organised by listed person Ilan Shor
+    in order to corrupt several politicians from the Republic of Moldova to create
+    an apparently pro-European movement, but that was in fact controlled by Ilan Shor
+    from Moscow. During his criminal trial, Alexandr Nesterovschi received support
+    from Russia and Ilan Shor. He was sentenced to 12 years in prison for political
+    corruption.

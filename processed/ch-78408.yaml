@@ -1,3 +1,4 @@
+---
 ssid: '78408'
 sanctions_set_id: '68945'
 individual:
@@ -15,4 +16,6 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Ali
-  justification: Ali Shadmani is the deputy coordinator of the EU-listed Islamic Revolutionary Guard Corps (IRGC) Khatam al-Anbiya Central Headquarters (KCHG) and thus associated with an EU-listed entity.
+  justification: Ali Shadmani is the deputy coordinator of the EU-listed Islamic Revolutionary
+    Guard Corps (IRGC) Khatam al-Anbiya Central Headquarters (KCHG) and thus associated
+    with an EU-listed entity.

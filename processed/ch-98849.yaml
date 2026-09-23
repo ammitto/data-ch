@@ -1,3 +1,4 @@
+---
 ssid: '98849'
 sanctions_set_id: '27286'
 entity:
@@ -26,4 +27,9 @@ entity:
     addresses:
     - address_details: Komsomolsky Prospekt 93
       zip_code: '614990'
-  justification: JSC “Aviation Gearboxes and Transmissions – Perm Motors” manufactures and services helicopter gearboxes and transmissions for helicopters, including the Mi-28n “night hunter”, Mi-8/17 and Mi-26 (T). The Mi-28n “night hunter” has been used by the Russian military in its war of aggression against Ukraine. The company is a part of the holding company “Russian Helicopters”, which is subject to Union restrictive measures.
+  justification: JSC “Aviation Gearboxes and Transmissions – Perm Motors” manufactures
+    and services helicopter gearboxes and transmissions for helicopters, including
+    the Mi-28n “night hunter”, Mi-8/17 and Mi-26 (T). The Mi-28n “night hunter” has
+    been used by the Russian military in its war of aggression against Ukraine. The
+    company is a part of the holding company “Russian Helicopters”, which is subject
+    to Union restrictive measures.

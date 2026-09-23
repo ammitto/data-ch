@@ -1,3 +1,4 @@
+---
 ssid: '59472'
 sanctions_set_id: '29445'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal State Budgetary Institution National Research Center Institute N.A. N.E. Zhukovsky (Zhukovsky National Research Institute)
+        value: Federal State Budgetary Institution National Research Center Institute
+          N.A. N.E. Zhukovsky (Zhukovsky National Research Institute)
     addresses:
     - address_details: Zhukovsky, Zhukovskogo Str., 1
       zip_code: '140180'

@@ -1,3 +1,4 @@
+---
 ssid: '8762'
 sanctions_set_id: '3984'
 individual:
@@ -15,4 +16,5 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Hamid-Reza
-  justification: Involved in production management at the Uranium Conversion Facility (UCF) at Esfahan.
+  justification: Involved in production management at the Uranium Conversion Facility
+    (UCF) at Esfahan.

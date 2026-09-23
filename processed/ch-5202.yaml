@@ -1,3 +1,4 @@
+---
 ssid: '5202'
 sanctions_set_id: '4387'
 individual:
@@ -15,4 +16,7 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Tatsiana
-  justification: Prosecutor of the Frunzenski District of Minsk, dealing with the case of Aleksandr Otroshchenkov, Aleksandr Molchanov and Dmitri Novik. Responsible for implementing the politically-motivated administrative and criminal sanctions against representatives of civil society.
+  justification: Prosecutor of the Frunzenski District of Minsk, dealing with the
+    case of Aleksandr Otroshchenkov, Aleksandr Molchanov and Dmitri Novik. Responsible
+    for implementing the politically-motivated administrative and criminal sanctions
+    against representatives of civil society.

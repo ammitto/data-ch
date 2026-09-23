@@ -1,3 +1,4 @@
+---
 ssid: '100450'
 sanctions_set_id: '8174'
 entity:
@@ -18,4 +19,5 @@ entity:
     - address_details: Kish branch, Sanaee Avenue
       zip_code: '79415'
     - address_details: Tehran branch, No. 1655/1, Valiasr Avenue
-  justification: Europäisch-Iranische Handelsbank (EIH) is owned and controlled by the Iranian Government and the Bank of Industry and Mines.
+  justification: Europäisch-Iranische Handelsbank (EIH) is owned and controlled by
+    the Iranian Government and the Bank of Industry and Mines.

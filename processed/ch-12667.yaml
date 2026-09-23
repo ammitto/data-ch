@@ -1,3 +1,4 @@
+---
 ssid: '12667'
 sanctions_set_id: '3986'
 individual:
@@ -22,4 +23,6 @@ individual:
       - order: 1
         name_part_type: given-name
         value: Ahmed
-  justification: Police officer under the former al-Assad regime at Idlib central prison; has taken part directly in acts of torture of opponents held in Idlib central prison.
+  justification: Police officer under the former al-Assad regime at Idlib central
+    prison; has taken part directly in acts of torture of opponents held in Idlib
+    central prison.

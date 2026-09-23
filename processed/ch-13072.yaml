@@ -1,3 +1,4 @@
+---
 ssid: '13072'
 sanctions_set_id: '13065'
 individual:
@@ -17,4 +18,7 @@ individual:
         value: Hossein
     day_month_year:
       year: 1945
-  justification: Head of Ansar-e Hezbollah Coordination Council and former general in the IRGC. He co-founded Ansar-e Hezbollah. This paramilitary force was responsible for extreme violence during crackdown against students and universities in 1999, 2002 and 2009.
+  justification: Head of Ansar-e Hezbollah Coordination Council and former general
+    in the IRGC. He co-founded Ansar-e Hezbollah. This paramilitary force was responsible
+    for extreme violence during crackdown against students and universities in 1999,
+    2002 and 2009.

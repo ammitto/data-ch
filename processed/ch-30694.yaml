@@ -1,3 +1,4 @@
+---
 ssid: '30694'
 sanctions_set_id: '3986'
 entity:
@@ -20,4 +21,5 @@ entity:
         name_part_type: whole-name
         value: Technical Industries Corporation (TIC)
     addresses:
-  justification: Subsidiary of the Syrian Ministry of Defence, which has been designated by the Council.
+  justification: Subsidiary of the Syrian Ministry of Defence, which has been designated
+    by the Council.

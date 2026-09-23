@@ -1,3 +1,4 @@
+---
 ssid: '58739'
 sanctions_set_id: '27286'
 entity:
@@ -14,4 +15,9 @@ entity:
         value: "“JSC MACHINE BUILDING COMPANY ‘VITYAZ’”"
     addresses:
     - address_details: 2 Industrialnoe sh.
-  justification: "“JSC MACHINE BUILDING COMPANY ‘VITYAZ’” (or JSC VITYAZ) is a Russian company engaged in the development, production, operation and repair of armoured military vehicles. It is a patent producer of DT-30 “Vityaz”. JSC VITYAZ provides and manufactures a two-link tracked all-terrain military vehicle DT-30 “Vityaz” for the Russian Armed Forces, which are used in the war of aggression against Ukraine."
+  justification: "“JSC MACHINE BUILDING COMPANY ‘VITYAZ’” (or JSC VITYAZ) is a Russian
+    company engaged in the development, production, operation and repair of armoured
+    military vehicles. It is a patent producer of DT-30 “Vityaz”. JSC VITYAZ provides
+    and manufactures a two-link tracked all-terrain military vehicle DT-30 “Vityaz”
+    for the Russian Armed Forces, which are used in the war of aggression against
+    Ukraine."

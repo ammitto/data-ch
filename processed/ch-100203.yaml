@@ -1,3 +1,4 @@
+---
 ssid: '100203'
 sanctions_set_id: '8174'
 individual:
@@ -18,4 +19,8 @@ individual:
       - order: 3
         name_part_type: title
         value: Engineer
-  justification: Former Deputy Head of the AEOI. The AEOI oversees Iran’s nuclear programme and is designated under UNSCR 1737 (2006). Rastkhah is currently part of the board of directors of the Iranian Radiation Protection Society, a state institution affiliated with the AEOI, which oversees Iran’s nuclear programme. Rastkhah is therefore engaged in and providing support for Iran’s nuclear programme.
+  justification: Former Deputy Head of the AEOI. The AEOI oversees Iran’s nuclear
+    programme and is designated under UNSCR 1737 (2006). Rastkhah is currently part
+    of the board of directors of the Iranian Radiation Protection Society, a state
+    institution affiliated with the AEOI, which oversees Iran’s nuclear programme.
+    Rastkhah is therefore engaged in and providing support for Iran’s nuclear programme.

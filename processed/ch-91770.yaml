@@ -1,3 +1,4 @@
+---
 ssid: '91770'
 sanctions_set_id: '29445'
 entity:
@@ -20,5 +21,6 @@ entity:
         name_part_type: whole-name
         value: Limited Liability Company “Alabuga Machinery”
     addresses:
-    - address_details: Street Sh-2, Building 5/12, room 110, city settlement Yelabuga, Alabuga Special Economic Zone territory
+    - address_details: Street Sh-2, Building 5/12, room 110, city settlement Yelabuga,
+        Alabuga Special Economic Zone territory
       zip_code: '423601'

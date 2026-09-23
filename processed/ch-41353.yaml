@@ -1,3 +1,4 @@
+---
 ssid: '41353'
 sanctions_set_id: '3986'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 15
       month: 5
       year: 1976
-  justification: Leading businessperson linked to the former al-Assad regime operating across multiple sectors of the Syrian economy, including private security, mobile phone retail, hotel management, advertising services, domestic money transfer, alcoholic and non-alcoholic beverages.
+  justification: Leading businessperson linked to the former al-Assad regime operating
+    across multiple sectors of the Syrian economy, including private security, mobile
+    phone retail, hotel management, advertising services, domestic money transfer,
+    alcoholic and non-alcoholic beverages.

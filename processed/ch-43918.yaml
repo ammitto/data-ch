@@ -1,3 +1,4 @@
+---
 ssid: '43918'
 sanctions_set_id: '3986'
 individual:
@@ -20,4 +21,6 @@ individual:
         value: Haddad
     day_month_year:
       year: 1956
-  justification: Former Minister of State under the former al-Assad regime. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression against the civilian population.
+  justification: Former Minister of State under the former al-Assad regime. As a former
+    Government Minister, shares responsibility for the former al-Assad regime’s violent
+    repression against the civilian population.

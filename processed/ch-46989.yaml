@@ -1,3 +1,4 @@
+---
 ssid: '46989'
 sanctions_set_id: '27286'
 individual:
@@ -23,4 +24,6 @@ individual:
       month: 6
       year: 1970
     addresses:
-  justification: Dimitriy Utkin, a former Russian military intelligence (GRU) officer, is the founder of the Wagner Group and responsible for coordinating and planning operations for the deployment of Wagner Group mercenaries in Ukraine.
+  justification: Dimitriy Utkin, a former Russian military intelligence (GRU) officer,
+    is the founder of the Wagner Group and responsible for coordinating and planning
+    operations for the deployment of Wagner Group mercenaries in Ukraine.

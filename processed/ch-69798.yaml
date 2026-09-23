@@ -1,3 +1,4 @@
+---
 ssid: '69798'
 sanctions_set_id: '27286'
 entity:
@@ -33,4 +34,5 @@ entity:
     addresses:
     - address_details: 28 Goncharnaya St.
       zip_code: '115172'
-  justification: LLC Oboronlogistika is a shipping company established under the Russian Ministry of Defence.
+  justification: LLC Oboronlogistika is a shipping company established under the Russian
+    Ministry of Defence.

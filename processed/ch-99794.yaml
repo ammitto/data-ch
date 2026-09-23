@@ -1,3 +1,4 @@
+---
 ssid: '99794'
 sanctions_set_id: '29445'
 entity:
@@ -13,5 +14,6 @@ entity:
         name_part_type: whole-name
         value: Shree Enterprises
     addresses:
-    - address_details: House NO 6B, Kh. No. 334, 4th Floor, Shahabad Mohammadpur Village New Delhi, South West Delhi
+    - address_details: House NO 6B, Kh. No. 334, 4th Floor, Shahabad Mohammadpur Village
+        New Delhi, South West Delhi
       zip_code: '110061'

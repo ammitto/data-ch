@@ -1,3 +1,4 @@
+---
 ssid: '101058'
 sanctions_set_id: '8174'
 entity:
@@ -14,4 +15,9 @@ entity:
         value: Islamic Republic of Iran Shipping Lines (IRISL)
     addresses:
     - address_details: Pasadaran Street/Shahid Lavasani, Asman Tower, No. 523
-  justification: Islamic Republic of Iran Shipping Lines (IRISL) is a public shipping company, co-owned by the Government of Iran, that has been involved in the shipment of military-related cargo from Iran to several other countries. It supports IRGC naval operations by providing ships, which it also deploys for reconnaissance missions. IRISL is connected to Iran’s proliferation efforts by transporting components for its ballistic missile programme.
+  justification: Islamic Republic of Iran Shipping Lines (IRISL) is a public shipping
+    company, co-owned by the Government of Iran, that has been involved in the shipment
+    of military-related cargo from Iran to several other countries. It supports IRGC
+    naval operations by providing ships, which it also deploys for reconnaissance
+    missions. IRISL is connected to Iran’s proliferation efforts by transporting components
+    for its ballistic missile programme.

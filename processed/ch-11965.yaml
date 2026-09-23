@@ -1,3 +1,4 @@
+---
 ssid: '11965'
 sanctions_set_id: '3986'
 individual:
@@ -29,4 +30,8 @@ individual:
       day: 19
       month: 9
       year: 1966
-  justification: Head of the 4th Division security bureau, head of the 555th paratrooper regiment under the former al-Assad regime. Adviser to Maher al-Assad and coordinator of security operations. Responsible for the crackdown on the civilian population across Syria and involved in several breaches of cessation of hostilities in the Ghouta.
+  justification: Head of the 4th Division security bureau, head of the 555th paratrooper
+    regiment under the former al-Assad regime. Adviser to Maher al-Assad and coordinator
+    of security operations. Responsible for the crackdown on the civilian population
+    across Syria and involved in several breaches of cessation of hostilities in the
+    Ghouta.

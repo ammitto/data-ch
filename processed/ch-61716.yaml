@@ -1,3 +1,4 @@
+---
 ssid: '61716'
 sanctions_set_id: '29445'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company North Western Regional Center of Almaz Antey Concern Obukhovsky Plant
+        value: Joint Stock Company North Western Regional Center of Almaz Antey Concern
+          Obukhovsky Plant
     - name_type: alias
       quality: good
       lang: eng
@@ -25,7 +27,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: AO Severo-Zapadny Regionalny Tsentr Kontserna VKO Almaz-Antei Obukhovsky Zavod
+        value: AO Severo-Zapadny Regionalny Tsentr Kontserna VKO Almaz-Antei Obukhovsky
+          Zavod
     - name_type: alias
       quality: good
       lang: eng

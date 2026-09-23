@@ -1,3 +1,4 @@
+---
 ssid: '95882'
 sanctions_set_id: '27286'
 entity:
@@ -25,4 +26,10 @@ entity:
       year: 2017
     addresses:
     - address_details: Sharikopodshipnikovskaya St. 2.5
-  justification: The Territorial Development Fund is a public law company operating under the Ministry of Construction of the Russian Federation and founded by the Government of the Russian Federation. In particular, the Territorial Development Fund manages the so-called free economic zone in the illegally occupied territories of Donetsk, Luhansk, Kherson and Zaporizhzhia, which was created by the Government of the Russian Federation to grant benefits and privileges to companies that operate in those illegally occupied territories.
+  justification: The Territorial Development Fund is a public law company operating
+    under the Ministry of Construction of the Russian Federation and founded by the
+    Government of the Russian Federation. In particular, the Territorial Development
+    Fund manages the so-called free economic zone in the illegally occupied territories
+    of Donetsk, Luhansk, Kherson and Zaporizhzhia, which was created by the Government
+    of the Russian Federation to grant benefits and privileges to companies that operate
+    in those illegally occupied territories.

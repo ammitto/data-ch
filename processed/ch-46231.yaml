@@ -1,3 +1,4 @@
+---
 ssid: '46231'
 sanctions_set_id: '42032'
 individual:
@@ -22,4 +23,11 @@ individual:
       day: 4
       month: 5
       year: 1963
-  justification: As leader in the rank of senior commissioner (second highest rank) of the Nicaraguan National Police (NNP) and until February 2025 in a leading position in the police in Managua, Juan Antonio Valle Valle is responsible for repeated acts of police brutality and the excessive use of force which resulted in the deaths of hundreds of civilians, for arbitrary arrests and detentions, for violations of freedom of expression and for preventing demonstrations against the government. He is therefore responsible for serious human rights violations and for the repression of civil society and democratic opposition in Nicaragua.
+  justification: As leader in the rank of senior commissioner (second highest rank)
+    of the Nicaraguan National Police (NNP) and until February 2025 in a leading position
+    in the police in Managua, Juan Antonio Valle Valle is responsible for repeated
+    acts of police brutality and the excessive use of force which resulted in the
+    deaths of hundreds of civilians, for arbitrary arrests and detentions, for violations
+    of freedom of expression and for preventing demonstrations against the government.
+    He is therefore responsible for serious human rights violations and for the repression
+    of civil society and democratic opposition in Nicaragua.

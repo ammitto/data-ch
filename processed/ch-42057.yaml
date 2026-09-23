@@ -1,3 +1,4 @@
+---
 ssid: '42057'
 sanctions_set_id: '42032'
 individual:
@@ -19,4 +20,8 @@ individual:
       day: 2
       month: 3
       year: 1954
-  justification: Personal advisor to the President of Nicaragua on national security matters. In this capacity, he has been directly involved in and responsible for decision-making on national security matters and the establishment of repressive policies carried out by the State of Nicaragua against people taking part in demonstrations, opposition representatives and journalists in Nicaragua from Apr 2018 onwards.
+  justification: Personal advisor to the President of Nicaragua on national security
+    matters. In this capacity, he has been directly involved in and responsible for
+    decision-making on national security matters and the establishment of repressive
+    policies carried out by the State of Nicaragua against people taking part in demonstrations,
+    opposition representatives and journalists in Nicaragua from Apr 2018 onwards.

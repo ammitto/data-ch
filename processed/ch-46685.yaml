@@ -1,3 +1,4 @@
+---
 ssid: '46685'
 sanctions_set_id: '4387'
 individual:
@@ -24,4 +25,10 @@ individual:
       year: 1983
     addresses:
     - address_details: Vogel 1K St., apt. 17
-  justification: In his position as judge at the Supreme Court of the Republic of Belarus, Ihar Liubavitski is responsible for politically motivated rulings against opposition leaders, activists and journalists, in particular the sentencing of opposition presidential candidate Viktar Babarika, who is considered a political prisoner by human rights organisations. He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition.
+  justification: In his position as judge at the Supreme Court of the Republic of
+    Belarus, Ihar Liubavitski is responsible for politically motivated rulings against
+    opposition leaders, activists and journalists, in particular the sentencing of
+    opposition presidential candidate Viktar Babarika, who is considered a political
+    prisoner by human rights organisations. He is therefore responsible for serious
+    human rights violations and for seriously undermining the rule of law, as well
+    as for the repression of civil society and democratic opposition.

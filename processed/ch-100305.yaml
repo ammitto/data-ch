@@ -1,3 +1,4 @@
+---
 ssid: '100305'
 sanctions_set_id: '8174'
 entity:
@@ -24,4 +25,8 @@ entity:
       zip_code: '130064'
     - address_details: Mashkova st. 9/1
       zip_code: '105062'
-  justification: Bank Melli Iran ZAO is an Iranian bank based in Russia. Bank Melli Iran ZAO is owned and controlled by Bank Melli, Iran’s largest bank, which is owned and controlled by and provides support to the Government of Iran Therefore, Bank Melli Iran ZAO is owned or controlled by an entity providing support to the Government of Iran.
+  justification: Bank Melli Iran ZAO is an Iranian bank based in Russia. Bank Melli
+    Iran ZAO is owned and controlled by Bank Melli, Iran’s largest bank, which is
+    owned and controlled by and provides support to the Government of Iran Therefore,
+    Bank Melli Iran ZAO is owned or controlled by an entity providing support to the
+    Government of Iran.

@@ -1,3 +1,4 @@
+---
 ssid: '79296'
 sanctions_set_id: '47225'
 individual:
@@ -27,4 +28,5 @@ individual:
         value: Mohammad Wali
     day_month_year:
       year: 1965
-  justification: Minister of Ministry of Preventing Vice and Propagating Virtue under the Taliban regime.
+  justification: Minister of Ministry of Preventing Vice and Propagating Virtue under
+    the Taliban regime.

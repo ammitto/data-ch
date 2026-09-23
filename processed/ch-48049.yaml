@@ -1,3 +1,4 @@
+---
 ssid: '48049'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,6 @@ entity:
     day_month_year:
       year: 2013
     addresses:
-  justification: Internet Research Agency is a Russian company engaged in online influence operations on behalf of Russia. Its ultimate objective is to manipulate the public opinion.
+  justification: Internet Research Agency is a Russian company engaged in online influence
+    operations on behalf of Russia. Its ultimate objective is to manipulate the public
+    opinion.

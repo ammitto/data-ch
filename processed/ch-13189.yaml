@@ -1,3 +1,4 @@
+---
 ssid: '13189'
 sanctions_set_id: '13065'
 individual:
@@ -22,4 +23,6 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Sharifi Malek Ajdar
-  justification: Judge at the Supreme Court, head of the 43rd section. Former Head of East Azerbaidjan Judiciary. He was responsible for Sakineh Mohammadi-Ashtiani's trial.
+  justification: Judge at the Supreme Court, head of the 43rd section. Former Head
+    of East Azerbaidjan Judiciary. He was responsible for Sakineh Mohammadi-Ashtiani's
+    trial.

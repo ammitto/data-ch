@@ -1,3 +1,4 @@
+---
 ssid: '78529'
 sanctions_set_id: '68945'
 entity:
@@ -35,4 +36,7 @@ entity:
         value: SHIG Department 7500
     addresses:
     - address_details: c/o SHIG, Damavand Tehran Highway
-  justification: Shahid Haj Ali Movahed Research Center is a subsidiary of the EU-listed Shahid Hemmat Industries Group (SHIG), an industrial group subordinate to the state-controlled EU-listed Aerospace Industries Organisation (AIO), which supports Iran’s liquid-propellant ballistic missile programme.
+  justification: Shahid Haj Ali Movahed Research Center is a subsidiary of the EU-listed
+    Shahid Hemmat Industries Group (SHIG), an industrial group subordinate to the
+    state-controlled EU-listed Aerospace Industries Organisation (AIO), which supports
+    Iran’s liquid-propellant ballistic missile programme.

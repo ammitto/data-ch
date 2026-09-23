@@ -1,3 +1,4 @@
+---
 ssid: '52921'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 4
       month: 4
       year: 1949
-  justification: Pavel Nikolayevitch Gusev is the head of the main Russian tabloid “Moskovskiy Komsomolets”, supporting the Kremlin’s narrative and actions which undermine or threaten the territorial integrity, sovereignty and independence of Ukraine.
+  justification: Pavel Nikolayevitch Gusev is the head of the main Russian tabloid
+    “Moskovskiy Komsomolets”, supporting the Kremlin’s narrative and actions which
+    undermine or threaten the territorial integrity, sovereignty and independence
+    of Ukraine.

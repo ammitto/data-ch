@@ -1,3 +1,4 @@
+---
 ssid: '4537'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 14
       month: 10
       year: 1949
-  justification: Has actively undermined democracy in Belarus. Former Сhairman of the Regional Election Committee of the Gomel region, former Member of the Lower Chamber of the Parliament. As Chairman of a Regional Electoral Commission, he was directly responsible for the violations of international electoral standards, in particular in the Presidential elections in 2006 in the Gomel region.
+  justification: Has actively undermined democracy in Belarus. Former Сhairman of
+    the Regional Election Committee of the Gomel region, former Member of the Lower
+    Chamber of the Parliament. As Chairman of a Regional Electoral Commission, he
+    was directly responsible for the violations of international electoral standards,
+    in particular in the Presidential elections in 2006 in the Gomel region.

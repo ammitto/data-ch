@@ -1,3 +1,4 @@
+---
 ssid: '30388'
 sanctions_set_id: '27286'
 individual:
@@ -36,4 +37,5 @@ individual:
       day: 30
       month: 4
       year: 1991
-  justification: Commander of the "Rusich" unit, an armed separatist group involved in the fighting in eastern Ukraine.
+  justification: Commander of the "Rusich" unit, an armed separatist group involved
+    in the fighting in eastern Ukraine.

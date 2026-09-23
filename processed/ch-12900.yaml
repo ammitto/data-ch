@@ -1,3 +1,4 @@
+---
 ssid: '12900'
 sanctions_set_id: '12786'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Libyan Africa Investment Portfolio
     addresses:
     - address_details: Jamahiriya Street, LAP Building
-  justification: Under control of Muammar Qadhafi and his family, and potential source of funding for his regime.
+  justification: Under control of Muammar Qadhafi and his family, and potential source
+    of funding for his regime.

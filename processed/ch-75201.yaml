@@ -1,3 +1,4 @@
+---
 ssid: '75201'
 sanctions_set_id: '27286'
 entity:
@@ -25,4 +26,7 @@ entity:
       year: 1992
     addresses:
     - address_details: Makaenka St., 23
-  justification: OJSC Belarusian Optical and Mechanical Association BelOMO is a state-owned enterprise that operates in the defence sector in Belarus, producing and selling optical sights for small arms, including telescopic sights and optical sights with illuminated reticles.
+  justification: OJSC Belarusian Optical and Mechanical Association BelOMO is a state-owned
+    enterprise that operates in the defence sector in Belarus, producing and selling
+    optical sights for small arms, including telescopic sights and optical sights
+    with illuminated reticles.

@@ -1,3 +1,4 @@
+---
 ssid: '100342'
 sanctions_set_id: '8174'
 entity:
@@ -17,4 +18,8 @@ entity:
     addresses:
     - address_details: 51 Africa Street, Shaheed Sattari Avenue, between Zafar & Mirdamad
       zip_code: '1968856911'
-  justification: Mazandaran Cement Company is an Iranian company controlled by Bank Melli and the Government of Iran. It serves as a vehicle for Bank Melli’s interests in the cement industry. Therefore, Mazandaran Cement Company is controlled by the Government of Iran and by an entity which provides support to the Government of Iran. Furthermore, it provides support to the Government of Iran.
+  justification: Mazandaran Cement Company is an Iranian company controlled by Bank
+    Melli and the Government of Iran. It serves as a vehicle for Bank Melli’s interests
+    in the cement industry. Therefore, Mazandaran Cement Company is controlled by
+    the Government of Iran and by an entity which provides support to the Government
+    of Iran. Furthermore, it provides support to the Government of Iran.

@@ -1,3 +1,4 @@
+---
 ssid: '12417'
 sanctions_set_id: '3986'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Ramak Constructions Co.
     addresses:
     - address_details: Dara'a Highway
-  justification: Construction of military barracks, border post barracks and other buildings for army needs under the former al-Assad regime.
+  justification: Construction of military barracks, border post barracks and other
+    buildings for army needs under the former al-Assad regime.

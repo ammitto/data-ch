@@ -1,3 +1,4 @@
+---
 ssid: '12013'
 sanctions_set_id: '3986'
 individual:
@@ -18,4 +19,6 @@ individual:
       - order: 3
         name_part_type: title
         value: Major General
-  justification: Deputy head of the Syrian Air Force Intelligence under the former al-Assad regime. Responsible for the use of violence across Syria and intimidation and torture of protestors.
+  justification: Deputy head of the Syrian Air Force Intelligence under the former
+    al-Assad regime. Responsible for the use of violence across Syria and intimidation
+    and torture of protestors.

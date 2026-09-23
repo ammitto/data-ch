@@ -1,3 +1,4 @@
+---
 ssid: '12950'
 sanctions_set_id: '12788'
 individual:
@@ -25,4 +26,6 @@ individual:
     day_month_year:
       year: 1948
     addresses:
-  justification: Cousin of Muammar Qadhafi. In the 1980s, Sayyid was involved in the dissident assassination campaign and allegedly responsible for several deaths in Europe. He is also thought to have been involved in arms procurement.
+  justification: Cousin of Muammar Qadhafi. In the 1980s, Sayyid was involved in the
+    dissident assassination campaign and allegedly responsible for several deaths
+    in Europe. He is also thought to have been involved in arms procurement.

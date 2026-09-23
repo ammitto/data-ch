@@ -1,3 +1,4 @@
+---
 ssid: '98701'
 sanctions_set_id: '27286'
 entity:
@@ -26,4 +27,8 @@ entity:
     addresses:
     - address_details: Liteyniy Ave, 26
       zip_code: '191028'
-  justification: Maxima Legal LLC is a Russian law firm. In that capacity, Maxima Legal LLC submitted numerous requests to the competent national authorities for derogation from the asset freeze imposed by Union restrictive measures. Maxima Legal LLC provided false documents in support of its claims for the sole purpose of obtaining the lifting of the freezing of its clients’ funds.
+  justification: Maxima Legal LLC is a Russian law firm. In that capacity, Maxima
+    Legal LLC submitted numerous requests to the competent national authorities for
+    derogation from the asset freeze imposed by Union restrictive measures. Maxima
+    Legal LLC provided false documents in support of its claims for the sole purpose
+    of obtaining the lifting of the freezing of its clients’ funds.

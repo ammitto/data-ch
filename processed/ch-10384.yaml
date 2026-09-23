@@ -1,3 +1,4 @@
+---
 ssid: '10384'
 sanctions_set_id: '8174'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Metro Supreme International Ltd
     addresses:
     - address_details: Room 1601, Workington Tower, 78 Bonham Strand, Sheung Wan
-  justification: Owned or controlled by or acting on behalf of IRISL. IRISL front company, owned or controlled by IRISL or an IRISL affiliate.
+  justification: Owned or controlled by or acting on behalf of IRISL. IRISL front
+    company, owned or controlled by IRISL or an IRISL affiliate.

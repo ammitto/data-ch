@@ -1,3 +1,4 @@
+---
 ssid: '68997'
 sanctions_set_id: '68945'
 individual:
@@ -27,4 +28,8 @@ individual:
         value: Ehsan
     day_month_year:
       year: 1982
-  justification: Ehsan Imaninejad is Chief Executive Officer (CEO) of Saad Sazeh Faraz Sharif. Saad Sazeh Faraz Sharif (a.k.a. Daria Fanavar Borhan Sharif) is an Iranian company that offers aerospace engineering services and manufactures parts of the Shahed unmanned aerial vehicles (UAVs). As CEO of Saad Sazeh Faraz Sharif, Ehsan Imaninejad is therefore supporting and involved in Iran’s UAV programme.
+  justification: Ehsan Imaninejad is Chief Executive Officer (CEO) of Saad Sazeh Faraz
+    Sharif. Saad Sazeh Faraz Sharif (a.k.a. Daria Fanavar Borhan Sharif) is an Iranian
+    company that offers aerospace engineering services and manufactures parts of the
+    Shahed unmanned aerial vehicles (UAVs). As CEO of Saad Sazeh Faraz Sharif, Ehsan
+    Imaninejad is therefore supporting and involved in Iran’s UAV programme.

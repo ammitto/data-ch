@@ -1,3 +1,4 @@
+---
 ssid: '9234'
 sanctions_set_id: '8174'
 entity:
@@ -12,4 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Javedan Mehr Toos
-  justification: Engineering firm that procures for the Atomic Energy Organisation of Iran which was designated under UNSCR 1737.
+  justification: Engineering firm that procures for the Atomic Energy Organisation
+    of Iran which was designated under UNSCR 1737.

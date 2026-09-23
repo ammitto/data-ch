@@ -1,3 +1,4 @@
+---
 ssid: '5766'
 sanctions_set_id: '4387'
 individual:
@@ -18,4 +19,11 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Mikhailavich
-  justification: Prosecutor in the trial of Syarhei Kavalenka who was sentenced to two years and one month in prison for violation of probation. Syarhei Kavalenka was previously given a suspended sentence for hanging out a white-red-white flag, a symbol of the opposition moment, on a Christmas tree in Vitsebsk. The subsequent sentence given by the judge in the case was disproportionately harsh given the nature of the crime and not in line with the criminal code of Belarus. Lutau’s actions constituted a direct violation of the international commitments of Belarus in the field of human rights.
+  justification: Prosecutor in the trial of Syarhei Kavalenka who was sentenced to
+    two years and one month in prison for violation of probation. Syarhei Kavalenka
+    was previously given a suspended sentence for hanging out a white-red-white flag,
+    a symbol of the opposition moment, on a Christmas tree in Vitsebsk. The subsequent
+    sentence given by the judge in the case was disproportionately harsh given the
+    nature of the crime and not in line with the criminal code of Belarus. Lutau’s
+    actions constituted a direct violation of the international commitments of Belarus
+    in the field of human rights.

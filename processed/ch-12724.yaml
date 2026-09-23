@@ -1,3 +1,4 @@
+---
 ssid: '12724'
 sanctions_set_id: '3986'
 entity:
@@ -12,4 +13,9 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Drex Technologies S.A.
-  justification: Drex Technologies is wholly owned by Rami Makhlouf, who is listed under Union sanctions for providing financial support to the former al-Assad regime. Rami Makhlouf uses Drex Technologies to facilitate and manage his international financial holdings, including a majority share in SyriaTel, which the Union has previously listed on the grounds that it also provides financial support to the former al-Assad regime.
+  justification: Drex Technologies is wholly owned by Rami Makhlouf, who is listed
+    under Union sanctions for providing financial support to the former al-Assad regime.
+    Rami Makhlouf uses Drex Technologies to facilitate and manage his international
+    financial holdings, including a majority share in SyriaTel, which the Union has
+    previously listed on the grounds that it also provides financial support to the
+    former al-Assad regime.

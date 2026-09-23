@@ -1,3 +1,4 @@
+---
 ssid: '9271'
 sanctions_set_id: '8174'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: Istasyon MH, Sehitler cad, Guldeniz Sit, Number 79/2, Tuzla
       zip_code: '34930'
-  justification: Company run by EU-designated Milad Jafari who has supplied goods, mostly metals, to EU-designated Shahid Hemmat Industries Group (SHIG) through front companies.
+  justification: Company run by EU-designated Milad Jafari who has supplied goods,
+    mostly metals, to EU-designated Shahid Hemmat Industries Group (SHIG) through
+    front companies.

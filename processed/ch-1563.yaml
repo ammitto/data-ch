@@ -1,3 +1,4 @@
+---
 ssid: '1563'
 sanctions_set_id: '3974'
 individual:
@@ -14,4 +15,5 @@ individual:
         value: Sa’d Abd-al-Majid Al-Faisal Al-Tikriti
     day_month_year:
       year: 1944
-  justification: Ba’th Party Regional Command Chairman, Salah Ad-Din; Former Undersecretary for Security Affairs, Foreign Ministry
+  justification: Ba’th Party Regional Command Chairman, Salah Ad-Din; Former Undersecretary
+    for Security Affairs, Foreign Ministry

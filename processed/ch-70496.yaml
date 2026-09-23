@@ -1,3 +1,4 @@
+---
 ssid: '70496'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 17
       month: 6
       year: 1951
-  justification: Yury Chikhanchin is the Director of Rosfinmonitoring, which is a Russian federal executive body created by a decree of the President of the Russian Federation in 2001, responsible for countering money laundering and terrorism financing. All activities undertaken by Rosfinmonitoring fall under the direct supervision of President of the Russian Federation Vladimir Putin.
+  justification: Yury Chikhanchin is the Director of Rosfinmonitoring, which is a
+    Russian federal executive body created by a decree of the President of the Russian
+    Federation in 2001, responsible for countering money laundering and terrorism
+    financing. All activities undertaken by Rosfinmonitoring fall under the direct
+    supervision of President of the Russian Federation Vladimir Putin.

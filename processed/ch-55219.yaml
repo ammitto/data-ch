@@ -1,3 +1,4 @@
+---
 ssid: '55219'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 9
       month: 1
       year: 1998
-  justification: Elizaveta Peskova is the daughter of Dmitry Peskov, press secretary of the President of the Russian Federation, Vladimir Putin, who has been listed under Decision 2014/145/CFSP.
+  justification: Elizaveta Peskova is the daughter of Dmitry Peskov, press secretary
+    of the President of the Russian Federation, Vladimir Putin, who has been listed
+    under Decision 2014/145/CFSP.

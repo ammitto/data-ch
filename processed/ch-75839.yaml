@@ -1,3 +1,4 @@
+---
 ssid: '75839'
 sanctions_set_id: '27286'
 individual:
@@ -18,4 +19,5 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Viktorovich
-  justification: Viktor Branchugov is the General Director of Joint Stock Company (JSC) NPO MRTZ. JSC NPO MRTZ is part of the Almaz-Antey concern.
+  justification: Viktor Branchugov is the General Director of Joint Stock Company
+    (JSC) NPO MRTZ. JSC NPO MRTZ is part of the Almaz-Antey concern.

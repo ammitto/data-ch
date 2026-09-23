@@ -1,3 +1,4 @@
+---
 ssid: '100443'
 sanctions_set_id: '8174'
 entity:
@@ -28,4 +29,8 @@ entity:
         value: Nuclear Science and Technology Research Institute
     addresses:
     - address_details: AEOI
-  justification: The Iranian Nuclear Science and Technology Research Institute is affiliated on an official level with the Atomic Energy Organization of Iran (AEOI), which oversees the Iranian nuclear programme. Therefore, the Iranian Nuclear Science and Technology Research Institute is involved in and supports Iran’s proliferation sensitive nuclear activities.
+  justification: The Iranian Nuclear Science and Technology Research Institute is
+    affiliated on an official level with the Atomic Energy Organization of Iran (AEOI),
+    which oversees the Iranian nuclear programme. Therefore, the Iranian Nuclear Science
+    and Technology Research Institute is involved in and supports Iran’s proliferation
+    sensitive nuclear activities.

@@ -1,3 +1,4 @@
+---
 ssid: '71946'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 20
       month: 1
       year: 1980
-  justification: Pavel Malkov is the Governor of the Ryazan Region, appointed by the President of the Russian Federation Vladimir Putin. In his role as Governor, Pavel Malkov manages a regional state body of the Russian Federation and is responsible for implementing state policies at the regional level.
+  justification: Pavel Malkov is the Governor of the Ryazan Region, appointed by the
+    President of the Russian Federation Vladimir Putin. In his role as Governor, Pavel
+    Malkov manages a regional state body of the Russian Federation and is responsible
+    for implementing state policies at the regional level.

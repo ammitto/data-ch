@@ -1,3 +1,4 @@
+---
 ssid: '4456'
 sanctions_set_id: '4387'
 individual:
@@ -23,6 +24,11 @@ individual:
       month: 10
       year: 1937
     addresses:
-    - address_details: Общественное объединение "Союз писателей Беларуси", ул. Фрунзе, 5
+    - address_details: Общественное объединение "Союз писателей Беларуси", ул. Фрунзе,
+        5
       zip_code: '220034'
-  justification: Head of the pro-regime Union of writers and Chairman of the Morality Republican Public Council (that takes part in the censorship activities of the regime) and former Chairman of the Foreign Affairs Committee of the Upper House. He is a close supporter of President Lukashenka, and key to the regime's propaganda and censorship.
+  justification: Head of the pro-regime Union of writers and Chairman of the Morality
+    Republican Public Council (that takes part in the censorship activities of the
+    regime) and former Chairman of the Foreign Affairs Committee of the Upper House.
+    He is a close supporter of President Lukashenka, and key to the regime's propaganda
+    and censorship.

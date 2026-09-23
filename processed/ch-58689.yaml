@@ -1,3 +1,4 @@
+---
 ssid: '58689'
 sanctions_set_id: '27286'
 entity:
@@ -26,4 +27,8 @@ entity:
     addresses:
     - address_details: 1 Staleliteynaya ul.
       zip_code: '241035'
-  justification: JSC Bryansk Automobile Plant is the only Russian manufacturer that produces special wheeled chassis and tractors (SKST) of high cross-country ability, which are the basis of the transport base for existing and future means of air and rocket and space defence, as well as actively used as part of mobile means of radar reconnaissance, engineering support, and multiple launch rocket systems.
+  justification: JSC Bryansk Automobile Plant is the only Russian manufacturer that
+    produces special wheeled chassis and tractors (SKST) of high cross-country ability,
+    which are the basis of the transport base for existing and future means of air
+    and rocket and space defence, as well as actively used as part of mobile means
+    of radar reconnaissance, engineering support, and multiple launch rocket systems.

@@ -1,3 +1,4 @@
+---
 ssid: '92893'
 sanctions_set_id: '27286'
 entity:
@@ -35,4 +36,6 @@ entity:
         value: افيبوري شيبمانجمينت ش.ذ.م.م-منطقة حرة
     addresses:
     - address_details: Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba
-  justification: Moonlight Shipmanagement L.L.C – FZ, previously known as Avebury Shipmanagement L.L.C – FZ, is a UAE-based shipping company, which manages tankers transporting Russian crude oil, including for export purposes.
+  justification: Moonlight Shipmanagement L.L.C – FZ, previously known as Avebury
+    Shipmanagement L.L.C – FZ, is a UAE-based shipping company, which manages tankers
+    transporting Russian crude oil, including for export purposes.

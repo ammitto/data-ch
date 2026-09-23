@@ -1,3 +1,4 @@
+---
 ssid: '37692'
 sanctions_set_id: '3978'
 individual:
@@ -22,4 +23,5 @@ individual:
     day_month_year:
       year: 1967
     addresses:
-  justification: A leading official guiding the DPRK's WMD development efforts. Serving as Deputy Director of the Workers' Party of Korea Munitions Industry Department.
+  justification: A leading official guiding the DPRK's WMD development efforts. Serving
+    as Deputy Director of the Workers' Party of Korea Munitions Industry Department.

@@ -1,3 +1,4 @@
+---
 ssid: '11190'
 sanctions_set_id: '8174'
 individual:
@@ -18,4 +19,6 @@ individual:
       - order: 3
         name_part_type: title
         value: Brigadier-General
-  justification: Head of Iran's Aviation Industries Organisation (IAIO). Former Head of Iran's Aerospace Industries Organisation (AIO). AIO has taken part in sensitive Iranian programmes.
+  justification: Head of Iran's Aviation Industries Organisation (IAIO). Former Head
+    of Iran's Aerospace Industries Organisation (AIO). AIO has taken part in sensitive
+    Iranian programmes.

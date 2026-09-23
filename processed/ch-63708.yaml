@@ -1,3 +1,4 @@
+---
 ssid: '63708'
 sanctions_set_id: '27286'
 individual:
@@ -35,4 +36,10 @@ individual:
       day: 9
       month: 6
       year: 1982
-  justification: Dmitriy Pantus is the Chairman of the State Authority for Military Industry of Belarus. The State Authority for Military Industry of Belarus develops and maintains weapons, promotes the production of weapons by subordinate enterprises to supply the Russian armed forces, provides military-industrial cooperation, oversees the movement of weapons across the state border and provides navigation to the Russian armed forces. In his position, Dmitriy Pantus is providing military support to the Russian Federation in its war of aggression against Ukraine.
+  justification: Dmitriy Pantus is the Chairman of the State Authority for Military
+    Industry of Belarus. The State Authority for Military Industry of Belarus develops
+    and maintains weapons, promotes the production of weapons by subordinate enterprises
+    to supply the Russian armed forces, provides military-industrial cooperation,
+    oversees the movement of weapons across the state border and provides navigation
+    to the Russian armed forces. In his position, Dmitriy Pantus is providing military
+    support to the Russian Federation in its war of aggression against Ukraine.

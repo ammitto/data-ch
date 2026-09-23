@@ -1,3 +1,4 @@
+---
 ssid: '30404'
 sanctions_set_id: '27286'
 individual:
@@ -29,4 +30,5 @@ individual:
       day: 19
       month: 7
       year: 1980
-  justification: Commander of the "Somali" battalion, an armed separatist group involved in the fighting in eastern Ukraine.
+  justification: Commander of the "Somali" battalion, an armed separatist group involved
+    in the fighting in eastern Ukraine.

@@ -1,3 +1,4 @@
+---
 ssid: '98999'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,8 @@ entity:
     addresses:
     - address_details: No. 5 Huoju Street, Hongwei District
       zip_code: '111003'
-  justification: Liaoyang Petrochemical Company is a refinery in the People’s Republic of China, and one of the country’s leading processors of Russian-sourced crude oil. It is China’s only integrated refining and chemical enterprise fully processing Russian crude oil. Liaoyang Petrochemical Company is able to process millions of tons of Russian oil each year.
+  justification: Liaoyang Petrochemical Company is a refinery in the People’s Republic
+    of China, and one of the country’s leading processors of Russian-sourced crude
+    oil. It is China’s only integrated refining and chemical enterprise fully processing
+    Russian crude oil. Liaoyang Petrochemical Company is able to process millions
+    of tons of Russian oil each year.

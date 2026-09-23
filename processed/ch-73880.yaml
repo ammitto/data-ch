@@ -1,3 +1,4 @@
+---
 ssid: '73880'
 sanctions_set_id: '29445'
 entity:
@@ -21,5 +22,7 @@ entity:
         value: Yilufa Electronics Limited
     addresses:
     - address_details: 1806, Futian District, Shenzhen City, Hanguo Center
-    - address_details: Flat 419, 4/F, Block B, Sheung Shui Plaza, 3, Ka Fu Close, Sheung Shui, NT
-    - address_details: Unit 02, 21/F, Hip Kwan Commercial Building, 38 Pitt Street, Yau Ma Tei, Kowloon
+    - address_details: Flat 419, 4/F, Block B, Sheung Shui Plaza, 3, Ka Fu Close,
+        Sheung Shui, NT
+    - address_details: Unit 02, 21/F, Hip Kwan Commercial Building, 38 Pitt Street,
+        Yau Ma Tei, Kowloon

@@ -1,3 +1,4 @@
+---
 ssid: '96035'
 sanctions_set_id: '29445'
 entity:
@@ -25,7 +26,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Beijing Xinghua Hengcheng Technology Development Co., Ltd Xinghuatech Co. Ltd
+        value: Beijing Xinghua Hengcheng Technology Development Co., Ltd Xinghuatech
+          Co. Ltd
     - name_type: alias
       quality: good
       lang: eng

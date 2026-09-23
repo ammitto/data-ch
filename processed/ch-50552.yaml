@@ -1,3 +1,4 @@
+---
 ssid: '50552'
 sanctions_set_id: '29445'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Federal State Budgetary Enterprise of the Administration of the President of Russia
+        value: Federal State Budgetary Enterprise of the Administration of the President
+          of Russia
     - name_type: alias
       quality: good
       lang: eng

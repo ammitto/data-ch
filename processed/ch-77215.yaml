@@ -1,3 +1,4 @@
+---
 ssid: '77215'
 sanctions_set_id: '29445'
 entity:
@@ -32,7 +33,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Федеральное Государственное Бюджетное Учреждение «33 Центральный Научно-Исследовательский Испытательный Институт» Министерства Обороны Российской Федерации
+        value: Федеральное Государственное Бюджетное Учреждение «33 Центральный Научно-Исследовательский
+          Испытательный Институт» Министерства Обороны Российской Федерации
     - name_type: alias
       quality: good
       lang: eng
@@ -53,14 +55,16 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: 33rd Central Experimental Institute for Scientific Research of the Ministry of Defence
+        value: 33rd Central Experimental Institute for Scientific Research of the
+          Ministry of Defence
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: 33rd Central Research and Testing Institute of the Ministry of Defence of the Russian Federation
+        value: 33rd Central Research and Testing Institute of the Ministry of Defence
+          of the Russian Federation
     - name_type: alias
       quality: good
       lang: eng

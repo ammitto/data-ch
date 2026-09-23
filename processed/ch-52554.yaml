@@ -1,3 +1,4 @@
+---
 ssid: '52554'
 sanctions_set_id: '29445'
 entity:
@@ -29,5 +30,6 @@ entity:
     addresses:
     - address_details: Presnenskaya Embankment, 12, Floor 20, Office 2024
       zip_code: '123112'
-    - address_details: Presnenskaya Embankment, 12, Federation Tower “Vostok”, Office 2024
+    - address_details: Presnenskaya Embankment, 12, Federation Tower “Vostok”, Office
+        2024
       zip_code: '123112'

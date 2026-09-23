@@ -1,3 +1,4 @@
+---
 ssid: '71978'
 sanctions_set_id: '27286'
 entity:
@@ -22,4 +23,6 @@ entity:
     addresses:
     - address_details: Vostochnoe shosse 24
       zip_code: '622051'
-  justification: Uralcryomash is a Russian company producing dual-use technology. It is one of Russia’s leading manufacturers of cryogenic equipment, vessels operating under pressure, and storage for explosive and flammable gases and liquids.
+  justification: Uralcryomash is a Russian company producing dual-use technology.
+    It is one of Russia’s leading manufacturers of cryogenic equipment, vessels operating
+    under pressure, and storage for explosive and flammable gases and liquids.

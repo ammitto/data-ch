@@ -1,3 +1,4 @@
+---
 ssid: '28214'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 17
       month: 5
       year: 1954
-  justification: Former commander of the Fifth Service of the Federal Security Service (FSB) of the Russian Federation.
+  justification: Former commander of the Fifth Service of the Federal Security Service
+    (FSB) of the Russian Federation.

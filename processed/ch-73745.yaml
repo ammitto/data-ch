@@ -1,3 +1,4 @@
+---
 ssid: '73745'
 sanctions_set_id: '27286'
 entity:
@@ -23,4 +24,9 @@ entity:
       day: 24
       month: 2
       year: 2011
-  justification: JSC GosNIIP (a.k.a. JSC State Scientific Research Institute of Instrument Making) is a Russian military-industrial state enterprise that develops, inter alia, control systems for anti-submarine and cruise missiles deployed by the Russian Armed Forces. Therefore, JSC GosNIIP is supporting materially and benefitting from the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine.
+  justification: JSC GosNIIP (a.k.a. JSC State Scientific Research Institute of Instrument
+    Making) is a Russian military-industrial state enterprise that develops, inter
+    alia, control systems for anti-submarine and cruise missiles deployed by the Russian
+    Armed Forces. Therefore, JSC GosNIIP is supporting materially and benefitting
+    from the Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

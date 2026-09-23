@@ -1,3 +1,4 @@
+---
 ssid: '77349'
 sanctions_set_id: '29445'
 entity:
@@ -20,8 +21,10 @@ entity:
         name_part_type: whole-name
         value: All Parts Trading Company Limited
     addresses:
-    - address_details: 3 Garden Road Central, Hong Kong; Room 13, 27/F, Ho King Commercial Centre, 2-16 Fa Yuen, Street, Mongkok Kowloon
+    - address_details: 3 Garden Road Central, Hong Kong; Room 13, 27/F, Ho King Commercial
+        Centre, 2-16 Fa Yuen, Street, Mongkok Kowloon
     - address_details: Room 2901B, Bank of Communications, Futian District
-    - address_details: Room 803, Chevalier House, 45-51 Chatham Road South, Kowloon, Tsim Sha Tsui
+    - address_details: Room 803, Chevalier House, 45-51 Chatham Road South, Kowloon,
+        Tsim Sha Tsui
     - address_details: 4/F Building 6 Deguan Lighting Factory, No. 2 South 1st
     - address_details: Room 1901H, Bank of Communications, Futian District

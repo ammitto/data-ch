@@ -1,3 +1,4 @@
+---
 ssid: '95405'
 sanctions_set_id: '27286'
 entity:
@@ -21,4 +22,7 @@ entity:
       zip_code: '250000'
     - address_details: Warehouse No. 4, 5, 6, 7, 8, Zibo Bonded Logistics Park
       zip_code: '255086'
-  justification: Shandong ODES Industry Co. Ltd. is a Chinese company manufacturing and selling all-terrain vehicles (ATVs). After the start of Russia’s war of aggression against Ukraine, the company started to supply the Russian Armed Forces with ATVs, which have been used for military operations in Ukraine.
+  justification: Shandong ODES Industry Co. Ltd. is a Chinese company manufacturing
+    and selling all-terrain vehicles (ATVs). After the start of Russia’s war of aggression
+    against Ukraine, the company started to supply the Russian Armed Forces with ATVs,
+    which have been used for military operations in Ukraine.

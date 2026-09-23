@@ -1,3 +1,4 @@
+---
 ssid: '12221'
 sanctions_set_id: '3986'
 individual:
@@ -27,4 +28,5 @@ individual:
         value: Faysal
     day_month_year:
       year: 1955
-  justification: Former Minister of Transport. Associated with the Syrian regime and its violent repression of the civilian population.
+  justification: Former Minister of Transport. Associated with the Syrian regime and
+    its violent repression of the civilian population.

@@ -1,3 +1,4 @@
+---
 ssid: '90822'
 sanctions_set_id: '4387'
 individual:
@@ -20,4 +21,9 @@ individual:
         value: Mikalaevich
     day_month_year:
       year: 1979
-  justification: Yuri Tchorny is the Director of Precise Electro-Mechanics, a Belarusian State enterprise that specializes in the development and production of military products and is subordinate to the State Military-Industrial Committee of the Republic of Belarus. In that capacity, Precise Electro-Mechanics Plant produces military hardware for use by the Belarus armed forces, notably ballistic missiles and provides revenue to the Belarusian State.
+  justification: Yuri Tchorny is the Director of Precise Electro-Mechanics, a Belarusian
+    State enterprise that specializes in the development and production of military
+    products and is subordinate to the State Military-Industrial Committee of the
+    Republic of Belarus. In that capacity, Precise Electro-Mechanics Plant produces
+    military hardware for use by the Belarus armed forces, notably ballistic missiles
+    and provides revenue to the Belarusian State.

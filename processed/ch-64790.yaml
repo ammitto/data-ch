@@ -1,3 +1,4 @@
+---
 ssid: '64790'
 sanctions_set_id: '38066'
 individual:
@@ -26,4 +27,5 @@ individual:
       day: 17
       month: 4
       year: 1972
-  justification: Colonel Simon Tokolonga holds a leading position in the Congolese Armed Forces (FARDC) as head of its 3411th regiment.
+  justification: Colonel Simon Tokolonga holds a leading position in the Congolese
+    Armed Forces (FARDC) as head of its 3411th regiment.

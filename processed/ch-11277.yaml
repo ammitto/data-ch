@@ -1,3 +1,4 @@
+---
 ssid: '11277'
 sanctions_set_id: '8174'
 individual:
@@ -15,4 +16,5 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Hamid
-  justification: Hamid Soltani is the Managing Director of Management Company for Nuclear Power Plant Construction (MASNA).
+  justification: Hamid Soltani is the Managing Director of Management Company for
+    Nuclear Power Plant Construction (MASNA).

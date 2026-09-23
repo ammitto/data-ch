@@ -1,3 +1,4 @@
+---
 ssid: '11713'
 sanctions_set_id: '3986'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 15
       month: 1
       year: 1950
-  justification: Deputy Chief of Staff for Security and Reconnaissance; involved in violence against the civilian population.
+  justification: Deputy Chief of Staff for Security and Reconnaissance; involved in
+    violence against the civilian population.

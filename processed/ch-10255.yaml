@@ -1,3 +1,4 @@
+---
 ssid: '10255'
 sanctions_set_id: '8174'
 entity:
@@ -14,4 +15,6 @@ entity:
         value: Kheibar Co.
     addresses:
     - address_details: Iranshahr shomali (North) avenue, nr. 237
-  justification: Kheibar Co. is owned and controlled by IRISL which holds 81 % of the company's shares and whose representative is a member of its Board of Directors. It provides spare parts for shipping vessels.
+  justification: Kheibar Co. is owned and controlled by IRISL which holds 81 % of
+    the company's shares and whose representative is a member of its Board of Directors.
+    It provides spare parts for shipping vessels.

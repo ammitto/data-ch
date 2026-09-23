@@ -1,3 +1,4 @@
+---
 ssid: '57476'
 sanctions_set_id: '39362'
 individual:
@@ -12,4 +13,9 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Htin Latt Oo
-  justification: Major General Htin Latt Oo is Commander of the Western Command of the Myanmar Armed Forces (Tatmadaw) since July 2020. As a regional commander, he commands and controls military forces in the Western Rakhine and Chin regions. Military forces in those regions committed serious human rights violations and crimes, including airstrikes, rape, use of human shields, torching of homes, massacres and unlawful arrests.
+  justification: Major General Htin Latt Oo is Commander of the Western Command of
+    the Myanmar Armed Forces (Tatmadaw) since July 2020. As a regional commander,
+    he commands and controls military forces in the Western Rakhine and Chin regions.
+    Military forces in those regions committed serious human rights violations and
+    crimes, including airstrikes, rape, use of human shields, torching of homes, massacres
+    and unlawful arrests.

@@ -1,3 +1,4 @@
+---
 ssid: '4777'
 sanctions_set_id: '4387'
 individual:
@@ -21,4 +22,7 @@ individual:
     addresses:
     - address_details: vul. Frunze, 19
       zip_code: '220034'
-  justification: Member of the Security Council, Head of the Investigation Committee, former Deputy Head of the Investigation Committee, former Prosecutor of the region of Homel. Responsible for the repression of civil society following the December 2010 elections.
+  justification: Member of the Security Council, Head of the Investigation Committee,
+    former Deputy Head of the Investigation Committee, former Prosecutor of the region
+    of Homel. Responsible for the repression of civil society following the December
+    2010 elections.

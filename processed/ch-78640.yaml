@@ -1,3 +1,4 @@
+---
 ssid: '78640'
 sanctions_set_id: '47225'
 individual:
@@ -35,4 +36,5 @@ individual:
     day_month_year:
       year: 1963
     addresses:
-  justification: Second Deputy, Economic Affairs, Council of Ministers under the Taliban regime (1996-2001).
+  justification: Second Deputy, Economic Affairs, Council of Ministers under the Taliban
+    regime (1996-2001).

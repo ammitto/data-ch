@@ -1,3 +1,4 @@
+---
 ssid: '76721'
 sanctions_set_id: '29445'
 entity:
@@ -20,6 +21,8 @@ entity:
         name_part_type: whole-name
         value: 元富科技集團股份有限公司
     addresses:
-    - address_details: Ft F 10/F, Hung Cheung Ind Ctr Phs 1, 12 Tsing Yeung Circuit Tuen Mun Nt
+    - address_details: Ft F 10/F, Hung Cheung Ind Ctr Phs 1, 12 Tsing Yeung Circuit
+        Tuen Mun Nt
     - address_details: 807, Yan Hing Centre, 9-13 Wong Chuk Yeung St., Fo Tan, NT
-    - address_details: Pan-Asia, Australia, S. America countries and global sales 2F, No.3, Lane 5, Wu Kai Sha Village, Ma On Shan, Nt
+    - address_details: Pan-Asia, Australia, S. America countries and global sales
+        2F, No.3, Lane 5, Wu Kai Sha Village, Ma On Shan, Nt

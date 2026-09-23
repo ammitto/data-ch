@@ -1,3 +1,4 @@
+---
 ssid: '39124'
 sanctions_set_id: '12788'
 individual:
@@ -54,4 +55,5 @@ individual:
       month: 12
       year: 1985
     addresses:
-  justification: Commander of the Shuhada al-Nasr brigade, Head of the Petrol Refinery Guard of Zawiya’s refinery
+  justification: Commander of the Shuhada al-Nasr brigade, Head of the Petrol Refinery
+    Guard of Zawiya’s refinery

@@ -1,3 +1,4 @@
+---
 ssid: '85523'
 sanctions_set_id: '27286'
 entity:
@@ -21,4 +22,9 @@ entity:
         value: LLC Gumich
     addresses:
     - address_details: Varshavskoe 28A
-  justification: LLC Gumich is a Russian company, which fully owns LLC Gumich RTK. LLC Gumich RTK is a producer of Impulse-M robot platforms, which are intended to be used in Russia’s war of aggression against Ukraine and have already been tested on the field by Russian Armed Forces as of summer 2024. As the owner of LLC Gumich RTK, LLC Gumich is therefore supporting, materially or financially, actions which threaten the territorial integrity of Ukraine.
+  justification: LLC Gumich is a Russian company, which fully owns LLC Gumich RTK.
+    LLC Gumich RTK is a producer of Impulse-M robot platforms, which are intended
+    to be used in Russia’s war of aggression against Ukraine and have already been
+    tested on the field by Russian Armed Forces as of summer 2024. As the owner of
+    LLC Gumich RTK, LLC Gumich is therefore supporting, materially or financially,
+    actions which threaten the territorial integrity of Ukraine.

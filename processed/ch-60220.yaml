@@ -1,3 +1,4 @@
+---
 ssid: '60220'
 sanctions_set_id: '39362'
 entity:
@@ -23,4 +24,7 @@ entity:
     - address_details: |-
         Waizayangdar Rd., no. 15
         Ngwe Kyar Yan Quarter
-  justification: Dynasty International Company Limited is a Burmese company that was founded by arms broker Aung Moe Myint. It has been used to facilitate arms deals on behalf of the Burmese military, including the import of aircraft parts in support of the Myanmar air force for air raids against villages and civilian infrastructure.
+  justification: Dynasty International Company Limited is a Burmese company that was
+    founded by arms broker Aung Moe Myint. It has been used to facilitate arms deals
+    on behalf of the Burmese military, including the import of aircraft parts in support
+    of the Myanmar air force for air raids against villages and civilian infrastructure.

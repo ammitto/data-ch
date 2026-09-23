@@ -1,3 +1,4 @@
+---
 ssid: '100957'
 sanctions_set_id: '8174'
 entity:
@@ -29,4 +30,5 @@ entity:
     addresses:
     - address_details: 237, Motahari Ave.
       zip_code: '1587618118'
-  justification: Post Bank of Iran is an Iranian bank, which is majority-owned and controlled by the Government of Iran.
+  justification: Post Bank of Iran is an Iranian bank, which is majority-owned and
+    controlled by the Government of Iran.

@@ -1,3 +1,4 @@
+---
 ssid: '9424'
 sanctions_set_id: '8174'
 entity:
@@ -21,4 +22,6 @@ entity:
         value: Science & Technology Research Institute
     addresses:
     - address_details: AEOI
-  justification: Subordinate to the AEOI and continuing the work of its former Research Division. Its managing director is AEOI Vice President Mohammad Ghannadi (designated in UNSCR 1737).
+  justification: Subordinate to the AEOI and continuing the work of its former Research
+    Division. Its managing director is AEOI Vice President Mohammad Ghannadi (designated
+    in UNSCR 1737).

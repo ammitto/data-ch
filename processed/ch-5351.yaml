@@ -1,3 +1,4 @@
+---
 ssid: '5351'
 sanctions_set_id: '4387'
 individual:
@@ -18,4 +19,8 @@ individual:
       - order: 3
         name_part_type: father-name
         value: Mikhailavich
-  justification: Former Director of the prison camp in Horki. He is responsible for the inhuman treatment of the detainees, especially for persecution and torturous treatment of civil society activist Dmitri Dashkevich, who was imprisoned in relation to the 19 Dec 2010 elections and the crackdown on civil society and on the democratic opposition.
+  justification: Former Director of the prison camp in Horki. He is responsible for
+    the inhuman treatment of the detainees, especially for persecution and torturous
+    treatment of civil society activist Dmitri Dashkevich, who was imprisoned in relation
+    to the 19 Dec 2010 elections and the crackdown on civil society and on the democratic
+    opposition.

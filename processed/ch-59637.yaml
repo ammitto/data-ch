@@ -1,3 +1,4 @@
+---
 ssid: '59637'
 sanctions_set_id: '29445'
 entity:
@@ -18,14 +19,16 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Акционерное Общество «Научно-Производственное Объединение «Техномаш» имени С.А. Афанасьева» (АО «НПО «Техномаш» им. С.А. Афанасьева»)
+        value: Акционерное Общество «Научно-Производственное Объединение «Техномаш»
+          имени С.А. Афанасьева» (АО «НПО «Техномаш» им. С.А. Афанасьева»)
     - name_type: alias
       quality: good
       lang: eng
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: JSC Scientific and Production Association “Tekhnomash” named after S.A. Afanasiev
+        value: JSC Scientific and Production Association “Tekhnomash” named after
+          S.A. Afanasiev
     - name_type: alias
       quality: good
       lang: eng

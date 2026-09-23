@@ -1,3 +1,4 @@
+---
 ssid: '38700'
 sanctions_set_id: '3978'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: First Oil JV Co Ltd
     addresses:
     - address_details: Jongbaek 1-dong, Rakrang-guyok
-  justification: Owner of the DPRK tanker PAEK MA, which was involved in ship to ship transfer operations for oil in mid-January 2018.
+  justification: Owner of the DPRK tanker PAEK MA, which was involved in ship to ship
+    transfer operations for oil in mid-January 2018.

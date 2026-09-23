@@ -1,3 +1,4 @@
+---
 ssid: '4781'
 sanctions_set_id: '4387'
 individual:
@@ -21,4 +22,5 @@ individual:
     addresses:
     - address_details: Прокуратурa Гродненской области, ул. Доватора, 2а
       zip_code: '230012'
-  justification: Prosecutor of the region of Grodno. Responsible for the repression of civil society following the December 2010 elections.
+  justification: Prosecutor of the region of Grodno. Responsible for the repression
+    of civil society following the December 2010 elections.

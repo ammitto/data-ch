@@ -1,3 +1,4 @@
+---
 ssid: '70310'
 sanctions_set_id: '27286'
 entity:
@@ -33,4 +34,6 @@ entity:
     addresses:
     - address_details: Murmansk Prospekt, 14, building 1, ROOM A, ROOM 56, FLOOR 1
       zip_code: '129075'
-  justification: N-Systems LTD is an entity that operates in the Russian IT sector, including in the field of computer programming. N-Systems LTD holds a licence administered by the Federal Security Service of the Russian Federation (FSB).
+  justification: N-Systems LTD is an entity that operates in the Russian IT sector,
+    including in the field of computer programming. N-Systems LTD holds a licence
+    administered by the Federal Security Service of the Russian Federation (FSB).

@@ -1,3 +1,4 @@
+---
 ssid: '6686'
 sanctions_set_id: '6094'
 individual:
@@ -25,4 +26,5 @@ individual:
       day: 14
       month: 12
       year: 1958
-  justification: Former ZANU-PF member of the Government, remains a member of ZANU-PF Politburo. Played a lead role in the violence in Masvingo province in 2008.
+  justification: Former ZANU-PF member of the Government, remains a member of ZANU-PF
+    Politburo. Played a lead role in the violence in Masvingo province in 2008.

@@ -1,3 +1,4 @@
+---
 ssid: '55360'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 11
       month: 9
       year: 1960
-  justification: Eduard Khudaynatov is a Russian businessman involved in the energy sector. He is the owner of “Independent Oil and Gas Company” (NOC, JSC Neftegazholding), one of the largest Russian private companies and one of the top oil producers, which carries out prospecting, exploration and development of oil and gas fields, oil refining, as well as production and marketing of petroleum products. In 2015, the company revenues amounted to USD 2.2 billion.
+  justification: Eduard Khudaynatov is a Russian businessman involved in the energy
+    sector. He is the owner of “Independent Oil and Gas Company” (NOC, JSC Neftegazholding),
+    one of the largest Russian private companies and one of the top oil producers,
+    which carries out prospecting, exploration and development of oil and gas fields,
+    oil refining, as well as production and marketing of petroleum products. In 2015,
+    the company revenues amounted to USD 2.2 billion.

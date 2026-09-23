@@ -1,3 +1,4 @@
+---
 ssid: '99849'
 sanctions_set_id: '29445'
 entity:
@@ -27,5 +28,6 @@ entity:
         name_part_type: whole-name
         value: Suzhou Yida Intelligent Technology
     addresses:
-    - address_details: Room 455, Building 2, No. 199-1, East Huayuan Road, Mudu Town, Wuzhong District
+    - address_details: Room 455, Building 2, No. 199-1, East Huayuan Road, Mudu Town,
+        Wuzhong District
     - address_details: Room 8219, Building 3, No. 151 Huashan Road, High-tech Zone

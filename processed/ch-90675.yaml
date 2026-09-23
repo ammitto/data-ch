@@ -1,3 +1,4 @@
+---
 ssid: '90675'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 28
       month: 2
       year: 1975
-  justification: Aliaksei Bashan is the Deputy Chairman of the Belarusian Central Election Commission. As Deputy Chairman, Aliaksei Bashan is responsible for the organisation of the 2025 presidential election, which was neither free, nor fair. The election violated basic laws and international standards of fairness and transparency, and the results were falsified.
+  justification: Aliaksei Bashan is the Deputy Chairman of the Belarusian Central
+    Election Commission. As Deputy Chairman, Aliaksei Bashan is responsible for the
+    organisation of the 2025 presidential election, which was neither free, nor fair.
+    The election violated basic laws and international standards of fairness and transparency,
+    and the results were falsified.

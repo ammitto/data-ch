@@ -1,3 +1,4 @@
+---
 ssid: '40340'
 sanctions_set_id: '3986'
 individual:
@@ -20,4 +21,6 @@ individual:
         value: Ibrahim
     day_month_year:
       year: 1960
-  justification: Minister of Higher Education under the former al-Assad regime. Appointed in November 2018. As a Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Minister of Higher Education under the former al-Assad regime. Appointed
+    in November 2018. As a Government Minister, shares responsibility for the former
+    al-Assad regime’s violent repression of the civilian population.

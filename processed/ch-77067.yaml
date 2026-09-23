@@ -1,3 +1,4 @@
+---
 ssid: '77067'
 sanctions_set_id: '29445'
 entity:
@@ -27,4 +28,5 @@ entity:
         name_part_type: whole-name
         value: 日新電子有限公司
     addresses:
-    - address_details: Flat/Rm C9, 9/F Wing Hing Industrial Building, No14 Hing Yip Str.
+    - address_details: Flat/Rm C9, 9/F Wing Hing Industrial Building, No14 Hing Yip
+        Str.

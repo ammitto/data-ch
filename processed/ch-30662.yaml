@@ -1,3 +1,4 @@
+---
 ssid: '30662'
 sanctions_set_id: '3986'
 individual:
@@ -35,4 +36,7 @@ individual:
       year: 1960
     addresses:
     - address_details: Hamsho Building 31 Baghdad Street
-  justification: Occupies a senior management position in Hamsho Trading. As a result of his senior position in Hamsho Trading, a subsidiary of Hamsho International, which has been designated by the Council, he provides support to the former al-Assad regime and is associated with that entity.
+  justification: Occupies a senior management position in Hamsho Trading. As a result
+    of his senior position in Hamsho Trading, a subsidiary of Hamsho International,
+    which has been designated by the Council, he provides support to the former al-Assad
+    regime and is associated with that entity.

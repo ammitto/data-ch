@@ -1,3 +1,4 @@
+---
 ssid: '102097'
 sanctions_set_id: '13065'
 entity:
@@ -14,4 +15,6 @@ entity:
         value: Seraj Cyberspace Organization
     day_month_year:
       year: 2013
-  justification: Seraj Cyberspace Organization was established by the Islamic Revolutionary Guard Corps (IRGC) to support the IRGC’s apparatus by recruiting, training and mobilising pro-regime internet users.
+  justification: Seraj Cyberspace Organization was established by the Islamic Revolutionary
+    Guard Corps (IRGC) to support the IRGC’s apparatus by recruiting, training and
+    mobilising pro-regime internet users.

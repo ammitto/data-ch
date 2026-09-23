@@ -1,3 +1,4 @@
+---
 ssid: '12623'
 sanctions_set_id: '3986'
 individual:
@@ -32,4 +33,6 @@ individual:
       - order: 1
         name_part_type: family-name
         value: al-Ahmad
-  justification: Deputy Head of Latakia Branch of the army’s intelligence service under the former al-Assad regime. Responsible for the torture and murder of opponents in custody.
+  justification: Deputy Head of Latakia Branch of the army’s intelligence service
+    under the former al-Assad regime. Responsible for the torture and murder of opponents
+    in custody.

@@ -1,3 +1,4 @@
+---
 ssid: '36266'
 sanctions_set_id: '3980'
 individual:
@@ -42,4 +43,7 @@ individual:
       year: 1956
     addresses:
     - address_details: Qasr Ahmed Street
-  justification: Khalifa Ghwell was the so-called "Prime Minister and Defence Minister" of the internationally unrecognised General National Congress ("GNC") (also known as the "National Salvation Government"), and as such was responsible for their activities.
+  justification: Khalifa Ghwell was the so-called "Prime Minister and Defence Minister"
+    of the internationally unrecognised General National Congress ("GNC") (also known
+    as the "National Salvation Government"), and as such was responsible for their
+    activities.

@@ -1,3 +1,4 @@
+---
 ssid: '45836'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 3
       month: 11
       year: 1981
-  justification: In his position as the Head of the Investigation Team of the Investigative Committee of Belarus, Aliaksei Kauryzhkin is responsible for politically motivated prosecutions and detention, in particular of members of Viktar Babarika's presidential campaign team and of Coordination Council members, including lawyer Maxim Znak who is considered a political prisoner by human rights organisations. He is therefore responsible for the repression of civil society and democratic opposition.
+  justification: In his position as the Head of the Investigation Team of the Investigative
+    Committee of Belarus, Aliaksei Kauryzhkin is responsible for politically motivated
+    prosecutions and detention, in particular of members of Viktar Babarika's presidential
+    campaign team and of Coordination Council members, including lawyer Maxim Znak
+    who is considered a political prisoner by human rights organisations. He is therefore
+    responsible for the repression of civil society and democratic opposition.

@@ -1,3 +1,4 @@
+---
 ssid: '84973'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,9 @@ individual:
       day: 5
       month: 10
       year: 1964
-  justification: In his role as Chairman of the Belarusian Republican Bar Association, Aliaksei Shvakau has been leading and shaping the the Belarusian Republican Bar Association policy of systemic repression against lawyers who represent clients in politically motivated cases or who speak out against abuses by the Lukashenko regime. In his former role as chairman of the Minsk City Bar Association, he also targeted lawyers representing clients in politically motivated cases.
+  justification: In his role as Chairman of the Belarusian Republican Bar Association,
+    Aliaksei Shvakau has been leading and shaping the the Belarusian Republican Bar
+    Association policy of systemic repression against lawyers who represent clients
+    in politically motivated cases or who speak out against abuses by the Lukashenko
+    regime. In his former role as chairman of the Minsk City Bar Association, he also
+    targeted lawyers representing clients in politically motivated cases.

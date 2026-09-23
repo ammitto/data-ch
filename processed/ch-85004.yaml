@@ -1,3 +1,4 @@
+---
 ssid: '85004'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 29
       month: 8
       year: 1956
-  justification: Aleh Barabanau is the director and part-owner of Vlate Logistik LLC, a transport and storage company which holds the status of authorised economic operator. Through this status, issued by state authorities, it enjoys significant tax advantages. Through the privileges awarded to the company, Barabanau benefits from the Lukashenka regime.
+  justification: Aleh Barabanau is the director and part-owner of Vlate Logistik LLC,
+    a transport and storage company which holds the status of authorised economic
+    operator. Through this status, issued by state authorities, it enjoys significant
+    tax advantages. Through the privileges awarded to the company, Barabanau benefits
+    from the Lukashenka regime.

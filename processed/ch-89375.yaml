@@ -1,3 +1,4 @@
+---
 ssid: '89375'
 sanctions_set_id: '29445'
 entity:
@@ -13,4 +14,5 @@ entity:
         name_part_type: whole-name
         value: LL Electronic Limited
     addresses:
-    - address_details: 15th Floor, Hillier Comm. Building, 65-67 Bonham Strand East, Sheung Wan
+    - address_details: 15th Floor, Hillier Comm. Building, 65-67 Bonham Strand East,
+        Sheung Wan

@@ -1,3 +1,4 @@
+---
 ssid: '13081'
 sanctions_set_id: '13065'
 individual:
@@ -18,4 +19,10 @@ individual:
       - order: 3
         name_part_type: title
         value: Brigadier-General
-  justification: Since May 2017, Commander of Imam Hossein University by order of the Islamic Revolutionary Guard Corps (IRGC) Chief Commander. Former Chief of the Imam Hossein Cadet College (2018-June 2020). Former Deputy Commander of the Basij (2009-2018). Former Head of the IRGC’s Seyyed al-Shohada Corps, Tehran province (until February 2010). The Seyyed al-Shohada Corps is in charge of security in Tehran province and played a key role in the brutal repression of protesters in 2009.
+  justification: Since May 2017, Commander of Imam Hossein University by order of
+    the Islamic Revolutionary Guard Corps (IRGC) Chief Commander. Former Chief of
+    the Imam Hossein Cadet College (2018-June 2020). Former Deputy Commander of the
+    Basij (2009-2018). Former Head of the IRGC’s Seyyed al-Shohada Corps, Tehran province
+    (until February 2010). The Seyyed al-Shohada Corps is in charge of security in
+    Tehran province and played a key role in the brutal repression of protesters in
+    2009.

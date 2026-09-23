@@ -1,3 +1,4 @@
+---
 ssid: '21080'
 sanctions_set_id: '12788'
 individual:
@@ -23,4 +24,5 @@ individual:
         name_part_type: whole-name
         value: Akrin Saleh Akrin
     addresses:
-  justification: Libyan Ambassador to Chad. Has left Chad for Sabha. Involved directly in recruiting and coordinating mercenaries for the regime.
+  justification: Libyan Ambassador to Chad. Has left Chad for Sabha. Involved directly
+    in recruiting and coordinating mercenaries for the regime.

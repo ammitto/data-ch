@@ -1,3 +1,4 @@
+---
 ssid: '35521'
 sanctions_set_id: '3978'
 individual:
@@ -23,4 +24,5 @@ individual:
       day: 10
       month: 1
       year: 1964
-  justification: Chang Chang Ha is the President of the Second Academy of Natural Sciences (SANS).
+  justification: Chang Chang Ha is the President of the Second Academy of Natural
+    Sciences (SANS).

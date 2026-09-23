@@ -1,3 +1,4 @@
+---
 ssid: '89209'
 sanctions_set_id: '29445'
 entity:
@@ -21,4 +22,5 @@ entity:
         value: Piraklinos
     addresses:
     - address_details: 7/F MW Tower, 111 Bonham Strand, Sheung Wan
-    - address_details: Room 5058, Floor 5, Yau Lee Centre, 45 Hoi Yuen Road, Kwun Tong, Kowloon
+    - address_details: Room 5058, Floor 5, Yau Lee Centre, 45 Hoi Yuen Road, Kwun
+        Tong, Kowloon

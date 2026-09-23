@@ -1,3 +1,4 @@
+---
 ssid: '94971'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 15
       month: 11
       year: 1964
-  justification: Svetlana Nikolayeva is a Russian businessperson holding managing positions and business interests in the Russian military and industrial complex. She is the wife of Konstantin Yuryevich Nikolayev.
+  justification: Svetlana Nikolayeva is a Russian businessperson holding managing
+    positions and business interests in the Russian military and industrial complex.
+    She is the wife of Konstantin Yuryevich Nikolayev.

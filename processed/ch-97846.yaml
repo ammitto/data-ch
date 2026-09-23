@@ -1,3 +1,4 @@
+---
 ssid: '97846'
 sanctions_set_id: '97845'
 individual:
@@ -25,4 +26,5 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Johns
-  justification: Jonel Catel is the leader of the Terre Noir gang, which is affiliated with the G9 coalition of gangs in Haiti.
+  justification: Jonel Catel is the leader of the Terre Noir gang, which is affiliated
+    with the G9 coalition of gangs in Haiti.

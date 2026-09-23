@@ -1,3 +1,4 @@
+---
 ssid: '38760'
 sanctions_set_id: '3978'
 entity:
@@ -14,4 +15,5 @@ entity:
         value: Myohyang Shipping Co
     addresses:
     - address_details: Kumsong 3-dong, Mangyongdae-guyok
-  justification: Ship manager of DPRK oil products tanker YU SON, which is believed to have been involved in ship to ship transfer operations for oil.
+  justification: Ship manager of DPRK oil products tanker YU SON, which is believed
+    to have been involved in ship to ship transfer operations for oil.

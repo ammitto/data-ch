@@ -1,3 +1,4 @@
+---
 ssid: '35647'
 sanctions_set_id: '3986'
 individual:
@@ -17,4 +18,6 @@ individual:
         value: Ghanem
     day_month_year:
       year: 1963
-  justification: Former Minister for Petroleum and Mineral Resources under the former al-Assad regime. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former Minister for Petroleum and Mineral Resources under the former
+    al-Assad regime. As a former Government Minister, shares responsibility for the
+    former al-Assad regime’s violent repression of the civilian population.

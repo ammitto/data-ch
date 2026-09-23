@@ -1,3 +1,4 @@
+---
 ssid: '35474'
 sanctions_set_id: '3978'
 individual:
@@ -23,4 +24,5 @@ individual:
       day: 20
       month: 5
       year: 1980
-  justification: Son Jong Hyok is a KOMID official that has conducted business in Sudan on behalf of KOMID’s interests.
+  justification: Son Jong Hyok is a KOMID official that has conducted business in
+    Sudan on behalf of KOMID’s interests.

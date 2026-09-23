@@ -1,3 +1,4 @@
+---
 ssid: '69166'
 sanctions_set_id: '27286'
 individual:
@@ -24,4 +25,6 @@ individual:
       year: 1971
     addresses:
     - address_details: Gorka, 4, apt. 6
-  justification: Ivan Zima is General Director of LLC “Osnova Bezopasnosti”, which manufactures equipment related to surveillance and security, including special communications and unmanned aircraft.
+  justification: Ivan Zima is General Director of LLC “Osnova Bezopasnosti”, which
+    manufactures equipment related to surveillance and security, including special
+    communications and unmanned aircraft.

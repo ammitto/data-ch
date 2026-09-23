@@ -1,3 +1,4 @@
+---
 ssid: '98355'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 2
       month: 8
       year: 1990
-  justification: Ilya Sorokin, alias “Dr Evil”, is a medic at the Penal Colony No 10 in Mordovia in Russia. Prisoners of war (POWs) detained there recall inhumane and degrading treatment, ranging from sexual abuse to other physical abuse and indoctrination. That degrading behaviour is a violation of the Geneva Conventions.
+  justification: Ilya Sorokin, alias “Dr Evil”, is a medic at the Penal Colony No
+    10 in Mordovia in Russia. Prisoners of war (POWs) detained there recall inhumane
+    and degrading treatment, ranging from sexual abuse to other physical abuse and
+    indoctrination. That degrading behaviour is a violation of the Geneva Conventions.

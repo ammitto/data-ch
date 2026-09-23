@@ -1,3 +1,4 @@
+---
 ssid: '75444'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,11 @@ individual:
       day: 20
       month: 12
       year: 1980
-  justification: Elena Milskaya is a Russian public figure and businessperson, closely linked to Russian authorities. Her main activity is related to enabling the forced deportation of Ukrainian children to Russia. She is CEO or founder of several non-governmental organisations which receive governmental financing. She publicly supports President of the Russian Federation Vladimir Putin and Russia’s policies violating the territorial integrity of Ukraine, including through organising projects in the territory of occupied Crimea. Moreover, she is connected with Putin’s business elites, as their companies receive significant governmental financing.
+  justification: Elena Milskaya is a Russian public figure and businessperson, closely
+    linked to Russian authorities. Her main activity is related to enabling the forced
+    deportation of Ukrainian children to Russia. She is CEO or founder of several
+    non-governmental organisations which receive governmental financing. She publicly
+    supports President of the Russian Federation Vladimir Putin and Russia’s policies
+    violating the territorial integrity of Ukraine, including through organising projects
+    in the territory of occupied Crimea. Moreover, she is connected with Putin’s business
+    elites, as their companies receive significant governmental financing.

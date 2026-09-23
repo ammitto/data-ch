@@ -1,3 +1,4 @@
+---
 ssid: '97879'
 sanctions_set_id: '97845'
 individual:
@@ -59,4 +60,6 @@ individual:
         value: Alfred Mones
     addresses:
     - address_details: Neighbourhood of Wharf Jérémie, near La Saline
-  justification: Micanor Altès is the leader of the Wharf Jérémie gang. Wharf Jérémie is a coastal neighbourhood in the La Saline area of Port-au-Prince. This zone has been under the control of the gang led by Micanor Altès for over a decade.
+  justification: Micanor Altès is the leader of the Wharf Jérémie gang. Wharf Jérémie
+    is a coastal neighbourhood in the La Saline area of Port-au-Prince. This zone
+    has been under the control of the gang led by Micanor Altès for over a decade.

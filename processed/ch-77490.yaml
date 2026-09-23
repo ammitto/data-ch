@@ -1,3 +1,4 @@
+---
 ssid: '77490'
 sanctions_set_id: '38066'
 individual:
@@ -85,4 +86,8 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Slycove
-  justification: Gustave Kubwayo holds a leading position as Commander in the Democratic Forces for the Liberation of Rwanda – Forces Combattantes Abacunguzi (FDLR-FOCA), an armed group operating in Eastern DRC. He leads the special unit “Commando de recherche et d’action en profondeur” (CRAP) of FDLR-FOCA – considered as the commando and intelligence unit of the armed group.
+  justification: Gustave Kubwayo holds a leading position as Commander in the Democratic
+    Forces for the Liberation of Rwanda – Forces Combattantes Abacunguzi (FDLR-FOCA),
+    an armed group operating in Eastern DRC. He leads the special unit “Commando de
+    recherche et d’action en profondeur” (CRAP) of FDLR-FOCA – considered as the commando
+    and intelligence unit of the armed group.

@@ -1,3 +1,4 @@
+---
 ssid: '88762'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 18
       month: 2
       year: 1979
-  justification: Ruslan Ostashko is a figure active in the Russian public space. He works as a journalist and TV host on state TV Channel One and is the lead singer of the patriotic music band “Ours”. He is also editor-in-chief of the website “politrussia.com”, a website used to promote the Russian Government’s narrative, including on Russia’s war of aggression against Ukraine.
+  justification: Ruslan Ostashko is a figure active in the Russian public space. He
+    works as a journalist and TV host on state TV Channel One and is the lead singer
+    of the patriotic music band “Ours”. He is also editor-in-chief of the website
+    “politrussia.com”, a website used to promote the Russian Government’s narrative,
+    including on Russia’s war of aggression against Ukraine.

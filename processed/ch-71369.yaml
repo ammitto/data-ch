@@ -1,3 +1,4 @@
+---
 ssid: '71369'
 sanctions_set_id: '71360'
 individual:
@@ -23,4 +24,8 @@ individual:
         value: Halil
     day_month_year:
       year: 1954
-  justification: Nabil Khaled Halil Chouman is the owner of Shuman for Currency Exchange SARL, based in Beirut, Lebanon, which has been used to launder and transfer money to Hamas, including from Iran. The sums of money transferred to Hamas through Shuman for Currency Exchange SARL are estimated at tens of millions of USD. Thus, Nabil Khaled Halil Chouman participates in the financing of Hamas.
+  justification: Nabil Khaled Halil Chouman is the owner of Shuman for Currency Exchange
+    SARL, based in Beirut, Lebanon, which has been used to launder and transfer money
+    to Hamas, including from Iran. The sums of money transferred to Hamas through
+    Shuman for Currency Exchange SARL are estimated at tens of millions of USD. Thus,
+    Nabil Khaled Halil Chouman participates in the financing of Hamas.

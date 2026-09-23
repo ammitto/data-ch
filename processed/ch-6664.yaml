@@ -1,3 +1,4 @@
+---
 ssid: '6664'
 sanctions_set_id: '6094'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 7
       month: 7
       year: 1931
-  justification: Former Provincial Governor associated with the ZANU-PF faction of the Government.
+  justification: Former Provincial Governor associated with the ZANU-PF faction of
+    the Government.

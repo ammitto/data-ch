@@ -1,3 +1,4 @@
+---
 ssid: '63448'
 sanctions_set_id: '27286'
 entity:
@@ -30,4 +31,9 @@ entity:
       day: 27
       month: 9
       year: 2017
-  justification: Positive Group PJSC is the holding company of a conglomerate that includes AO Pozitiv Teknolodzhiz. AO Pozitiv Teknolodzhiz operates in the Russian IT sector and holds a licence administered by the FSB Centre for Licensing, Certification, and Protection of State Secrets. Thus, Positive Group PJSC is the holding company of a conglomerate that includes an entity operating in the Russian IT sector and holding a licence administered by the FSB.
+  justification: Positive Group PJSC is the holding company of a conglomerate that
+    includes AO Pozitiv Teknolodzhiz. AO Pozitiv Teknolodzhiz operates in the Russian
+    IT sector and holds a licence administered by the FSB Centre for Licensing, Certification,
+    and Protection of State Secrets. Thus, Positive Group PJSC is the holding company
+    of a conglomerate that includes an entity operating in the Russian IT sector and
+    holding a licence administered by the FSB.

@@ -1,3 +1,4 @@
+---
 ssid: '4656'
 sanctions_set_id: '4387'
 individual:
@@ -21,4 +22,8 @@ individual:
     addresses:
     - address_details: Информационно-аналитический центр, пр-т Победителей, 7
       zip_code: '220004'
-  justification: Deputy Director of the Information and Analytical Centre of the President's Administration. An important source and voice of state propaganda, which provokes, supports and justifies the repression of the democratic opposition and of civil society. Democratic opposition and civil society are systematically highlighted in a negative and derogatory way using falsified information.
+  justification: Deputy Director of the Information and Analytical Centre of the President's
+    Administration. An important source and voice of state propaganda, which provokes,
+    supports and justifies the repression of the democratic opposition and of civil
+    society. Democratic opposition and civil society are systematically highlighted
+    in a negative and derogatory way using falsified information.

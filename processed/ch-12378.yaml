@@ -1,3 +1,4 @@
+---
 ssid: '12378'
 sanctions_set_id: '3986'
 entity:
@@ -20,4 +21,8 @@ entity:
         name_part_type: whole-name
         value: Quds Force
     addresses:
-  justification: The Qods (or Quds) Force is a specialist arm of the Iranian Islamic Revolutionary Guard Corps (IRGC). The Qods Force is involved in providing equipment and support to help the former al-Assad regime suppress protests in Syria. The Qods Force has provided technical assistance, equipment and support to the Syrian security services to repress civilian protest movements.
+  justification: The Qods (or Quds) Force is a specialist arm of the Iranian Islamic
+    Revolutionary Guard Corps (IRGC). The Qods Force is involved in providing equipment
+    and support to help the former al-Assad regime suppress protests in Syria. The
+    Qods Force has provided technical assistance, equipment and support to the Syrian
+    security services to repress civilian protest movements.

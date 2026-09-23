@@ -1,3 +1,4 @@
+---
 ssid: '27475'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 10
       month: 10
       year: 1955
-  justification: Chair of the Crimea Electoral Commission. Responsible for administering the Crimean “referendum”. Responsible under the Russian system for signing referendum results.
+  justification: Chair of the Crimea Electoral Commission. Responsible for administering
+    the Crimean “referendum”. Responsible under the Russian system for signing referendum
+    results.

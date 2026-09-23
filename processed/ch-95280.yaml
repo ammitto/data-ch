@@ -1,3 +1,4 @@
+---
 ssid: '95280'
 sanctions_set_id: '27286'
 entity:
@@ -33,4 +34,5 @@ entity:
     addresses:
     - address_details: 32 Seminarskaya Str.
       zip_code: '390000'
-  justification: JSC “State Ryazan Instrument Plant” is the largest Russian enterprise for serial production and support of radar systems and communications equipment.
+  justification: JSC “State Ryazan Instrument Plant” is the largest Russian enterprise
+    for serial production and support of radar systems and communications equipment.

@@ -1,3 +1,4 @@
+---
 ssid: '8350'
 sanctions_set_id: '3984'
 entity:
@@ -14,4 +15,6 @@ entity:
         value: Defense Technology and Science Research Center (DTSRC)
     addresses:
     - address_details: Pasdaran Ave
-  justification: Owned or controlled by, or acts on behalf of, MODAFL, which oversees Iran’s defence research and development, production, maintenance, exports and procurement.
+  justification: Owned or controlled by, or acts on behalf of, MODAFL, which oversees
+    Iran’s defence research and development, production, maintenance, exports and
+    procurement.

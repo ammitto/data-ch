@@ -1,3 +1,4 @@
+---
 ssid: '73043'
 sanctions_set_id: '27286'
 entity:
@@ -11,7 +12,8 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Rostov Helicopter Production Complex Public Joint Stock Company “Rostvertol” Named After B.N. Slyusar PJSC
+        value: Rostov Helicopter Production Complex Public Joint Stock Company “Rostvertol”
+          Named After B.N. Slyusar PJSC
     - name_type: alias
       quality: good
       lang: eng
@@ -25,4 +27,5 @@ entity:
       year: 2002
     addresses:
     - address_details: Novatorov str., vld. 5
-  justification: PJSC Rostvertol (Rostov Helicopter Production Complex Public Joint Stock Company Rostvertol) is a Russian aircraft manufacturer.
+  justification: PJSC Rostvertol (Rostov Helicopter Production Complex Public Joint
+    Stock Company Rostvertol) is a Russian aircraft manufacturer.

@@ -1,3 +1,4 @@
+---
 ssid: '6675'
 sanctions_set_id: '6094'
 individual:
@@ -35,4 +36,6 @@ individual:
       day: 18
       month: 8
       year: 1946
-  justification: ZANU-PF Member of the Government. Linked to politically motivated murders and personally involved in the destruction of Revai Kativhu’s home on 1 May 2008.
+  justification: ZANU-PF Member of the Government. Linked to politically motivated
+    murders and personally involved in the destruction of Revai Kativhu’s home on
+    1 May 2008.

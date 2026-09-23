@@ -1,3 +1,4 @@
+---
 ssid: '98787'
 sanctions_set_id: '29445'
 entity:
@@ -13,6 +14,8 @@ entity:
         name_part_type: whole-name
         value: Jove HK Limited
     addresses:
-    - address_details: Room 606, 6/F, Hollywood Centre, 77-91 Queen’s Road West, Sheung Wan
-    - address_details: 3/F Won Chung Ming Commercial House, 14-16 Wyndham Street, Central
+    - address_details: Room 606, 6/F, Hollywood Centre, 77-91 Queen’s Road West, Sheung
+        Wan
+    - address_details: 3/F Won Chung Ming Commercial House, 14-16 Wyndham Street,
+        Central
     - address_details: 68-70 Wellington Street, 3/F

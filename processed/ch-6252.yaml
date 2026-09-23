@@ -1,3 +1,4 @@
+---
 ssid: '6252'
 sanctions_set_id: '6094'
 individual:
@@ -25,4 +26,5 @@ individual:
       day: 1
       month: 8
       year: 1952
-  justification: ZANU-PF Member of the Government and responsible for undermining MDC in local Government by restricting funding and harassment.
+  justification: ZANU-PF Member of the Government and responsible for undermining
+    MDC in local Government by restricting funding and harassment.

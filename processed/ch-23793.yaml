@@ -1,3 +1,4 @@
+---
 ssid: '23793'
 sanctions_set_id: '3976'
 individual:
@@ -28,4 +29,7 @@ individual:
     day_month_year:
       year: 1960
     addresses:
-  justification: A July 9, 2012 document signed by M23 leader Sultani Makenga named Runiga as the coordinator of the political wing of M23. According to the document, Runiga's appointment was prompted by the need to ensure the visibility of the M23 cause.
+  justification: A July 9, 2012 document signed by M23 leader Sultani Makenga named
+    Runiga as the coordinator of the political wing of M23. According to the document,
+    Runiga's appointment was prompted by the need to ensure the visibility of the
+    M23 cause.

@@ -1,3 +1,4 @@
+---
 ssid: '12037'
 sanctions_set_id: '3986'
 individual:
@@ -36,4 +37,5 @@ individual:
       day: 4
       month: 2
       year: 1955
-  justification: 14th Division. Military official under the former al-Assad regime involved in the violence in Homs.
+  justification: 14th Division. Military official under the former al-Assad regime
+    involved in the violence in Homs.

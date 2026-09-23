@@ -1,3 +1,4 @@
+---
 ssid: '4351'
 sanctions_set_id: '4021'
 individual:
@@ -19,4 +20,5 @@ individual:
       day: 21
       month: 12
       year: 1958
-  justification: Serbian national, director of the society «Temex». Relevant information is contained in the Panel of Experts report S/2003/498. Director of Temex, Belgrade.
+  justification: Serbian national, director of the society «Temex». Relevant information
+    is contained in the Panel of Experts report S/2003/498. Director of Temex, Belgrade.

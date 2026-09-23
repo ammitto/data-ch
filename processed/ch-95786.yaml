@@ -1,3 +1,4 @@
+---
 ssid: '95786'
 sanctions_set_id: '27286'
 entity:
@@ -33,4 +34,10 @@ entity:
     addresses:
     - address_details: 8 Promyshlennaya str., Izhevsk
       zip_code: '426063'
-  justification: JSC “Izhevsk Mechanical Plant” is one of the largest multi-profile manufacturers in Russia, and its primary products include combat weapons, components for missile systems, and high-precision castings. It produces weapons for the Russian Armed Forces operating in Ukraine. Therefore, JSC “Izhevsk Mechanical Plant” is supporting materially actions which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine. Furthermore, it is forming part of Russia’s military and industrial complex.
+  justification: JSC “Izhevsk Mechanical Plant” is one of the largest multi-profile
+    manufacturers in Russia, and its primary products include combat weapons, components
+    for missile systems, and high-precision castings. It produces weapons for the
+    Russian Armed Forces operating in Ukraine. Therefore, JSC “Izhevsk Mechanical
+    Plant” is supporting materially actions which undermine and threaten the territorial
+    integrity, sovereignty and independence of Ukraine. Furthermore, it is forming
+    part of Russia’s military and industrial complex.

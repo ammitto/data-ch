@@ -1,3 +1,4 @@
+---
 ssid: '76570'
 sanctions_set_id: '27286'
 entity:
@@ -17,4 +18,7 @@ entity:
       zip_code: '236006'
     - address_details: ul. Oktyabrskaya 37, office 7
       zip_code: '236006'
-  justification: International LLC Rasperia Trading Limited (“Rasperia”, based in Russia) owns 28,5 million shares in the European company STRABAG SE. Those shares were frozen because Rasperia was controlled by Oleg Vladimirovich Deripaska, an individual subject to Union restrictive measures.
+  justification: International LLC Rasperia Trading Limited (“Rasperia”, based in
+    Russia) owns 28,5 million shares in the European company STRABAG SE. Those shares
+    were frozen because Rasperia was controlled by Oleg Vladimirovich Deripaska, an
+    individual subject to Union restrictive measures.

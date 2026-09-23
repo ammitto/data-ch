@@ -1,3 +1,4 @@
+---
 ssid: '62173'
 sanctions_set_id: '3986'
 individual:
@@ -33,4 +34,6 @@ individual:
       day: 9
       month: 2
       year: 1979
-  justification: Imad Abu Zureiq is a leading member of a former al-Assad-regime-affiliated militia in Southwest Syria that reports directly to the Syrian regime’s Military Security branch.
+  justification: Imad Abu Zureiq is a leading member of a former al-Assad-regime-affiliated
+    militia in Southwest Syria that reports directly to the Syrian regime’s Military
+    Security branch.

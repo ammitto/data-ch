@@ -1,3 +1,4 @@
+---
 ssid: '58404'
 sanctions_set_id: '27286'
 entity:
@@ -22,4 +23,6 @@ entity:
     addresses:
     - address_details: 9 Krasnokazarmennaya Street
       zip_code: '111250'
-  justification: National Guard of the Russian Federation is the internal armed force of the Russian Federation. It took part in Russia’s war of aggression against Ukraine.
+  justification: National Guard of the Russian Federation is the internal armed force
+    of the Russian Federation. It took part in Russia’s war of aggression against
+    Ukraine.

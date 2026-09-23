@@ -1,3 +1,4 @@
+---
 ssid: '101851'
 sanctions_set_id: '73477'
 individual:
@@ -21,4 +22,6 @@ individual:
       - order: 4
         name_part_type: family-name
         value: Mohamed
-  justification: Tijani Ibrahim Moussa Mohamed is an RSF field commander. He has been identified as a key perpetrator of the atrocities committed by the RSF in El Fasher in October 2025. During that incident, he harassed detained individuals.
+  justification: Tijani Ibrahim Moussa Mohamed is an RSF field commander. He has been
+    identified as a key perpetrator of the atrocities committed by the RSF in El Fasher
+    in October 2025. During that incident, he harassed detained individuals.

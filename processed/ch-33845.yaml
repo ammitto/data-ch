@@ -1,3 +1,4 @@
+---
 ssid: '33845'
 sanctions_set_id: '3978'
 individual:
@@ -63,4 +64,6 @@ individual:
         value: Kim Hyok Chol
     day_month_year:
       year: 1964
-  justification: Kim Tong My’ong is the President of Tanchon Commercial Bank and has held various positions within Tanchon Commercial bank since at least 2002. He has also played a role in managing Amroggang’s affairs.
+  justification: Kim Tong My’ong is the President of Tanchon Commercial Bank and has
+    held various positions within Tanchon Commercial bank since at least 2002. He
+    has also played a role in managing Amroggang’s affairs.

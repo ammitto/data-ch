@@ -1,3 +1,4 @@
+---
 ssid: '36650'
 sanctions_set_id: '3986'
 individual:
@@ -33,4 +34,6 @@ individual:
       day: 1
       month: 1
       year: 1959
-  justification: Holds the rank of Major General, a senior officer and Commander of the 22nd Division of the Syrian Air Force under the former al-Assad regime, in post after May 2011.
+  justification: Holds the rank of Major General, a senior officer and Commander of
+    the 22nd Division of the Syrian Air Force under the former al-Assad regime, in
+    post after May 2011.

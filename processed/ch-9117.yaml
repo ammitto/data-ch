@@ -1,3 +1,4 @@
+---
 ssid: '9117'
 sanctions_set_id: '8174'
 entity:
@@ -12,4 +13,5 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Arya Niroo Nik
-  justification: Arya Niroo Nik is a front company used by Fulmen for some of its operations.
+  justification: Arya Niroo Nik is a front company used by Fulmen for some of its
+    operations.

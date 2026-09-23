@@ -1,3 +1,4 @@
+---
 ssid: '27573'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 28
       month: 3
       year: 1957
-  justification: Director of GRU (Main Intelligence Directorate), Deputy Chief of the General Staff of the Armed Forces of the Russian Federation, Lieutenant-General. Responsible for the activity of GRU officers in Eastern Ukraine.
+  justification: Director of GRU (Main Intelligence Directorate), Deputy Chief of
+    the General Staff of the Armed Forces of the Russian Federation, Lieutenant-General.
+    Responsible for the activity of GRU officers in Eastern Ukraine.

@@ -1,3 +1,4 @@
+---
 ssid: '70127'
 sanctions_set_id: '27286'
 entity:
@@ -15,4 +16,6 @@ entity:
     addresses:
     - address_details: Staraya Russa, district Gorodok
       zip_code: '175201'
-  justification: JSC “123 Aviation Repair Plant” is a Russian military industry company. It provides maintenance services for the Il-76 aircraft that are used by the Armed Forces of the Russian Federation during Russia’s war of aggression against Ukraine.
+  justification: JSC “123 Aviation Repair Plant” is a Russian military industry company.
+    It provides maintenance services for the Il-76 aircraft that are used by the Armed
+    Forces of the Russian Federation during Russia’s war of aggression against Ukraine.

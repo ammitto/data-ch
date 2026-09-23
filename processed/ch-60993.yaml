@@ -1,3 +1,4 @@
+---
 ssid: '60993'
 sanctions_set_id: '27286'
 entity:
@@ -30,4 +31,9 @@ entity:
       day: 24
       month: 4
       year: 2009
-  justification: "“195 Repair Plant of Rocket and Artillery Weapons” is a Russian military-industrial enterprise that repairs and maintains military products that are used by the Russian armed forces during Russia’s war of aggression against Ukraine. The company holds licences provided by the Russian government to “develop and repair weapons and military equipment” and describes itself as offering “repair and maintenance services for ships” of the Russian Federation Navy."
+  justification: "“195 Repair Plant of Rocket and Artillery Weapons” is a Russian
+    military-industrial enterprise that repairs and maintains military products that
+    are used by the Russian armed forces during Russia’s war of aggression against
+    Ukraine. The company holds licences provided by the Russian government to “develop
+    and repair weapons and military equipment” and describes itself as offering “repair
+    and maintenance services for ships” of the Russian Federation Navy."

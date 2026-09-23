@@ -1,3 +1,4 @@
+---
 ssid: '47880'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 11
       month: 7
       year: 1979
-  justification: Maxim Reshetnikov is the Minister of Economic Development of the Russian Federation. He is also a Member of the Supervisory Council of the VTB Bank, a State-owned bank and associated with Dmitriy Grigorenko, member of the Supervisory Council of VTB Bank.
+  justification: Maxim Reshetnikov is the Minister of Economic Development of the
+    Russian Federation. He is also a Member of the Supervisory Council of the VTB
+    Bank, a State-owned bank and associated with Dmitriy Grigorenko, member of the
+    Supervisory Council of VTB Bank.

@@ -1,3 +1,4 @@
+---
 ssid: '22455'
 sanctions_set_id: '3986'
 individual:
@@ -39,4 +40,6 @@ individual:
       - order: 1
         name_part_type: family-name
         value: Hussain
-  justification: Former State Minister under the former al-Assad regime in power after May 2011. As a former Government Minister, shares responsibility for the former al-Assad regime’s violent repression of the civilian population.
+  justification: Former State Minister under the former al-Assad regime in power after
+    May 2011. As a former Government Minister, shares responsibility for the former
+    al-Assad regime’s violent repression of the civilian population.

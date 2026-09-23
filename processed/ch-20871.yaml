@@ -1,3 +1,4 @@
+---
 ssid: '20871'
 sanctions_set_id: '3980'
 entity:
@@ -12,4 +13,6 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Organisation for Development of Administrative Centres (ODAC)
-  justification: Entity acting on behalf of or at the direction of the Qadhafi Regime and a potential source of funding for the regime. ODAC has facilitated thousands of government funded infrastructure projects.
+  justification: Entity acting on behalf of or at the direction of the Qadhafi Regime
+    and a potential source of funding for the regime. ODAC has facilitated thousands
+    of government funded infrastructure projects.

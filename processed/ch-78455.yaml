@@ -1,3 +1,4 @@
+---
 ssid: '78455'
 sanctions_set_id: '68945'
 individual:
@@ -18,4 +19,6 @@ individual:
       - order: 3
         name_part_type: further-given-name
         value: Khosravi
-  justification: Reza Khosravi Moghaddam is the military attaché of the Iranian embassy in Russia, representing and promoting his country’s defence industry. He is responsible for bilateral relations in this field.
+  justification: Reza Khosravi Moghaddam is the military attaché of the Iranian embassy
+    in Russia, representing and promoting his country’s defence industry. He is responsible
+    for bilateral relations in this field.

@@ -1,3 +1,4 @@
+---
 ssid: '100424'
 sanctions_set_id: '8174'
 entity:
@@ -17,4 +18,12 @@ entity:
     addresses:
     - address_details: KM 4, Tehran Alley
       zip_code: '3818997888'
-  justification: Machine Sazi Arak is an Iranian industrial machinery and equipment manufacturing company. It manufactures equipment for proliferation sensitive activities and lists the Atomic Energy Organization of Iran (AEOI) as well as MODAFL as its customers. It is also affiliated with IDRO that provides manufacturing support to the nuclear programme. Machine Sazi Arak was also involved in the construction of the Arak heavy-water reactor. It also supports oil and gas exploration activities overseen by the Ministry of Petroleum as well as NIOC and its subsidiaries. Therefore, Machine Sazi Arak is involved in the nuclear missile programme, and it provides support to the Government of Iran.
+  justification: Machine Sazi Arak is an Iranian industrial machinery and equipment
+    manufacturing company. It manufactures equipment for proliferation sensitive activities
+    and lists the Atomic Energy Organization of Iran (AEOI) as well as MODAFL as its
+    customers. It is also affiliated with IDRO that provides manufacturing support
+    to the nuclear programme. Machine Sazi Arak was also involved in the construction
+    of the Arak heavy-water reactor. It also supports oil and gas exploration activities
+    overseen by the Ministry of Petroleum as well as NIOC and its subsidiaries. Therefore,
+    Machine Sazi Arak is involved in the nuclear missile programme, and it provides
+    support to the Government of Iran.

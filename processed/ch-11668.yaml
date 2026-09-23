@@ -1,3 +1,4 @@
+---
 ssid: '11668'
 sanctions_set_id: '3986'
 individual:
@@ -22,4 +23,6 @@ individual:
       - order: 1
         name_part_type: family-name
         value: al-Abbas
-  justification: Former head of Political Security in Banyas under the former al-Assad regime, involved in violence against demonstrators in Baida. Promoted to the rank of Colonel in 2018.
+  justification: Former head of Political Security in Banyas under the former al-Assad
+    regime, involved in violence against demonstrators in Baida. Promoted to the rank
+    of Colonel in 2018.

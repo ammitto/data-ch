@@ -1,3 +1,4 @@
+---
 ssid: '100855'
 sanctions_set_id: '8174'
 entity:
@@ -21,5 +22,7 @@ entity:
         value: Tose’e Ta’avon Bank
     addresses:
     - address_details: Bozorgmehr Street, Block 271
-    - address_details: No. 271, 4th Floor, Mirdamad Blvd, Northeast Corner of Mirdamad Bridge
-  justification: The Cooperative Development Bank is an Iranian state-owned banking institution, providing support to the Government of Iran.
+    - address_details: No. 271, 4th Floor, Mirdamad Blvd, Northeast Corner of Mirdamad
+        Bridge
+  justification: The Cooperative Development Bank is an Iranian state-owned banking
+    institution, providing support to the Government of Iran.

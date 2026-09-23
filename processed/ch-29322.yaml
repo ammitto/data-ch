@@ -1,3 +1,4 @@
+---
 ssid: '29322'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 23
       month: 5
       year: 1971
-  justification: Member of the State Duma, elected from the illegally annexed Autonomous Republic of Crimea.
+  justification: Member of the State Duma, elected from the illegally annexed Autonomous
+    Republic of Crimea.

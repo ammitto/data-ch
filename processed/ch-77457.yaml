@@ -1,3 +1,4 @@
+---
 ssid: '77457'
 sanctions_set_id: '38066'
 individual:
@@ -15,4 +16,5 @@ individual:
       - order: 2
         name_part_type: given-name
         value: Benjamin
-  justification: Benjamin Mbonimpa holds a leading position as Executive Secretary of the M23/ARC, a non-governmental armed group operating in Eastern DRC.
+  justification: Benjamin Mbonimpa holds a leading position as Executive Secretary
+    of the M23/ARC, a non-governmental armed group operating in Eastern DRC.

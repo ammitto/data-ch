@@ -1,3 +1,4 @@
+---
 ssid: '33816'
 sanctions_set_id: '3978'
 individual:
@@ -31,4 +32,5 @@ individual:
       month: 2
       year: 1963
     addresses:
-  justification: Kang Mun Kil has conducted nuclear procurement activities as a representative of Namchongang, also known as Namhung.
+  justification: Kang Mun Kil has conducted nuclear procurement activities as a representative
+    of Namchongang, also known as Namhung.

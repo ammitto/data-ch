@@ -1,3 +1,4 @@
+---
 ssid: '63664'
 sanctions_set_id: '27286'
 individual:
@@ -35,4 +36,7 @@ individual:
       day: 2
       month: 6
       year: 1965
-  justification: Vladimir Morozov is the former Head of Belarusian Railways, which operates railway service between Russia and Belarus. In this role, he supported the deployment and transportation of Russian military personnel and equipment involved in Russia’s war of aggression against Ukraine.
+  justification: Vladimir Morozov is the former Head of Belarusian Railways, which
+    operates railway service between Russia and Belarus. In this role, he supported
+    the deployment and transportation of Russian military personnel and equipment
+    involved in Russia’s war of aggression against Ukraine.

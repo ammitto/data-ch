@@ -1,3 +1,4 @@
+---
 ssid: '12659'
 sanctions_set_id: '3986'
 individual:
@@ -18,4 +19,6 @@ individual:
       - order: 3
         name_part_type: title
         value: Brigadier General
-  justification: Deputy assistant to the Head of the Political Security Division under the former al-Assad regime. Former site manager of the Latakia branch of the Political Security Directorate. Responsible for the torture of opponents in custody.
+  justification: Deputy assistant to the Head of the Political Security Division under
+    the former al-Assad regime. Former site manager of the Latakia branch of the Political
+    Security Directorate. Responsible for the torture of opponents in custody.

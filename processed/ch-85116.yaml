@@ -1,3 +1,4 @@
+---
 ssid: '85116'
 sanctions_set_id: '4387'
 individual:
@@ -22,4 +23,7 @@ individual:
       day: 20
       month: 6
       year: 1979
-  justification: Vadzim Murashka is a Belarusian national and head of the correctional institution Penal Colony No 13, a maximum-security prison where a number of political prisoners are held, including Nikolai Statkevich, Vitaly Melnik and Sergei Vereshkhagin. Prisoners of Colony No 13 face inhumane conditions and are subject to abuses.
+  justification: Vadzim Murashka is a Belarusian national and head of the correctional
+    institution Penal Colony No 13, a maximum-security prison where a number of political
+    prisoners are held, including Nikolai Statkevich, Vitaly Melnik and Sergei Vereshkhagin.
+    Prisoners of Colony No 13 face inhumane conditions and are subject to abuses.

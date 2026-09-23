@@ -1,3 +1,4 @@
+---
 ssid: '95432'
 sanctions_set_id: '27286'
 entity:
@@ -26,4 +27,7 @@ entity:
     addresses:
     - address_details: No. 6 Huanglongshan South Rd
       zip_code: '430205'
-  justification: Wuhan Global Sensor Technology Co. Ltd is a Chinese technology and electronics company. It delivers electronic military goods, such as infrared detectors and other optical components, to the Russian military and industrial complex, supporting the production of military goods for the Russian Armed Forces.
+  justification: Wuhan Global Sensor Technology Co. Ltd is a Chinese technology and
+    electronics company. It delivers electronic military goods, such as infrared detectors
+    and other optical components, to the Russian military and industrial complex,
+    supporting the production of military goods for the Russian Armed Forces.

@@ -1,3 +1,4 @@
+---
 ssid: '39093'
 sanctions_set_id: '12788'
 individual:
@@ -61,4 +62,5 @@ individual:
       month: 5
       year: 1988
     addresses:
-  justification: Commander of the Anas al-Dabbashi militia, Leader of a transnational trafficking network
+  justification: Commander of the Anas al-Dabbashi militia, Leader of a transnational
+    trafficking network

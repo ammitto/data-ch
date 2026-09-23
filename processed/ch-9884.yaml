@@ -1,3 +1,4 @@
+---
 ssid: '9884'
 sanctions_set_id: '8174'
 entity:
@@ -15,4 +16,5 @@ entity:
     addresses:
     - address_details: Manning House – 21 Bucks Road
       zip_code: IM1 3DA
-  justification: Holding company owned or controlled by IRISL covering a group of IRISL front companies located in the Isle of Man.
+  justification: Holding company owned or controlled by IRISL covering a group of
+    IRISL front companies located in the Isle of Man.

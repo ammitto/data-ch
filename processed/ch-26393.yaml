@@ -1,3 +1,4 @@
+---
 ssid: '26393'
 sanctions_set_id: '4387'
 individual:
@@ -21,4 +22,8 @@ individual:
     addresses:
     - address_details: ул. Сикорского, 1
       zip_code: '213800'
-  justification: Head of penal colony IK-2 in Bobruisk, responsible for inhumane treatment of political prisoners A. Sannikau and A. Beliatski in penal colony IK-2 in Bobruisk. Opposition activists were tortured, denied access to lawyers and placed in solitary confinement in the penal colony under his supervision. Kakunin put pressure on A. Beliatski and A. Sannikau in order to force them to sign an appeal for pardon.
+  justification: Head of penal colony IK-2 in Bobruisk, responsible for inhumane treatment
+    of political prisoners A. Sannikau and A. Beliatski in penal colony IK-2 in Bobruisk.
+    Opposition activists were tortured, denied access to lawyers and placed in solitary
+    confinement in the penal colony under his supervision. Kakunin put pressure on
+    A. Beliatski and A. Sannikau in order to force them to sign an appeal for pardon.

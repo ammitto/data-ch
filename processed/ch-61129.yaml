@@ -1,3 +1,4 @@
+---
 ssid: '61129'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,11 @@ individual:
       day: 19
       month: 8
       year: 1969
-  justification: Alexandr Brod is a Russian lawyer and a Kremlin-loyalist human rights defender. He is a member of the Presidential Council for Civil Society and Human Rights. Since the start of Russia’s war of aggression against Ukraine, he has justified Russia’s invasion, and spread Russian propaganda and disinformation about the war. He denied the responsibility of the Armed Forces of the Russian Federation for war crimes committed in Bucha, falsely blaming the Ukrainian forces for the massacre. He also spread misinformation about alleged Nazi crimes committed by the Government of Ukraine against its own people.
+  justification: Alexandr Brod is a Russian lawyer and a Kremlin-loyalist human rights
+    defender. He is a member of the Presidential Council for Civil Society and Human
+    Rights. Since the start of Russia’s war of aggression against Ukraine, he has
+    justified Russia’s invasion, and spread Russian propaganda and disinformation
+    about the war. He denied the responsibility of the Armed Forces of the Russian
+    Federation for war crimes committed in Bucha, falsely blaming the Ukrainian forces
+    for the massacre. He also spread misinformation about alleged Nazi crimes committed
+    by the Government of Ukraine against its own people.

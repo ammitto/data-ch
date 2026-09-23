@@ -1,3 +1,4 @@
+---
 ssid: '81657'
 sanctions_set_id: '3986'
 individual:
@@ -21,4 +22,5 @@ individual:
       - order: 4
         name_part_type: family-name
         value: al-Munajjid
-  justification: Minister of Internal Trade and Consumer Protection under the former al-Assad regime. Appointed in September 2024.
+  justification: Minister of Internal Trade and Consumer Protection under the former
+    al-Assad regime. Appointed in September 2024.

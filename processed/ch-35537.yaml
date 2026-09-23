@@ -1,3 +1,4 @@
+---
 ssid: '35537'
 sanctions_set_id: '3978'
 individual:
@@ -16,4 +17,5 @@ individual:
       day: 23
       month: 1
       year: 1951
-  justification: Son Mun San is the Director-General of the External Affairs Bureau of the General Bureau of Atomic Energy (GBAE).
+  justification: Son Mun San is the Director-General of the External Affairs Bureau
+    of the General Bureau of Atomic Energy (GBAE).

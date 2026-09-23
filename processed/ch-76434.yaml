@@ -1,3 +1,4 @@
+---
 ssid: '76434'
 sanctions_set_id: '71360'
 individual:
@@ -19,4 +20,8 @@ individual:
       day: 15
       month: 11
       year: 1980
-  justification: Zuheir Shamlakh is a financial facilitator and money changer who enables financial transfers from Iran to Hamas. He uses his companies Al-Markaziya li-Siarafa and Arab China Trading Company to channel funds to the Izz al-Din al Qassam Brigades, the military wing of Hamas. Zuheir Shamlakh was instrumental in Hamas’ shift towards cryptocurrencies to avoid being detected by Israeli authorities.
+  justification: Zuheir Shamlakh is a financial facilitator and money changer who
+    enables financial transfers from Iran to Hamas. He uses his companies Al-Markaziya
+    li-Siarafa and Arab China Trading Company to channel funds to the Izz al-Din al
+    Qassam Brigades, the military wing of Hamas. Zuheir Shamlakh was instrumental
+    in Hamas’ shift towards cryptocurrencies to avoid being detected by Israeli authorities.

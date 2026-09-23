@@ -1,3 +1,4 @@
+---
 ssid: '20706'
 sanctions_set_id: '3980'
 individual:
@@ -39,4 +40,12 @@ individual:
       - order: 1
         name_part_type: whole-name
         value: Salah Egreen
-  justification: Former Libyan Ambassador to Chad. Has left Chad for Sabha. Involved directly in recruiting and coordinating mercenaries for the regime of the late Muammar Qadhafi. Closely associated with the former regime of Muammar Qadhafi. Member of the Popular Front for the Liberation of Libya (PFLL), a militia and political party loyal to the late Muammar Qadhafi. Involved in undermining the successful completion of Libya’s political transition by opposing the UN and undermining the UN-facilitated political process, including the Libyan Political Dialogue Forum (LPDF), thereby posing a continued risk to the peace, stability and security of Libya.
+  justification: Former Libyan Ambassador to Chad. Has left Chad for Sabha. Involved
+    directly in recruiting and coordinating mercenaries for the regime of the late
+    Muammar Qadhafi. Closely associated with the former regime of Muammar Qadhafi.
+    Member of the Popular Front for the Liberation of Libya (PFLL), a militia and
+    political party loyal to the late Muammar Qadhafi. Involved in undermining the
+    successful completion of Libya’s political transition by opposing the UN and undermining
+    the UN-facilitated political process, including the Libyan Political Dialogue
+    Forum (LPDF), thereby posing a continued risk to the peace, stability and security
+    of Libya.

@@ -1,3 +1,4 @@
+---
 ssid: '51173'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,6 @@ individual:
       day: 11
       month: 5
       year: 1971
-  justification: Sergey Nikolayevich Grinyuk holds the position of Deputy Commander of Troops for Logistics, and Head of Logistics Department, Western Operational Command of Belarus.
+  justification: Sergey Nikolayevich Grinyuk holds the position of Deputy Commander
+    of Troops for Logistics, and Head of Logistics Department, Western Operational
+    Command of Belarus.

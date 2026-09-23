@@ -1,3 +1,4 @@
+---
 ssid: '72303'
 sanctions_set_id: '27286'
 entity:
@@ -19,4 +20,8 @@ entity:
     addresses:
     - address_details: Ulitsa Usiyevicha, 20, apt. 3
       zip_code: '125315'
-  justification: LLC Sonatek is a Limited Liability Company in Russia, which provides supply and maintenance services to a significant number of Russian defence companies relevant for Russia’s efforts in continuing the war of aggression against Ukraine. While conducting its business activities, LLC Sonatek has been awarded and thus benefitted from numerous Russian government contracts.
+  justification: LLC Sonatek is a Limited Liability Company in Russia, which provides
+    supply and maintenance services to a significant number of Russian defence companies
+    relevant for Russia’s efforts in continuing the war of aggression against Ukraine.
+    While conducting its business activities, LLC Sonatek has been awarded and thus
+    benefitted from numerous Russian government contracts.

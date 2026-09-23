@@ -1,3 +1,4 @@
+---
 ssid: '50920'
 sanctions_set_id: '27286'
 individual:
@@ -29,4 +30,10 @@ individual:
       day: 18
       month: 7
       year: 1975
-  justification: Anton Krasovsky is a journalist, former host of the talk show “The Antonyms” on RT, Russian state-funded TV channel. He has spread anti-Ukrainian propaganda, including hate speech. He called Ukraine a Russian land and denigrated Ukrainians as a nation. He also threatened Ukraine with Russian invasion if Ukraine became any closer to joining NATO. He suggested that such action would end up “taking away” the constitution of Ukraine and “burning it on Khreshchatyk”. Furthermore, he suggested that Ukraine should join Russia.
+  justification: Anton Krasovsky is a journalist, former host of the talk show “The
+    Antonyms” on RT, Russian state-funded TV channel. He has spread anti-Ukrainian
+    propaganda, including hate speech. He called Ukraine a Russian land and denigrated
+    Ukrainians as a nation. He also threatened Ukraine with Russian invasion if Ukraine
+    became any closer to joining NATO. He suggested that such action would end up
+    “taking away” the constitution of Ukraine and “burning it on Khreshchatyk”. Furthermore,
+    he suggested that Ukraine should join Russia.

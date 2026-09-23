@@ -1,3 +1,4 @@
+---
 ssid: '72363'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,8 @@ individual:
       day: 4
       month: 4
       year: 1950
-  justification: Vladimir Petrushenko is the General Director of JSC Design Bureau of Mechanical Engineering, which is a military industry company involved in developing weapons for the Russian Armed Forces. JSC Design Bureau of Mechanical Engineering is the lead developer for the Bal missile system, which is used by the Russian Armed Forces in the war of aggression against Ukraine.
+  justification: Vladimir Petrushenko is the General Director of JSC Design Bureau
+    of Mechanical Engineering, which is a military industry company involved in developing
+    weapons for the Russian Armed Forces. JSC Design Bureau of Mechanical Engineering
+    is the lead developer for the Bal missile system, which is used by the Russian
+    Armed Forces in the war of aggression against Ukraine.

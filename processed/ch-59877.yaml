@@ -1,3 +1,4 @@
+---
 ssid: '59877'
 sanctions_set_id: '29445'
 entity:
@@ -32,6 +33,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Joint Stock Company “Scientific Research Institute of Instrument Engineering named after V.V. Tikhomirov”
+        value: Joint Stock Company “Scientific Research Institute of Instrument Engineering
+          named after V.V. Tikhomirov”
     addresses:
     - address_details: Gagarina Str., 3

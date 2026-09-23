@@ -1,3 +1,4 @@
+---
 ssid: '3297'
 sanctions_set_id: '3976'
 individual:
@@ -75,4 +76,8 @@ individual:
       day: 6
       month: 2
       year: 1967
-  justification: Joined forces with other renegade elements of former RCD-G to take Bukavu in May 2004 by force. In receipt of weapons outside of FARDC in violation of the arms embargo. According to the Office of the SRSG on Children and Armed Conflict, he was responsible for 264 cases of recruitment and use of children by troops under his command in North Kivu from 2002 to 2009.
+  justification: Joined forces with other renegade elements of former RCD-G to take
+    Bukavu in May 2004 by force. In receipt of weapons outside of FARDC in violation
+    of the arms embargo. According to the Office of the SRSG on Children and Armed
+    Conflict, he was responsible for 264 cases of recruitment and use of children
+    by troops under his command in North Kivu from 2002 to 2009.

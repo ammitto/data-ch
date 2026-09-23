@@ -1,3 +1,4 @@
+---
 ssid: '35259'
 sanctions_set_id: '27286'
 individual:
@@ -22,4 +23,5 @@ individual:
       day: 17
       month: 10
       year: 1969
-  justification: Member of the State Duma, elected from the illegally annexed city of Sevastopol.
+  justification: Member of the State Duma, elected from the illegally annexed city
+    of Sevastopol.
