@@ -12,14 +12,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Khatiba Al-Tawhid Wal-Jihad (KTJ)
-    - name_type: formerly-known-as
-      quality: good
-      lang: eng
-      name_parts:
-      - order: 1
-        name_part_type: whole-name
-        value: Jannat Oshiklari
+        value: Khatiba Jama`at Al-Tawhid Wal-Jihad (KTJ)
     - name_type: alias
       quality: good
       lang: eng
@@ -33,4 +26,11 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Jama`at al-Tawhid wal-Jihad
+        value: Jama`at al-Tawhid wal-Jihad`
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Katiba al-Tawhid wal-Jihad
