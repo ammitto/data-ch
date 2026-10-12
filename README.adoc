@@ -187,31 +187,7 @@ The Swiss sanctions list contains the following entity types:
 Person:: Individual persons subject to sanctions
 Organization:: Legal entities, companies, and organizations
 
-== Validation and Generation
-
-=== Rake Tasks
-
-The repository provides rake tasks for managing the knowledge graph generation:
-
-[source,shell]
-----
-# Clean all generated API files
-bundle exec rake clean
-
-# Validate source YAML files against schemas
-bundle exec rake validate
-
-# Generate API files from source YAML
-bundle exec rake generate
-
-# Validate and generate in one step
-bundle exec rake build
-
-# Clean and regenerate (recommended for updates)
-bundle exec rake regenerate
-----
-
-=== Validation
+== Validation
 
 The validation process checks all YAML files against their corresponding schemas:
 
@@ -289,50 +265,16 @@ The Switzerland has one list type: `consolidated-list`
 
 == Knowledge Graph Integration
 
-This repository's source YAML data feeds into the Ammitto knowledge graph
-using a normalized structure.
+This repository's YAML data feeds into the Ammitto knowledge graph.
 
-=== Data Flow Architecture
-
-The harmonization process transforms source YAML data into JSON-LD knowledge graph nodes:
-
-....
-┌─────────────────────┐     ┌─────────────────────┐     ┌─────────────────────┐
-│   Source YAML       │     │   Ammitto Gem       │     │   JSON-LD Output    │
-│   (sources/)        │────▶│   Transformer       │────▶│   (api/)            │
-│                     │     │                     │     │                     │
-│ • Announcement      │     │ • ChAnnouncement    │     │ • Entity nodes      │
-│ • Sanction details  │     │ • ChEntity          │     │ • Entry nodes       │
-│ • Legal instruments │     │ • ChMeasure         │     │ • Regime nodes      │
-└─────────────────────┘     └─────────────────────┘     └─────────────────────┘
-....
-
-=== Output Directory Structure
-
-The `api/` directory contains the generated JSON-LD knowledge graph:
-
-....
-api/
-├── node/
-│   ├── entity/
-│   │   └── ch/
-│   │       └── {local_id}.jsonld         # Entity identity data
-│   ├── entry/
-│   │   └── ch/
-│   │       └── consolidated-list/
-│   │           └── {local_id}.jsonld     # Entry data
-│   ├── regime/
-│   │   └── ch_sanctions.jsonld
-│   └── authority/
-│       └── ch.jsonld
-├── search-index.json                      # Search index
-└── stats.json                             # Statistics
-....
+Harmonized JSON-LD for this source:
+https://www.ammitto.org/api/v1/sources/ch.jsonld
 
 == Directory Structure
 
 ```
 .
+├── processed/              # One YAML file per entity, plus _index.yaml
 ├── sources/                # Source YAML data
 │   ├── sanction-lists/     # Sanction announcements
 │   ├── legal-instruments/  # Legal instruments
@@ -346,8 +288,7 @@ api/
 │   └── ammitto/
 │       └── data_ch/
 │           └── validator.rb
-├── api/                    # Generated JSON-LD output
-├── Rakefile                # Build tasks
+├── Rakefile                # Validation task
 └── README.adoc             # This file
 ```
 
@@ -357,8 +298,8 @@ Data can be updated using the ammitto gem:
 
 [source,shell]
 ----
-# From the ammitto gem directory
-bundle exec ruby exe/ammitto fetch ch --format yaml --output-dir ./sources/sanction-lists/consolidated-list
+# From the root of this repository
+bundle exec ammitto fetch ch --format yaml --output-dir processed --verbose
 ----
 
 == Related Repositories
