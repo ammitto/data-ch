@@ -32,7 +32,7 @@ jobs:
 
       - name: Fetch data
         run: |
-          bundle exec ammitto fetch ch --format yaml --output-dir processed --verbose
+          bundle exec ammitto fetch ch --format yaml --output-dir processed --verbose --prune
 
       - name: Check for changes
         id: check_changes
