@@ -1,318 +1,133 @@
-= Ammitto Switzerland Sanctions Data Repository
+= Ammitto Swiss sanctions data
 
-== Purpose
+image:https://github.com/ammitto/data-ch/actions/workflows/fetch.yml/badge.svg["Fetch Data", link="https://github.com/ammitto/data-ch/actions/workflows/fetch.yml"]
 
-This repository stores downloaded and processed sanctions data from the
-Swiss State Secretariat for Economic Affairs (SECO) Sanctions Database.
+This repository stores Swiss sanctions-list records as YAML for Ammitto.
+The State Secretariat for Economic Affairs (SECO) publishes the official
+consolidated list of individuals, companies, organisations and objects such
+as vessels; Ammitto generates one file per listed target in `processed/`.
 
-The data is maintained by the Ammitto project and used by the `ammitto` Ruby
-gem for querying international sanctions information.
+== Source
 
-== Legal Basis
+* Publisher: State Secretariat for Economic Affairs (SECO), Switzerland
+* List page: https://www.seco.admin.ch/en/searching-for-subjects-sanctions
+* File downloaded (XML consolidated list): https://www.sesam.search.admin.ch/sesam-search-web/pages/downloadXmlGesamtliste.xhtml?lang=en&action=downloadXmlGesamtlisteAction
 
-Swiss sanctions are implemented through:
+SECO publishes the complete list of sanctioned individuals, companies and
+organisations, with an XML specification (XSD) and value lists on the list
+page.
 
-* The Federal Act on the Implementation of International Sanctions (Embargo Act, EmbA)
-* The Ordinance on Measures against Specific Persons, Undertakings and Objects
-* Various country-specific ordinances
+== Contents
 
-Switzerland implements UN Security Council sanctions and also participates
-in autonomous sanctions aligned with EU measures where consistent with
-Swiss neutrality policy.
+`processed/` holds one file per target, named after its SECO identifier
+(`ssid`): `processed/ch-100173.yaml` is target 100173.
 
-== Data Source
+`processed/_index.yaml` lists every file, with the time of the last fetch.
 
-* **Authority**: State Secretariat for Economic Affairs (SECO) / Staatssekretariat für Wirtschaft
-* **API Endpoint**: https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionsmassnahmen/sanktionsliste.html
-* **Format**: XML
-* **Update Frequency**: As changes occur in Swiss sanctions regimes
-* **Official Source**: https://www.seco.admin.ch/dam/seco/de/dokumente/Aussenwirtschaft/Wirtschaftsbeziehungen/exportkontrollen-sanktionen/Sanktionsliste/Sanktionsliste%20SECO.xml
-
-== Source Data Structure
-
-The `sources/` directory contains source data organized by type:
-
-```
-sources/
-├── sanction-lists/                    # Sanction list announcements
-│   └── consolidated-list/             # SECO Consolidated List
-│       ├── entry-001.yml
-│       └── ...
-├── legal-instruments/                 # Legal instruments
-│   ├── embargo-act.yml
-│   └── ...
-└── supporting/                        # Reference data
-    ├── document-types.yml             # Document type definitions
-    └── organizations.yml              # Organization definitions
-```
-
-=== Schema Types
-
-Each YAML file follows one of the schema types:
-
-. **Announcement Schema** - Standard sanction announcements with `sanction_details`
-. **Legal Instrument Schema** - Laws and regulations with structured content
-
-Schema files are located in `schemas/`:
-
-* `schemas/ch-announcement.yml` - For sanction list announcements
-* `schemas/ch-legal-instrument.yml` - For legal instruments
-* `schemas/document-types.yml` - Supporting schema for document types
-* `schemas/organizations.yml` - Supporting schema for organizations
-
-=== Supporting Data
-
-The `sources/supporting/` directory contains reference data used across the repository:
-
-==== Document Types (`document-types.yml`)
-
-[cols="1,2,2"]
+[cols="1,1,3"]
 |===
-| ID | Name (English) | Name (German)
+| Key | Type | Meaning
 
-| `ch/ordinance`
-| Ordinance
-| Verordnung
-
-| `ch/act`
-| Federal Act
-| Bundesgesetz
-
-| `ch/decision`
-| Decision
-| Beschluss
-
-| `ch/announcement`
-| Announcement
-| Mitteilung
-
+| `ssid` | string | SECO identifier of the target
+| `sanctions_set_id` | string | Identifier of the sanctions set the target belongs to in the SECO XML
+| `individual` | map | Present when the target is a person
+| `entity` | map | Present when the target is a company or organisation
+| `…identity.ssid` | string | SECO identifier of the identity
+| `…identity.main` | string | `'true'` for the main identity
+| `…identity.names` | list | Names: `name_type` (`primary-name`, `alias` or `formerly-known-as`), `quality` (`good` or `low`), `lang` and `name_parts`
+| `…names[].name_parts` | list | Parts of the name: `order`, `name_part_type` (such as `given-name`, `family-name`, `father-name` or `whole-name`) and `value`
+| `…identity.day_month_year` | map | A date published with the identity (for persons, the date of birth): `year`, `month` and `day`, each only when known; a date can have no year
+| `…identity.addresses` | list | `address_details` and `zip_code`; null in some files
+| `…justification` | string | SECO's statement of reasons, where published
 |===
 
-==== Organizations (`organizations.yml`)
+Keys written with `…` sit inside the `individual` or `entity` block.
 
-[cols="1,2,2"]
-|===
-| ID | Name | Type
+`sources/` holds a hand-curated sample entry and supporting reference data
+(document types, organisations), with their schemas in `schemas/`.
+`reference-docs/` holds a dated copy of the SECO XML. The daily fetch updates
+neither; `processed/` is the list.
 
-| `ch/seco`
-| State Secretariat for Economic Affairs
-| agency
+`downloaded/` is empty.
 
-| `ch/eda`
-| Federal Department of Foreign Affairs
-| ministry
+== Using the data
 
-| `ch/ejpd`
-| Federal Department of Justice and Police
-| ministry
+Clone or download this repository and run either example from its root
+directory. The Python example requires PyYAML
+(`python3 -m pip install PyYAML`).
 
-| `ch/eparl`
-| The Federal Assembly
-| parliament
+Ruby:
 
-|===
-
-== Source Data Format
-
-=== Sanction Announcement Schema
-
-[source,yaml]
+[source,ruby]
 ----
-# yaml-language-server: $schema=../../schemas/ch-announcement.yml
----
-id: ch/lukashenka-dzmitry
-announcement:
-  title: "Sanktionsliste SECO - Update"
-  url: "https://www.seco.admin.ch/..."
-  publish_date: "2024-01-15"
-  document_type: ch/announcement
-  authority: ch/seco
-  lang: de
+require "yaml"
 
-sanction_details:
-  - entity:
-      type: person
-      name:
-        full_name: "Lukashenka Dzmitry Aliaksandravich"
-        script: Cyrl
-        first_name: Dzmitry
-        last_name: Lukashenka
-      birth_info:
-        year: "1980"
-      addresses:
-        - care_of: "President's Sports Club"
-          street: "ул. Старовиленская, 4"
-          postal_code: "220029"
-      remarks: Travel ban according to article 3 paragraph 1...
+Dir.glob("processed/ch-*.yaml").sort.each do |path|
+  record = YAML.safe_load_file(path)
+  target = record["individual"] || record["entity"]
+  next unless target
 
-    measures:
-      - type: asset_freeze
-        description:
-          en: "All funds and economic resources are frozen"
-          de: "Alle Gelder und wirtschaftlichen Ressourcen werden eingefroren"
-      - type: travel_ban
-        description:
-          en: "Travel restrictions apply"
-          de: "Reisebeschränkungen gelten"
-
-legal_citations:
-  - legal_instrument_id: ch/embargo-act
-    citation_type: legal_basis
+  name = target["identity"]["names"].find { |n| n["name_type"] == "primary-name" }
+  text = name["name_parts"].sort_by { |p| p["order"] }.map { |p| p["value"] }.join(" ")
+  kind = record["individual"] ? "individual" : "entity"
+  puts [record["ssid"], kind, text].join("\t")
+end
 ----
 
-=== CH-Specific Measure Types
+Python:
 
-[cols="1,3"]
-|===
-| Measure Type | Description
-
-| `asset_freeze`
-| Financial sanctions - freeze of assets
-
-| `travel_ban`
-| Travel restrictions - entry ban
-
-| `arms_embargo`
-| Restrictions on arms trade
-
-| `trade_restriction`
-| General trade restrictions
-
-|===
-
-=== Entity Types
-
-The Swiss sanctions list contains the following entity types:
-
-Person:: Individual persons subject to sanctions
-Organization:: Legal entities, companies, and organizations
-
-== Validation
-
-The validation process checks all YAML files against their corresponding schemas:
-
-[source,shell]
+[source,python]
 ----
-bundle exec rake validate
+import glob
+import yaml
+
+for path in sorted(glob.glob("processed/ch-*.yaml")):
+    with open(path, encoding="utf-8") as f:
+        record = yaml.safe_load(f)
+    target = record.get("individual") or record.get("entity")
+    if not target:
+        continue
+    name = next(n for n in target["identity"]["names"] if n["name_type"] == "primary-name")
+    parts = sorted(name["name_parts"], key=lambda p: p["order"])
+    kind = "individual" if "individual" in record else "entity"
+    print(record["ssid"], kind, " ".join(p["value"] for p in parts), sep="\t")
 ----
 
-== Harmonized Data Format
-
-After harmonization, entities are transformed into JSON-LD format using the
-Ammitto gem's harmonized models.
-
-=== Entity (JSON-LD)
-
-[source,json]
-----
-{
-  "@context": "https://www.ammitto.org/schema/v1/context.jsonld",
-  "@id": "https://www.ammitto.org/entity/ch/lukashenka-dzmitry",
-  "@type": "PersonEntity",
-  "entityType": "person",
-  "names": [
-    {
-      "@type": "NameVariant",
-      "fullName": "Lukashenka Dzmitry Aliaksandravich",
-      "script": "Cyrl",
-      "isPrimary": true
-    }
-  ],
-  "birthInfo": [
-    {
-      "@type": "BirthInfo",
-      "year": "1980"
-    }
-  ],
-  "addresses": [
-    {
-      "@type": "Address",
-      "street": "ул. Старовиленская, 4",
-      "careOf": "President's Sports Club",
-      "postalCode": "220029"
-    }
-  ],
-  "sanctionEntryIds": [
-    "https://www.ammitto.org/entry/ch/consolidated-list/lukashenka-dzmitry"
-  ]
-}
-----
-
-=== IRI Structure
-
-All resources use normalized IRIs:
-
-```
-# Entity (list-agnostic)
-https://www.ammitto.org/entity/ch/{local_id}
-
-# Entry (list-specific)
-https://www.ammitto.org/entry/ch/{list_type}/{local_id}
-
-# List
-https://www.ammitto.org/list/ch/{list_type}
-
-# Legal Instrument
-https://www.ammitto.org/legal-instrument/ch/{instrument_id}
-
-# Authority
-https://www.ammitto.org/authority/ch
-```
-
-=== Available List Types
-
-The Switzerland has one list type: `consolidated-list`
-
-== Knowledge Graph Integration
-
-This repository's YAML data feeds into the Ammitto knowledge graph.
-
-Harmonized JSON-LD for this source:
+The same list, harmonized with the other sources into JSON-LD:
 https://www.ammitto.org/api/v1/sources/ch.jsonld
 
-== Directory Structure
+== Updates
 
-```
-.
-├── processed/              # One YAML file per entity, plus _index.yaml
-├── sources/                # Source YAML data
-│   ├── sanction-lists/     # Sanction announcements
-│   ├── legal-instruments/  # Legal instruments
-│   └── supporting/         # Reference data
-├── schemas/                # JSON Schema definitions
-│   ├── ch-announcement.yml
-│   ├── ch-legal-instrument.yml
-│   ├── document-types.yml
-│   └── organizations.yml
-├── lib/                    # Ruby libraries
-│   └── ammitto/
-│       └── data_ch/
-│           └── validator.rb
-├── Rakefile                # Validation task
-└── README.adoc             # This file
-```
+The `Fetch Data` workflow (`.github/workflows/fetch.yml`) downloads the list
+every day at 07:45 UTC and commits any change to `processed/`. It runs with
+`--prune`, so a target SECO has removed is deleted here on the next fetch.
 
-== Updating Data
+== Maintaining the data
 
-Data can be updated using the ammitto gem:
+The link:.github/workflows/fetch.yml[fetch workflow] uses Ruby 3.3 and Bundler.
+To refresh `processed/` locally, install the link:Gemfile[Gemfile] dependencies
+and run the same command from the repository root:
 
 [source,shell]
 ----
-# From the root of this repository
-bundle exec ammitto fetch ch --format yaml --output-dir processed --verbose
+bundle install
+bundle exec ammitto fetch ch --format yaml --output-dir processed --verbose --prune
 ----
 
-== Related Repositories
+This regenerates `processed/` and removes entries absent from the fetched
+list. Fetching and parsing are implemented in the
+https://github.com/ammitto/ammitto[Ammitto gem].
 
-* https://github.com/ammitto/ammitto[ammitto] - Main Ruby gem with harmonization
-* https://github.com/ammitto/data[data] - Harmonized knowledge graph output
-* https://github.com/ammitto/ammitto.github.io[ammitto.github.io] - Website with search
-* https://github.com/ammitto/data-cn[data-cn] - China sanctions data
-* https://github.com/ammitto/data-eu[data-eu] - EU sanctions data
-* https://github.com/ammitto/data-un[data-un] - UN sanctions data
-* https://github.com/ammitto/data-us[data-us] - US OFAC sanctions data
+For edits to the curated samples and reference data in `sources/`, run
+`bundle exec rake validate`. The link:Rakefile[Rakefile] checks only those
+source files against `schemas/`.
 
 == License
 
 Data in this repository is sourced from official Swiss government
 publications. The data processing code is part of the Ammitto project.
+
+== Related
+
+* https://www.ammitto.org[ammitto.org]: search across all sources
+* https://github.com/ammitto/ammitto[ammitto]: the Ruby gem that fetches and harmonizes this data
