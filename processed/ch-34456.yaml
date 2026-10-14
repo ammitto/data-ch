@@ -1,3 +1,24 @@
 ---
 ssid: '34456'
 sanctions_set_id: '34422'
+object:
+  object_type: vessel
+  identity:
+    ssid: '34457'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Hu Chang
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: O Un Chong Nyon
+  other_information: 'IMO Number: 8330815'

@@ -1,3 +1,19 @@
 ---
 ssid: '106245'
 sanctions_set_id: '77993'
+object:
+  object_type: vessel
+  identity:
+    ssid: '106247'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Integrity Racer
+  justification: Are operated in such a way as to facilitate or engage in the violation
+    or circumvention or otherwise significantly frustrate the provisions of this Regulation.
+  other_information: 'IMO number: 9270555'

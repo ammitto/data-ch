@@ -1,3 +1,17 @@
 ---
 ssid: '34521'
 sanctions_set_id: '34422'
+object:
+  object_type: vessel
+  identity:
+    ssid: '34522'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: South Hill 2
+  other_information: 'IMO Number: 8412467'
