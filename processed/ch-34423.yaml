@@ -1,3 +1,24 @@
 ---
 ssid: '34423'
 sanctions_set_id: '34422'
+object:
+  object_type: vessel
+  identity:
+    ssid: '34424'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Chol Ryong
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Ryong Gun Bong
+  other_information: 'IMO Number: 8606173'

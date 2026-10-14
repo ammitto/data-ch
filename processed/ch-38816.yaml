@@ -1,3 +1,17 @@
 ---
 ssid: '38816'
 sanctions_set_id: '34422'
+object:
+  object_type: vessel
+  identity:
+    ssid: '38817'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Chon Myong 1
+  other_information: 'IMO number: 8712362'

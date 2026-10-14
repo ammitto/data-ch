@@ -1,3 +1,19 @@
 ---
 ssid: '78105'
 sanctions_set_id: '77993'
+object:
+  object_type: vessel
+  identity:
+    ssid: '78107'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Maia-1
+  justification: Transport goods and technology used in the defence and security sector,
+    from or to Russia, for use in Russia or for Russia’s warfare in Ukraine.
+  other_information: 'IMO number: 9358010'
