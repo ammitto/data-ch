@@ -50,6 +50,54 @@ neither; `processed/` is the list.
 
 `downloaded/` is empty.
 
+== Harmonized field mapping
+
+The https://github.com/ammitto/ammitto/blob/74491e856c1e68aea52c0cf0e34061d48429d359/lib/ammitto/sources/ch/transformer.rb[SECO transformer] reads target records and legacy bare identities.
+
+Targets below use canonical Ruby fields. Entity classes are under
+`Ammitto::Ontology::Entities`; `SanctionEntry`, `OfficialAnnouncement`,
+`SanctionReason` and `SanctionPeriodModification` are under
+`Ammitto::Ontology::Sanction`; other target classes are under
+`Ammitto::Ontology::ValueObjects`. JSON-LD uses the serializer's wire keys:
+`SourceReference.fetched_at`, for example, is published as `retrievedAt`.
+
+[cols="2,3,4",options="header"]
+|===
+| Input field | Canonical target | Transformation
+
+| `ssid`
+| `Entity.id`; `SanctionEntry.id`, `reference_number`
+| Mints source-qualified entity and entry IRIs; retains the source identifier as the reference.
+
+| `individual`, `entity`, `object.object_type`
+| `PersonEntity`, `OrganizationEntity`, `VesselEntity`
+| Selects the typed model; the supported object type is `vessel`.
+
+| `individual.identity.names`, `entity.identity.names`
+| `Entity.names` → `NameVariant.full_name`
+| Uses the identity model’s assembled full name as the primary name.
+
+| `individual.identity.day_month_year`
+| `PersonEntity.birth_info` → `BirthInfo.date`, `year`
+| A complete calendar date supplies `date`; year-only and year-month records retain their year.
+
+| `object.identity.names`
+| `NameVariant.full_name`, `is_primary`; `VesselEntity.previous_names`
+| Keeps nonempty vessel names; `primary-name` marks the primary and `formerly-known-as` supplies previous names.
+
+| `object.other_information`
+| `VesselEntity.imo_number`
+| Extracts seven digits following the explicit IMO Number label, including SECO’s observed `IMO Numbe` spelling.
+
+| `individual.justification`, `entity.justification`, `object.justification`, `object.other_information`
+| `Entity.remarks`
+| Copies justification; vessel remarks join justification and other information with a newline.
+
+| `ssid`, `sanctions_set_id`
+| `RawSourceData.source_specific_fields`
+| Retains `ch:ssid` and, when available, `ch:sanctions_set_id` on the entry’s `raw_source_detail`.
+|===
+
 == Using the data
 
 Clone or download this repository and run either example from its root
