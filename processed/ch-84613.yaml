@@ -16,6 +16,13 @@ individual:
       - order: 2
         name_part_type: family-name
         value: Cherif
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Abou Hamza
     day_month_year:
       day: 26
       month: 8

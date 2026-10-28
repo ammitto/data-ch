@@ -29,7 +29,7 @@ individual:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Oumar Omsen
+        value: Omar Omsen
     day_month_year:
       day: 5
       month: 8
