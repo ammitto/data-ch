@@ -1,0 +1,29 @@
+---
+ssid: '114508'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '114513'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Belov
+      - order: 2
+        name_part_type: given-name
+        value: Sergey
+      - order: 3
+        name_part_type: father-name
+        value: Vladimirovich
+    day_month_year:
+      day: 14
+      month: 9
+      year: 1970
+  justification: Sergey Belov is the Deputy Governor of the Central Bank of the Russian
+    Federation (Bank of Russia). Within the Bank of Russia, he oversees the Cash Circulation
+    Department, the Field Institutions Department, the Administrative Department,
+    and the Russian Union of Cash Collection Divisions (ROSINKAS).

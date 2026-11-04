@@ -1,0 +1,18 @@
+---
+ssid: '115562'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '115567'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Vik Test LLC
+    addresses:
+    - address_details: Volokolamskoye Shosse 116, Building 1, Floor 2, Room 261
+      zip_code: '125371'

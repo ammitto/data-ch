@@ -1,0 +1,33 @@
+---
+ssid: '115237'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115240'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Prio-Vneshtorgbank
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Prio-bank
+    addresses:
+    - address_details: 82/26 Esenina St.
+      zip_code: '390023'
+  justification: PJSC Prio-Vneshtorgbank is a regional commercial bank headquartered
+    in the Ryazan region of the Russian Federation. It is active in the pilot project
+    for operations with real digital roubles launched by the Central Bank of Russia.
+    The banking sector is a sector providing substantial revenue to the Government
+    of the Russian Federation. Therefore, PJSC Prio-Vneshtorgbank is involved in an
+    economic sector providing a substantial source of revenue to the Government of
+    the Russian Federation, which is responsible for the annexation of Crimea and
+    the destabilisation of Ukraine.

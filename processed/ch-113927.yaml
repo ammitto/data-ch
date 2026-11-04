@@ -1,0 +1,28 @@
+---
+ssid: '113927'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '113931'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Malakhov
+      - order: 2
+        name_part_type: given-name
+        value: Evgenyi
+      - order: 3
+        name_part_type: father-name
+        value: Dmitrievich
+    day_month_year:
+      day: 7
+      month: 4
+      year: 1967
+  justification: Evgenyi Malakhov is the General Director of JSC NPK SEVERNAYA ZARYA.
+    JSC NPK SEVERNAYA ZARYA is part of the Russian arms industry, a sector of strategic
+    importance for the Russian Federation.

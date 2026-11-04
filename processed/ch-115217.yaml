@@ -1,0 +1,36 @@
+---
+ssid: '115217'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115220'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC RNCO “Payment Center”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Credit Union “Payment Center” Ltd
+    addresses:
+    - address_details: Kirova Str., 86
+      zip_code: '630102'
+  justification: LLC RNCO “Payment Center” is a major non-banking credit organisation
+    based in Novosibirsk, Russian Federation. It holds a specialised banking licence
+    issued by the Central Bank of the Russian Federation which authorises it to conduct
+    banking operations. It is a subsidiary of the Center for Financial Technologies
+    Group, a leading software provider for the banking sector in Russia. LLC RNCO
+    “Payment Center” is the operator and settlement centre for several payment systems.
+    The banking sector is a sector providing substantial revenue to the Government
+    of the Russian Federation. Therefore, LLC RNCO “Payment Center” is involved in
+    an economic sector providing a substantial source of revenue to the Government
+    of the Russian Federation, which is responsible for the annexation of Crimea and
+    the destabilisation of Ukraine.

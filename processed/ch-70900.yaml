@@ -40,7 +40,7 @@ entity:
       name_parts:
       - order: 1
         name_part_type: whole-name
-        value: Obshchestvo s Organzichennoi Otvetstvennostyu SFT
+        value: Obshchestvo S Ogranichennoi Otvetstvennostyu SFT
     addresses:
     - address_details: Kozhevnicheskaya Str., 10, Building 1
       zip_code: '115114'

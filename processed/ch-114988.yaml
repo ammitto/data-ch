@@ -1,0 +1,28 @@
+---
+ssid: '114988'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114997'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Bank ITURUP
+    day_month_year:
+      day: 18
+      month: 6
+      year: 1993
+    addresses:
+    - address_details: 32 Kommunisticheskii Prospekt
+      zip_code: '693020'
+  justification: LLC Bank ITURUP is an important regional commercial bank based in
+    the Russian Far East. The banking sector is a sector providing substantial revenue
+    to the Government of the Russian Federation. Therefore, LLC Bank ITURUP is involved
+    in an economic sector providing a substantial source of revenue to the Government
+    of the Russian Federation, which is responsible for the annexation of Crimea and
+    the destabilisation of Ukraine.

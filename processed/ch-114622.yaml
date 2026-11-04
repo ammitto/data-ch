@@ -1,0 +1,37 @@
+---
+ssid: '114622'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '114628'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Minkov
+      - order: 2
+        name_part_type: given-name
+        value: Aleksandr
+      - order: 3
+        name_part_type: father-name
+        value: Vitalyevich
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Alexander Marshal
+    day_month_year:
+      day: 7
+      month: 6
+      year: 1957
+  justification: Aleksandr Minkov is a Russian musician, composer, singer and songwriter.
+    He actively supports and justifies Russia’s military aggression against Ukraine,
+    spreading narratives of Kremlin propaganda. He visits the temporarily occupied
+    territories of Ukraine carrying out concerts in support to the Russian military.
+    He also declared a desire to personally fight against Ukraine.

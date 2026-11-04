@@ -1,0 +1,37 @@
+---
+ssid: '114090'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114100'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Surgutneftegasbank
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC BANK SNGB
+    day_month_year:
+      day: 25
+      month: 10
+      year: 1990
+    addresses:
+    - address_details: 19 Grigoriya Kukuyevitskogo Street, Surgut
+      zip_code: '628400'
+  justification: "Joint Stock Company Surgutneftegasbank is a major regional Russian
+    bank \nsupporting energy infrastructure. The bank is a subsidiary of PJSC \nSurgutneftegas,
+    one of Russia’s largest oil producers, which is listed by the \nUnion. The banking
+    sector is a sector providing substantial revenue to the \nGovernment of the Russian
+    Federation. Therefore, Joint Stock Company \nSurgutneftegasbank is involved in
+    an economic sector providing \na substantial source of revenue to the Government
+    of the Russian \nFederation, which is responsible for the annexation of Crimea
+    and the \ndestabilisation of Ukraine."

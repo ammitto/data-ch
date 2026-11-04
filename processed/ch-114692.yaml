@@ -1,0 +1,28 @@
+---
+ssid: '114692'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '114699'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Pozdnyakov
+      - order: 2
+        name_part_type: given-name
+        value: Stanislav
+      - order: 3
+        name_part_type: father-name
+        value: Alekseyevich
+    day_month_year:
+      day: 27
+      month: 9
+      year: 1973
+  justification: Stanislav Pozdnyakov, acting in the capacity of President of the
+    Olympic Committee of the Russian Federation, has supported Russia’s invasion of
+    Ukraine and endorsed the mobilisation of Russian athletes to go to war.

@@ -1,0 +1,30 @@
+---
+ssid: '113487'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '113497'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Expobank”
+    day_month_year:
+      day: 27
+      month: 7
+      year: 1994
+    addresses:
+    - address_details: 29, Kalanchevskaya Street, Building 2
+      zip_code: '107078'
+  justification: JSC “Expobank” is a Moscow-based credit institution which is among
+    the top 40 Russian banks by asset size. It is an active participant in major Russian
+    government-led and central bank initiatives designed to support small and medium
+    size enterprises. The banking sector is a sector providing substantial revenue
+    to the Government of the Russian Federation. Therefore, JSC “Expobank” is involved
+    in an economic sector providing a substantial source of revenue to the Government
+    of the Russian Federation, which is responsible for the annexation of Crimea and
+    the destabilisation of Ukraine.

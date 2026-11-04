@@ -1,0 +1,29 @@
+---
+ssid: '115069'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115078'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Bank Round
+    day_month_year:
+      day: 21
+      month: 9
+      year: 1993
+    addresses:
+    - address_details: Rublevskoe Highway 28
+      zip_code: '121609'
+  justification: LLC Bank Round is a Moscow based Russian commercial bank. Metalloinvest
+    Group, a major Russian mining and mettalurgy company fully owned by USM Holding
+    is one of the bank’s customers. The banking sector is a sector providing substantial
+    revenue to the Government of the Russian Federation. Therefore, LLC Bank Round
+    is involved in an economic sector providing a substantial source of revenue to
+    the Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

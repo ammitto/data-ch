@@ -1,0 +1,32 @@
+---
+ssid: '113857'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '113865'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Merzlikin
+      - order: 2
+        name_part_type: given-name
+        value: Denis
+      - order: 3
+        name_part_type: father-name
+        value: Aleksandrovich
+    day_month_year:
+      day: 11
+      month: 1
+      year: 1981
+    addresses:
+    - address_details: Vavilovykh street, 15–3
+  justification: Denis Merzlikin is the founder and director of the LLC “ASFPV”, a
+    Russian company that manufactures drones (“Veterok 7”, “Veterok10”, and “Veterok
+    13”), drone detectors (Gorn), and fibre-optic spools for the Russian Armed Forces.
+    These drones, drone detectors and fibre-optic spools are used in Russia’s war
+    of aggression against Ukraine.

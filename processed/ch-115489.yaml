@@ -1,0 +1,36 @@
+---
+ssid: '115489'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115490'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint Stock Company Commercial Bank “Primorye”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC AKB “Primorye”
+    day_month_year:
+      day: 27
+      month: 7
+      year: 1994
+    addresses:
+    - address_details: 47 Svetlanskaya St.
+      zip_code: '690091'
+  justification: Public Joint Stock Company Commercial Bank “Primorye” is a leading
+    financial institution in the Russian Far East. The banking sector is a sector
+    providing substantial revenue to the Government of the Russian Federation. Therefore,
+    Public Joint Stock Company Commercial Bank “Primorye” is involved in an economic
+    sector providing a substantial source of revenue to the Government of the Russian
+    Federation, which is responsible for the annexation of Crimea and the destabilisation
+    of Ukraine.

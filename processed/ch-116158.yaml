@@ -1,0 +1,37 @@
+---
+ssid: '116158'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116168'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Kalmneftegaz
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Non-Public Joint-Stock Company “Kalmyk Oil and Gas Company”
+    day_month_year:
+      day: 17
+      month: 12
+      year: 2002
+    addresses:
+    - address_details: 3rd microdistrict, 18V
+      zip_code: '358009'
+  justification: JSC Kalmneftegaz is a Russian company active in the energy sector.
+    JSC Kalmneftegaz is a subsidiary of PJSC Tatneft and is involved, in particular,
+    in search and exploration of oil and gas fields in Kalmykia and in the Caspian
+    region. PSJC Tatneft is one of the largest companies involved in the Russian energy
+    sector and, as one of Russia’s largest oil producers, plays an important role
+    in the development and export of the country’s oil resources. The energy sector,
+    especially oil and gas sector, provides substantial revenues to the Government
+    of the Russian Federation.

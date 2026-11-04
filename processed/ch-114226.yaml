@@ -1,0 +1,41 @@
+---
+ssid: '114226'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '114232'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Yevtushenkov
+      - order: 2
+        name_part_type: given-name
+        value: Felix
+      - order: 3
+        name_part_type: father-name
+        value: Vladimirovich
+    day_month_year:
+      day: 14
+      month: 11
+      year: 1978
+    addresses:
+    - address_details: Apartment 34, 52 3-YA, Tverskaya Yamska
+      zip_code: '125047'
+  justification: Felix Yevtushenkov has been part of the management of PJSC AFK Sistema
+    since 2008. He is a member of the board of Directors and a 15,2  % shareholder
+    of PJSC AFK Sistema. In 2018, he became the Deputy Chairman of the Board of Directors
+    of PJSC AFK Sistema. At that time the Board was chaired by his father Vladimir
+    Petrovich Yevtushenkov. PJSC AFK Sistema is a conglomerate with business interests
+    in various sectors of the Russian economy.It owns and controls companies including
+    Agroholding Steppe (agriculture), BESK (energy), Binnofarm (pharmaceutics), Cosmos
+    Hotel Group (tourism), Element (electronics), Intourist (tourism), Medsi (healthcare),
+    Ozon (e-commerce), JSC Region (military industry) and Segezha (forest, woodworking,
+    pulp and paper industry). PJSC AFK Sistema is also involved in the information,
+    communications and digital technologies sectors, including through its share in
+    the PJSC Mobile TeleSystems (MTS), as well as in banking, as MTS-Bank is owned
+    by the PJSC MTS via Mobile TeleSystems B.V.

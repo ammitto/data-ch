@@ -1,0 +1,32 @@
+---
+ssid: '115530'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '115533'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC NPP Inject
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Research and Production Enterprise Inject
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Nauchno-Proizvodstvennoe Predpriyatie Inzhekt
+    addresses:
+    - address_details: Office 1, Building 3a, Elmashevskaya Str.
+      zip_code: '410033'

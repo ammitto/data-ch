@@ -1,0 +1,42 @@
+---
+ssid: '116220'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116228'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Areal International JSC
+    - name_type: formerly-known-as
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Hylende Gold
+    - name_type: formerly-known-as
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Highland Gold
+    day_month_year:
+      day: 26
+      month: 5
+      year: 2026
+    addresses:
+    - address_details: Presnenskaya nab., house 10, 34 floor, room I
+      zip_code: '123112'
+  justification: Areal International JSC is a Russian mining and metallurgical company
+    engaged in the development of deposits of non-ferrous and precious metals in Siberia,
+    in the Far East of Russia and in the Arctic, which provides substantial revenue
+    to the Government of the Russian Federation. Therefore, Areal International JSC
+    is involved in an economic sector providing a substantial source of revenue to
+    the Government of the Russian Federation.

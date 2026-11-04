@@ -1,0 +1,30 @@
+---
+ssid: '116454'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116457'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC GRUPPA PROMAVTO
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited liability company GRUPPA PROMAVTO
+    addresses:
+    - address_details: 7A Zaovrazhnaya Street
+      zip_code: '603107'
+  justification: LLC GRUPPA PROMAVTO specialises in the manufacture of vehicle and
+    semi-trailers. It is one of the sub-contractors of JSC IEMZ Kupol. Specifically,
+    it supplies specialised escort vehicles of the Garpiya one-way attack UAV. These
+    UAVs are used by the Russian Armed Forces during Russia’s war of aggression against
+    Ukraine.

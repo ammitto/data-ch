@@ -1,0 +1,21 @@
+---
+ssid: '113555'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '113562'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Mastel Makina Ithalat Ihracat Limited Sirketi
+    addresses:
+    - address_details: No. 9, Block A, Selenium Retro 9, Chobancheshme e5 No. 16/1,
+        Atakoy 7-8-9-10 District
+      zip_code: '34203'
+    - address_details: No. 18/20/1 Beyazit Mahallesi Kalcilar Sokak
+      zip_code: '34126'

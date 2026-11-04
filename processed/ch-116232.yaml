@@ -1,0 +1,34 @@
+---
+ssid: '116232'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116237'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Upravlyayushchaya Kompaniya UZTM KARTEKS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: UK UZTM KARTEX LLC
+    day_month_year:
+      day: 30
+      month: 8
+      year: 2016
+    addresses:
+    - address_details: 1st Krasnogvardeysky Ave., floor 34, Mercury Tower
+      zip_code: '123112'
+  justification: Upravlyayushchaya Kompaniya UZTM KARTEKS is a leading manufacturer
+    of equipment for the mining, construction, energy and metallurgy industries. It
+    manages Uralmashplant OJSC and IZ-KARTEX named after P.G. Korobkov Ltd. The mining
+    and metallurgy sectors provide a substantial source of revenue to the Government
+    of the Russian Federation.

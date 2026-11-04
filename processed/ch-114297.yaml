@@ -1,0 +1,28 @@
+---
+ssid: '114297'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114307'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Metkombank
+    day_month_year:
+      day: 2
+      month: 8
+      year: 1993
+    addresses:
+    - address_details: 36 Oktyabrskaya St.
+      zip_code: '623406'
+  justification: "PJSC Metkombank is a leading regional bank in the Ural Federal District
+    of \nthe Russian Federation. The banking sector is a sector providing substantial
+    \nrevenue to the Government of the Russian Federation. Therefore, PJSC \nMetkombank
+    is involved in an economic sector providing a substantial \nsource of revenue
+    to the Government of the Russian Federation, which is \nresponsible for the annexation
+    of Crimea and the destabilisation of Ukraine."

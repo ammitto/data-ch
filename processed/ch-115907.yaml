@@ -1,0 +1,43 @@
+---
+ssid: '115907'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115916'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Russian Air Transport Laboratory”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RLVT LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Russkaya Laboratoriya Vozdushnogo Transporta
+    day_month_year:
+      day: 29
+      month: 9
+      year: 2022
+    addresses:
+    - address_details: Ryazanskaya street, 3D, office 3
+      zip_code: '300026'
+  justification: Limited Liability Company “Russian Air Transport Laboratory” is a
+    Russian developer and manufacturer of drones, including attack drones. Its products
+    include first-person view (FPV) drones Ovod (Gadfly). These drones have been documented
+    in combat operations, including strikes of the South group of troops of the Russian
+    Armed Forces on Ukrainian positions near Avdiivka on 4 July 2023, with video evidence
+    confirming their battlefield use. Limited Liability Company “Russian Air Transport
+    Laboratory” therefore is forming part of Russia’s military and industrial complex.

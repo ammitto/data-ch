@@ -1,0 +1,31 @@
+---
+ssid: '114576'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '114581'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Gutseriev
+      - order: 2
+        name_part_type: given-name
+        value: Mikhail
+      - order: 3
+        name_part_type: father-name
+        value: Safarbekovich
+    day_month_year:
+      day: 9
+      month: 3
+      year: 1958
+  justification: Mikhail Gutseriev is a prominent businessperson in Russia. As the
+    founder and ultimate owner of the Safmar Group, he holds business interests in
+    the oil and gas sectors, as well as in the real estate, media, and construction
+    sectors and implements large-scale projects. The energy sector, in particular
+    the oil and gas sectors, is a sector providing a substantial source of revenue
+    to the Government of the Russian Federation.

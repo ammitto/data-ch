@@ -1,0 +1,19 @@
+---
+ssid: '113605'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '113608'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Altegrity LLC
+    addresses:
+    - address_details: Office 1TS, Building 11, 4th Magistralnaya Str., Khoroshevsky
+        Municipal District
+      zip_code: '123308'

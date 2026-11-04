@@ -1,0 +1,34 @@
+---
+ssid: '115251'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115254'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Belgorodsocbank
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Universal Commercial Bank Of Social Development
+          And Reconstruction “Belgorodsocbank”
+    addresses:
+    - address_details: 38 Svyato-Troitsky Boulevard
+      zip_code: '308015'
+  justification: JSC Belgorodsocbank is a regional commercial bank headquartered in
+    Belgorod region of the Russian Federation. The bank signed an agreement with the
+    Central Bank of Russia to participate in the pilot project for the digital rouble.
+    The banking sector is a sector providing substantial revenue to the Government
+    of the Russian Federation. Therefore, JSC Belgorodsocbank is involved in an economic
+    sector providing a substantial source of revenue to the Government of the Russian
+    Federation, which is responsible for the annexation of Crimea and the destabilisation
+    of Ukraine.

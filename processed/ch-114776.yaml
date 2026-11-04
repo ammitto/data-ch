@@ -1,0 +1,36 @@
+---
+ssid: '114776'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114786'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Severgazbank
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC SGB Bank
+    day_month_year:
+      day: 29
+      month: 4
+      year: 1994
+    addresses:
+    - address_details: 3, Blagoveschenskaya Street
+      zip_code: '160001'
+  justification: JSC Severgazbank is a major financial institution and leading regional
+    bank in the Northwest Russia. The bank signed an agreement with the Central Bank
+    of Russia to participate in the pilot project for the digital rouble. The banking
+    sector is a sector providing substantial revenue to the Government of the Russian
+    Federation. Therefore, JSC Severgazbank is involved in an economic sector providing
+    a substantial source of revenue to the Government of the Russian Federation, which
+    is responsible for the annexation of Crimea and the destabilisation of Ukraine.

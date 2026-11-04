@@ -1,0 +1,18 @@
+---
+ssid: '115632'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '115636'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Zepto Microwave and Chip Devices Assembly LLP
+    addresses:
+    - address_details: Plot No. Cp 09, Sector 08, Manesar
+      zip_code: '122052'

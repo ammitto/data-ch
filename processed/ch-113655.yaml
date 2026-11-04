@@ -1,0 +1,29 @@
+---
+ssid: '113655'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '113663'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Bank ‘Agroros’”
+    day_month_year:
+      day: 23
+      month: 5
+      year: 1994
+    addresses:
+    - address_details: Chernyshevskogo Street 90
+      zip_code: '410017'
+  justification: JSC “Bank ‘Agroros’” is a regional Russian commercial bank headquartered
+    in the Saratov region. It is ranked among top 30 banks in the region by assets
+    size. The banking sector is a sector providing substantial revenue to the Government
+    of the Russian Federation. Therefore, JSC “Bank ‘Agroros’” is involved in an economic
+    sector providing a substantial source of revenue to the Government of the Russian
+    Federation, which is responsible for the annexation of Crimea and the destabilisation
+    of Ukraine.

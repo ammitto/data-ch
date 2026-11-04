@@ -1,0 +1,41 @@
+---
+ssid: '113899'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '113904'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Sharma
+      - order: 2
+        name_part_type: given-name
+        value: Suniel
+      - order: 3
+        name_part_type: further-given-name
+        value: Kumar
+    day_month_year:
+      day: 7
+      month: 10
+      year: 1979
+    addresses:
+  justification: Suniel Kumar Sharma is a businessperson involved in setting up ship
+    registries in various countries. Many of the governments of those countries have
+    later rejected his involvement and accused him or companies linked to him of operating
+    without proper authority, issuing invalid certificates, or continuing registry
+    activities after approvals were revoked. Several governments have reported that
+    entities connected to him have registered vessels fraudulently. He is the managing
+    director of Oceaniek Technologies, which is the administrative hub for various
+    maritime enterprises, including MSTA-International Maritime Registries & Regulatory
+    Inc and Aruba Maritime Administration & Offshore Company Registry. Therefore,
+    Suniel Kumar Sharma is associated with MSTA-International Maritime Registries
+    & Regulatory Inc and Aruba Maritime Administration & Offshore Company Registry,
+    both listed under Council Regulation (EU) No 269/2014 for providing material support
+    to vessels transporting crude oil or petroleum products from Russia while practicing
+    irregular and high-risk shipping practices as set out in the International Maritime
+    Organisation General Assembly resolution A.1192(33).

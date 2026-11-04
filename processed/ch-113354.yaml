@@ -1,0 +1,30 @@
+---
+ssid: '113354'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '113362'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “OZON Bank”
+    day_month_year:
+      day: 11
+      month: 3
+      year: 2022
+    addresses:
+    - address_details: 10, Presnenskaya Embankment, Floor 19
+      zip_code: '123112'
+  justification: Limited Liability Company “OZON Bank” is a large Russian bank focusing
+    on digital services. The Central Bank of Russia has officially included Limited
+    Liability Company “OZON Bank” in the list of most important banks on the payment
+    services market. The banking sector is a sector providing substantial revenue
+    to the Government of the Russian Federation. Therefore, Limited Liability Company
+    “OZON Bank” is involved in an economic sector providing a substantial source of
+    revenue to the Government of the Russian Federation, which is responsible for
+    the annexation of Crimea and the destabilisation of Ukraine.

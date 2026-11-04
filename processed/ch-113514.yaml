@@ -1,0 +1,36 @@
+---
+ssid: '113514'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '113524'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJS SCBP “Primsotsbank”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint-Stock Social Commercial Bank of Primorye “Primsotsbank”
+    day_month_year:
+      day: 4
+      month: 3
+      year: 1994
+    addresses:
+    - address_details: Partizansky Prospekt 44
+  justification: PJS SCBP “Primsotsbank” is an important Russian regional bank headquarted
+    in Vladivostok. It is ranked among top 50 Russian banks by assets. PJS SCBP “Primsotsbank”
+    signed an agreement with the Central Bank of Russia to participate in the pilot
+    project for the digital rouble. The banking sector is a sector providing substantial
+    revenue to the Government of the Russian Federation. Therefore, PJS SCBP “Primsotsbank”
+    is involved in an economic sector providing a substantial source of revenue to
+    the Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

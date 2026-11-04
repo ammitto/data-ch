@@ -1,0 +1,54 @@
+---
+ssid: '114439'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114446'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Asset Electro”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Asset Electro”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Esset Electro”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “NPP ‘ABS Electro’”
+    day_month_year:
+      day: 23
+      month: 4
+      year: 2012
+    addresses:
+    - address_details: Serebryanichaya Embankment, 29
+  justification: Limited Liability Company “Asset Electro” is a Russian company which
+    is part of the ABS Electro Group of companies, and which is involved in developing
+    and manufacturing electronic and radio-electronic components. It shares the same
+    managing and ownership structure as Limited Liability Company “Asset Automation”,
+    the company the trademark under which the ABS Electro group of companies operate.
+    ABS Electro group notably includes JSC VNIIR-Progress, a Russian research and
+    development institute that produces the Kometa antenna used in devices such as
+    the Shahed and Geran unmanned aerial vehicle and guided bomb kits to enhance their
+    resistance against electronic interference. JSC “Sokol Asset”, which owns JSC
+    VNIIR-Progress, and Limited Liability Company “Asset Electro” share the same address.
+    JSC VNIIR-Progress and Limited Liability Company “Asset Automation” are subject
+    to Union restrictive measures.

@@ -1,0 +1,31 @@
+---
+ssid: '114252'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114262'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: JSC CB Energotransbank
+    day_month_year:
+      day: 27
+      month: 12
+      year: 1990
+    addresses:
+    - address_details: Klinicheskaya st., 83а
+      zip_code: '236016'
+  justification: "JSC CB Energotransbank is a regional Russian commercial bank headquarted
+    \nin the Kaliningrad exclave. It is ranked among top 20 in the North-Western \nFederal
+    District of the Russian Federation. The bank signed an agreement \nwith the Central
+    Bank of Russia to participate in the pilot project for the \ndigital rouble. The
+    banking sector is a sector providing substantial revenue to \nthe Government of
+    the RussianFederation. Therefore, JSC CB \nEnergotransbank is involved in an economic
+    sector providing a substantial \nsource of revenue to the Government of the Russian
+    Federation, which is \nresponsible for the annexation of Crimea and the destabilisation
+    of Ukraine."

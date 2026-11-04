@@ -1,0 +1,35 @@
+---
+ssid: '115955'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115964'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC ETS ELECTRONICS
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Ets Electronics”
+    day_month_year:
+      day: 8
+      month: 4
+      year: 2021
+    addresses:
+    - address_details: Dorogobuzhskaya str., 14 building 40, floor 2 office 104
+      zip_code: '121354'
+  justification: LLC ETS ELECTRONICS is a Russian supplier of electronic components
+    and printed circuit boards. The Moscow-based LLC ETS ELECTRONICS imports components,
+    including printed circuit boards, from foreign manufacturers through Chinese company
+    ETC ELECTRONICS Limited. The company supplies those components for many industries,
+    including for the military and industrial complex. LLC ETS ELECTRONICS therefore
+    materially supports Russia’s military and industrial complex.

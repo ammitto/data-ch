@@ -1,0 +1,28 @@
+---
+ssid: '113735'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '113742'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: "“Beget” LLC"
+    day_month_year:
+      day: 22
+      month: 10
+      year: 2007
+    addresses:
+    - address_details: Pl. Karla Faberge, 8B, office 726A
+  justification: "“Beget” LLC is a well-known Russian cloud and web hosting provider.
+    Since 2014, “Beget” LLC has knowingly provided services, such as hosting and domain
+    services, to Russian backed illegal authorities, militarised organisations and
+    propagandist projects, in illegally annexed Crimea, Donetsk and Luhansk, as well
+    as to a significant number of Russian defence companies, including some listed
+    entities subject to Union restrictive measures, relevant for Russia’s efforts
+    in continuing the war of aggression against Ukraine."

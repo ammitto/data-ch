@@ -1,0 +1,28 @@
+---
+ssid: '113382'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '113391'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Commercial Bank “Kuban Credit”
+    day_month_year:
+      day: 28
+      month: 9
+      year: 1993
+    addresses:
+    - address_details: 46 Ordzhonikidze St / 32 Krasnoarmeyskaya St
+      zip_code: '350000'
+  justification: LLC Commercial Bank “Kuban Credit” is the largest financial institution
+    in the Krasnodar Krai of the Russian Federation. The banking sector is a sector
+    providing substantial revenue to the Government of the RussianFederation. Therefore,
+    LLC Commercial Bank “Kuban Credit” is involved in an economic sector providing
+    a substantial source of revenue to the Government of the Russian Federation, which
+    is responsible for the annexation of Crimea and the destabilisation of Ukraine.

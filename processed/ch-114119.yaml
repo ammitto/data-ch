@@ -1,0 +1,30 @@
+---
+ssid: '114119'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114129'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC JSCB CentroCredit Bank
+    day_month_year:
+      day: 23
+      month: 6
+      year: 1989
+    addresses:
+    - address_details: 31/2 Pyatnitskaya Street, Building 1
+      zip_code: '119017'
+  justification: "JSC JSCB CentroCredit Bank is a major commercial Russian bank that
+    \nspecialises in investment banking and stock market operations. JSC JSCB \nCentroCredit
+    Bank signed an agreement with the Central Bank of Russia to \nparticipate in the
+    pilot project for the digital rouble. The banking sector is \na sector providing
+    substantial revenue to the Government of the Russian \nFederation. Therefore,
+    JSC JSCB CentroCredit Bank is involved in an \neconomic sector providing a substantial
+    source of revenue to the \nGovernment of the Russian Federation, which is responsible
+    for the \nannexation of Crimea and the destabilisation of Ukraine."

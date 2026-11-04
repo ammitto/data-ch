@@ -1,0 +1,30 @@
+---
+ssid: '114869'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114879'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Bank Finservice”
+    day_month_year:
+      day: 5
+      month: 11
+      year: 2001
+    addresses:
+    - address_details: 2nd Floor, Office 1, Room No. 1, 23A, Tarasa Shevchenko Embankment
+      zip_code: '121151'
+  justification: JSC “Bank Finservice” is a medium-sized Russian commercial bank.
+    The Government of the RussianFederation, through Rosimushchestvo, the Federal
+    Agency for State Property Management, holds a blocking stake in the bank. The
+    banking sector is a sector providing substantial revenue to the Government of
+    the Russian Federation. Therefore, JSC “Bank Finservice” is involved in an economic
+    sector providing a substantial source of revenue to the Government of the Russian
+    Federation, which is responsible for the annexation of Crimea and the destabilisation
+    of Ukraine.

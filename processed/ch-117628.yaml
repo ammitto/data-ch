@@ -1,0 +1,41 @@
+---
+ssid: '117628'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '117641'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Children’s Health and Education Centre “Brigantine”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: "“Brigantina”"
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Municipal budgetary educational institution of additional education
+          “children’s health and educational centre ‘brigantine’”
+    day_month_year:
+      day: 18
+      month: 12
+      year: 2002
+    addresses:
+    - address_details: Vostochnaya Street, building. 13a
+      zip_code: '428022'
+  justification: Children’s Health and Education Centre “Brigantine”, founded, owned
+    and overseen by the municipality of Cheboksary and the city’s Education Department,
+    provides recreational, educational, sports, tourism, and extracurricular programmes
+    for children.

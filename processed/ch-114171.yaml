@@ -1,0 +1,29 @@
+---
+ssid: '114171'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114181'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: PJSC National Bank “TRUST”
+    day_month_year:
+      day: 27
+      month: 11
+      year: 1995
+    addresses:
+    - address_details: Mozhaisky Val street, 8
+      zip_code: '121151'
+  justification: "PJSC National Bank “TRUST” is a state-owned non-core assets bank.
+    The \nCentral Bank of the Russian Federation is its majority shareholder. The
+    \nbanking sector is a sector providing substantial revenue to the Government \nof
+    the Russian Federation. Therefore, PJSC National Bank “TRUST” is \ninvolved in
+    an economic sector providing a substantial source of revenue to \nthe Government
+    of the Russian Federation, which is responsible for the \nannexation of Crimea
+    and the destabilisation of Ukraine."

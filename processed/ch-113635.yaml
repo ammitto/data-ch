@@ -1,0 +1,24 @@
+---
+ssid: '113635'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '113639'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Savlev
+      - order: 2
+        name_part_type: given-name
+        value: Evgeniy
+      - order: 3
+        name_part_type: father-name
+        value: Vasilievich
+  justification: Evgeniy Savlev is the General Director of CJSC TECHNOSVYAZ. CJSC
+    TECHNOSVYAZ is part of the Russian arms industry, a sector of strategic importance
+    for the Russian Federation.

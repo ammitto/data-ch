@@ -1,0 +1,30 @@
+---
+ssid: '116079'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116088'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Blanc Bank LLC
+    day_month_year:
+      day: 6
+      month: 8
+      year: 2002
+    addresses:
+    - address_details: 1st Krasnogvardeisky Passage, 22
+      zip_code: '123112'
+  justification: Blanc Bank LLC is a Russian bank. It belongs to Moscow Credit Bank
+    group. The Credit Bank of Moscow is included in the list of systemically important
+    credit institutions in Russia. Blanc Bank LLC specialises in banking, brokerage,
+    and depository services. The banking sector is a sector providing substantial
+    revenue to the Government of the Russian Federation. Therefore, Blanc Bank LLC
+    is involved in an economic sector providing a substantial source of revenue to
+    the Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

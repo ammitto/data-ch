@@ -1,0 +1,47 @@
+---
+ssid: '115451'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '115457'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Newton-ITM LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Nyuton-ITM
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Neyuton ITM
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Neyuton ITM
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Engineering Center SDM LLC
+    addresses:
+    - address_details: Room 4N/3, Office 303, Building 31, Mira Avenue 102
+      zip_code: '129626'
+    - address_details: Workshop 11a, Tsentralnaya Str., 81 Novoseltsovo Village

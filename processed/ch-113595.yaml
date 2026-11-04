@@ -1,0 +1,41 @@
+---
+ssid: '113595'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '113601'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OKB Astron
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: OKB Astron JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Optical and Mechanical Design Bureau Astron
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AO OKB ASTRON
+    addresses:
+    - address_details: Room 3, Artema Str. 2b
+      zip_code: '283086'
+    - address_details: Parkovaya St. 1
+      zip_code: '140080'

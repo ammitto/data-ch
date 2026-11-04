@@ -1,0 +1,36 @@
+---
+ssid: '116203'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116216'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Southern Mining and Metallurgical Complex”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC UGMK
+    day_month_year:
+      day: 24
+      month: 10
+      year: 2022
+    addresses:
+    - address_details: Shmidta St. 4, room 20
+      zip_code: '294201'
+  justification: Limited Liability Company “Southern Mining and Metallurgical Complex”
+    is a leading company in the steel and mining industries, producing cast iron,
+    steel and ferroalloys in Russia’s occupied part of the Donbass region. The company
+    generates huge volumes of revenue from Russia’s occupied part of the Donbass region
+    and in 2024 paid more than 3,7 billion roubles in taxes to Russia. Additionally,
+    Limited Liability Company “Southern Mining and Metallurgical Complex” supplies
+    raw materials to Russia’s military-industrial complex.

@@ -1,0 +1,24 @@
+---
+ssid: '116388'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116389'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC DELMOT
+    addresses:
+    - address_details: Krasnoyarsk Kray, 1 78th Dobrovolcheskoy Brigady Street, office
+        65
+      zip_code: '660077'
+  justification: LLC DELMOT specialises in the production, research and development
+    in fields of aircraft engines. It participates in the development of the engine
+    for Garpiya-A1 one-way attack UAV. In the production process of this UAV, it supplies
+    its services to main manufacturer which is JSC IEMZ Kupol. These UAVs are used
+    by the Russian Armed Forces during Russia’s war of aggression against Ukraine.

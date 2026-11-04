@@ -1,0 +1,30 @@
+---
+ssid: '115969'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115979'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Levoberezhny Bank
+    day_month_year:
+      day: 19
+      month: 7
+      year: 2002
+    addresses:
+    - address_details: 48 Kirova Street
+      zip_code: '630102'
+  justification: PJSC Levoberezhny Bank is an important regional bank in Russia. It
+    holds a range of licenses, including accepting deposits and brokering. The bank
+    is active in state-backed SME financing tools, promoted by the President of the
+    Russian Federation Vladimir Putin. The banking sector is a sector providing substantial
+    revenue to the Government of the Russian Federation. Therefore, PJSC Levoberezhny
+    Bank is involved in an economic sector providing a substantial source of revenue
+    to the Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

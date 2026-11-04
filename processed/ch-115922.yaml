@@ -1,0 +1,42 @@
+---
+ssid: '115922'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115931'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Engels Instrumentation Association “Signal”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: EPO Signal LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Engelsskoe Priborostroitelnoe Obyedinenie Signal
+    day_month_year:
+      day: 25
+      month: 7
+      year: 2002
+    addresses:
+    - address_details: Engels-19
+      zip_code: '413119'
+  justification: LLC Engels Instrumentation Association “Signal” is a developer and
+    manufacturer of components, including for weapons and the aircraft industry. In
+    particular, the company is involved in the production of the opto-electronic guidance
+    system “Otblesk-U” of the Kh-101 missile. Those missiles are used by the Russian
+    military to attack targets in Ukraine. Therefore, LLC Engels Instrumentation Association
+    “Signal” is materially supporting Russia’s military and industrial complex.

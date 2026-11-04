@@ -1,0 +1,23 @@
+---
+ssid: '116555'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116560'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC TEXTILTECHSNAB
+    addresses:
+    - address_details: Ryazanskiy, 16 Street
+      zip_code: '109428'
+  justification: LLC TEXTILTECHSNAB specialises in wholesale of textile products.
+    It supplies chemical materials to JSC IEMZ Kupol. It specifically supplies raw
+    chemical components used in the production of the solid rocket booster used to
+    launch the Garpiya-A1 one-way attack UAVs. These UAVs are used by the Russian
+    Armed Forces during Russia’s war of aggression against Ukraine.

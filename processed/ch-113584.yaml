@@ -1,0 +1,46 @@
+---
+ssid: '113584'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '113589'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: RLVT Tula
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Russian Laboratory of Air Transport
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Russian Air Transport Laboratory LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Russkaya Laboratoriya Vozdushnogo Transporta
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ООО РЛВТ
+    addresses:
+    - address_details: Office 3, Building 3d, Ryazanskaya Str.
+      zip_code: '300026'

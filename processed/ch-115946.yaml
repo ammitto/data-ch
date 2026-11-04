@@ -1,0 +1,25 @@
+---
+ssid: '115946'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115952'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Obneftegazgeologiya
+    addresses:
+    - address_details: Neftyanikov st., bldg. 14, room 12
+      zip_code: '628684'
+  justification: PJSC Obneftegazgeologiya is a company active in the Russian energy
+    sector and is a part of Slavneft. PJSC Obneftegazgeologiya engages in oil extraction,
+    transport and production. The energy sector, especially the oil and gas sectors,
+    provides substantial revenues to the Government of the Russian Federation. Therefore,
+    PJSC Obneftegazgeologiya is involved in an economic sector providing a substantial
+    source of revenue to the Government of the Russian Federation, which is responsible
+    for the annexation of Crimea and the destabilisation of Ukraine.

@@ -1,0 +1,32 @@
+---
+ssid: '116480'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116485'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC MSKA INGENEERING
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited liability company MSKA ENGINEERING
+    addresses:
+    - address_details: 4 Habarovskaya Street
+      zip_code: '107589'
+    - address_details: 32 Zolotrogozhsky Val Street, Office 35
+      zip_code: '111033'
+  justification: LLC MSKA ENGINEERING specialises in production of electrical installation
+    works. It also supplies chemical materials to JSC IEMZ Kupol. It specifically
+    supplies raw chemical components used in the production of the solid rocket booster
+    used to launch the Garpiya-A1 one-way attack UAVs. These UAVs are used by the
+    Russian Armed Forces during Russia’s war of aggression against Ukraine.

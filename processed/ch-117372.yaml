@@ -1,0 +1,32 @@
+---
+ssid: '117372'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '117386'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Sports and Recreation Complex “Romashka”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC SOK “Romashka”
+    day_month_year:
+      day: 28
+      month: 4
+      year: 2015
+    addresses:
+    - address_details: Lomonosov Street, 20
+      zip_code: '346845'
+  justification: Sports and Recreation Complex “Romashka” is a year-round sports and
+    recreation facility, operating as a children’s camp and hosting competitions,
+    training camps and thematic events.

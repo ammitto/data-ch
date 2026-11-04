@@ -1,0 +1,25 @@
+---
+ssid: '113617'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '113621'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Doronin
+      - order: 2
+        name_part_type: given-name
+        value: Andrey
+      - order: 3
+        name_part_type: father-name
+        value: Nikolaevich
+  justification: Andrey Doronin is the General Director and co-owner of Limited liability
+    company Scientific and technical centre Vostok (LLC NTT VOSTOK). LLC NTT VOSTOK
+    is part of the Russian arms industry, a sector of strategic importance for the
+    Russian Federation.

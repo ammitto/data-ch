@@ -1,0 +1,18 @@
+---
+ssid: '115639'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '115642'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ZENIT LLC
+    addresses:
+    - address_details: Building 7, Room 529, Dimitrova Avenue
+      zip_code: '630132'

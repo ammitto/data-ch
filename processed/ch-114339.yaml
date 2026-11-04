@@ -1,0 +1,31 @@
+---
+ssid: '114339'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114349'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Bank Derzhava
+    day_month_year:
+      day: 5
+      month: 3
+      year: 1994
+    addresses:
+    - address_details: 2 Bolshoy Savvinskiy Lane, Bldg. 9
+      zip_code: '119435'
+  justification: "PJSC Bank Derzhava is a specialised commercial bank that plays a
+    critical \nrole in Russia’s state infrastructure and capital markets. It is a
+    major player in \nthe public procurement system, providing bank guarantees for
+    Russian \ngovernment contracts. PJSC Bank Derzhava is a major market maker on
+    the \nMoscow Exchange for Russian government debt. The banking sector is \na sector
+    providing substantial revenue to the Government of the \nRussianFederation. Therefore,
+    PJSC Bank Derzhava is involved in an \neconomic sector providing a substantial
+    source of revenue to the \nGovernment of the Russian Federation, which is responsible
+    for the \nannexation of Crimea and the destabilisation of Ukraine."

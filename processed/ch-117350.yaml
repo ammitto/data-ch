@@ -1,0 +1,62 @@
+---
+ssid: '117350'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '117363'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Preobrazhensky Defence and Sports Centre
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Preobrazhensky Defense and Sports Centre of the Special Forces Fund
+          of the Airborne Forces
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Preobrazhensky Educational Centre
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Non-State Educational Institution Training Centre “Preobrazhensky”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Moscow Region Special Forces Centre “Preobrazhensky”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Преображенский ОСЦ
+    day_month_year:
+      day: 28
+      month: 6
+      year: 2010
+    addresses:
+    - address_details: Otkrytoye highway, 12, building 2
+      zip_code: '107370'
+  justification: The Preobrazhensky Defence and Sports Centre provides sports, training,
+    and military-patriotic education programmes led by instructors with military backgrounds.
+    The Preobrazhensky Defence and Sports Centre hosts children from occupied Ukrainian
+    territories.

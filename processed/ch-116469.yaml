@@ -1,0 +1,30 @@
+---
+ssid: '116469'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116472'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company LAGGAR PRO
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC LAGGAR PRO
+    addresses:
+    - address_details: 190B Ovrazhnaya Street, Building 19
+      zip_code: '607680'
+  justification: Limited Liability Company LAGGAR PRO specialises in manufacture of
+    vehicles and semi-trailers. It is a supplier to the JSC IEMZ Kupol. It supplies
+    material and services used in the production of the launch vehicle of the Garpiya
+    one way attack UAV. These UAVs are used by the Russian Armed Forces during Russia’s
+    war of aggression against Ukraine.

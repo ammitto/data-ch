@@ -1,0 +1,25 @@
+---
+ssid: '115937'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115943'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Slavneft-Nizhnevartovsk
+    addresses:
+    - address_details: ul. Nefterazvedochnaia, 2, pomeshch. 17
+      zip_code: '628680'
+  justification: LLC Slavneft-Nizhnevartovsk is a company active in the Russian energy
+    sector and a part of Slavneft. LLC Slavneft-Nizhnevartovsk engages in oil production.
+    The energy sector, especially the oil and gas sectors, provides substantial revenues
+    to the Government of the Russian Federation. Therefore, LLC Slavneft-Nizhnevartovsk
+    is involved in an economic sector providing a substantial source of revenue to
+    the Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

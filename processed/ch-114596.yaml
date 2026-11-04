@@ -1,0 +1,37 @@
+---
+ssid: '114596'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '114599'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Degtyarev
+      - order: 2
+        name_part_type: given-name
+        value: Mikhail
+      - order: 3
+        name_part_type: father-name
+        value: Vladimirovich
+    day_month_year:
+      day: 10
+      month: 7
+      year: 1981
+  justification: Mikhail Degtyarev is the Minister of Sport of Russia and the President
+    of the Russian Olympic Committee. In his role, he has pledged to support the rehabilitation
+    through sport of Russian soldiers who have fought in the war of aggression against
+    Ukraine, noting that he is implementing the priorities set by Russian president
+    Vladimir Putin, also describing himself as “Putin’s soldier”. He has said that
+    one of his priorities is developing sports infrastructure in territories that
+    are part of Ukraine and illegally occupied by Russia. In his former role as the
+    governor of Khabarovsk Krai, he also supported Russian soldiers and veterans who
+    have fought in the war of aggression against Ukraine. In both his former and current
+    roles, he has made working visits to occupied Ukrainian territories. Therefore,
+    Mikhail Degtyarev is responsible for and implementing policies which undermine
+    and threaten the territorial integrity, sovereignty and independence of Ukraine.

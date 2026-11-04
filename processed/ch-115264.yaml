@@ -1,0 +1,25 @@
+---
+ssid: '115264'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115267'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Bank “United Capital”
+    addresses:
+    - address_details: 21 Gzhatskaya Street, Building 2
+      zip_code: '195220'
+  justification: JSC Bank “United Capital” is a Russian commercial bank based in Saint
+    Petersburg. It is ranked fifth among the top 20 North-Western Federal District
+    banks. The banking sector is a sector providing substantial revenue to the Government
+    of the Russian Federation. Therefore, JSC Bank “United Capital” is involved in
+    an economic sector providing a substantial source of revenue to the Government
+    of the Russian Federation, which is responsible for the annexation of Crimea and
+    the destabilisation of Ukraine.

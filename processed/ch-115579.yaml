@@ -1,0 +1,36 @@
+---
+ssid: '115579'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115591'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint Stock Company “Metallinvestbank”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint Stock Company “Metalurgical Investment Bank”
+    day_month_year:
+      day: 2
+      month: 8
+      year: 1993
+    addresses:
+    - address_details: 47 Bolshaya Polyanka St, Bldg 2
+      zip_code: '119180'
+  justification: Public Joint Stock Company “Metallinvestbank” is a Russian universal
+    credit institution with strong market positions in serving large metallurgical
+    enterprises and enterprises of related industries. The banking sector is a sector
+    providing substantial revenue to the Government of the Russian Federation. Therefore,
+    Public Joint Stock Company “Metallinvestbank” is involved in an economic sector
+    providing a substantial source of revenue to the Government of the Russian Federation,
+    which is responsible for the annexation of Crimea and the destabilisation of Ukraine.

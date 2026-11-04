@@ -1,0 +1,28 @@
+---
+ssid: '114200'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114209'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Chelindbank
+    day_month_year:
+      day: 16
+      month: 10
+      year: 1990
+    addresses:
+    - address_details: 80 Karla Marksa St
+      zip_code: '454091'
+  justification: "PJSC Chelindbank is a major regional bank in Russia. The banking
+    sector is \na sector providing substantial revenue to the Government of the Russian
+    \nFederation. Therefore, PJSC Chelindbank is involved in an economic sector \nproviding
+    a substantial source of revenue to the Government of the Russian \nFederation,
+    which is responsible for the annexation of Crimea and the \ndestabilisation of
+    Ukraine."

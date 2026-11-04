@@ -1,0 +1,29 @@
+---
+ssid: '116529'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116534'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC NPF ROTOR
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited liability company Research and production firm Rotor
+    addresses:
+    - address_details: 93A Lugovaya Street
+  justification: LLC NPF ROTOR specialises in the manufacture and supply of pneumatic
+    catapults, scientific research and development in the field of natural and technical
+    sciences. It produces and supplies pneumatic catapults installed on the launch
+    vehicles for the Garpiya-A1 one-way attack UAVs. These UAVs are used by the Russian
+    Armed Forces during Russia’s war of aggression against Ukraine.

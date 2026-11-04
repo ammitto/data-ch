@@ -1,0 +1,31 @@
+---
+ssid: '114656'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '114660'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Kushnerov
+      - order: 2
+        name_part_type: given-name
+        value: Yuri
+      - order: 3
+        name_part_type: father-name
+        value: Petrovich
+    day_month_year:
+      day: 19
+      month: 12
+      year: 1954
+  justification: Yuri Kushnerov is the Chairman of the Board of Directors of JSC Neftechemservis,
+    a Russian company which owns and operates the Yaya oil refinery in the Kemerovo
+    Oblast. Yuri Kushnerov is also the co-owner of LLC “Anzhersky Oil and Gas Company
+    LLC”, LLC “Anzhersky Oil Refinery” and LLC “Oil Refinery ‘North Kuzbass’”, which
+    are companies involved in the production of petroleum products on the Yaya refining
+    site.

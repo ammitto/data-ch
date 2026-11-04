@@ -1,0 +1,27 @@
+---
+ssid: '114105'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114115'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC BBR Bank
+    day_month_year:
+      day: 27
+      month: 6
+      year: 1994
+    addresses:
+    - address_details: 6, bldg. 1, 1st Nikoloshchepovskiy Lane
+      zip_code: '121099'
+  justification: |-
+    JSC BBR Bank is a Russian commercial bank that ranks among the top 50 by
+    asset size. The banking sector is a sector providing substantial revenue to the Government of the Russian Federation. Therefore, JSC BBR Bank is involved in an economic sector providing a substantial source of revenue to the
+    Government of the Russian Federation, which is responsible for the
+    annexation of Crimea and the destabilisation of Ukraine.

@@ -1,0 +1,40 @@
+---
+ssid: '117502'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '117514'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Centre for Children and Youth Programmes ‘Mir’”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: "“Mir” Centre for Administrative and Legal Affairs"
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “TsDiYUP ‘Mir’”
+    day_month_year:
+      day: 25
+      month: 11
+      year: 2008
+    addresses:
+    - address_details: Dzerzhinsky St., 119
+      zip_code: '347905'
+  justification: LLC “Centre for Children and Youth Programmes ‘Mir’” is an organisation
+    that operates children recreation, educational, and youth development programmes
+    through facilities including its subdivision, which is the year-round Children’s
+    Sanatorium Health Camp “Mir”.

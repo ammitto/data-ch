@@ -1,0 +1,27 @@
+---
+ssid: '117283'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '117291'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Shvets
+      - order: 2
+        name_part_type: given-name
+        value: Maksim
+      - order: 3
+        name_part_type: father-name
+        value: Nikolayevich
+    day_month_year:
+      day: 5
+      month: 9
+      year: 1993
+  justification: Maksim Shvets is the Minister of Sports and Tourism of the so-called
+    “Donetsk People’s Republic”.

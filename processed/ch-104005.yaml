@@ -13,6 +13,13 @@ object:
       name_parts:
       - order: 1
         name_part_type: whole-name
+        value: Stormbringer
+    - name_type: formerly-known-as
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
         value: Kriti Vigor
   justification: Transport crude oil or petroleum products or mineral products that
     originate in Russia or are exported from Russia and practice irregular and high-risk

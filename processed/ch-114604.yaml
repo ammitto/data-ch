@@ -1,0 +1,25 @@
+---
+ssid: '114604'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '114607'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Dorofeev
+      - order: 2
+        name_part_type: given-name
+        value: Mikhail
+  justification: Mikhail Dorofeev is the Deputy Chairman of PSB Bank, a systemically
+    important financial institution. PSB is a Russian state-owned bank which supports
+    the Russian military-industrial complex and is the co-owner of the A7 network,
+    a service enabling cross-border payments. Mikhail Dorofeev has implemented major
+    projects of PSB Bank, including expanding the operations of the A7 network within
+    Russia and abroad, specifically to Nigeria and Zimbabwe. The banking sector is
+    a sector providing substantial revenue to the Government of the Russian Federation.

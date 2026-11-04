@@ -1,0 +1,34 @@
+---
+ssid: '113537'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '113542'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Asialink Logistics LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Aziyalink Logistics LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Asialink Shanghai Intl Logistics Co. Ltd
+    addresses:
+    - address_details: Office 250, Floor 3, Butlerova Str. 17
+      zip_code: '117342'
+    - address_details: Office 229, Sheremetyevskoye Highway 6K
+      zip_code: '141426'

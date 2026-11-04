@@ -1,0 +1,32 @@
+---
+ssid: '117577'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '117591'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Children’s Health Complex “Signal”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC DOK “Signal”
+    day_month_year:
+      day: 7
+      month: 12
+      year: 2005
+    addresses:
+    - address_details: Revolyutsionnaya street, house No. 91
+      zip_code: '353480'
+  justification: LLC Children’s Health Complex “Signal” is a recreational and educational
+    camp for children aged 7–16. Its primary owner is LLC “Gazprom Dobycha Yamburg”,
+    a subsidiary of state-owned company “Gazprom”.

@@ -1,0 +1,37 @@
+---
+ssid: '116023'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116032'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Ural Bank For Reconstruction And Development
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: UBRR
+    day_month_year:
+      day: 23
+      month: 8
+      year: 2002
+    addresses:
+    - address_details: 8 March Street, Building 51, Floor 11
+      zip_code: '620063'
+  justification: PJSC Ural Bank for Reconstruction and Development is the largest
+    bank in Ural region and is listed within 25 Russia’s largest commercial banks.
+    It carries out banking operations as well as depositary, securities management,
+    dealer and brokerage activities. The banking sector is a sector providing substantial
+    revenue to the Government of the Russian Federation. Therefore, PJSC Ural Bank
+    for Reconstruction and Development is involved in an economic sector providing
+    a substantial source of revenue to the Government of the Russian Federation, which
+    is responsible for the annexation of Crimea and the destabilisation of Ukraine.

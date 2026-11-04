@@ -1,0 +1,30 @@
+---
+ssid: '113314'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '113322'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Auto Finance Bank”
+    day_month_year:
+      day: 20
+      month: 9
+      year: 1989
+    addresses:
+    - address_details: 29 Serebryanicheskaya Embankment
+      zip_code: '109028'
+  justification: JSC “Auto Finance Bank” is a Russian bank owned by the country’s
+    largest car manufacturer JSC AvtoVAZ, an entity listed by the Union. The bank
+    plays a central role in implementing the preferential and subsidised car loan
+    program launched by the Government of the RussianFederation. The banking sector
+    is a sector providing substantial revenue to the Government of the Russian Federation.
+    Therefore, JSC “Auto Finance Bank” is involved in an economic sector providing
+    a substantial source of revenue to the Government of the Russian Federation, which
+    is responsible for the annexation of Crimea and the destabilisation of Ukraine.

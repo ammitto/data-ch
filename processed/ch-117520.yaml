@@ -1,0 +1,33 @@
+---
+ssid: '117520'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '117532'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Leto”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Summer”
+    day_month_year:
+      day: 21
+      month: 3
+      year: 2012
+    addresses:
+    - address_details: Aleksandrovskaya st., 71/15, office 212
+  justification: LLC “Leto” is a Russian company operating in children’s recreation,
+    tourism and entertainment services. Children’s Health Camp “Golden Spit” is a
+    subdivision of LLC “Leto”, operating on its behalf and under its responsibility.
+    “Golden Spit” is a children’s recreation facility providing accommodation and
+    educational programmes and sports activities.

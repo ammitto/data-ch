@@ -1,0 +1,25 @@
+---
+ssid: '115745'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '115751'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Uzay Group Dis Ticaret Limited Sirketi
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Uzay Group Havacilik Ve Dis Ticaret Limited Sirketi
+    addresses:
+    - address_details: Akbati Avm A Blok D:314 No:6 Koza Mahallesi 1655, Sokak Esenyurt
+      zip_code: '34538'

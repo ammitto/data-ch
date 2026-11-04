@@ -1,0 +1,41 @@
+---
+ssid: '114453'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114462'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Sokol Asset”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Sokol Asset”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Sokol Essets”
+    day_month_year:
+      day: 11
+      month: 4
+      year: 2023
+    addresses:
+    - address_details: Serebryanicheskaya Embankment, Building 29
+      zip_code: '109028'
+  justification: Joint Stock Company “Sokol Asset” is a Russian company which owns
+    JSC VNIIR-Progress. JSC VNIIR-Progress is a Russian research and development institute
+    that specialises in the production of advanced electronic warfare systems, in
+    particular technologies for signal-jamming and intelligence-gathering. It is part
+    of the “ABS Electro” Group of companies.

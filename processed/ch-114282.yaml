@@ -1,0 +1,30 @@
+---
+ssid: '114282'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114292'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Bank Avangard
+    day_month_year:
+      day: 9
+      month: 6
+      year: 1994
+    addresses:
+    - address_details: 12 Sadovnicheskaya St., Bldg. 1
+      zip_code: '115035'
+  justification: "PJSC Bank Avangard is a Moscow based major universal bank ranked
+    among \nmost profitable Russian banks. The bank signed an agreement with the \nCentral
+    Bank of Russia to participate in the pilot project for the digital \nrouble. The
+    banking sector is a sector providing substantial revenue to the \nGovernment of
+    the Russian Federation. Therefore, PJSC Bank Avangard is \ninvolved in an economic
+    sector providing a substantial source of revenue to \nthe Government of the Russian
+    Federation, which is responsible for the \nannexation of Crimea and the destabilisation
+    of Ukraine."

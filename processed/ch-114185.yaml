@@ -1,0 +1,36 @@
+---
+ssid: '114185'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114195'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Commercial Bank “National Reserve Bank” (JSC)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSCB “NRBank”
+    day_month_year:
+      day: 26
+      month: 11
+      year: 1992
+    addresses:
+    - address_details: 10A, 60-letiya Oktyabrya Avenue
+      zip_code: '117292'
+  justification: "Joint Stock Commercial Bank “National Reserve Bank” (JSC) is among
+    the \ntop 30 Russian banks by assets. The banking sector is a sector providing
+    \nsubstantial revenue to the Government of the Russian Federation. Therefore,
+    \nJoint Stock Commercial Bank “National Reserve Bank” (JSC) is involved in an
+    \neconomic sector providing a substantial source of revenue to the \nGovernment
+    of the Russian Federation, which is responsible for the \nannexation of Crimea
+    and the destabilisation of Ukraine."

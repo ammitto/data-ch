@@ -1,0 +1,37 @@
+---
+ssid: '114147'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114156'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: PJSC Russian Public Joint-Stock Commercial Roads Bank
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC RosDorBank
+    day_month_year:
+      day: 25
+      month: 9
+      year: 1991
+    addresses:
+    - address_details: Dubininskaya Ulitsa, 86
+      zip_code: '115093'
+  justification: "PJSC Russian Public Joint-Stock Commercial Roads Bank is a specialised,
+    \nindustry-focused bank. It is active in the pilot project for operations with
+    real \ndigital roubles launched by the Central Bank of Russia. The banking sector
+    is \na sector providing substantial revenue to the Government of the Russian \nFederation.
+    Therefore, PJSC Russian Public Joint-Stock Commercial Roads \nBank is involved
+    in an economic sector providing a substantial source of \nrevenue to the Government
+    of the Russian Federation, which is responsible \nfor the annexation of Crimea
+    and the destabilisation of Ukraine."

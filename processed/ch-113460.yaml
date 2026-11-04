@@ -1,0 +1,35 @@
+---
+ssid: '113460'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '113470'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “LOCKO-Bank”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LOKO
+    day_month_year:
+      day: 21
+      month: 2
+      year: 1994
+    addresses:
+    - address_details: 39 bldg. 80, Leningradsky Avenue
+      zip_code: '125167'
+  justification: JSC “LOCKO-Bank” is a Russian bank that ranks among the top 40 by
+    assets. The banking sector is a sector providing substantial revenue to the Government
+    of the RussianFederation. Therefore, JSC “LOCKO-Bank” is involved in an economic
+    sector providing a substantial source of revenue to the Government of the Russian
+    Federation, which is responsible for the annexation of Crimea and the destabilisation
+    of Ukraine.

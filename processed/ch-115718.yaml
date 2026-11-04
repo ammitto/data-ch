@@ -1,0 +1,24 @@
+---
+ssid: '115718'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '115722'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: KBR Tekhnologii TOO
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: KBR Technologies LLP
+    addresses:
+    - address_details: Ul. G. Musrepova Str. 34B

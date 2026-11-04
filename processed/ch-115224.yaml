@@ -1,0 +1,31 @@
+---
+ssid: '115224'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115227'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC FINAM Bank
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC FINAM Investment Bank
+    addresses:
+    - address_details: 7 Nastasiinsky Lane, Building 2
+      zip_code: '127006'
+  justification: JSC FINAM Bank is a Moscow-based Russian commercial bank that is
+    a part the FINAM Holding, one of Russia’s largest investment groups. The banking
+    sector is a sector providing substantial revenue to the Government of the Russian
+    Federation. Therefore, JSC FINAM Bank is involved in an economic sector providing
+    a substantial source of revenue to the Government of the Russian Federation, which
+    is responsible for the annexation of Crimea and the destabilisation of Ukraine.

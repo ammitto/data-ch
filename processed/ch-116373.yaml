@@ -1,0 +1,54 @@
+---
+ssid: '116373'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116381'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Oil Refinery ‘North Kuzbass’”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Oil Refinery ‘North Kuzbass’”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Northern Kusbass Oil Refinery”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Severny Kuzbass Oil Refinery LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Oil Refinery ‘Northern Kuzbass’”
+    day_month_year:
+      day: 25
+      month: 2
+      year: 2004
+    addresses:
+    - address_details: Yaisk Oil Refinery Industrial Site District
+      zip_code: '652104'
+  justification: Limited Liability Company “Oil Refinery ‘North Kuzbass’” is a Russian
+    company involved in the production of petroleum products and operates on the Yaya
+    oil refining site in the Kemerovo Oblast. Its ultimate co-owner controls JSC Neftechemservis,
+    a Russian company which owns and operates the Yaya oil refinery.

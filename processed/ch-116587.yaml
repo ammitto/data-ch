@@ -1,0 +1,27 @@
+---
+ssid: '116587'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116590'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Megion Drilling Operations Department
+    addresses:
+    - address_details: V.A. Abazarov St., bldg. 7
+      zip_code: '628680'
+  justification: LLC Megion Drilling Operations Department is a company active in
+    the Russian energy sector. As part of Slavneft, an important Russian oil and gas
+    company, LLC Megion Drilling Operations Department engages in oil extraction,
+    transport and production, exploiting in particular oir fields in Western Siberia.
+    The energy sector, especially the oil and gas sectors, provides substantial revenues
+    to the Government of the Russian Federation. Therefore, LLC Megion Drilling Operations
+    Department is involved in an economic sector providing a substantial source of
+    revenue to the Government of the Russian Federation, which is responsible for
+    the annexation of Crimea and the destabilisation of Ukraine.

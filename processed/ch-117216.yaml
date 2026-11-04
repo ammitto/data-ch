@@ -1,0 +1,30 @@
+---
+ssid: '117216'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '117223'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Sladkevich
+      - order: 2
+        name_part_type: given-name
+        value: Oleg
+      - order: 3
+        name_part_type: father-name
+        value: Ivanovich
+    day_month_year:
+      day: 22
+      month: 10
+      year: 1970
+  justification: Oleg Sladkevich is a director of School No. 42 in Horlivka, in the
+    so-called “Donetsk People’s Republic”, Ukraine. Oleg Sladkevich is also a deputy
+    leader of the “United Russia” party in the Horlivka City Council in the so-called
+    “Donetsk People’s Republic”. Oleg Sladkevich participated in Russia’s so-called
+    “special military operation” in 2022.

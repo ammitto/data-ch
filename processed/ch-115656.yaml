@@ -1,0 +1,18 @@
+---
+ssid: '115656'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '115661'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Interlink Freight Agency LLC
+    addresses:
+    - address_details: Office CMT1070, Cargo Village, Cargo Mega Terminal, Dubai International
+        Airport

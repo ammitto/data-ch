@@ -1,0 +1,35 @@
+---
+ssid: '115028'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115037'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Investtorgbank
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Investtradebank
+    day_month_year:
+      day: 28
+      month: 3
+      year: 1994
+    addresses:
+    - address_details: 45 Dubininskaya St
+      zip_code: '115054'
+  justification: JSC Investtorgbank is a Russian commercial bank headquarted in Moscow.
+    The bank is a part of the TKB (Transkapitalbank) Banking Group. The banking sector
+    is a sector providing substantial revenue to the Government of the Russian Federation.
+    Therefore, JSC Investtorgbank is involved in an economic sector providing a substantial
+    source of revenue to the Government of the Russian Federation, which is responsible
+    for the annexation of Crimea and the destabilisation of Ukraine.

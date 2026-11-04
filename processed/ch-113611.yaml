@@ -1,0 +1,19 @@
+---
+ssid: '113611'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '113614'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Alfatrex Dis Ticaret Limited Sirketi
+    addresses:
+    - address_details: 'Ataköy 7. 8. 9. 10. Kısım Mahallesi, Çobançeşme E5 Yanyol
+        Caddesi, No:22/1, Nef22 A Blok, Daire No: 227'
+      zip_code: '34158'

@@ -1,0 +1,29 @@
+---
+ssid: '115094'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115102'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Moskommertsbank
+    day_month_year:
+      day: 11
+      month: 4
+      year: 2001
+    addresses:
+    - address_details: 20, Malaya Ordynka Str., Bldg. 1
+      zip_code: '119017'
+  justification: JSC Moskommertsbank is a Moscow-based commercial bank. The bank signed
+    an agreement with the Central Bank of Russia to participate in the pilot project
+    for the digital rouble. The banking sector is a sector providing substantial revenue
+    to the Government of the Russian Federation. Therefore, JSC Moskommertsbank is
+    involved in an economic sector providing a substantial source of revenue to the
+    Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

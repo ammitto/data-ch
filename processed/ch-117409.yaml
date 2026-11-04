@@ -1,0 +1,32 @@
+---
+ssid: '117409'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '117421'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Art-Quest”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Children’s camp “Art-Quest”
+    day_month_year:
+      day: 16
+      month: 3
+      year: 2011
+    addresses:
+    - address_details: Morskaya street, 11
+      zip_code: '296500'
+  justification: LLC “Art-Quest” is a children’s camp in occupied Crimea, Ukraine.
+    It is officially registered as an organisation responsible for children’s recreation
+    and health improvement.

@@ -1,0 +1,18 @@
+---
+ssid: '113532'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '113534'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC NTK
+    addresses:
+    - address_details: Room 3, Building 1, Lenin Avenue 21
+      zip_code: '428003'

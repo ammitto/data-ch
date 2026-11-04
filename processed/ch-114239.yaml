@@ -1,0 +1,31 @@
+---
+ssid: '114239'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114241'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: JSC Ingo Bank
+    day_month_year:
+      day: 23
+      month: 4
+      year: 1993
+    addresses:
+    - address_details: Sushchevskaya street, 27, bld. 1
+      zip_code: '127030'
+  justification: "JSC Ingo Bank is a Moscow based Russian commercial bank. It is \na
+    subsidiary of the Authoritale Group, one of Russia’s largest car dealership \nnetworks,
+    and a partner of the GAZ Group. The bank is active in the pilot \nproject for
+    operations with real digital roubles launched by the Central Bank \nof Russia.
+    The banking sector is a sector providing substantial revenue to the \nGovernment
+    of the RussianFederation. Therefore, JSC Ingo Bank is involved \nin an economic
+    sector providing a substantial source of revenue to the \nGovernment of the Russian
+    Federation, which is responsible for the \nannexation of Crimea and the destabilisation
+    of Ukraine."

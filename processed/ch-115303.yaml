@@ -1,0 +1,31 @@
+---
+ssid: '115303'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115306'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Sibsotsbank
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Regional Commercial Siberian Social Bank
+    addresses:
+    - address_details: 61A Prospekt Lenina
+      zip_code: '656049'
+  justification: LLC Sibsotsbank is a state-controlled regional commercial bank headquartered
+    in Altai Krai region of the Russian Federation. The banking sector is a sector
+    providing substantial revenue to the Government of the Russian Federation. Therefore,
+    LLC Sibsotsbank is involved in an economic sector providing a substantial source
+    of revenue to the Government of the Russian Federation, which is responsible for
+    the annexation of Crimea and the destabilisation of Ukraine.

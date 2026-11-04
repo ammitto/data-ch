@@ -1,0 +1,28 @@
+---
+ssid: '113271'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '113282'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint Stock Company “SDM-Bank”
+    day_month_year:
+      day: 29
+      month: 11
+      year: 1991
+    addresses:
+    - address_details: 73 Volokolamskoye Shosse
+      zip_code: '125424'
+  justification: Public Joint Stock Company “SDM-Bank” is a Russian commercial bank,
+    focusing primarily on small and medium-sized enterprises. The banking sector is
+    a sector providing substantial revenue to the Government of the Russian Federation.
+    Therefore, Public Joint Stock Company “SDM-Bank” is involved in an economic sector
+    providing a substantial source of revenue to the Government of the Russian Federation,
+    which is responsible for the annexation of Crimea and the destabilisation of Ukraine.

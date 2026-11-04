@@ -1,0 +1,28 @@
+---
+ssid: '116257'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116262'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: P.G. Korobkov IZ-KARTEX LLC
+    day_month_year:
+      day: 7
+      month: 12
+      year: 2004
+    addresses:
+    - address_details: Izhora Plant ter., b. 40 c. 2
+      zip_code: '196650'
+    - address_details: Ulitsa Brat’yev Radchenko
+      zip_code: '196653'
+  justification: P.G. Korobkov IZ-KARTEX LLC (and its branch, “IZ-KARTEX named after
+    P.G. Korobkov – Foundry Production LLC”) is Russia’s largest manufacturer of equipment
+    for the mining and metallurgy industries. These sectors provide substantial sources
+    of revenue to the Government of the Russian Federation.

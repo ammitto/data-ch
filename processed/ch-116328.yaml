@@ -1,0 +1,34 @@
+---
+ssid: '116328'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116337'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Neftechemservis”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Neftekhimservis
+    day_month_year:
+      day: 13
+      month: 3
+      year: 2008
+    addresses:
+    - address_details: Pioneer Avenue (Central R-N), 58, premises. 133
+      zip_code: '654080'
+  justification: Joint Stock Company “Neftechemservis” is a Russian company involved
+    in the production of petroleum products. It owns and operates the Yaya oil refinery
+    in the Kemerovo Oblast. The energy sector, in particular the oil sector, is a
+    sector providing a substantial source of revenue to the Government of the Russian
+    Federation.

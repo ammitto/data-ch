@@ -1,0 +1,30 @@
+---
+ssid: '113501'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '113510'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Bank “Avers”
+    day_month_year:
+      day: 25
+      month: 9
+      year: 1990
+    addresses:
+    - address_details: 3 Musa Jalilya St
+      zip_code: '420111'
+  justification: JSC Bank “Avers” is a strategically important large regional bank
+    headquartered in Kazan, Republic of Tatarstan, Russian Federation. It serves as
+    a key financial hub for the TAIF Group, one of Russia’s largest industrial and
+    petrochemical conglomerates. The banking sector is a sector providing substantial
+    revenue to the Government of the Russian Federation. Therefore, JSC Bank “Avers”
+    is involved in an economic sector providing a substantial source of revenue to
+    the Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

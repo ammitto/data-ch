@@ -1,0 +1,18 @@
+---
+ssid: '113575'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '113581'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC KB LIS
+    addresses:
+    - address_details: Office 511, 17 Vsevolozhsky Avenue
+      zip_code: '188640'

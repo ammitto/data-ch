@@ -1,0 +1,15 @@
+---
+ssid: '114021'
+sanctions_set_id: '51027'
+entity:
+  identity:
+    ssid: '114022'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint Stock Company YUG-Invest Bank

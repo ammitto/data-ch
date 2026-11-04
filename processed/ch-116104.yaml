@@ -1,0 +1,40 @@
+---
+ssid: '116104'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116113'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “IRZ”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint-Stock Company “Izhevsk Radio Plant”
+    day_month_year:
+      day: 19
+      month: 8
+      year: 2002
+    addresses:
+    - address_details: ul. Bazisnaya, zd. 19
+      zip_code: '426034'
+  justification: JSC “IRZ” is a Russian holding company, who owns LLC “Irz-Svyaz”,
+    which is a manufacturer of communication systems that perform the function of
+    switching, mostly for navigation receivers and has licenses for production and
+    repair of weapons and military equipment. As a subsidiary of JSC “IRZ”, LLC “Irz-Svyaz”
+    supplies components to the military-industrial complex of the Russian Federation,
+    as its manufactured products are used in UAVs “Orlan-10” and “Tachion”, used by
+    Russian armed forces in Ukraine. Moreover, LLC “Irz-Svyaz” is one of systemically
+    important enterprises in Russia, in the field of manufacturing navigation receivers
+    for GPS and GLONASS, which is a Russian satellite navigation system designed for
+    operational navigation and time support for an unlimited number of land, sea,
+    air and space-based users.

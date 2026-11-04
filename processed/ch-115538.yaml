@@ -1,0 +1,19 @@
+---
+ssid: '115538'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '115544'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Coskunoz Alabuga LLC
+    addresses:
+    - address_details: Building 4/2, Sh-2 Str. (Alabuga Special Economic Zone), Yelabuga
+        City
+      zip_code: '423601'

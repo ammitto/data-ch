@@ -1,0 +1,25 @@
+---
+ssid: '115480'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '115485'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Elekond
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Elecond
+    addresses:
+    - address_details: Kalinina Str. 3
+      zip_code: '427968'

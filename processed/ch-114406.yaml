@@ -1,0 +1,57 @@
+---
+ssid: '114406'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114416'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Asset Automation”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Asset Automation”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Scientific and Production Enterprise ‘ABS Electro’”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “NPP ‘ABS Electro’”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: "“ABS Electro Group”"
+    day_month_year:
+      day: 27
+      month: 4
+      year: 2012
+    addresses:
+    - address_details: 2nd Peter Alekseev lane, building 2, structure 1
+      zip_code: '121471'
+    - address_details: Serebryanichaya Embankment, 29
+      zip_code: '109028'
+  justification: Limited Liability Company “Asset Automation” is a Russian company
+    which is part of the ABS Electro group of companies and which is involved in developing
+    and manufacturing electronic and radio-electronic components. In particular, Limited
+    Liability Company “Asset Automation” holds the trademark under which the ABS Electro
+    group of companies operates.

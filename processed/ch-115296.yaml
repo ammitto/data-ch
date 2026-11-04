@@ -1,0 +1,24 @@
+---
+ssid: '115296'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115300'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Almazergienbank
+    addresses:
+    - address_details: 1 Prospekt Lenina
+      zip_code: '677000'
+  justification: JSC Almazergienbank is the leading regional bank in the Republic
+    of Sakha (Yakutia) of the Russian Federation. The banking sector is a sector providing
+    substantial revenue to the Government of the Russian Federation. Therefore, JSC
+    Almazergienbank is involved in an economic sector providing a substantial source
+    of revenue to the Government of the Russian Federation, which is responsible for
+    the annexation of Crimea and the destabilisation of Ukraine.

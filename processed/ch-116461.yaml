@@ -1,0 +1,37 @@
+---
+ssid: '116461'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116464'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Industrial Company YUMEX
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company IC YUMEX
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PROMYSHLENNAYA KOMPANIYA YUMEKS
+    addresses:
+    - address_details: 100 Dostoyevsky Street, Office 10/3
+      zip_code: '450077'
+  justification: LLC Industrial Company YUMEX specialises in wholesale of chemical
+    products. It supplies chemical materials to JSC IEMZ Kupol. It specifically supplies
+    raw chemical components used in the production of the solid rocket booster used
+    to launch the Garpiya-A1 one-way attack UAVs. These UAVs are used by the Russian
+    Armed Forces during Russia’s war of aggression against Ukraine.

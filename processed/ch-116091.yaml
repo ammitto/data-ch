@@ -1,0 +1,37 @@
+---
+ssid: '116091'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116099'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: GV Gold
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Vysochaishy
+    day_month_year:
+      day: 19
+      month: 11
+      year: 2002
+    addresses:
+    - address_details: Berezovaya st 17
+    - address_details: Uritskogo st 97
+  justification: GV Gold is a Russian gold mining company, which is ranked among the
+    top 10 gold mining companies in the Russian Federation. It operates multiple goldmines
+    in Russia. The export of precious metals is one of the most significant sources
+    of revenue to the Government of the Russian Federation. As of 2025, Russia is
+    the second largest gold producing country in the world. Therefore, GV Gold is
+    involved in economic sector providing a substantial source of revenue to the Government
+    of the Russian Federation, which is responsible for the annexation of Crimea and
+    the destabilisation of Ukraine.

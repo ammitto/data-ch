@@ -1,0 +1,30 @@
+---
+ssid: '116009'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116019'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Red October Corporation”
+    day_month_year:
+      day: 8
+      month: 6
+      year: 2020
+    addresses:
+    - address_details: Lenin Avenue, 110, Room 4.20
+      zip_code: '400007'
+  justification: Joint Stock Company “Red October Corporation” is one of Russia’s
+    largest producers of specialty steel, accounting for 40 % of the country’s total
+    stainless steel production. The company controls up to two-thirds of Russian production
+    of special steels and alloys used in weapons systems, including armor steel. Joint
+    Stock Company “Red October Corporation” holds licences from the Ministry of Industry
+    and Trade of the Russian Federation authorising the development, production, testing,
+    maintenance and sale of weapons, military equipment and ammunition, as well as
+    the development, production, testing and repair of aviation equipment.

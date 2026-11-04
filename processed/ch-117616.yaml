@@ -1,0 +1,44 @@
+---
+ssid: '117616'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '117622'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: The Centre for the Study of the Youth Environment and Monitoring of
+          Networks
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: CISM
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Центр изучения и сетевого мониторинга молодежной среды
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Центр изучения молодежной среды
+    addresses:
+    - address_details: Building 2, Room 204, Bolshoy Trekhsvyatitelsky Lane
+      zip_code: '109028'
+  justification: The Centre for the Study of the Youth Environment and Monitoring
+    of Networks (CISM) is a Russian state institution established by the Government
+    of the Russian Federation and operating under the Federal Agency for Youth Affairs
+    (Rosmolodezh).

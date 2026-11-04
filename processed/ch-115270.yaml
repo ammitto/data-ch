@@ -1,0 +1,26 @@
+---
+ssid: '115270'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115273'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Commercial Bank “Forshtadt”
+    addresses:
+    - address_details: 35/1 Chkalova St.
+      zip_code: '460058'
+  justification: JSC Commercial Bank “Forshtadt” is a regional commercial bank headquartered
+    in Orenburg region of the Russian Federation. The bank signed an agreement with
+    the Central Bank of Russia to participate in the pilot project for the digital
+    rouble. The banking sector is a sector providing substantial revenue to the Government
+    of the Russian Federation. Therefore, JSC Commercial Bank “Forshtadt” is involved
+    in an economic sector providing a substantial source of revenue to the Government
+    of the Russian Federation, which is responsible for the annexation of Crimea and
+    the destabilisation of Ukraine.

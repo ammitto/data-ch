@@ -1,0 +1,40 @@
+---
+ssid: '117296'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '117302'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Kutkovsky
+      - order: 2
+        name_part_type: given-name
+        value: Renard
+      - order: 3
+        name_part_type: father-name
+        value: Vladimirovich
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Renard KUTKOWSKI
+    day_month_year:
+      day: 1
+      month: 5
+      year: 1983
+  justification: Renard Kutkovsky is the Deputy Head of the Administration of the
+    City of Yalta in the so-called “Republic of Crimea”, Ukraine, overseeing education,
+    culture, and youth policy. Previously, Renard Kutkovsky was the Head of the Department
+    of Education and Youth Policy, helping to shape local education governance. In
+    his official capacity within the occupation administration, Renard Kutkovsky promotes
+    Russian state-sponsored patriotic events portraying Russia’s actions as legitimate
+    and endorses narratives aligned with Russian state policy. Renard Kutkovsky implements
+    decisions adopted under Russian federal and regional frameworks.

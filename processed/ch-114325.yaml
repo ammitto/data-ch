@@ -1,0 +1,29 @@
+---
+ssid: '114325'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114334'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Bank “National Standard”
+    day_month_year:
+      day: 2
+      month: 10
+      year: 2002
+    addresses:
+    - address_details: Partiynyy Lane, 1, building 57, structures 2, 3
+      zip_code: '115093'
+  justification: "JSC Bank “National Standard” is a Russian bank focused on small-to-medium
+    \nenterprises and private client services. It is included in the list of most
+    \nreliable Russian banks. The banking sector is a sector providing substantial
+    \nrevenue to the Government of the Russian Federation. Therefore, JSC Bank \n“National
+    Standard” is involved in an economic sector providing \na substantial source of
+    revenue to the Government of the Russian \nFederation, which is responsible for
+    the annexation of Crimea and the \ndestabilisation of Ukraine."

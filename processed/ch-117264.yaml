@@ -1,0 +1,29 @@
+---
+ssid: '117264'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '117268'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Kravchenko
+      - order: 2
+        name_part_type: given-name
+        value: Irina
+      - order: 3
+        name_part_type: father-name
+        value: Viktorivna
+    day_month_year:
+      day: 18
+      month: 5
+      year: 1979
+  justification: Irina Kravchenko is the Commissioner for Children’s Rights in the
+    occupied Kherson region. In that capacity, Irina Kravchenko is supporting and
+    implementing Russian policies concerning the transfer, assimilation and ideological
+    re-education of Ukrainian children from occupied territories.

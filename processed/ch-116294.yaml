@@ -1,0 +1,38 @@
+---
+ssid: '116294'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116303'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Aquamarine Ship Management”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: a.k.a. LLC “Aquamarine Ship Management”
+    day_month_year:
+      day: 17
+      month: 1
+      year: 2002
+    addresses:
+    - address_details: Lenin Ave., 95g, room. 9
+      zip_code: '353924'
+  justification: Limited Liability Company “Aquamarine Ship Management” is a Russian
+    recruitment agency specialised in the recruitment of seafarers, in particular
+    for oil tankers. It has recruited seafarers for the operation of vessels involved
+    in dangerous practices while transporting Russian oil, such as not maintaining
+    adequate liability insurance, carrying out unsafe operations, intentionally taking
+    measures to avoid ship detection such as switching off their Automatic Identification
+    Systems or not operating under a transparent corporate governance policy that
+    assures the welfare and safety of those on board and the protection of the marine
+    environment.

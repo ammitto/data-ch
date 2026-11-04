@@ -1,0 +1,24 @@
+---
+ssid: '116267'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116275'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Seligdar PSJC
+    addresses:
+    - address_details: 12 Piket-26 ulitsa
+      zip_code: '678900'
+    - address_details: Park Pobedy business centre, 1 Vasilisa Kozhina ulitsa
+      zip_code: '121096'
+  justification: Seligdar PJSC is a Russian gold mining company operating in the Russian
+    gold sector, which is a sector that provides substantial revenue. Therefore, Seligdar
+    PJSC is involved in an economic sector providing a substantial source of revenue
+    to the Government of the Russian Federation.

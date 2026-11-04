@@ -1,0 +1,30 @@
+---
+ssid: '114634'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '114640'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Zharov
+      - order: 2
+        name_part_type: given-name
+        value: Alexander
+      - order: 3
+        name_part_type: father-name
+        value: Alexandrovich
+    day_month_year:
+      day: 11
+      month: 8
+      year: 1964
+  justification: Alexander Zharov is the CEO of Gazprom-Media Holding, a state-controlled
+    media conglomerate in Russia, which acts as a primary tool for Kremlin war propaganda
+    and information operations. Under his leadership, Gazprom-Media Holding has become
+    a primary vehicle for the Kremlin’s “ideological task” of shaping public perception
+    regarding Russia’s war of aggression against Ukraine.

@@ -1,0 +1,31 @@
+---
+ssid: '113969'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '113972'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Manikin
+      - order: 2
+        name_part_type: given-name
+        value: Aleksei
+      - order: 3
+        name_part_type: father-name
+        value: Yuryevich
+    day_month_year:
+      day: 12
+      month: 7
+      year: 1986
+  justification: Aleksei Manikin is the beneficial owner and co-owner of “Beget” LLC
+    and is one of those who decide company business strategy. Since 2014, “Beget”
+    LLC has knowingly provided services to Russian backed illegal authorities, militarised
+    organisations and propagandist projects in illegally annexed Crimea, Donetsk and
+    Luhansk, as well as to a significant number of Russian defence companies relevant
+    for Russia’s efforts in continuing the war of aggression against Ukraine.

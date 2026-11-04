@@ -1,0 +1,60 @@
+---
+ssid: '117447'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '117461'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Children’s camp “Sunny Beach”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: State Budgetary General Educational Institution of the Republic of
+          Dagestan “Republican Centre of Education ‘Sunny Beach’”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Children’s Centre “Sunny Beach”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ДОЛ “Солнечный берег”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ГБОУ РД “РЦО ‘Солнечный берег’”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Детский центр “Солнечный берег”
+    day_month_year:
+      day: 27
+      month: 12
+      year: 2002
+    addresses:
+    - address_details: Poberezhnaya street, 2
+      zip_code: '368537'
+  justification: Children’s camp “Sunny Beach” is a state educational and recreational
+    camp for children aged 7–15, combining recreation, schooling and cultural activities.

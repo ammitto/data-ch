@@ -1,0 +1,30 @@
+---
+ssid: '114381'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '114386'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Kharisova
+      - order: 2
+        name_part_type: given-name
+        value: Irina
+      - order: 3
+        name_part_type: father-name
+        value: Vladimirovna
+    day_month_year:
+      day: 20
+      month: 1
+      year: 1980
+  justification: Irina Kharisova is the Chairman of the Board of Directors of the
+    ABS Electro group of companies, and the Director of several companies of that
+    group. Companies of the ABS Electro group are involved in developing and manufacturing
+    electronic and radio-electronic components. The information and communication
+    technology sector is considered strategic in terms of economic growth.

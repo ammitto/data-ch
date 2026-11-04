@@ -1,0 +1,31 @@
+---
+ssid: '115121'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115130'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Togliattikhimbank
+    day_month_year:
+      day: 21
+      month: 9
+      year: 1993
+    addresses:
+    - address_details: 96 Maksima Gorkogo St
+      zip_code: '445009'
+  justification: JSC Togliattikhimbank is a regional commercial bank headquartered
+    in Samara region of the Russian Federation. The bank is owned by TogliattiAzot
+    (TOAZ), one of the world’s largest producers of ammonia. TogliattiAzot (TOAZ)
+    is a part of Uralchem Group controlled by Dmitry Mazepin, an individual listed
+    by the Union. The banking sector is a sector providing substantial revenue to
+    the Government of the Russian Federation. Therefore, JSC Togliattikhimbank is
+    involved in an economic sector providing a substantial source of revenue to the
+    Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

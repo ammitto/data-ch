@@ -1,0 +1,39 @@
+---
+ssid: '117557'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '117571'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Sanatorium “Vita”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Children’s Sanatorium “Vita”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: "“Vita” Children’s Resort"
+    day_month_year:
+      day: 19
+      month: 9
+      year: 2005
+    addresses:
+    - address_details: Divny passage, 19C1
+      zip_code: '353456'
+  justification: LLC Sanatorium “Vita” (Camp “Vita”) is a children’s recreation resort.
+    It hosts 21-day summer sessions for children aged 6–15, combining recreation,
+    education and leadership development.

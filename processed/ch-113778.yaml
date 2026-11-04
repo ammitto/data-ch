@@ -1,0 +1,24 @@
+---
+ssid: '113778'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '113782'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Bashirov
+      - order: 2
+        name_part_type: given-name
+        value: Rishat
+      - order: 3
+        name_part_type: father-name
+        value: Ilfatovich
+  justification: Rishat Bashirov is the director and owner of LLC AUTOLIFE LOGISTIK.
+    LLC AUTOLIFE LOGISTIK is part of the Russian arms industry, a sector of strategic
+    importance for the Russian Federation.

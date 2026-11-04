@@ -1,0 +1,30 @@
+---
+ssid: '116572'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116576'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Uralmash NGO Holding LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Uralmash Oil and Gas Equipment Holding LLC
+    addresses:
+    - address_details: 60-letiya Oktyabrya pr. 21/4
+      zip_code: '117292'
+  justification: Uralmash NGO Holding LLC is a Russian company producing oil and gas
+    equipment. The company is in particular specialised in manufacturing drilling
+    rigs for oil production and exploration. The energy sector, especially oil and
+    gas, provide a substantial source of revenue to the Government of the Russian
+    Federation.

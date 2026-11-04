@@ -1,0 +1,24 @@
+---
+ssid: '113769'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '113773'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Fakhrutdinov
+      - order: 2
+        name_part_type: given-name
+        value: Insaf
+      - order: 3
+        name_part_type: father-name
+        value: Dulfnurovich
+  justification: Insaf Fakhrutdinov is the General Director and owner of LLC LK AUTOLIFE.
+    LLC LK AUTOLIFE is part of the Russian arms industry, a sector of strategic importance
+    for the Russian Federation.

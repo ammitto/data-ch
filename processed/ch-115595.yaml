@@ -1,0 +1,29 @@
+---
+ssid: '115595'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115607'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint Stock Company “MTS-Bank”
+    day_month_year:
+      day: 29
+      month: 1
+      year: 1993
+    addresses:
+    - address_details: Andropov Avenue, 18 k. 1
+      zip_code: '115432'
+  justification: Public Joint Stock Company “MTS-Bank” is a major Russian universal
+    commercial bank. It carries out banking operations as well as depositary, dealership
+    and brokerage activities. The banking sector is a sector providing substantial
+    revenue to the Government of the RussianFederation. Therefore, Public Joint Stock
+    Company “MTS-Bank” is involved in an economic sector providing a substantial source
+    of revenue to the Government of the Russian Federation, which is responsible for
+    the annexation of Crimea and the destabilisation of Ukraine.

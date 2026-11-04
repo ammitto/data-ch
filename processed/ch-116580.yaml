@@ -1,0 +1,33 @@
+---
+ssid: '116580'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116583'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Baikit Oil and Gas Exploration Expedition LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Bngre”
+    addresses:
+    - address_details: Vesny St., 3a
+      zip_code: '660135'
+  justification: Baikit Oil and Gas Exploration Expedition LLC is a company active
+    in the Russian energy sector. Baikit Oil and Gas Exploration Expedition LLC is
+    part of Slavneft and engages in oil extraction, transport and production in the
+    Krasnoyarsk region. The energy sector, especially the oil and gas sectors, provides
+    a substantial source of revenue to the Government of the Russian Federation. Therefore,
+    Baikit Oil and Gas Exploration Expedition LLC is involved in an economic sector
+    providing a substantial source of revenue to the Government of the Russian Federation,
+    which is responsible for the annexation of Crimea and the destabilisation of Ukraine.

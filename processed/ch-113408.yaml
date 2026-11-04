@@ -1,0 +1,38 @@
+---
+ssid: '113408'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '113417'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Russian Bank for Small and Medium Enterprises Support
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC SME Bank
+    day_month_year:
+      day: 7
+      month: 7
+      year: 1999
+    addresses:
+    - address_details: 79 Sadovnicheskaya Street
+      zip_code: '115035'
+  justification: JSC Russian Bank for Small and Medium Enterprises Support is a specialised
+    Russian state owned bank focused on supporting small and medium-sized enterprises.
+    The bank is active in state-backed SME financing tools, promoted by the President
+    of the Russian Federation Vladimir Putin. The banking sector is a sector providing
+    substantial revenue to the Government of the Russian Federation. Therefore, JSC
+    Russian Bank for Small and Medium Enterprises Support is involved in an economic
+    sector providing a substantial source of revenue to the Government of the Russian
+    Federation, which is responsible for the annexation of Crimea and the destabilisation
+    of Ukraine.

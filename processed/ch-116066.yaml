@@ -1,0 +1,37 @@
+---
+ssid: '116066'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116075'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Wildberries Bank LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: WB Bank
+    day_month_year:
+      day: 22
+      month: 10
+      year: 2002
+    addresses:
+    - address_details: Bolshaya Ordynka, 40, building 4
+      zip_code: '119017'
+  justification: Wildberries Bank LLC is a Russian bank. It has a range of licences,
+    including for accepting deposit and brokering. The bank is active in state-backed
+    SME financing tools, promoted by the President of the Russian Federation Vladimir
+    Putin. The banking sector is a sector providing substantial revenue to the Government
+    of the Russian Federation. Therefore, Wildberries Bank LLC is involved in an economic
+    sector providing a substantial source of revenue to the Government of the Russian
+    Federation, which is responsible for the annexation of Crimea and the destabilisation
+    of Ukraine.

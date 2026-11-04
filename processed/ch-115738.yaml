@@ -1,0 +1,19 @@
+---
+ssid: '115738'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '115741'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Suvari Global Endustriyel Ekipmanlar İthalat İhracat Ticaret Limited
+          Şirketi
+    addresses:
+    - address_details: Summer Park Sitesi A D13, No. 8A Oba Mahallesi, 225 Sokak
+      zip_code: '07400'

@@ -1,0 +1,42 @@
+---
+ssid: '115134'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115142'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Mobile Card”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Non-Banking financial company “Mobile card” Limited
+    day_month_year:
+      day: 30
+      month: 7
+      year: 2013
+    addresses:
+    - address_details: Room 23N, Floor 8, House 64, Letter B, Malookhtinsky Prospekt
+      zip_code: '195112'
+    - address_details: 2nd Sovetskaya Street, 27/2, Liter A
+      zip_code: '191024'
+  justification: LLC “Mobile Card” is a specialised Russian non-banking credit organisation
+    that holds an official licence from the Central Bank of the Russian Federation
+    to conduct banking operations. It is included in the list of most important credit
+    institutions on the payment services market by the Central Bank of the Russian
+    Federation. LLC “Mobile Card” signed an agreement with the Central Bank of the
+    Russian Federation to participate in the pilot project for the digital rouble.
+    The banking sector is a sector providing substantial revenue to the Government
+    of the Russian Federation. Therefore, LLC “Mobile Card” is involved in an economic
+    sector providing a substantial source of revenue to the Government of the Russian
+    Federation, which is responsible for the annexation of Crimea and the destabilisation
+    of Ukraine.

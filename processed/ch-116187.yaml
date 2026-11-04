@@ -1,0 +1,36 @@
+---
+ssid: '116187'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116199'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Finist
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: TL Technology
+    day_month_year:
+      day: 16
+      month: 11
+      year: 2016
+    addresses:
+    - address_details: Kaspiyskaya str., 22, bldg. 1, bld. 5, floor 5, pom. IX, room
+        17A, of. 76
+      zip_code: '115304'
+  justification: LLC Finist is a supplier of high-precision CNC lathes, milling centers,
+    equipment for the production of hardware products. The company supplies metal-cutting
+    CNC machines for manufacturing enterprises of the Russian Federation, including
+    enterprises of the military-industrial complex. Therefore, LLC Finist materially
+    supports Russia’s military and industrial complex, including by being involved
+    in the supply of military technology and equipment.

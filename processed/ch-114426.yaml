@@ -1,0 +1,44 @@
+---
+ssid: '114426'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114434'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Open Joint Stock Company “All-Russian Scientific Research, Design and
+          Technological Institute of Relay Construction with pilot production”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC VNIIR
+    day_month_year:
+      day: 19
+      month: 6
+      year: 1996
+    addresses:
+    - address_details: 4 I.Yakovleva Ave.
+  justification: Open Joint Stock Company “All-Russian Scientific Research, Design
+    and Technological Institute of Relay Construction with pilot production” is a
+    Russian company which is part of the ABS Electro group of companies and which
+    is involved in developing and manufacturing electronic and radio-electronic components.
+    Open Joint Stock Company “All-Russian Scientific Research, Design and Technological
+    Institute of Relay Construction with pilot production” is owned by LLC “Assets
+    Electro”, a company which shares the same management and ownership structure as
+    Limited Liability Company “Asset Automation”, the company holding the trademark
+    under which the ABS Electro group of companies operate. Along with Limited Liability
+    Company “Asset Automation”, Open Joint Stock Company “All-Russian Scientific Research,
+    Design and Technological Institute of Relay Construction with pilot production”
+    also owns shares in LLC “ABS ZEIM Automation” . ABS Electro group also includes
+    JSC VNIIR-Progress, a Russian research and development institute that produces
+    the Kometa antenna used in devices such as the Shahed and Geran unmanned aerial
+    vehicle and guided bomb kits to enhance their resistance against electronic interference.

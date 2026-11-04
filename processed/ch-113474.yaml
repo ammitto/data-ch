@@ -1,0 +1,29 @@
+---
+ssid: '113474'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '113483'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint-Stock Commercial Bank “FORA-BANK” (Joint-Stock Company)
+    day_month_year:
+      day: 27
+      month: 5
+      year: 1992
+    addresses:
+    - address_details: Zubovsky Boulevard, 25
+      zip_code: '119021'
+  justification: Joint Stock Commercial Bank “FORA-BANK” is a Moscow-based credit
+    institution which is among the top 50 Russian banks by asset size. The banking
+    sector is a sector providing substantial revenue to the Government of the Russian
+    Federation. Therefore, Joint Stock Commercial Bank “FORA-BANK” is involved in
+    an economic sector providing a substantial source of revenue to the Government
+    of the Russian Federation, which is responsible for the annexation of Crimea and
+    the destabilisation of Ukraine.

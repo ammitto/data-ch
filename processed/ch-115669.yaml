@@ -1,0 +1,25 @@
+---
+ssid: '115669'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '115671'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shisan Ltd.
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Shisan LLC
+    addresses:
+    - address_details: Gogol Str. 28, Sverdlov District
+      zip_code: '720021'

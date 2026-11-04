@@ -1,0 +1,31 @@
+---
+ssid: '113422'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '113431'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Roseximbank
+    day_month_year:
+      day: 18
+      month: 4
+      year: 1994
+    addresses:
+    - address_details: 12 Krasnopresnenskaya Embankment
+      zip_code: '123610'
+  justification: JSC Roseximbank is a state owned specialised Russian export-import
+    bank that is important to Russia’s foreign trade policy and economic infrastructure.
+    JSC Roseximbank is the specialised lender for the Russian Export Center (REC),
+    which is a subsidiary of the state corporation VEB.RF which is subject to Union
+    restrictive measures. The banking sector is a sector providing substantial revenue
+    to the Government of the Russian Federation. Therefore, JSC Roseximbank is involved
+    in an economic sector providing a substantial source of revenue to the Government
+    of the Russian Federation, which is responsible for the annexation of Crimea and
+    the destabilisation of Ukraine.

@@ -1,0 +1,39 @@
+---
+ssid: '115014'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115022'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Mir Business Bank
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC MB Bank
+    day_month_year:
+      day: 30
+      month: 1
+      year: 2002
+    addresses:
+    - address_details: 36, Prechistenka Street, Building 1
+      zip_code: '119034'
+    - address_details: 9/1 Mashkova Street
+      zip_code: '105062'
+  justification: JSC Mir Business Bank is a Moscow-based financial institution in
+    Russia, acting as the primary gateway for economic cooperation between Russia
+    and Iran. It is a wholly-owned subsidiary of Bank Melli Iran, the largest state-owned
+    bank in Iran. The banking sector is a sector providing substantial revenue to
+    the Government of the Russian Federation. Therefore, JSC Mir Business Bank is
+    involved in an economic sector providing a substantial source of revenue to the
+    Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

@@ -1,0 +1,37 @@
+---
+ssid: '113956'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '113961'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Arefiev
+      - order: 2
+        name_part_type: given-name
+        value: Ruslan
+      - order: 3
+        name_part_type: father-name
+        value: Georgievich
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: father-name
+        value: Georgievich
+    day_month_year:
+      day: 20
+      month: 3
+      year: 1974
+  justification: Ruslan Arefiev is a Russian banking executive serving as President-Chairman
+    of the Management Board of CMRBank, a financial institution active in the occupied
+    Ukrainian territories subject to Union restrictive measures, and as a member of
+    the Board of Directors of CMRBank Abkhazia. He previously held senior positions
+    at the Russian National Commercial Bank (RNCB).

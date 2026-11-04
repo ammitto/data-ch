@@ -1,0 +1,32 @@
+---
+ssid: '116036'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116046'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC “Bank ‘Saint Petersburg’”
+    day_month_year:
+      day: 3
+      month: 10
+      year: 1990
+    addresses:
+    - address_details: Malokhtinsky Ave., 64A
+      zip_code: '195112'
+  justification: PJSC “Bank ‘Saint Petersburg’” is the largest privately owned universal
+    bank in Russia. It plays an important role in the development of the Russian banking
+    system. PJSC “Bank ‘Saint Petersburg’” is included in the list of most important
+    banks on the payment services market by the Central Bank of Russia. The bank is
+    active in state-backed SME financing tools, promoted by the President of the Russian
+    Federation Vladimir Putin. The banking sector is a sector providing substantial
+    revenue to the Government of the Russian Federation. Therefore, PJSC “Bank ‘Saint
+    Petersburg’” is involved in an economic sector providing a substantial source
+    of revenue to the Government of the Russian Federation, which is responsible for
+    the annexation of Crimea and the destabilisation of Ukraine.

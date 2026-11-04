@@ -1,0 +1,31 @@
+---
+ssid: '115413'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115424'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC “AK BARS” Bank
+    day_month_year:
+      day: 29
+      month: 11
+      year: 1993
+    addresses:
+    - address_details: 1 Dekabristov Street
+      zip_code: '420066'
+  justification: PJSC “AK BARS” Bank is one of Russia’s top 20 financial institutions
+    by asset size. The bank is active in state-backed SME financing tools, promoted
+    by the President of the Russian Federation Vladimir Putin. PJSC “AK BARS” Bank
+    is included in the list of most important banks on the payment services market
+    by the Central Bank of Russia. The banking sector is a sector providing substantial
+    revenue to the Government of the Russian Federation. Therefore, PJSC “AK BARS”
+    Bank is involved in an economic sector providing a substantial source of revenue
+    to the Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

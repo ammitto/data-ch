@@ -1,0 +1,39 @@
+---
+ssid: '117596'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '117610'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC Children’s Centre “Kotlostroitel”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC DOC “Kotlostroitel”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Boiler Builder
+    day_month_year:
+      day: 13
+      month: 11
+      year: 2006
+    addresses:
+    - address_details: Oktyabrskaya street, 37a
+      zip_code: '346844'
+  justification: LLC Children’s Centre “Kotlostroitel” is a children’s camp operating
+    during the summer. It provides sports, educational, and cultural activities for
+    children.

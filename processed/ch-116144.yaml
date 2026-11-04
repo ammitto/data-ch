@@ -1,0 +1,43 @@
+---
+ssid: '116144'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116152'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: PJSC Yuzhuralzoloto Group of Companies
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Yuzhuralzoloto
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: UGC
+    day_month_year:
+      day: 19
+      month: 6
+      year: 2007
+    addresses:
+    - address_details: Central Mine
+  justification: PJSC Yuzhuralzoloto Group of Companies is one of the largest gold
+    mining companies in the Russian Federation. It operates multiple goldmines in
+    Russia. The export of precious metals is one of the most significant sources of
+    revenue to the Government of the Russian Federation. As of 2025, Russia is the
+    second largest gold producing country in the world. Therefore, PJSC Yuzhuralzoloto
+    Group of Companies is involved in economic sector providing a substantial source
+    of revenue to the Government of the Russian Federation, which is responsible for
+    the annexation of Crimea and the destabilisation of Ukraine.

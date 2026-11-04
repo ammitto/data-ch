@@ -1,0 +1,40 @@
+---
+ssid: '117391'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '117403'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: The Moscow City Tourism Committee
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Moscow Tourism Committee
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Mostourism
+    day_month_year:
+      day: 28
+      month: 9
+      year: 2018
+    addresses:
+    - address_details: Tverskaya str., 13
+      zip_code: '125032'
+  justification: The Moscow City Tourism Committee, also called Mostourism, is a municipal
+    authority responsible for tourism policy, promoting Moscow as a tourist destination,
+    and organising tourism and cultural events. Mostourism was founded by the Government
+    of Moscow.

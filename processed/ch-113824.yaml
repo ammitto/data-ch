@@ -1,0 +1,36 @@
+---
+ssid: '113824'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '113832'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Demurchiev
+      - order: 2
+        name_part_type: given-name
+        value: Roman
+      - order: 3
+        name_part_type: father-name
+        value: Geradotovich
+    day_month_year:
+      day: 30
+      month: 8
+      year: 1976
+    addresses:
+    - address_details: Kazan, st. Karbysheva, 13, sq. 39
+    - address_details: Kamyshin, st. Gorokhovskaya, territory in / h 74507
+  justification: Roman Demurchiev is a Major General of the Russian Armed Forces.
+    He has held senior command roles during Russia’s war of aggression against Ukraine,
+    including commander of the 42nd Guards Motor Rifle Division, which is part of
+    the 58th Combined Arms Army of the Southern Military District, and Deputy Commander
+    of the 20th Combined Arms Army within the Western Group of Forces of the Russian
+    Armed Forces, which is a part of the Russian Ground Forces and directly participates
+    in Russia’s war against Ukraine. He engages in torture, executions, and the desecration
+    of the bodies of Ukrainian military personnel, including prisoners of war.

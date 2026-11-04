@@ -1,0 +1,31 @@
+---
+ssid: '113340'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '113349'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Bank Tochka”
+    day_month_year:
+      day: 10
+      month: 1
+      year: 2023
+    addresses:
+    - address_details: 3rd Krutitsky per., 11, room 7N
+      zip_code: '109044'
+    - address_details: Proezd 1-I Veshnyakovskii, Building 1, Structure 8
+      zip_code: '109456'
+  justification: Limited Liability Company “Bank Tochka” is a major Russian digital
+    bank focusing on rendering banking services to small and medium-sized enterprises.
+    The banking sector is a sector providing substantial revenue to the Government
+    of the Russian Federation. Therefore, Limited Liability Company “Bank Tochka”is
+    involved in an economic sector providing a substantial source of revenue to the
+    Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

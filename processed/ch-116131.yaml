@@ -1,0 +1,29 @@
+---
+ssid: '116131'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116141'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Tatneft-Samara”
+    day_month_year:
+      day: 8
+      month: 12
+      year: 2009
+    addresses:
+    - address_details: R. Fakhretdina, str. 43
+      zip_code: '423462'
+  justification: LLC “Tatneft-Samara” is a company active in the Russian energy sector
+    and a subsidiary of PJSC TATNEFT, one of Russia’s largest oil producers. It is
+    involved in geological exploration, drilling, development and operation of oil
+    and gas fields, oil and gas treatment, and petroleum gas processing. LLC “Tatneft-Samara”
+    is expanding into new regions, increasing its resource base outside Tatarstan.
+    The energy sector, especially oil and gas sectors, provides a substantial source
+    of revenue to the Government of the Russian Federation.

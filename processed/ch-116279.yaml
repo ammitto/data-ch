@@ -1,0 +1,47 @@
+---
+ssid: '116279'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116288'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Aerodrommash”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Aerodrommash”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Airdrome Machines”
+    day_month_year:
+      day: 3
+      month: 10
+      year: 2002
+    addresses:
+    - address_details: Industrialnaya str., d. 18
+      zip_code: '173526'
+  justification: Joint Stock Company “Aerodrommash” is a Russian company specialised
+    in the production and maintenance of aircraft launching system, in particular
+    ballons and airships. It also holds a licence for the maintenance of weapons.
+    Joint Stock Company “Aerodromash” is leading a project for the development of
+    an unmanned stratospheric platform, the “Barrier-1”, under the auspices of the
+    Russian Foundation for Advanced Research. This Foundation has been established
+    under Russian law and with funding from the Russian federal budget to foster innovation
+    in the Russian military and industrial sector to the benefit of the Russian national
+    defence. The “Barrier-1” unmanned stratospheric platform will ultimately benefit
+    the Russian armed forces by providing access to Internet connection in Ukraine
+    and enabling unmanned aerial vehicle attacks.

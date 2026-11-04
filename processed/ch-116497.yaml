@@ -1,0 +1,25 @@
+---
+ssid: '116497'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116502'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Open joint stock company “Oborontest”
+    addresses:
+    - address_details: ul. 3-ya mytishchinskaya d. 16, str. 37
+      zip_code: '129626'
+  justification: Open joint stock company “Oborontest” is a Russian company active
+    in the field of technical testing, specifically of testing the resistance of technological
+    products against outer forces such as electronic interference, magnetic field
+    pulse and other influence of electromagnetic factors. It acts as a supplier to
+    the Russian ministry of defence and provides its services to several Russian military
+    aircraft manufacturers, notably to PJSC Aviation Complex Ilyushin, JSC TUPOLEV
+    and JSC SUKHOI.

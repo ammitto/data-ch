@@ -1,0 +1,44 @@
+---
+ssid: '116117'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116125'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Pavlik
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Gold Mining Company “Pavlik”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Pavlik
+    day_month_year:
+      day: 16
+      month: 10
+      year: 2002
+    addresses:
+    - address_details: Lenin st 12
+  justification: JSC Pavlik is one of the largest Russian gold mining companies in
+    the Far East, which is ranked among the top 10 gold mining companies in the Russian
+    Federation It holds a licence for prospecting, exploration, and mining of gold
+    ore at the Pavlik deposit in the Magadan Region. The export of precious metals
+    is one of the most significant sources of revenue to the Government of the Russian
+    Federation. As of 2025, Russia is the second largest gold producing country in
+    the world. Therefore, JSC Pavlik is involved in economic sector providing a substantial
+    source of revenue to the Government of the Russian Federation, which is responsible
+    for the annexation of Crimea and the destabilisation of Ukraine.

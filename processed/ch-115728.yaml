@@ -1,0 +1,18 @@
+---
+ssid: '115728'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '115735'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Falcon Toolings
+    addresses:
+    - address_details: 205-1 and 2, Kuttai Thottam, Kalapatti
+      zip_code: '641048'

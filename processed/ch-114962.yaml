@@ -1,0 +1,29 @@
+---
+ssid: '114962'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '114970'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “BCS Bank”
+    day_month_year:
+      day: 1
+      month: 6
+      year: 1989
+    addresses:
+    - address_details: Konyushkovskaya St., 31, bldg. 1
+      zip_code: '123242'
+  justification: JSC “BCS Bank” is a Russian financial institution headquartered in
+    Moscow. It is a core subsidiary of BCS Financial Group, a major Russian financial
+    conglomerate. The banking sector is a sector providing substantial revenue to
+    the Government of the Russian Federation. Therefore, JSC “BCS Bank” is involved
+    in an economic sector providing a substantial source of revenue to the Government
+    of the Russian Federation, which is responsible for the annexation of Crimea and
+    the destabilisation of Ukraine.

@@ -1,0 +1,30 @@
+---
+ssid: '116563'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116568'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC NTTs VOSTOK
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited liability company Scientific and technical centre Vostok
+    addresses:
+    - address_details: 127F/1 Engels Street, Room N/2
+      zip_code: '422981'
+  justification: LLC NTTs VOSTOKspecialises in manufacture of weapons and ammunition.
+    It supplies semi-finished electronics and other components to JSC IEMZ Kupol.
+    It specifically supplies components used in the production of warheads of the
+    Garpiya-A1 one-way attack UAVs. These UAVs are used by the Russian Armed Forces
+    during Russia’s war of aggression against Ukraine.

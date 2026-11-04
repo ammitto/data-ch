@@ -1,0 +1,29 @@
+---
+ssid: '115427'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115439'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Public Joint Stock Company “Bank Uralsib”
+    day_month_year:
+      day: 28
+      month: 1
+      year: 1993
+    addresses:
+    - address_details: St. D. Efremova 8
+      zip_code: '119048'
+  justification: PJSC “Bank Uralsib” is among the leading Russian banks. The bank
+    is active in state-backed SME financing tools, promoted by the President of the
+    Russian Federation Vladimir Putin. The banking sector is a sector providing substantial
+    revenue to the Government of the Russian Federation. Therefore, PJSC “Bank Uralsib”
+    is involved in an economic sector providing a substantial source of revenue to
+    the Government of the Russian Federation, which is responsible for the annexation
+    of Crimea and the destabilisation of Ukraine.

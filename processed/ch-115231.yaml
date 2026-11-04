@@ -1,0 +1,26 @@
+---
+ssid: '115231'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '115233'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Koshelev-Bank
+    addresses:
+    - address_details: 14 Mayakovskogo St
+      zip_code: '443100'
+  justification: JSC Koshelev-Bank is a regional commercial bank headquartered in
+    the Samara region of the Russian Federation. The bank is controlled by Vladimir
+    Koshelev, an individual listed by the Union, via the Koshelev Corporation. The
+    banking sector is a sector providing substantial revenue to the Government of
+    the Russian Federation. Therefore, JSC Koshelev-Bank is involved in an economic
+    sector providing a substantial source of revenue to the Government of the Russian
+    Federation, which is responsible for the annexation of Crimea and the destabilisation
+    of Ukraine.

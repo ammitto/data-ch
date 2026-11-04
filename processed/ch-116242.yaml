@@ -1,0 +1,40 @@
+---
+ssid: '116242'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '116250'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Uralmashplant JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Uralmashzavod JSC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: UZTM
+    day_month_year:
+      day: 19
+      month: 11
+      year: 2002
+    addresses:
+    - address_details: Pervoy pyatiletki sq.
+      zip_code: '620012'
+  justification: Uralmashplant JSC is a leading manufacturer of equipment for the
+    mining, metallurgy, construction, and energy industries. The mining and metallurgy
+    sectors provide a substantial source of revenue to the Government of the Russian
+    Federation.

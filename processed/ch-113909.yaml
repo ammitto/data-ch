@@ -1,0 +1,24 @@
+---
+ssid: '113909'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '113913'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Sergeeva
+      - order: 2
+        name_part_type: given-name
+        value: Elena
+      - order: 3
+        name_part_type: father-name
+        value: Evgenievna
+  justification: Elena Sergeeva is the General Director and co-owner of LLC POLKOVODETS.
+    LLC POLKOVODETS is part of the Russian arms industry, a sector of strategic importance
+    for the Russian Federation.

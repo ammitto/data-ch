@@ -1,0 +1,39 @@
+---
+ssid: '114883'
+sanctions_set_id: '4387'
+entity:
+  identity:
+    ssid: '114896'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: European Trading Company LLC
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: ETK
+    day_month_year:
+      day: 9
+      month: 10
+      year: 2012
+    addresses:
+    - address_details: Room 1, 2; 4a Tenishevoy st.
+      zip_code: '21400'
+  justification: 'European Trading Company (ETK) is a subsidiary of Belarusian Oil
+    Company (BNK), Belarus’s leading exporter of petroleum. BNK is owned by the three
+    largest oil production and refining enterprises in the Republic of Belarus: Belorusneft,
+    Naftan, and Mozyr Oil Refinery. Through its ownership structure, BNK is controlled
+    by the state of Belarus. As a subsidiary of BNK, ETK is also indirectly controlled
+    and owned by those entities. The ETK company was created to sell petroleum products
+    produced by Naftan and Mozyr Oil Refinery in the territory of the Russian Federation.
+    ETK lists BNK, Naftan, Belorusneft and Mozyr Oil Refinery as its partners. Therefore,
+    ETK is associated with, owned and controlled by, entities supporting the Lukashenka
+    regime.'

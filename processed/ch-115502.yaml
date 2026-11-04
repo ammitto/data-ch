@@ -1,0 +1,18 @@
+---
+ssid: '115502'
+sanctions_set_id: '29445'
+entity:
+  identity:
+    ssid: '115508'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: LLC Metall Service
+    addresses:
+    - address_details: Apartment 1, 60 Eletskaya Str.
+      zip_code: '392009'

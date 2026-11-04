@@ -1,0 +1,39 @@
+---
+ssid: '117308'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '117315'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Molchanova
+      - order: 2
+        name_part_type: given-name
+        value: Anna
+      - order: 3
+        name_part_type: father-name
+        value: Stanislavovna
+    day_month_year:
+      day: 29
+      month: 1
+      year: 1989
+  justification: Anna Molchanova is the Head of the regional branch of the “Movement
+    of the First” in the city of Sevastopol. Anna Molchanova actively participates
+    in the indoctrination, russification, and militarisation of Ukrainian minors in
+    Sevastopol, Crimea. Under Anna Molchanova’s leadership, new local units of the
+    “Movement of the First” were opened in schools. As the regional leader of the
+    “Movement of the First”, Anna Molchanova actively supports policies focused on
+    military and patriotic education, in particular for minors, with the aim of instilling
+    admiration for the Russian Federation, its symbols, and its narratives, and supports
+    activities related to the glorification of the Russian army. In her position,
+    Anna Molchanova also actively cooperates with other military-patriotic organisations,
+    such as Yunarmiya and the Defenders of the Fatherland Foundation. Her branch of
+    the “Movement of the First” was among those that organised the patriotic-military
+    game Zarnitsa 2.0 for schoolchildren, which included tasks such as assembling
+    and disassembling Kalashnikov rifles.

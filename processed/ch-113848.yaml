@@ -1,0 +1,24 @@
+---
+ssid: '113848'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '113852'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Sychkov
+      - order: 2
+        name_part_type: given-name
+        value: Sergey
+      - order: 3
+        name_part_type: father-name
+        value: Anatolievich
+  justification: Sergey Sychkov is the General Director of open joint stock company
+    “Oborontest”. Joint stock comapny “Oborontest” is part of the Russian arms industry,
+    a sector of strategic importance for the Russian Federation.

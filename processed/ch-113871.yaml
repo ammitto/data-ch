@@ -1,0 +1,31 @@
+---
+ssid: '113871'
+sanctions_set_id: '27286'
+individual:
+  identity:
+    ssid: '113874'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: family-name
+        value: Korchagina
+      - order: 2
+        name_part_type: given-name
+        value: Olga
+      - order: 3
+        name_part_type: father-name
+        value: Aleksandrovna
+    day_month_year:
+      day: 25
+      month: 4
+      year: 1972
+  justification: Olga Korchagina is the founder of the Simbirsk Design Bureau “Piranya”
+    (SDB “Piranya”) a Russia-based company that manufactures drones used by Russia
+    in its war of aggression against Ukraine. SDB “Piranya” manufactures First Person
+    View (FPV) drones and specifically the models “Piranya-7”, “Piranya-10” and “Piranya-13”.
+    The company manufactures up to 10 000 drones monthly and the Russian Army views
+    its products as being extremely valuable in its military operations.
