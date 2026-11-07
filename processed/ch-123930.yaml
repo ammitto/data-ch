@@ -1,0 +1,26 @@
+---
+ssid: '123930'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '123936'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Redwood Global Supply FZ-LLC
+    day_month_year:
+      day: 22
+      month: 11
+      year: 2024
+    addresses:
+    - address_details: Compass Building, Al-Hulaila Industrial Zone – FZ
+  justification: Redwood Global Supply FZ-LLC is a company registered in the UAE.
+    Since December 2025, it has become one of the main traders of Russian seaborne
+    crude oil and petroleum products. The energy sector, in particular oil sector,
+    is a sector providing a substantial source of revenue to the Government of the
+    Russian Federation.

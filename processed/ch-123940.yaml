@@ -1,0 +1,38 @@
+---
+ssid: '123940'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '123949'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: A7 Agent Limited Liability Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: A7 AGENT LLC
+    day_month_year:
+      day: 26
+      month: 9
+      year: 2024
+    addresses:
+    - address_details: Ul. Lesnaya D. 9 Pomeshch. 2/10
+      zip_code: '125196'
+  justification: A7 Agent Limited Liability Company is a subsidiary of Limited Liability
+    Company A7 sharing the same address. Limited Liability Company A7 is a Russian
+    company which is partially owned by PSB Bank, a Russian State-owned enterprise.
+    Limited Liability Company A7 was co-created by PSB Bank to launch A7A5, a stablecoin
+    which is backed by fiat rouble deposits in the bank accounts of PSB Bank. For
+    every rouble spent on A7A5, an equivalent sum is deposited into PSB Bank, thereby
+    increasing the State-owned institution’s capital. A7 Agent Limited Liability Company
+    contributes to maintaining the financial flow of the A7 network disguised as legitimate
+    trade and to evading restrictive measures.

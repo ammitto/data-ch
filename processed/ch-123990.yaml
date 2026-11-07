@@ -1,0 +1,32 @@
+---
+ssid: '123990'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '123997'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: First Diamond Company
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: First Diamond Company LLC
+    addresses:
+    - address_details: Karmanitskiy per., 4, bld. 2, office 5
+      zip_code: '121099'
+  justification: First Diamond Company is a Russian-registered company exporting rough
+    and polished diamonds. It was established in May 2022, shortly after US restrictive
+    measures targeted Alrosa, and is led by former Alrosa employees, including its
+    founder from the sales division and its first CEO, a former deputy sales director.
+    First Diamond Company has rapidly become significant in the Russian diamond trade,
+    exporting large volumes of diamonds to foreign markets, frequently through intermediary
+    jurisdictions.

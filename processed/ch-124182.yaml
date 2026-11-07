@@ -1,0 +1,40 @@
+---
+ssid: '124182'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '124195'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “Design Bureau Aviatekhnolab”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: LLC “KB ATL”
+      - order: 2
+        name_part_type: whole-name
+        value: LLC “DB ATL”
+      - order: 3
+        name_part_type: whole-name
+        value: ООО “КБ АТЛ”
+    day_month_year:
+      day: 23
+      month: 10
+      year: 2024
+    addresses:
+    - address_details: Volokolamskoe highway, 2, premises. 1/1, ext. ter. Sokol municipal
+        district
+      zip_code: '125080'
+  justification: LLC “Design Bureau Aviatekhnolab” is a Russian company involved in
+    the development and serial production of unmanned aerial systems, including First
+    Person View (FPV) attack drones, heavy hexacopters, ground control stations, communication
+    equipment, and aerial relay platforms.

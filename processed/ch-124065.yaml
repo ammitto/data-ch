@@ -1,0 +1,31 @@
+---
+ssid: '124065'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '124072'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Limited Liability Company “Soyuzmetallservis”
+    day_month_year:
+      day: 25
+      month: 1
+      year: 2021
+    addresses:
+    - address_details: st. Arbat, 36/2, building 6, premises. 2/1, ext. ter. Arbat
+        municipal district
+      zip_code: '119002'
+  justification: Limited Liability Company “Soyuzmetallservis” manages the companies
+    LLC “Southern Mining and Metallurgical Complex” and LLC “Southern Mining and Metallurgical
+    Complex Donetsk”. Both companies are leading in the steel and mining industries,
+    producing cast iron, steel and ferroalloys in Russia’s occupied part of the Donbass
+    region. The companies generate huge volumes of revenue and resources from Russia’s
+    occupied part of the Donbass region. Additionally, Limited Liability Company “Southern
+    Mining and Metallurgical Complex” supplies raw materials to Russia’s military-industrial
+    complex.

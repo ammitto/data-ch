@@ -1,0 +1,33 @@
+---
+ssid: '124052'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '124060'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Novokuybyshevsk Oil Refinery”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Novokuybyshevsk Oil Refinery”
+    day_month_year:
+      day: 6
+      month: 5
+      year: 1994
+    addresses:
+    - address_details: Osipenko street, building 12, structure 1
+      zip_code: '446207'
+  justification: Joint Stock Company “Novokuybyshevsk Oil Refinery” is a Russian entity
+    operating an oil refinery in the Samara region. The energy sector, in particular
+    the oil sector, is a sector providing a substantial source of revenue to the Russian
+    Federation.

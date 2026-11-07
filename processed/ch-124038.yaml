@@ -1,0 +1,40 @@
+---
+ssid: '124038'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '124046'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Kuibyshevsk Oil Refinery”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “Kuibyshevsk Oil Refinery”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC “KNPZ”
+    day_month_year:
+      day: 1
+      month: 9
+      year: 1993
+    addresses:
+    - address_details: 25 Groznenskaya str.
+      zip_code: '443004'
+  justification: Joint Stock Company “Kuibyshevsk Oil Refinery” is a Russian entity
+    operating an oil refinery in the Samara Region. The energy sector, in particular
+    the oil sector, is a sector providing a substantial source of revenue to the Russian
+    Federation.

@@ -1,0 +1,44 @@
+---
+ssid: '124095'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '124102'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Susuman Mining and Processing Plant “Susumanzoloto”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Susumanzoloto
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Susumanzoloto
+    day_month_year:
+      day: 21
+      month: 6
+      year: 1994
+    addresses:
+    - address_details: Karl Marx avenue 19/17
+  justification: JSC Susuman Mining and Processing Plant “Susumanzoloto” is a mining
+    and metallurgical company in Russia, involved in the mining and processing of
+    gold. It operates multiple goldmines in Russia. The export of precious metals
+    is one of the most significant sources of revenue to the Government of the Russian
+    Federation after oil and gas revenue. As of 2025, Russia is the second largest
+    gold producing country in the world. Therefore, JSC Susuman Mining and Processing
+    Plant “Susumanzoloto” is involved in economic sectors providing a substantial
+    source of revenue to the Government of the Russian Federation, which is responsible
+    for the annexation of Crimea and the destabilisation of Ukraine.

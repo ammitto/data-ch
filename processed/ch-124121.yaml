@@ -1,0 +1,24 @@
+---
+ssid: '124121'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '124130'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: White Agate Marine SPC
+    addresses:
+    - address_details: Duqm Special Economic Zone
+  justification: White Agate Marine SPC is a shipping company which manages tankers
+    transporting Russian crude oil, including for export purposes. The company is
+    the registered owner of several vessels which are subject to Union restrictive
+    measures and which are transporting crude oil or petroleum products, originating
+    in Russia or exported from Russia, and practice irregular and high-risk shipping
+    practices as set out in the International Maritime Organisation General Assembly
+    resolution A.1192(33).

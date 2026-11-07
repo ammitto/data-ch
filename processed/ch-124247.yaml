@@ -1,0 +1,38 @@
+---
+ssid: '124247'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '124257'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company “Aluminium Metallurg Rus”
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: AMR JSC
+    day_month_year:
+      day: 15
+      month: 3
+      year: 2004
+    addresses:
+    - address_details: Belokalitvinsky district, Belaya Kalitva, Zavodskaya street,
+        1
+      zip_code: '347045'
+  justification: Joint Stock Company “Aluminium Metallurg Rus” is a major Russian
+    enterprise producing specialised aluminum alloy forgings and profiles for high-load
+    structural applications critical to Russia’s military and industrial complex.
+    The company maintains major direct supply contracts exceeding USD 166,8  million
+    with Russian defence manufacturers subject to restrictive measures including Tupolev
+    JSC, JSC Production Association “Strela”, JSC Rocket and Space Centre “Progress”,
+    Stupinsky Trade House LLC, JSC Khrunichev Center, and the All-Russian Scientific
+    Research Institute of Aviation Materials.

@@ -1,0 +1,40 @@
+---
+ssid: '124026'
+sanctions_set_id: '27286'
+entity:
+  identity:
+    ssid: '124032'
+    main: 'true'
+    names:
+    - name_type: primary-name
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Joint Stock Company Rusneftegaz
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: JSC Rusneftegaz
+    day_month_year:
+      day: 16
+      month: 3
+      year: 2025
+    addresses:
+    - address_details: Nizhegorodskaya Street, House 70, Block 1, Premises 5/1, Intracity
+        Territory Municipal Okrug Nizhegorodsky
+    - address_details: Bagrationovsky Drive, House 70, Block 2, Intracity Territory
+        Municipal Okrug Filevsky Park
+      zip_code: '121087'
+  justification: Joint Stock Company Rusneftegaz is a significant company in the Russian
+    energy sector. As one of Russia’s privately owned oil and gas producers, Joint
+    Stock Company Rusneftegaz plays an important role in the exploration, production,
+    and export of the country’s hydrocarbon resources. The energy sector, especially
+    oil and gas, provides substantial revenues to the Government of the Russian Federation.
+    Therefore, Joint Stock Company Rusneftegaz is involved in an economic sector that
+    provides a substantial source of revenue to the Government of the Russian Federation,
+    which is responsible for the annexation of Crimea and the destabilisation of Ukraine.
