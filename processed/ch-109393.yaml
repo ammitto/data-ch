@@ -13,5 +13,12 @@ entity:
       - order: 1
         name_part_type: whole-name
         value: Alliance Fleuve Congo (AFC)
+    - name_type: alias
+      quality: good
+      lang: eng
+      name_parts:
+      - order: 1
+        name_part_type: whole-name
+        value: Front pour la Refondation de la Nation (FRN)
     addresses:
   justification: Established in 2023.
