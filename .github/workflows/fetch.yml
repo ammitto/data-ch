@@ -11,18 +11,29 @@ on:
     paths:
       - '.github/workflows/fetch.yml'
 
+concurrency:
+  group: data-refresh-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   fetch-data:
     name: Fetch Switzerland Sanctions Data
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: read
       issues: write
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # A scheduled/queued default-branch event can carry an older SHA.
+          # Generate from the latest accepted branch; preserve PR/nondefault
+          # validation refs and their restricted credential below.
+          ref: ${{ github.event_name != 'pull_request' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch) && github.event.repository.default_branch || github.ref }}
+          # PR validation never receives the publisher credential. The helper
+          # separately refuses an absent PAT instead of silently using a token
+          # whose generated PR would not trigger the expected checks.
+          token: ${{ github.event_name != 'pull_request' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch) && secrets.AMMITTO_CI_PAT_TOKEN || github.token }}
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
@@ -34,26 +45,17 @@ jobs:
         run: |
           bundle exec ammitto fetch ch --format yaml --output-dir processed --verbose --prune
 
-      - name: Check for changes
-        id: check_changes
-        run: |
-          if [ -z "$(git status --porcelain)" ]; then
-            echo "has_changes=false" >> $GITHUB_OUTPUT
-          else
-            echo "has_changes=true" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Commit and push changes
-        if: github.ref_name == github.event.repository.default_branch && steps.check_changes.outputs.has_changes == 'true'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          # A fetch writes processed/ and nothing else. Staging the whole
-          # checkout would let an unrelated eligible file ride along on a
-          # harvest commit.
-          git add -A -- processed/
-          git commit -m "chore: update Switzerland sanctions data ($(date +%Y-%m-%d))"
-          git push
+      - name: Propose generated data
+        id: proposal
+        if: github.event_name != 'pull_request' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+        env:
+          GH_TOKEN: ${{ secrets.AMMITTO_CI_PAT_TOKEN }}
+          PUBLICATION_DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: >-
+          python3 .github/scripts/generated_data_pr.py
+          --branch automation/data-refresh
+          --title 'chore: update Switzerland sanctions data'
+          --path processed
 
       - name: Create issue on failure
         if: github.ref_name == github.event.repository.default_branch && failure()
